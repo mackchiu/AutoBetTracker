@@ -257,13 +257,15 @@ function renderTeamModelTable(picks) {
         const edge = parseFloat(pick.edge) || 0;
         const edgeClass = edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low';
         const statusClass = getStatusClass(pick.result || 'pending');
+        const projFor = pick.projection_for || '-';
+        const projValue = pick.projection || '-';
         
         return `
             <tr>
                 <td><strong>${pick.game || '-'}</strong></td>
                 <td>${pick.pick || '-'}</td>
-                <td>${pick.line || '-'}</td>
-                <td>${pick.prediction || '-'}</td>
+                <td>${projFor}</td>
+                <td>${projValue}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
