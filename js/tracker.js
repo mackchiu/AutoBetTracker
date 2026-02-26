@@ -209,7 +209,7 @@ function renderPlayerPropsTable(picks) {
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="7" class="empty-state">
+                <td colspan="9" class="empty-state">
                     <div class="empty-state-icon">🏀</div>
                     No player props for selected date
                 </td>
@@ -222,12 +222,15 @@ function renderPlayerPropsTable(picks) {
         const edge = parseFloat(pick.edge_pct) || 0;
         const edgeClass = edge > 5 ? 'edge-high' : edge > 2 ? 'edge-medium' : 'edge-low';
         const statusClass = getStatusClass(pick.result || 'pending');
+        const gameShort = pick.game ? pick.game.split(' @ ').map(t => t.split(' ').pop()).join(' @ ') : '-';
         
         return `
             <tr>
+                <td>${gameShort}</td>
                 <td><strong>${pick.player || '-'}</strong></td>
                 <td>${pick.market || '-'}</td>
                 <td>${pick.line || '-'}</td>
+                <td>${pick.book || '-'}</td>
                 <td>${pick.projection || '-'}</td>
                 <td>${pick.bet || '-'}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
