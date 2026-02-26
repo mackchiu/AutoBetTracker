@@ -244,7 +244,7 @@ function renderTeamModelTable(picks) {
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="6" class="empty-state">
+                <td colspan="5" class="empty-state">
                     <div class="empty-state-icon">🏆</div>
                     No team model picks for selected date
                 </td>
@@ -257,14 +257,12 @@ function renderTeamModelTable(picks) {
         const edge = parseFloat(pick.edge) || 0;
         const edgeClass = edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low';
         const statusClass = getStatusClass(pick.result || 'pending');
-        const projFor = pick.projection_for || '-';
-        const projValue = pick.projection || '-';
+        const projValue = pick.proj || '-';
         
         return `
             <tr>
                 <td><strong>${pick.game || '-'}</strong></td>
                 <td>${pick.pick || '-'}</td>
-                <td>${projFor}</td>
                 <td>${projValue}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
@@ -321,7 +319,7 @@ function renderHistoryTable(history) {
     if (history.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="9" class="empty-state">
+                <td colspan="8" class="empty-state">
                     <div class="empty-state-icon">📊</div>
                     No picks match the selected filters
                 </td>
@@ -332,22 +330,21 @@ function renderHistoryTable(history) {
     
     tbody.innerHTML = history.map(pick => {
         const isPlayerProp = pick.modelType === 'Player Props';
-        const displayName = isPlayerProp ? pick.player : pick.game;
+        const displayGame = pick.game || '-';
         const displayPick = isPlayerProp ? `${pick.market} ${pick.bet}` : pick.pick;
+        const displayProj = isPlayerProp ? `${pick.projection}` : pick.proj;
         const edge = parseFloat(pick.edge_pct || pick.edge) || 0;
         const profit = parseFloat(pick.profit) || 0;
         const profitClass = profit > 0 ? 'profit-positive' : profit < 0 ? 'profit-negative' : 'profit-zero';
         const statusClass = getStatusClass(pick.result || 'pending');
-        const projection = isPlayerProp ? pick.projection : pick.prediction;
         
         return `
             <tr>
                 <td>${formatDate(pick.date)}</td>
                 <td>${pick.modelType}</td>
-                <td><strong>${displayName || '-'}</strong></td>
+                <td><strong>${displayGame}</strong></td>
                 <td>${displayPick || '-'}</td>
-                <td>${projection || '-'}</td>
-                <td>${pick.line || '-'}</td>
+                <td>${displayProj || '-'}</td>
                 <td class="${edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low'}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
                 <td class="${profitClass}">${formatCurrency(profit)}</td>
