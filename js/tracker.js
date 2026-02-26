@@ -7,8 +7,8 @@
 const CONFIG = {
     REFRESH_INTERVAL: 30000, // 30 seconds
     DATA_PATHS: {
-        playerProps: 'data/player_props.csv',
-        teamModel: 'data/team_model.csv'
+        playerProps: (date) => `data/${date}_player_props.csv`,
+        teamModel: (date) => `data/${date}_team_model.csv`
     }
 };
 
@@ -52,9 +52,10 @@ function setupEventListeners() {
 // Load all data from CSV files
 async function loadAllData() {
     try {
+        const selectedDate = document.getElementById('dateSelector').value;
         const [playerProps, teamModel] = await Promise.all([
-            loadCSV(CONFIG.DATA_PATHS.playerProps),
-            loadCSV(CONFIG.DATA_PATHS.teamModel)
+            loadCSV(CONFIG.DATA_PATHS.playerProps(selectedDate)),
+            loadCSV(CONFIG.DATA_PATHS.teamModel(selectedDate))
         ]);
         
         state.playerProps = playerProps;
