@@ -243,7 +243,7 @@ function renderTeamModelTable(picks) {
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="5" class="empty-state">
+                <td colspan="6" class="empty-state">
                     <div class="empty-state-icon">🏆</div>
                     No team model picks for selected date
                 </td>
@@ -262,6 +262,7 @@ function renderTeamModelTable(picks) {
                 <td><strong>${pick.game || '-'}</strong></td>
                 <td>${pick.pick || '-'}</td>
                 <td>${pick.line || '-'}</td>
+                <td>${pick.prediction || '-'}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
@@ -317,7 +318,7 @@ function renderHistoryTable(history) {
     if (history.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="8" class="empty-state">
+                <td colspan="9" class="empty-state">
                     <div class="empty-state-icon">📊</div>
                     No picks match the selected filters
                 </td>
@@ -334,6 +335,7 @@ function renderHistoryTable(history) {
         const profit = parseFloat(pick.profit) || 0;
         const profitClass = profit > 0 ? 'profit-positive' : profit < 0 ? 'profit-negative' : 'profit-zero';
         const statusClass = getStatusClass(pick.result || 'pending');
+        const projection = isPlayerProp ? pick.projection : pick.prediction;
         
         return `
             <tr>
@@ -341,6 +343,7 @@ function renderHistoryTable(history) {
                 <td>${pick.modelType}</td>
                 <td><strong>${displayName || '-'}</strong></td>
                 <td>${displayPick || '-'}</td>
+                <td>${projection || '-'}</td>
                 <td>${pick.line || '-'}</td>
                 <td class="${edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low'}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
