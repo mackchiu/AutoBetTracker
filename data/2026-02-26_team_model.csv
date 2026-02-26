@@ -1,13 +1,10 @@
 date,game,market,pick,line,proj,edge,odds,stake,result,profit
-2026-02-26,Charlotte Hornets @ Indiana Pacers,SPREAD,Hornets -13.0,-13.0,Hornets -8.9,21.9,-110,1,Pending,0
-2026-02-26,Miami Heat @ Philadelphia 76ers,SPREAD,76ers -2.5,-2.5,76ers +2.1,4.6,-112,1,Pending,0
+2026-02-26,Charlotte Hornets @ Indiana Pacers,SPREAD,Pacers +13.0,13.0,Hornets -8.9,4.1,-110,1,Pending,0
 2026-02-26,Miami Heat @ Philadelphia 76ers,TOTAL,UNDER 239.5,239.5,232.1,7.4,-112,1,Pending,0
-2026-02-26,Washington Wizards @ Atlanta Hawks,SPREAD,Hawks -11.0,-11.0,Hawks +4.8,15.8,-112,1,Pending,0
-2026-02-26,San Antonio Spurs @ Brooklyn Nets,SPREAD,Spurs -12.5,-12.5,Spurs -13.0,25.5,-106,1,Pending,0
+2026-02-26,Washington Wizards @ Atlanta Hawks,SPREAD,Wizards +9.5,9.5,Hawks +4.8,4.7,-108,1,Pending,0
+2026-02-26,San Antonio Spurs @ Brooklyn Nets,TOTAL,OVER 223.5,223.5,227.0,3.5,-112,1,Pending,0
+2026-02-26,Houston Rockets @ Orlando Magic,SPREAD,Magic +3.5,3.5,Magic +2.0,5.5,-112,1,Pending,0
 2026-02-26,Houston Rockets @ Orlando Magic,TOTAL,OVER 215.5,215.5,220.0,4.5,-110,1,Pending,0
-2026-02-26,Portland Trail Blazers @ Chicago Bulls,SPREAD,Blazers -4.5,-4.5,Blazers -5.6,10.1,-106,1,Pending,0
-2026-02-26,Sacramento Kings @ Dallas Mavericks,SPREAD,Mavs -7.0,-7.0,Mavs +6.0,13.0,-110,1,Pending,0
-2026-02-26,Los Angeles Lakers @ Phoenix Suns,SPREAD,Lakers -5.5,-5.5,Lakers -1.0,6.5,-110,1,Pending,0
-2026-02-26,Los Angeles Lakers @ Phoenix Suns,TOTAL,OVER 220.5,220.5,225.0,4.5,-108,1,Pending,0
-2026-02-26,New Orleans Pelicans @ Utah Jazz,SPREAD,Pelicans -5.5,-5.5,Pelicans -2.3,7.8,-114,1,Pending,0
+2026-02-26,Los Angeles Lakers @ Phoenix Suns,SPREAD,Suns +5.5,5.5,Lakers -1.0,4.5,-110,1,Pending,0
+2026-02-26,New Orleans Pelicans @ Utah Jazz,SPREAD,Jazz +7.0,7.0,Pelicans -2.3,4.7,-106,1,Pending,0
 2026-02-26,New Orleans Pelicans @ Utah Jazz,TOTAL,UNDER 241.5,241.5,231.3,10.2,-112,1,Pending,0
