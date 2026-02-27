@@ -33,19 +33,12 @@ document.addEventListener('DOMContentLoaded', () => {
 function initializeDatePickers() {
     const today = new Date().toISOString().split('T')[0];
     document.getElementById('dateSelector').value = today;
-    
-    // History date range (default to last 30 days)
-    const thirtyDaysAgo = new Date();
-    thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-    document.getElementById('historyDateFrom').value = thirtyDaysAgo.toISOString().split('T')[0];
-    document.getElementById('historyDateTo').value = today;
 }
 
 // Setup event listeners
 function setupEventListeners() {
     document.getElementById('dateSelector').addEventListener('change', filterTodayPicks);
     document.getElementById('modelFilter').addEventListener('change', filterTodayPicks);
-    document.getElementById('applyHistoryFilters').addEventListener('click', filterHistory);
     document.getElementById('gradeNowBtn').addEventListener('click', handleGradeNow);
 }
 
@@ -65,7 +58,6 @@ async function loadAllData() {
         updateLastUpdated();
         calculateKPIs();
         filterTodayPicks();
-        filterHistory();
         
         console.log('Data refreshed at', state.lastRefresh.toLocaleTimeString());
     } catch (error) {
@@ -269,88 +261,6 @@ function renderTeamModelTable(picks) {
                 <td>${projValue}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
-            </tr>
-        `;
-    }).join('');
-}
-
-// Filter and display history
-function filterHistory() {
-    const dateFrom = document.getElementById('historyDateFrom').value;
-    const dateTo = document.getElementById('historyDateTo').value;
-    const modelFilter = document.getElementById('historyModelFilter').value;
-    const resultFilter = document.getElementById('historyResultFilter').value;
-    
-    let history = [];
-    
-    // Add model type to each pick
-    if (modelFilter !== 'team-model') {
-        history = [...history, ...state.playerProps.map(p => ({ ...p, modelType: 'Player Props' }))];
-    }
-    if (modelFilter !== 'player-props') {
-        history = [...history, ...state.teamModel.map(p => ({ ...p, modelType: 'Team Model' }))];
-    }
-    
-    // Apply filters
-    history = history.filter(pick => {
-        // Date range filter
-        if (dateFrom && pick.date < dateFrom) return false;
-        if (dateTo && pick.date > dateTo) return false;
-        
-        // Result filter
-        if (resultFilter !== 'all') {
-            const result = (pick.result || 'pending').toLowerCase();
-            if (resultFilter === 'pending' && result !== 'pending') return false;
-            if (resultFilter === 'win' && result !== 'win') return false;
-            if (resultFilter === 'loss' && result !== 'loss') return false;
-            if (resultFilter === 'push' && result !== 'push') return false;
-        }
-        
-        return true;
-    });
-    
-    // Sort by date descending
-    history.sort((a, b) => new Date(b.date) - new Date(a.date));
-    
-    renderHistoryTable(history);
-}
-
-// Render History table
-function renderHistoryTable(history) {
-    const tbody = document.getElementById('historyBody');
-    
-    if (history.length === 0) {
-        tbody.innerHTML = `
-            <tr>
-                <td colspan="8" class="empty-state">
-                    <div class="empty-state-icon">📊</div>
-                    No picks match the selected filters
-                </td>
-            </tr>
-        `;
-        return;
-    }
-    
-    tbody.innerHTML = history.map(pick => {
-        const isPlayerProp = pick.modelType === 'Player Props';
-        const displayGame = pick.game || '-';
-        const displayPick = isPlayerProp ? `${pick.market} ${pick.bet}` : pick.pick;
-        const displayProj = isPlayerProp ? `${pick.projection}` : pick.proj;
-        const edge = parseFloat(pick.edge_pct || pick.edge) || 0;
-        const profit = parseFloat(pick.profit) || 0;
-        const profitClass = profit > 0 ? 'profit-positive' : profit < 0 ? 'profit-negative' : 'profit-zero';
-        const statusClass = getStatusClass(pick.result || 'pending');
-        
-        return `
-            <tr>
-                <td>${formatDate(pick.date)}</td>
-                <td>${pick.modelType}</td>
-                <td><strong>${displayGame}</strong></td>
-                <td>${displayPick || '-'}</td>
-                <td>${displayProj || '-'}</td>
-                <td class="${edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low'}">${edge.toFixed(1)}%</td>
-                <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
-                <td class="${profitClass}">${formatCurrency(profit)}</td>
             </tr>
         `;
     }).join('');

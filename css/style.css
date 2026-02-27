@@ -141,6 +141,25 @@ body {
     border-color: var(--accent-blue);
 }
 
+/* Navigation */
+.nav-links {
+    display: flex;
+    gap: 12px;
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.nav-link:hover {
+    transform: translateY(-1px);
+}
+
 /* Dashboard */
 .dashboard {
     margin-bottom: 32px;

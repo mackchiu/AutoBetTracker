@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Picks Tracker | Sports Money Move</title>
+    <title>Picks History | Sports Money Move</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -13,31 +13,19 @@
         <!-- Header -->
         <header class="header">
             <div class="header-left">
-                <h1>📊 Picks Tracker</h1>
+                <h1>📚 Picks History</h1>
             </div>
             <div class="header-right">
-                <div class="filter-group">
-                    <label for="dateSelector">Date:</label>
-                    <input type="date" id="dateSelector">
-                </div>
-                <div class="filter-group">
-                    <label for="modelFilter">Model:</label>
-                    <select id="modelFilter">
-                        <option value="all">All</option>
-                        <option value="player-props">Player Props</option>
-                        <option value="team-model">Team Model</option>
-                    </select>
-                </div>
-                <button id="gradeNowBtn" class="btn-primary">🔄 Grade Now</button>
-                <a href="history.html" class="btn-secondary nav-link">📚 History</a>
+                <nav class="nav-links">
+                    <a href="index.html" class="nav-link">← Back to Dashboard</a>
+                </nav>
             </div>
         </header>
 
-        <!-- Dashboard KPIs -->
+        <!-- Overall Stats -->
         <section class="dashboard">
-            <h2>Dashboard</h2>
+            <h2>All-Time Performance</h2>
             <div class="kpi-grid">
-                <!-- Overall KPIs -->
                 <div class="kpi-card overall">
                     <div class="kpi-header">📈 Overall</div>
                     <div class="kpi-stats">
@@ -60,7 +48,6 @@
                     </div>
                 </div>
 
-                <!-- Player Props KPIs -->
                 <div class="kpi-card player-props">
                     <div class="kpi-header">🏀 Player Props</div>
                     <div class="kpi-stats">
@@ -79,7 +66,6 @@
                     </div>
                 </div>
 
-                <!-- Team Model KPIs -->
                 <div class="kpi-card team-model">
                     <div class="kpi-header">🏆 Team Model</div>
                     <div class="kpi-stats">
@@ -100,65 +86,64 @@
             </div>
         </section>
 
-        <!-- Today's Picks -->
-        <section class="todays-picks">
-            <h2>Today's Picks</h2>
-            <div class="last-updated">Last updated: <span id="lastUpdated">--</span></div>
-            
-            <!-- Player Props Table -->
-            <div class="table-section" id="playerPropsSection">
-                <h3>🏀 Player Props</h3>
-                <div class="table-container">
-                    <table id="playerPropsTable">
-                        <thead>
-                            <tr>
-                                <th>Game</th>
-                                <th>Player</th>
-                                <th>Market</th>
-                                <th>Line</th>
-                                <th>Book</th>
-                                <th>Proj</th>
-                                <th>Bet</th>
-                                <th>Edge</th>
-                                <th>Status</th>
-                            </tr>
-                        </thead>
-                        <tbody id="playerPropsBody">
-                            <!-- Dynamic content -->
-                        </tbody>
-                    </table>
+        <!-- Full History Table -->
+        <section class="history">
+            <h2>Complete History</h2>
+            <div class="history-filters">
+                <div class="filter-group">
+                    <label for="historyDateFrom">From:</label>
+                    <input type="date" id="historyDateFrom">
                 </div>
+                <div class="filter-group">
+                    <label for="historyDateTo">To:</label>
+                    <input type="date" id="historyDateTo">
+                </div>
+                <div class="filter-group">
+                    <label for="historyModelFilter">Model:</label>
+                    <select id="historyModelFilter">
+                        <option value="all">All</option>
+                        <option value="player-props">Player Props</option>
+                        <option value="team-model">Team Model</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="historyResultFilter">Result:</label>
+                    <select id="historyResultFilter">
+                        <option value="all">All</option>
+                        <option value="win">Win</option>
+                        <option value="loss">Loss</option>
+                        <option value="push">Push</option>
+                        <option value="pending">Pending</option>
+                    </select>
+                </div>
+                <button id="applyHistoryFilters" class="btn-secondary">Apply Filters</button>
             </div>
-
-            <!-- Team Model Table -->
-            <div class="table-section" id="teamModelSection">
-                <h3>🏆 Team Model</h3>
-                <div class="table-container">
-                    <table id="teamModelTable">
-                        <thead>
-                            <tr>
-                                <th>Game</th>
-                                <th>Pick</th>
-                                <th>Proj</th>
-                                <th>Edge</th>
-                                <th>Status</th>
-                            </tr>
-                        </thead>
-                        <tbody id="teamModelBody">
-                            <!-- Dynamic content -->
-                        </tbody>
-                    </table>
-                </div>
+            <div class="table-container">
+                <table id="historyTable">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Model</th>
+                            <th>Game</th>
+                            <th>Pick</th>
+                            <th>Proj</th>
+                            <th>Edge</th>
+                            <th>Result</th>
+                            <th>Profit</th>
+                        </tr>
+                    </thead>
+                    <tbody id="historyBody">
+                        <!-- Dynamic content -->
+                    </tbody>
+                </table>
             </div>
         </section>
 
-
-
         <footer class="footer">
-            <p>Sports Money Move • Picks Tracker • Auto-refresh every 30s</p>
+            <p>Sports Money Move • Picks History • All historical picks</p>
         </footer>
     </div>
 
-    <script src="js/tracker.js"></script>
+    <script src="js/history.js"></script>
 </body>
 </html>
