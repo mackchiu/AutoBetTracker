@@ -83,9 +83,6 @@ async function loadAllHistoryData() {
         
         console.log(`Loaded ${allPlayerProps.length} player props and ${allTeamModel.length} team model picks`);
         
-        // Calculate and display KPIs
-        calculateAndDisplayKPIs();
-        
         // Render full history
         filterAndRenderHistory();
         
@@ -177,66 +174,6 @@ function parseCSV(text) {
     }
     
     return data;
-}
-
-// Calculate and display all KPIs
-function calculateAndDisplayKPIs() {
-    const allPicks = state.allHistory;
-    
-    // Overall KPIs
-    const overall = calculateStats(allPicks);
-    updateKPIDisplay('totalBets', overall.totalBets);
-    updateKPIDisplay('overallWinRate', formatPercent(overall.winRate));
-    updateKPIDisplay('overallROI', formatPercent(overall.roi), overall.roi >= 0);
-    updateKPIDisplay('overallProfit', formatCurrency(overall.profit), overall.profit >= 0);
-    
-    // Player Props KPIs
-    const playerStats = calculateStats(state.allPlayerProps);
-    updateKPIDisplay('playerBets', playerStats.totalBets);
-    updateKPIDisplay('playerWinRate', formatPercent(playerStats.winRate));
-    updateKPIDisplay('playerROI', formatPercent(playerStats.roi), playerStats.roi >= 0);
-    
-    // Team Model KPIs
-    const teamStats = calculateStats(state.allTeamModel);
-    updateKPIDisplay('teamBets', teamStats.totalBets);
-    updateKPIDisplay('teamWinRate', formatPercent(teamStats.winRate));
-    updateKPIDisplay('teamROI', formatPercent(teamStats.roi), teamStats.roi >= 0);
-}
-
-// Calculate stats for a set of picks
-function calculateStats(picks) {
-    const totalBets = picks.length;
-    if (totalBets === 0) {
-        return { totalBets: 0, winRate: 0, roi: 0, profit: 0 };
-    }
-    
-    const wins = picks.filter(p => p.result?.toLowerCase() === 'win').length;
-    const losses = picks.filter(p => p.result?.toLowerCase() === 'loss').length;
-    const graded = wins + losses;
-    
-    const winRate = graded > 0 ? (wins / graded) * 100 : 0;
-    
-    const totalStake = picks.reduce((sum, p) => sum + (parseFloat(p.stake) || 0), 0);
-    const totalProfit = picks.reduce((sum, p) => sum + (parseFloat(p.profit) || 0), 0);
-    
-    const roi = totalStake > 0 ? (totalProfit / totalStake) * 100 : 0;
-    
-    return { totalBets, winRate, roi, profit: totalProfit };
-}
-
-// Update KPI display
-function updateKPIDisplay(id, value, isPositive = null) {
-    const element = document.getElementById(id);
-    if (!element) return;
-    
-    element.textContent = value;
-    element.classList.remove('positive', 'negative');
-    
-    if (isPositive === true) {
-        element.classList.add('positive');
-    } else if (isPositive === false) {
-        element.classList.add('negative');
-    }
 }
 
 // Filter and render history based on current filters

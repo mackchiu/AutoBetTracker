@@ -1,21 +1,20 @@
 /**
- * Sports Money Move - Picks Tracker
- * Client-side data loading and KPI calculation
+ * Sports Money Move - Picks Tracker (Main Dashboard)
+ * Shows all-time KPIs + today's picks
  */
 
 // Configuration
 const CONFIG = {
     REFRESH_INTERVAL: 30000, // 30 seconds
-    DATA_PATHS: {
-        playerProps: (date) => `data/${date}_player_props.csv`,
-        teamModel: (date) => `data/${date}_team_model.csv`
-    }
+    DATA_PATH: 'data/'
 };
 
 // State
 let state = {
-    playerProps: [],
-    teamModel: [],
+    allPlayerProps: [],
+    allTeamModel: [],
+    todayPlayerProps: [],
+    todayTeamModel: [],
     lastRefresh: null
 };
 
@@ -42,22 +41,39 @@ function setupEventListeners() {
     document.getElementById('gradeNowBtn').addEventListener('click', handleGradeNow);
 }
 
-// Load all data from CSV files
+// Load all historical data for KPIs + today's data for tables
 async function loadAllData() {
     try {
-        const selectedDate = document.getElementById('dateSelector').value;
-        const [playerProps, teamModel] = await Promise.all([
-            loadCSV(CONFIG.DATA_PATHS.playerProps(selectedDate)),
-            loadCSV(CONFIG.DATA_PATHS.teamModel(selectedDate))
-        ]);
+        const today = document.getElementById('dateSelector').value;
         
-        state.playerProps = playerProps;
-        state.teamModel = teamModel;
+        // Load all historical data for KPIs
+        const dates = await discoverAvailableDates();
+        
+        const allPlayerProps = [];
+        const allTeamModel = [];
+        
+        for (const date of dates) {
+            const [playerProps, teamModel] = await Promise.all([
+                loadCSV(`${CONFIG.DATA_PATH}${date}_player_props.csv`),
+                loadCSV(`${CONFIG.DATA_PATH}${date}_team_model.csv`)
+            ]);
+            
+            playerProps.forEach(p => { if (!p.date) p.date = date; });
+            teamModel.forEach(p => { if (!p.date) p.date = date; });
+            
+            allPlayerProps.push(...playerProps);
+            allTeamModel.push(...teamModel);
+        }
+        
+        state.allPlayerProps = allPlayerProps;
+        state.allTeamModel = allTeamModel;
+        state.todayPlayerProps = allPlayerProps.filter(p => p.date === today);
+        state.todayTeamModel = allTeamModel.filter(p => p.date === today);
         state.lastRefresh = new Date();
         
         updateLastUpdated();
-        calculateKPIs();
-        filterTodayPicks();
+        calculateKPIs(); // Uses all historical data
+        filterTodayPicks(); // Shows only today's picks
         
         console.log('Data refreshed at', state.lastRefresh.toLocaleTimeString());
     } catch (error) {
@@ -66,15 +82,43 @@ async function loadAllData() {
     }
 }
 
+// Discover available dates by scanning for CSV files
+async function discoverAvailableDates() {
+    const dates = [];
+    const today = new Date();
+    
+    for (let i = 0; i < 60; i++) {
+        const date = new Date(today);
+        date.setDate(date.getDate() - i);
+        const dateStr = date.toISOString().split('T')[0];
+        
+        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
+        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
+        
+        if (playerPropsExists || teamModelExists) {
+            dates.push(dateStr);
+        }
+    }
+    
+    return dates.sort();
+}
+
+// Check if a file exists
+async function fileExists(path) {
+    try {
+        const response = await fetch(path, { method: 'HEAD' });
+        return response.ok;
+    } catch (error) {
+        return false;
+    }
+}
+
 // Load and parse CSV file
 async function loadCSV(path) {
     try {
         const response = await fetch(path);
         if (!response.ok) {
-            if (response.status === 404) {
-                // File doesn't exist yet, return empty array
-                return [];
-            }
+            if (response.status === 404) return [];
             throw new Error(`HTTP ${response.status}`);
         }
         const text = await response.text();
@@ -105,9 +149,9 @@ function parseCSV(text) {
     return data;
 }
 
-// Calculate all KPIs
+// Calculate all KPIs using ALL historical data
 function calculateKPIs() {
-    const allPicks = [...state.playerProps, ...state.teamModel];
+    const allPicks = [...state.allPlayerProps, ...state.allTeamModel];
     
     // Overall KPIs
     const overall = calculateStats(allPicks);
@@ -116,14 +160,14 @@ function calculateKPIs() {
     updateKPIDisplay('overallROI', formatPercent(overall.roi), overall.roi >= 0);
     updateKPIDisplay('overallProfit', formatCurrency(overall.profit), overall.profit >= 0);
     
-    // Player Props KPIs
-    const playerStats = calculateStats(state.playerProps);
+    // Player Props KPIs (all-time)
+    const playerStats = calculateStats(state.allPlayerProps);
     updateKPIDisplay('playerBets', playerStats.totalBets);
     updateKPIDisplay('playerWinRate', formatPercent(playerStats.winRate));
     updateKPIDisplay('playerROI', formatPercent(playerStats.roi), playerStats.roi >= 0);
     
-    // Team Model KPIs
-    const teamStats = calculateStats(state.teamModel);
+    // Team Model KPIs (all-time)
+    const teamStats = calculateStats(state.allTeamModel);
     updateKPIDisplay('teamBets', teamStats.totalBets);
     updateKPIDisplay('teamWinRate', formatPercent(teamStats.winRate));
     updateKPIDisplay('teamROI', formatPercent(teamStats.roi), teamStats.roi >= 0);
@@ -150,7 +194,7 @@ function calculateStats(picks) {
     return { totalBets, winRate, roi, profit: totalProfit };
 }
 
-// Update KPI display with optional positive/negative styling
+// Update KPI display
 function updateKPIDisplay(id, value, isPositive = null) {
     const element = document.getElementById(id);
     if (!element) return;
@@ -165,16 +209,14 @@ function updateKPIDisplay(id, value, isPositive = null) {
     }
 }
 
-// Filter and display today's picks
+// Filter and display today's picks only
 function filterTodayPicks() {
     const selectedDate = document.getElementById('dateSelector').value;
     const modelFilter = document.getElementById('modelFilter').value;
     
-    // Filter Player Props
-    let playerProps = state.playerProps.filter(p => p.date === selectedDate);
-    
-    // Filter Team Model
-    let teamModel = state.teamModel.filter(p => p.date === selectedDate);
+    // Filter from all data
+    let playerProps = state.allPlayerProps.filter(p => p.date === selectedDate);
+    let teamModel = state.allTeamModel.filter(p => p.date === selectedDate);
     
     // Apply model filter
     if (modelFilter === 'player-props') {
@@ -272,15 +314,10 @@ function handleGradeNow() {
     btn.innerHTML = '<span class="loading"></span> Grading...';
     btn.disabled = true;
     
-    // Simulate grading (placeholder for future implementation)
     setTimeout(() => {
         btn.innerHTML = '🔄 Grade Now';
         btn.disabled = false;
-        
-        // Show notification (could be replaced with toast/alert)
         console.log('Grading completed - this will be wired to backend later');
-        
-        // Refresh data
         loadAllData();
     }, 1500);
 }
@@ -292,9 +329,7 @@ function getStatusClass(result) {
         case 'win': return 'status-win';
         case 'loss': return 'status-loss';
         case 'push': return 'status-push';
-        case 'in progress': return 'status-progress';
-        case 'final': return 'status-final';
-        case 'graded': return 'status-graded';
+        case 'pending': return 'status-pending';
         default: return 'status-pending';
     }
 }
@@ -315,13 +350,6 @@ function formatCurrency(value) {
     const absValue = Math.abs(value);
     const sign = value >= 0 ? '+' : '-';
     return `${sign}$${absValue.toFixed(2)}`;
-}
-
-// Utility: Format date for display
-function formatDate(dateStr) {
-    if (!dateStr) return '-';
-    const date = new Date(dateStr);
-    return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 }
 
 // Utility: Update last updated timestamp
