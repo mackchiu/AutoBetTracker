@@ -1,10 +1,10 @@
 date,game,market,pick,line,proj,edge,book,odds,stake,result,profit
-2026-02-26,Charlotte Hornets @ Indiana Pacers,SPREAD,Pacers +13.0,13.0,Hornets -8.9,4.1,FanDuel,1.91,1,Pending,0
-2026-02-26,Miami Heat @ Philadelphia 76ers,TOTAL,UNDER 239.5,239.5,232.1,7.4,FanDuel,1.89,1,Pending,0
-2026-02-26,Washington Wizards @ Atlanta Hawks,SPREAD,Wizards +9.5,9.5,Hawks -4.8,4.7,FanDuel,1.93,1,Pending,0
-2026-02-26,San Antonio Spurs @ Brooklyn Nets,TOTAL,OVER 223.5,223.5,227.0,3.5,FanDuel,1.89,1,Pending,0
-2026-02-26,Houston Rockets @ Orlando Magic,SPREAD,Magic +3.5,3.5,Magic -2.0,5.5,FanDuel,1.88,1,Pending,0
-2026-02-26,Houston Rockets @ Orlando Magic,TOTAL,OVER 215.5,215.5,220.0,4.5,FanDuel,1.91,1,Pending,0
-2026-02-26,Los Angeles Lakers @ Phoenix Suns,SPREAD,Suns +5.5,5.5,Lakers -1.0,4.5,FanDuel,1.91,1,Pending,0
-2026-02-26,New Orleans Pelicans @ Utah Jazz,SPREAD,Jazz +7.0,7.0,Pelicans -2.3,4.7,FanDuel,1.91,1,Pending,0
-2026-02-26,New Orleans Pelicans @ Utah Jazz,TOTAL,UNDER 243.5,243.5,231.3,12.2,FanDuel,1.89,1,Pending,0
+2026-02-26,Charlotte Hornets @ Indiana Pacers,SPREAD,Pacers +13.0,13.0,Hornets -8.9,4.1,FanDuel,1.91,1,Loss,-1.0
+2026-02-26,Miami Heat @ Philadelphia 76ers,TOTAL,UNDER 239.5,239.5,232.1,7.4,FanDuel,1.89,1,Loss,-1.0
+2026-02-26,Washington Wizards @ Atlanta Hawks,SPREAD,Wizards +9.5,9.5,Hawks -4.8,4.7,FanDuel,1.93,1,Loss,-1.0
+2026-02-26,San Antonio Spurs @ Brooklyn Nets,TOTAL,OVER 223.5,223.5,227.0,3.5,FanDuel,1.89,1,Win,0.89
+2026-02-26,Houston Rockets @ Orlando Magic,SPREAD,Magic +3.5,3.5,Magic -2.0,5.5,FanDuel,1.88,1,Loss,-1.0
+2026-02-26,Houston Rockets @ Orlando Magic,TOTAL,OVER 215.5,215.5,220.0,4.5,FanDuel,1.91,1,Win,0.91
+2026-02-26,Los Angeles Lakers @ Phoenix Suns,SPREAD,Suns +5.5,5.5,Lakers -1.0,4.5,FanDuel,1.91,1,Loss,-1.0
+2026-02-26,New Orleans Pelicans @ Utah Jazz,SPREAD,Jazz +7.0,7.0,Pelicans -2.3,4.7,FanDuel,1.91,1,Loss,-1.0
+2026-02-26,New Orleans Pelicans @ Utah Jazz,TOTAL,UNDER 243.5,243.5,231.3,12.2,FanDuel,1.89,1,Loss,-1.0
