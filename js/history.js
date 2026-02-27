@@ -221,7 +221,7 @@ function renderHistoryTable(history) {
     if (history.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="8" class="empty-state">
+                <td colspan="10" class="empty-state">
                     <div class="empty-state-icon">📊</div>
                     No picks match the selected filters
                 </td>
@@ -229,21 +229,23 @@ function renderHistoryTable(history) {
         `;
         return;
     }
-    
+
     tbody.innerHTML = history.map(pick => {
         const isPlayerProp = pick.modelType === 'Player Props';
         const displayGame = pick.game || '-';
-        const displayPick = isPlayerProp ? 
-            `${pick.player} ${pick.market} ${pick.bet} ${pick.line}` : 
+        const displayPick = isPlayerProp ?
+            `${pick.player} ${pick.market} ${pick.bet} ${pick.line}` :
             `${pick.pick}`;
-        const displayProj = isPlayerProp ? 
-            `${pick.projection}` : 
+        const displayProj = isPlayerProp ?
+            `${pick.projection}` :
             pick.proj;
         const edge = parseFloat(pick.edge_pct || pick.edge) || 0;
         const profit = parseFloat(pick.profit) || 0;
         const profitClass = profit > 0 ? 'profit-positive' : profit < 0 ? 'profit-negative' : 'profit-zero';
         const statusClass = getStatusClass(pick.result || 'pending');
-        
+        const book = pick.book || '-';
+        const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
+
         return `
             <tr>
                 <td>${formatDate(pick.date)}</td>
@@ -251,6 +253,8 @@ function renderHistoryTable(history) {
                 <td><strong>${displayGame}</strong></td>
                 <td>${displayPick || '-'}</td>
                 <td>${displayProj || '-'}</td>
+                <td>${book}</td>
+                <td>${odds}</td>
                 <td class="${edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low'}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
                 <td class="${profitClass}">${formatCurrency(profit)}</td>
@@ -301,7 +305,7 @@ function formatDate(dateStr) {
 function showEmptyState() {
     document.getElementById('historyBody').innerHTML = `
         <tr>
-            <td colspan="8" class="empty-state">
+            <td colspan="10" class="empty-state">
                 <div class="empty-state-icon">⚠️</div>
                 Unable to load historical data.
             </td>
