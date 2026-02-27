@@ -239,11 +239,11 @@ function filterTodayPicks() {
 // Render Player Props table
 function renderPlayerPropsTable(picks) {
     const tbody = document.getElementById('playerPropsBody');
-    
+
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="9" class="empty-state">
+                <td colspan="10" class="empty-state">
                     <div class="empty-state-icon">🏀</div>
                     No player props for selected date
                 </td>
@@ -251,13 +251,14 @@ function renderPlayerPropsTable(picks) {
         `;
         return;
     }
-    
+
     tbody.innerHTML = picks.map(pick => {
         const edge = parseFloat(pick.edge_pct) || 0;
         const edgeClass = edge > 5 ? 'edge-high' : edge > 2 ? 'edge-medium' : 'edge-low';
         const statusClass = getStatusClass(pick.result || 'pending');
         const gameShort = pick.game ? pick.game.split(' @ ').map(t => t.split(' ').pop()).join(' @ ') : '-';
-        
+        const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
+
         return `
             <tr>
                 <td>${gameShort}</td>
@@ -267,6 +268,7 @@ function renderPlayerPropsTable(picks) {
                 <td>${pick.book || '-'}</td>
                 <td>${pick.projection || '-'}</td>
                 <td>${pick.bet || '-'}</td>
+                <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
@@ -277,11 +279,11 @@ function renderPlayerPropsTable(picks) {
 // Render Team Model table
 function renderTeamModelTable(picks) {
     const tbody = document.getElementById('teamModelBody');
-    
+
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="6" class="empty-state">
+                <td colspan="7" class="empty-state">
                     <div class="empty-state-icon">🏆</div>
                     No team model picks for selected date
                 </td>
@@ -289,19 +291,21 @@ function renderTeamModelTable(picks) {
         `;
         return;
     }
-    
+
     tbody.innerHTML = picks.map(pick => {
         const edge = parseFloat(pick.edge) || 0;
         const edgeClass = edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low';
         const statusClass = getStatusClass(pick.result || 'pending');
         const projValue = pick.proj || '-';
-        
+        const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
+
         return `
             <tr>
                 <td><strong>${pick.game || '-'}</strong></td>
                 <td>${pick.pick || '-'}</td>
                 <td>${projValue}</td>
                 <td>${pick.book || '-'}</td>
+                <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
