@@ -281,7 +281,7 @@ function renderTeamModelTable(picks) {
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="5" class="empty-state">
+                <td colspan="6" class="empty-state">
                     <div class="empty-state-icon">🏆</div>
                     No team model picks for selected date
                 </td>
@@ -301,6 +301,7 @@ function renderTeamModelTable(picks) {
                 <td><strong>${pick.game || '-'}</strong></td>
                 <td>${pick.pick || '-'}</td>
                 <td>${projValue}</td>
+                <td>${pick.book || '-'}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
