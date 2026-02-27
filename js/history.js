@@ -289,10 +289,11 @@ function formatCurrency(value) {
     return `${sign}$${absValue.toFixed(2)}`;
 }
 
-// Utility: Format date for display
+// Utility: Format date for display (handles timezone issue)
 function formatDate(dateStr) {
     if (!dateStr) return '-';
-    const date = new Date(dateStr);
+    // Parse as local time by appending time component (prevents UTC shift)
+    const date = new Date(dateStr + 'T00:00:00');
     return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 }
 
