@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,edge_pct,bet,confidence,role,game,odds,stake,result,profit
+2026-02-25,A.J. Green,AST,1.5,FanDuel,2.4,52.5,OVER,87%,Starter,CLE @ MIL,-110,1,Win,0.91
+2026-02-25,A.J. Green,PTS,9.0,FanDuel,11.2,21.5,OVER,87%,Starter,CLE @ MIL,-110,1,Win,0.91
+2026-02-25,Cameron Johnson,AST,2.0,FanDuel,2.9,37.2,OVER,87%,Starter,BOS @ DEN,-110,1,Push,0
+2026-02-25,Cameron Johnson,PTS,11.4,FanDuel,14.1,20.9,OVER,87%,Starter,BOS @ DEN,-110,1,Push,0
+2026-02-25,Cameron Johnson,REB,3.5,FanDuel,4.6,28.3,OVER,87%,Starter,BOS @ DEN,-110,1,Push,0
+2026-02-25,Bobby Portis,PTS,10.1,FanDuel,12.9,21.1,OVER,76%,Rotation,CLE @ MIL,-110,1,Loss,-1.0
+2026-02-25,Bobby Portis,REB,5.5,FanDuel,7.0,21.4,OVER,76%,Rotation,CLE @ MIL,-110,1,Loss,-1.0
+2026-02-25,Aaron Wiggins,PTS,13.0,FanDuel,9.5,20.6,UNDER,78%,Rotation,OKC @ DET,-110,1,Loss,-1.0
+2026-02-25,Aaron Wiggins,AST,2.5,FanDuel,1.7,25.7,UNDER,78%,Rotation,OKC @ DET,-110,1,Loss,-1.0
+2026-02-25,Brandin Podziemski,PTS,17.4,FanDuel,13.3,19.1,UNDER,82%,Starter,GSW @ MEM,-110,1,Loss,-1.0
