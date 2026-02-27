@@ -243,7 +243,7 @@ function renderPlayerPropsTable(picks) {
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="10" class="empty-state">
+                <td colspan="11" class="empty-state">
                     <div class="empty-state-icon">🏀</div>
                     No player props for selected date
                 </td>
@@ -258,6 +258,8 @@ function renderPlayerPropsTable(picks) {
         const statusClass = getStatusClass(pick.result || 'pending');
         const gameShort = pick.game ? pick.game.split(' @ ').map(t => t.split(' ').pop()).join(' @ ') : '-';
         const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
+        const units = parseFloat(pick.stake) || 0;
+        const unitsDisplay = units > 0 ? units.toFixed(1) : '-';
 
         return `
             <tr>
@@ -270,6 +272,7 @@ function renderPlayerPropsTable(picks) {
                 <td>${pick.bet || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
+                <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
         `;
@@ -283,7 +286,7 @@ function renderTeamModelTable(picks) {
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="7" class="empty-state">
+                <td colspan="8" class="empty-state">
                     <div class="empty-state-icon">🏆</div>
                     No team model picks for selected date
                 </td>
@@ -298,6 +301,8 @@ function renderTeamModelTable(picks) {
         const statusClass = getStatusClass(pick.result || 'pending');
         const projValue = pick.proj || '-';
         const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
+        const units = parseFloat(pick.stake) || 0;
+        const unitsDisplay = units > 0 ? units.toFixed(1) : '-';
 
         return `
             <tr>
@@ -307,6 +312,7 @@ function renderTeamModelTable(picks) {
                 <td>${pick.book || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
+                <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
         `;

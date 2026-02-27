@@ -221,7 +221,7 @@ function renderHistoryTable(history) {
     if (history.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="10" class="empty-state">
+                <td colspan="11" class="empty-state">
                     <div class="empty-state-icon">📊</div>
                     No picks match the selected filters
                 </td>
@@ -245,6 +245,8 @@ function renderHistoryTable(history) {
         const statusClass = getStatusClass(pick.result || 'pending');
         const book = pick.book || '-';
         const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
+        const units = parseFloat(pick.stake) || 0;
+        const unitsDisplay = units > 0 ? units.toFixed(1) : '-';
 
         return `
             <tr>
@@ -256,6 +258,7 @@ function renderHistoryTable(history) {
                 <td>${book}</td>
                 <td>${odds}</td>
                 <td class="${edge > 3 ? 'edge-high' : edge > 1 ? 'edge-medium' : 'edge-low'}">${edge.toFixed(1)}%</td>
+                <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
                 <td class="${profitClass}">${formatCurrency(profit)}</td>
             </tr>
@@ -305,7 +308,7 @@ function formatDate(dateStr) {
 function showEmptyState() {
     document.getElementById('historyBody').innerHTML = `
         <tr>
-            <td colspan="10" class="empty-state">
+            <td colspan="11" class="empty-state">
                 <div class="empty-state-icon">⚠️</div>
                 Unable to load historical data.
             </td>
