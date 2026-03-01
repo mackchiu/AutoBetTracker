@@ -246,7 +246,7 @@ function renderHistoryTable(history) {
         const book = pick.book || '-';
         const odds = pick.odds ? parseFloat(pick.odds).toFixed(2) : '-';
         const units = parseFloat(pick.stake) || 0;
-        const unitsDisplay = units > 0 ? units.toFixed(1) : '-';
+        const unitsDisplay = units > 0 ? units.toFixed(2) : '-';  // Kelly precision
 
         return `
             <tr>
