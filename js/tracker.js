@@ -30,7 +30,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Initialize date pickers with today's date (America/New_York)
 function initializeDatePickers() {
-    const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
+    // Get current date in Eastern timezone
+    const now = new Date();
+    const easternDate = new Date(now.toLocaleString('en-US', { timeZone: 'America/New_York' }));
+    const year = easternDate.getFullYear();
+    const month = String(easternDate.getMonth() + 1).padStart(2, '0');
+    const day = String(easternDate.getDate()).padStart(2, '0');
+    const today = `${year}-${month}-${day}`;
+    
     document.getElementById('dateSelector').value = today;
 }
 
