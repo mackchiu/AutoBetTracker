@@ -416,9 +416,17 @@ def run_decision_loop(date: str = None):
     
     print(f"\n{'='*60}")
     print(f"SUMMARY: {len(a_picks)} A | {len(b_picks)} B | {len(c_picks)} C")
+    print(f"Skipped: {graded_count} already graded")
     print(f"Logged to: {BET_LOG_PATH}/{date}_bets.md")
     print(f"Updated tracker CSVs with unit sizes")
     print(f"{'='*60}")
+    
+    if len(a_picks) == 0 and len(b_picks) == 0 and len(c_picks) == 0:
+        print("\n⚠️ WARNING: No picks were graded!")
+        print("Possible causes:")
+        print("  - No model picks found for this date")
+        print("  - All picks already graded")
+        print("  - CSV files missing or empty")
 
 def calculate_kelly_units(pick: Dict, grade: str) -> float:
     """Calculate precise Kelly units for a pick based on grade"""
