@@ -28,9 +28,14 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(loadAllData, CONFIG.REFRESH_INTERVAL);
 });
 
-// Initialize date pickers with today's date
+// Initialize date pickers with today's date (Eastern Time)
 function initializeDatePickers() {
-    const today = new Date().toISOString().split('T')[0];
+    const now = new Date();
+    const easternTime = new Date(now.toLocaleString("en-US", {timeZone: "America/New_York"}));
+    const year = easternTime.getFullYear();
+    const month = String(easternTime.getMonth() + 1).padStart(2, '0');
+    const day = String(easternTime.getDate()).padStart(2, '0');
+    const today = `${year}-${month}-${day}`;
     document.getElementById('dateSelector').value = today;
 }
 
