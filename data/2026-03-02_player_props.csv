@@ -1,11 +1,11 @@
 date,player,market,line,book,projection,edge_pct,bet,confidence,role,game,odds,stake,result,profit
-2026-03-02,Clint Capela,PTS,5.5,BetMGM,2.0,64.0,UNDER,,Rotation,Houston Rockets @ Washington Wizards,1.8,1,Pending,0
-2026-03-02,Cam Thomas,REB,1.5,BetOnline.ag,2.3,55.2,OVER,,Rotation,Boston Celtics @ Milwaukee Bucks,1.89,1,Pending,0
-2026-03-02,Cody Williams,3PTM,0.5,DraftKings,0.2,51.7,UNDER,,Rotation,Denver Nuggets @ Utah Jazz,1.71,1,Pending,0
-2026-03-02,Carlton Carrington,REB,3.5,Fanatics,5.2,48.0,OVER,,Starter,Houston Rockets @ Washington Wizards,2.25,1,Pending,0
-2026-03-02,Bobby Portis,3PTM,1.5,BetRivers,2.1,39.9,OVER,,Rotation,Boston Celtics @ Milwaukee Bucks,2.3,1,Pending,0
-2026-03-02,A.J. Green,AST,1.5,BetMGM,2.1,39.2,OVER,,Starter,Boston Celtics @ Milwaukee Bucks,2.0,1,Pending,0
-2026-03-02,Dorian Finney-Smith,PTS,5.5,BetMGM,3.4,39.0,UNDER,,Rotation,Houston Rockets @ Washington Wizards,1.85,1,Pending,0
-2026-03-02,Clint Capela,REB,4.5,Bovada,2.8,37.2,UNDER,,Rotation,Houston Rockets @ Washington Wizards,2.5,1,Pending,0
-2026-03-02,Sam Hauser,3PTM,2.5,BetOnline.ag,1.6,35.0,UNDER,,Rotation,Boston Celtics @ Milwaukee Bucks,2.3,1,Pending,0
-2026-03-02,Baylor Scheierman,3PTM,1.5,FanDuel,1.0,34.9,UNDER,,Rotation,Boston Celtics @ Milwaukee Bucks,2.26,1,Pending,0
+2026-03-02,Clint Capela,PTS,5.5,BetMGM,2.0,64.0,UNDER,,Rotation,Houston Rockets @ Washington Wizards,1.8,0.25,Pending,0
+2026-03-02,Cam Thomas,REB,1.5,BetOnline.ag,2.3,55.2,OVER,,Rotation,Boston Celtics @ Milwaukee Bucks,1.89,0.5,Pending,0
+2026-03-02,Cody Williams,3PTM,0.5,DraftKings,0.2,51.7,UNDER,,Rotation,Denver Nuggets @ Utah Jazz,1.71,0.25,Pending,0
+2026-03-02,Carlton Carrington,REB,3.5,Fanatics,5.2,48.0,OVER,,Starter,Houston Rockets @ Washington Wizards,2.25,2.0,Pending,0
+2026-03-02,Bobby Portis,3PTM,1.5,BetRivers,2.1,39.9,OVER,,Rotation,Boston Celtics @ Milwaukee Bucks,2.3,2.0,Pending,0
+2026-03-02,A.J. Green,AST,1.5,BetMGM,2.1,39.2,OVER,,Starter,Boston Celtics @ Milwaukee Bucks,2.0,2.0,Pending,0
+2026-03-02,Dorian Finney-Smith,PTS,5.5,BetMGM,3.4,39.0,UNDER,,Rotation,Houston Rockets @ Washington Wizards,1.85,2.0,Pending,0
+2026-03-02,Clint Capela,REB,4.5,Bovada,2.8,37.2,UNDER,,Rotation,Houston Rockets @ Washington Wizards,2.5,1.55,Pending,0
+2026-03-02,Sam Hauser,3PTM,2.5,BetOnline.ag,1.6,35.0,UNDER,,Rotation,Boston Celtics @ Milwaukee Bucks,2.3,2.0,Pending,0
+2026-03-02,Baylor Scheierman,3PTM,1.5,FanDuel,1.0,34.9,UNDER,,Rotation,Boston Celtics @ Milwaukee Bucks,2.26,2.0,Pending,0
