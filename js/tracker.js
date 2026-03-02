@@ -28,9 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(loadAllData, CONFIG.REFRESH_INTERVAL);
 });
 
-// Initialize date pickers with today's date
+// Initialize date pickers with today's date (America/New_York)
 function initializeDatePickers() {
-    const today = new Date().toISOString().split('T')[0];
+    const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
     document.getElementById('dateSelector').value = today;
 }
 
