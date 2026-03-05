@@ -1,11 +1,11 @@
 date,player,market,line,book,projection,edge_pct,bet,confidence,role,game,odds,stake,result,profit
-2026-03-05,Dylan Harper,3PTM,0.5,FanDuel,1.1,124.9,OVER,,Rotation,Detroit Pistons @ San Antonio Spurs,1.74,0.25,Pending,0
-2026-03-05,Keyonte George,3PTM,2.5,BetOnline.ag,4.8,91.0,OVER,,Starter,Utah Jazz @ Washington Wizards,1.98,0.25,Pending,0
-2026-03-05,Brandon Ingram,3PTM,1.5,BetOnline.ag,2.6,73.4,OVER,,Starter,Toronto Raptors @ Minnesota Timberwolves,1.74,0.25,Pending,0
-2026-03-05,Luke Kornet,PTS,4.5,DraftKings,7.8,73.0,OVER,,Rotation,Detroit Pistons @ San Antonio Spurs,1.96,0.25,Pending,0
-2026-03-05,Nique Clifford,3PTM,1.5,DraftKings,0.4,71.3,UNDER,,Starter,New Orleans Pelicans @ Sacramento Kings,1.78,0.25,Pending,0
-2026-03-05,Jaxson Hayes,PTS,4.5,BetMGM,7.3,63.0,OVER,,Rotation,Los Angeles Lakers @ Denver Nuggets,1.8,0.25,Pending,0
-2026-03-05,Luke Kornet,REB,4.5,DraftKings,7.3,62.7,OVER,,Rotation,Detroit Pistons @ San Antonio Spurs,1.95,0.25,Pending,0
-2026-03-05,Reed Sheppard,REB,2.5,BetOnline.ag,4.0,61.0,OVER,,Starter,Golden State Warriors @ Houston Rockets,1.73,0.25,Pending,0
-2026-03-05,Al Horford,AST,2.5,BetMGM,4.0,60.3,OVER,,Rotation,Golden State Warriors @ Houston Rockets,1.85,0.25,Pending,0
-2026-03-05,Christian Braun,AST,2.5,BetMGM,3.8,52.2,OVER,,Starter,Los Angeles Lakers @ Denver Nuggets,2.2,2.0,Pending,0
+2026-03-05,Dylan Harper,3PTM,0.5,FanDuel,1.1,124.9,OVER,,Rotation,Detroit Pistons @ San Antonio Spurs,1.74,2.50,Pending,0
+2026-03-05,Keyonte George,3PTM,2.5,BetOnline.ag,4.8,91.0,OVER,,Starter,Utah Jazz @ Washington Wizards,1.98,2.50,Pending,0
+2026-03-05,Brandon Ingram,3PTM,1.5,BetOnline.ag,2.6,73.4,OVER,,Starter,Toronto Raptors @ Minnesota Timberwolves,1.74,2.50,Pending,0
+2026-03-05,Luke Kornet,PTS,4.5,DraftKings,7.8,73.0,OVER,,Rotation,Detroit Pistons @ San Antonio Spurs,1.96,2.50,Pending,0
+2026-03-05,Nique Clifford,3PTM,1.5,DraftKings,0.4,71.3,UNDER,,Starter,New Orleans Pelicans @ Sacramento Kings,1.78,2.50,Pending,0
+2026-03-05,Jaxson Hayes,PTS,4.5,BetMGM,7.3,63.0,OVER,,Rotation,Los Angeles Lakers @ Denver Nuggets,1.8,2.50,Pending,0
+2026-03-05,Luke Kornet,REB,4.5,DraftKings,7.3,62.7,OVER,,Rotation,Detroit Pistons @ San Antonio Spurs,1.95,2.50,Pending,0
+2026-03-05,Reed Sheppard,REB,2.5,BetOnline.ag,4.0,61.0,OVER,,Starter,Golden State Warriors @ Houston Rockets,1.73,2.50,Pending,0
+2026-03-05,Al Horford,AST,2.5,BetMGM,4.0,60.3,OVER,,Rotation,Golden State Warriors @ Houston Rockets,1.85,2.50,Pending,0
+2026-03-05,Christian Braun,AST,2.5,BetMGM,3.8,52.2,OVER,,Starter,Los Angeles Lakers @ Denver Nuggets,2.2,2.50,Pending,0
