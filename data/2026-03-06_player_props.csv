@@ -1,11 +1,11 @@
-date,player,market,line,book,projection,prob,ev,bet,role,game,odds,stake,result,profit,injury
-2026-03-06,Ben Sheppard,PTS,6.5,BetRivers,11.1,0.96,0.929,OVER,Rotation,Indiana Pacers @ Los Angeles Lakers,2.02,0.25,Pending,0,
-2026-03-06,Coby White,PTS,12.5,BetRivers,18.0,0.91,0.774,OVER,Rotation,Miami Heat @ Charlotte Hornets,1.95,0.25,Pending,0,
-2026-03-06,Jayson Tatum,PTS,13.5,BetRivers,24.3,0.87,0.772,OVER,Starter,Dallas Mavericks @ Boston Celtics,2.04,0.25,Pending,0,
-2026-03-06,Aaron Gordon,PTS,10.5,BetMGM,16.9,0.91,0.748,OVER,Rotation,New York Knicks @ Denver Nuggets,1.91,0.25,Pending,0,
-2026-03-06,Kobe Sanders,REB,2.5,BetOnline.ag,1.3,0.83,0.744,UNDER,Rotation,Los Angeles Clippers @ San Antonio Spurs,2.1,0.25,Pending,0,
-2026-03-06,Aaron Gordon,REB,3.5,FanDuel,6.8,0.97,0.688,OVER,Rotation,New York Knicks @ Denver Nuggets,1.74,0.25,Pending,0,
-2026-03-06,Cooper Flagg,AST,3.5,BetMGM,5.0,0.8,0.681,OVER,Starter,Dallas Mavericks @ Boston Celtics,2.1,0.25,Pending,0,
-2026-03-06,Dejounte Murray,REB,4.5,BetRivers,6.1,0.81,0.676,OVER,Rotation,New Orleans Pelicans @ Phoenix Suns,2.08,0.25,Pending,0,
-2026-03-06,Jeremiah Fears,AST,3.5,Caesars,4.9,0.8,0.675,OVER,Rotation,New Orleans Pelicans @ Phoenix Suns,2.1,0.25,Pending,0,
-2026-03-06,Austin Reaves,3PTM,2.5,FanDuel,1.7,0.77,0.547,UNDER,Starter,Indiana Pacers @ Los Angeles Lakers,2.02,0.25,Pending,0,
+date,player,market,line,book,projection,prob,ev,bet,role,game,odds,stake,result,profit,injury,edge_pct,grade
+2026-03-06,Ben Sheppard,PTS,6.5,BetRivers,11.1,0.96,0.929,OVER,Rotation,Indiana Pacers @ Los Angeles Lakers,2.02,1.00,Pending,0,,92.9,A
+2026-03-06,Coby White,PTS,12.5,BetRivers,18.0,0.91,0.774,OVER,Rotation,Miami Heat @ Charlotte Hornets,1.95,1.00,Pending,0,,77.4,A
+2026-03-06,Jayson Tatum,PTS,13.5,BetRivers,24.3,0.87,0.772,OVER,Starter,Dallas Mavericks @ Boston Celtics,2.04,1.00,Pending,0,,77.2,A
+2026-03-06,Aaron Gordon,PTS,10.5,BetMGM,16.9,0.91,0.748,OVER,Rotation,New York Knicks @ Denver Nuggets,1.91,1.00,Pending,0,,74.8,A
+2026-03-06,Kobe Sanders,REB,2.5,BetOnline.ag,1.3,0.83,0.744,UNDER,Rotation,Los Angeles Clippers @ San Antonio Spurs,2.1,1.00,Pending,0,,74.4,A
+2026-03-06,Aaron Gordon,REB,3.5,FanDuel,6.8,0.97,0.688,OVER,Rotation,New York Knicks @ Denver Nuggets,1.74,1.00,Pending,0,,68.8,A
+2026-03-06,Cooper Flagg,AST,3.5,BetMGM,5.0,0.8,0.681,OVER,Starter,Dallas Mavericks @ Boston Celtics,2.1,1.00,Pending,0,,68.1,A
+2026-03-06,Dejounte Murray,REB,4.5,BetRivers,6.1,0.81,0.676,OVER,Rotation,New Orleans Pelicans @ Phoenix Suns,2.08,1.00,Pending,0,,67.6,A
+2026-03-06,Jeremiah Fears,AST,3.5,Caesars,4.9,0.8,0.675,OVER,Rotation,New Orleans Pelicans @ Phoenix Suns,2.1,1.00,Pending,0,,67.5,A
+2026-03-06,Austin Reaves,3PTM,2.5,FanDuel,1.7,0.77,0.547,UNDER,Starter,Indiana Pacers @ Los Angeles Lakers,2.02,1.00,Pending,0,,54.7,A
