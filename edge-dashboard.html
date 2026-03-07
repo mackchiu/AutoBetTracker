@@ -379,24 +379,68 @@
 
         async function loadAllData() {
             try {
-                // Load all CSV files
-                const [propsData, teamData] = await Promise.all([
-                    fetchCSV('data/2026-03-06_player_props.csv'),
-                    fetchCSV('data/2026-03-06_team_model.csv')
-                ]);
+                // Discover all historical CSV files
+                const propsFiles = await discoverFiles('data/*_player_props.csv');
+                const teamFiles = await discoverFiles('data/*_team_model.csv');
+                
+                // Load all historical data
+                const allPropsData = [];
+                const allTeamData = [];
+                
+                for (const file of propsFiles) {
+                    const data = await fetchCSV(file);
+                    allPropsData.push(...data);
+                }
+                
+                for (const file of teamFiles) {
+                    const data = await fetchCSV(file);
+                    allTeamData.push(...data);
+                }
                 
                 // Split team data into totals and spreads
-                const totalsData = teamData.filter(p => p.market === 'TOTAL');
-                const spreadsData = teamData.filter(p => p.market === 'SPREAD');
+                const totalsData = allTeamData.filter(p => p.market === 'TOTAL');
+                const spreadsData = allTeamData.filter(p => p.market === 'SPREAD');
+                
+                // Update date range display
+                const dateRange = propsFiles.length > 0 
+                    ? `Analyzing ${propsFiles.length} days of data (${allPropsData.length} total picks)`
+                    : 'Loading data...';
+                document.querySelector('.date-range').textContent = dateRange;
                 
                 // Process each model type
-                processModelData(propsData, 'props', 'edge_pct');
+                processModelData(allPropsData, 'props', 'edge_pct');
                 processModelData(totalsData, 'totals', 'edge');
                 processModelData(spreadsData, 'spreads', 'edge');
                 
             } catch (error) {
                 console.error('Error loading data:', error);
             }
+        }
+        
+        async function discoverFiles(pattern) {
+            // For now, try to load recent files (last 30 days)
+            const files = [];
+            const today = new Date();
+            
+            for (let i = 0; i < 30; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - i);
+                const dateStr = date.toISOString().split('T')[0];
+                
+                const filename = pattern.replace('*', dateStr);
+                
+                // Check if file exists by trying to fetch it
+                try {
+                    const response = await fetch(filename, { method: 'HEAD' });
+                    if (response.ok) {
+                        files.push(filename);
+                    }
+                } catch {
+                    // File doesn't exist, skip
+                }
+            }
+            
+            return files.reverse(); // Oldest first
         }
 
         async function fetchCSV(filename) {
@@ -508,36 +552,43 @@
             const insights = [];
             const modelName = modelType === 'props' ? 'Player Props' : modelType === 'totals' ? 'Team Totals' : 'Team Spreads';
             
+            const totalPicks = buckets.reduce((s, b) => s + b.picks.length, 0);
+            const totalWins = buckets.reduce((s, b) => s + b.wins, 0);
+            const totalLosses = buckets.reduce((s, b) => s + b.losses, 0);
+            const totalProfit = buckets.reduce((s, b) => s + b.profit, 0);
+            
+            // Overall performance
+            const winRate = totalWins + totalLosses > 0 ? (totalWins / (totalWins + totalLosses) * 100).toFixed(1) : 0;
+            insights.push(`All-time: ${totalWins}-${totalLosses} (${winRate}% WR) | ${totalProfit >= 0 ? '+' : ''}${totalProfit.toFixed(2)}u`);
+            
             const bestBucket = buckets
-                .filter(b => b.picks.length >= 2)
-                .sort((a, b) => (b.profit / Math.max(b.picks.length, 1)) - (a.profit / Math.max(a.picks.length, 1)))[0];
+                .filter(b => b.picks.length >= 5)
+                .sort((a, b) => (b.wins / Math.max(b.wins + b.losses, 1)) - (a.wins / Math.max(a.wins + a.losses, 1)))[0];
             
             if (bestBucket) {
                 const winRate = (bestBucket.wins / Math.max(bestBucket.wins + bestBucket.losses, 1) * 100).toFixed(1);
-                insights.push(`Best performing edge: ${bestBucket.label} at ${winRate}% win rate`);
+                insights.push(`Best edge range: ${bestBucket.label} with ${winRate}% win rate (${bestBucket.wins + bestBucket.losses} picks)`);
             }
             
-            // Model-specific insights
-            if (modelType === 'props') {
-                const highEdge = buckets.filter(b => b.min >= 50);
-                const highPicks = highEdge.reduce((s, b) => s + b.picks.length, 0);
-                if (highPicks > 0) {
-                    insights.push(`${highPicks} high-edge props (50%+) - monitor if threshold should be 60%`);
-                }
-            } else if (modelType === 'totals') {
-                insights.push('Totals rely on pace and efficiency - check if pace-adjusted edges perform better');
-            } else if (modelType === 'spreads') {
-                insights.push('Spreads require accurate margin predictions - small edges (3-5%) may need higher confidence');
+            // Calibration check
+            const highEdge = buckets.filter(b => b.min >= (modelType === 'props' ? 50 : 7));
+            const highWins = highEdge.reduce((s, b) => s + b.wins, 0);
+            const highLosses = highEdge.reduce((s, b) => s + b.losses, 0);
+            if (highWins + highLosses >= 10) {
+                const highWinRate = (highWins / (highWins + highLosses) * 100).toFixed(1);
+                insights.push(`High edge performance: ${highWinRate}% win rate (${highWins + highLosses} picks)`);
             }
             
-            const totalPicks = buckets.reduce((s, b) => s + b.picks.length, 0);
-            if (totalPicks < 10) {
-                insights.push(`Only ${totalPicks} picks graded - need more data for reliable calibration`);
+            // Sample size warning
+            if (totalPicks < 20) {
+                insights.push(`⚠️ Only ${totalPicks} picks - need 50+ for reliable calibration`);
+            } else if (totalPicks >= 100) {
+                insights.push(`✅ Good sample size: ${totalPicks} picks for reliable analysis`);
             }
             
             document.getElementById(`${modelType}-insights`).innerHTML = `
                 <h3>💡 ${modelName} Insights</h3>
-                <ul>${insights.map(i => `<li>${i}</li>`).join('') || '<li>No insights yet - collecting data</li>'}</ul>
+                <ul>${insights.map(i => `<li>${i}</li>`).join('')}</ul>
             `;
         }
 
