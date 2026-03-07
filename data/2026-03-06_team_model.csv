@@ -1,8 +1,8 @@
 date,game,market,pick,line,proj,edge,book,odds,stake,result,profit
-2026-03-06,Dallas Mavericks @ Boston Celtics,TOTAL,OVER 223.5,223.5,235.3,11.8,BetUS,1.91,0.62,Pending,0
-2026-03-06,Miami Heat @ Charlotte Hornets,SPREAD,Heat +8.0,8.0,Miami Heat -2.8,5.2,FanDuel,1.91,0.27,Pending,0
-2026-03-06,Portland Trail Blazers @ Houston Rockets,TOTAL,UNDER 218.5,218.5,211.9,6.6,BetRivers,1.91,0.35,Pending,0
-2026-03-06,New York Knicks @ Denver Nuggets,SPREAD,Knicks -1.5,-1.5,New York Knicks -10.9,9.4,Caesars,1.91,0.49,Pending,0
-2026-03-06,New York Knicks @ Denver Nuggets,TOTAL,OVER 229.5,229.5,235.3,5.8,Caesars,1.91,0.3,Pending,0
-2026-03-06,New Orleans Pelicans @ Phoenix Suns,SPREAD,Pelicans +5.5,5.5,New Orleans Pelicans -2.3,7.8,FanDuel,1.91,0.41,Pending,0
-2026-03-06,Indiana Pacers @ Los Angeles Lakers,SPREAD,Pacers +9.5,9.5,Indiana Pacers -4.8,4.7,MyBookie.ag,1.91,0.25,Pending,0
+2026-03-06,Dallas Mavericks @ Boston Celtics,TOTAL,OVER 223.5,223.5,235.3,11.8,BetUS,1.91,0.62,Loss,-0.62
+2026-03-06,Miami Heat @ Charlotte Hornets,SPREAD,Heat +8.0,8.0,Miami Heat -2.8,5.2,FanDuel,1.91,0.27,Push,0.0
+2026-03-06,Portland Trail Blazers @ Houston Rockets,TOTAL,UNDER 218.5,218.5,211.9,6.6,BetRivers,1.91,0.35,Win,0.32
+2026-03-06,New York Knicks @ Denver Nuggets,SPREAD,Knicks -1.5,-1.5,New York Knicks -10.9,9.4,Caesars,1.91,0.49,Win,0.45
+2026-03-06,New York Knicks @ Denver Nuggets,TOTAL,OVER 229.5,229.5,235.3,5.8,Caesars,1.91,0.3,Win,0.27
+2026-03-06,New Orleans Pelicans @ Phoenix Suns,SPREAD,Pelicans +5.5,5.5,New Orleans Pelicans -2.3,7.8,FanDuel,1.91,0.41,Loss,-0.41
+2026-03-06,Indiana Pacers @ Los Angeles Lakers,SPREAD,Pacers +9.5,9.5,Indiana Pacers -4.8,4.7,MyBookie.ag,1.91,0.25,Loss,-0.25
