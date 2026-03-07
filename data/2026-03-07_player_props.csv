@@ -1,11 +1,11 @@
-date,player,market,line,book,projection,prob,ev,bet,role,game,odds,stake,result,profit,injury,edge_pct
-2026-03-07,Jaylen Wells,PTS,13.5,BetRivers,19.2,0.88,0.876,OVER,Starter,Los Angeles Clippers @ Memphis Grizzlies,2.12,0.25,Pending,0,,87.6
-2026-03-07,Giannis Antetokounmpo,PTS,25.5,BetRivers,21.1,0.89,0.85,UNDER,Rotation,Utah Jazz @ Milwaukee Bucks,2.08,0.25,Pending,0,,85.0
-2026-03-07,Giannis Antetokounmpo,PTS,26.5,BetRivers,21.1,0.93,0.745,UNDER,Rotation,Utah Jazz @ Milwaukee Bucks,1.87,0.25,Pending,0,,74.5
-2026-03-07,Jaylen Wells,PTS,12.5,DraftKings,19.2,0.92,0.694,OVER,Starter,Los Angeles Clippers @ Memphis Grizzlies,1.84,0.25,Pending,0,,69.4
-2026-03-07,A.J. Green,3PTM,2.5,BetOnline.ag,1.4,0.77,0.607,UNDER,Rotation,Utah Jazz @ Milwaukee Bucks,2.1,0.25,Pending,0,,60.7
-2026-03-07,Darius Garland,AST,5.5,BetRivers,6.8,0.74,0.529,OVER,Starter,Los Angeles Clippers @ Memphis Grizzlies,2.06,0.25,Pending,0,,52.9
-2026-03-07,Jock Landale,REB,3.5,BetOnline.ag,5.8,0.87,0.507,OVER,Rotation,Philadelphia 76ers @ Atlanta Hawks,1.74,0.25,Pending,0,,50.7
-2026-03-07,Tobias Harris,REB,4.5,BetOnline.ag,6.6,0.79,0.426,OVER,Starter,Brooklyn Nets @ Detroit Pistons,1.81,0.25,Pending,0,,42.6
-2026-03-07,Jaylin Williams,AST,3.5,BetOnline.ag,2.5,0.68,0.42,UNDER,Rotation,Golden State Warriors @ Oklahoma City Thunder,2.09,0.25,Pending,0,,42.0
-2026-03-07,Pat Spencer,REB,2.5,BetRivers,1.7,0.7,0.405,UNDER,Rotation,Golden State Warriors @ Oklahoma City Thunder,2.0,0.25,Pending,0,,40.5
+date,player,market,line,book,projection,prob,ev,bet,role,game,odds,stake,result,profit,injury,edge_pct,grade
+2026-03-07,Jaylen Wells,PTS,13.5,BetRivers,19.2,0.88,0.876,OVER,Starter,Los Angeles Clippers @ Memphis Grizzlies,2.12,1.00,Pending,0,,87.6,A
+2026-03-07,Giannis Antetokounmpo,PTS,25.5,BetRivers,21.1,0.89,0.85,UNDER,Rotation,Utah Jazz @ Milwaukee Bucks,2.08,1.00,Pending,0,,85.0,A
+2026-03-07,Giannis Antetokounmpo,PTS,26.5,BetRivers,21.1,0.93,0.745,UNDER,Rotation,Utah Jazz @ Milwaukee Bucks,1.87,1.00,Pending,0,,74.5,A
+2026-03-07,Jaylen Wells,PTS,12.5,DraftKings,19.2,0.92,0.694,OVER,Starter,Los Angeles Clippers @ Memphis Grizzlies,1.84,1.00,Pending,0,,69.4,A
+2026-03-07,A.J. Green,3PTM,2.5,BetOnline.ag,1.4,0.77,0.607,UNDER,Rotation,Utah Jazz @ Milwaukee Bucks,2.1,1.00,Pending,0,,60.7,A
+2026-03-07,Darius Garland,AST,5.5,BetRivers,6.8,0.74,0.529,OVER,Starter,Los Angeles Clippers @ Memphis Grizzlies,2.06,1.00,Pending,0,,52.9,A
+2026-03-07,Jock Landale,REB,3.5,BetOnline.ag,5.8,0.87,0.507,OVER,Rotation,Philadelphia 76ers @ Atlanta Hawks,1.74,1.00,Pending,0,,50.7,A
+2026-03-07,Tobias Harris,REB,4.5,BetOnline.ag,6.6,0.79,0.426,OVER,Starter,Brooklyn Nets @ Detroit Pistons,1.81,0.50,Pending,0,,42.6,B
+2026-03-07,Jaylin Williams,AST,3.5,BetOnline.ag,2.5,0.68,0.42,UNDER,Rotation,Golden State Warriors @ Oklahoma City Thunder,2.09,0.50,Pending,0,,42.0,B
+2026-03-07,Pat Spencer,REB,2.5,BetRivers,1.7,0.7,0.405,UNDER,Rotation,Golden State Warriors @ Oklahoma City Thunder,2.0,0.50,Pending,0,,40.5,B
