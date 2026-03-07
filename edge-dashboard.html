@@ -418,18 +418,16 @@
         }
         
         async function discoverFiles(pattern) {
-            // For now, try to load recent files (last 30 days)
-            const files = [];
-            const today = new Date();
+            // Hardcoded list of known files (since we can't dynamically list directory)
+            const knownDates = [
+                '2026-02-24', '2026-02-25', '2026-02-26', '2026-02-27', '2026-02-28',
+                '2026-03-01', '2026-03-02', '2026-03-03', '2026-03-04', '2026-03-05', '2026-03-06', '2026-03-07'
+            ];
             
-            for (let i = 0; i < 30; i++) {
-                const date = new Date(today);
-                date.setDate(date.getDate() - i);
-                const dateStr = date.toISOString().split('T')[0];
-                
+            const files = [];
+            
+            for (const dateStr of knownDates) {
                 const filename = pattern.replace('*', dateStr);
-                
-                // Check if file exists by trying to fetch it
                 try {
                     const response = await fetch(filename, { method: 'HEAD' });
                     if (response.ok) {
@@ -440,7 +438,7 @@
                 }
             }
             
-            return files.reverse(); // Oldest first
+            return files;
         }
 
         async function fetchCSV(filename) {
@@ -479,12 +477,33 @@
             }));
             
             data.forEach(pick => {
-                const edge = parseFloat(pick[edgeField] || pick.ev || pick.edge_pct || 0);
+                // Try multiple edge field names and formats
+                let edge = 0;
+                
+                // Try edge_pct first (percentage format like 54.2)
+                if (pick.edge_pct) {
+                    edge = parseFloat(pick.edge_pct);
+                }
+                // Try ev (decimal format like 0.542)
+                else if (pick.ev) {
+                    edge = parseFloat(pick.ev) * 100; // Convert to percentage
+                }
+                // Try edge field directly
+                else if (pick.edge) {
+                    edge = parseFloat(pick.edge);
+                    if (edge < 1) edge *= 100; // Assume decimal if < 1
+                }
+                
                 const result = pick.result;
                 const profit = parseFloat(pick.profit || 0);
                 
+                // Skip pending or invalid results
+                if (!result || result === 'Pending' || isNaN(edge)) {
+                    return;
+                }
+                
                 const bucket = buckets.find(b => edge >= b.min && edge < b.max);
-                if (bucket && result && result !== 'Pending') {
+                if (bucket) {
                     bucket.picks.push(pick);
                     bucket.profit += profit;
                     
@@ -542,10 +561,16 @@
             const totalGraded = totalWins + totalLosses;
             const winRate = totalGraded > 0 ? (totalWins / totalGraded * 100).toFixed(1) : 0;
             
-            document.getElementById(`${modelType}-total`).textContent = totalPicks;
-            document.getElementById(`${modelType}-winrate`).textContent = winRate + '%';
-            document.getElementById(`${modelType}-profit`).textContent = (totalProfit >= 0 ? '+' : '') + totalProfit.toFixed(2);
-            document.getElementById(`${modelType}-cal`).textContent = winRate >= 52 ? 'Good' : 'Poor';
+            // Update summary stats with fallbacks
+            const totalEl = document.getElementById(`${modelType}-total`);
+            const winrateEl = document.getElementById(`${modelType}-winrate`);
+            const profitEl = document.getElementById(`${modelType}-profit`);
+            const calEl = document.getElementById(`${modelType}-cal`);
+            
+            if (totalEl) totalEl.textContent = totalPicks;
+            if (winrateEl) winrateEl.textContent = winRate + '%';
+            if (profitEl) profitEl.textContent = (totalProfit >= 0 ? '+' : '') + totalProfit.toFixed(2);
+            if (calEl) calEl.textContent = winRate >= 52 ? 'Good' : 'Poor';
         }
 
         function renderModelInsights(buckets, modelType) {
