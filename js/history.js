@@ -215,10 +215,14 @@ function filterAndRenderHistory() {
 }
 
 function normalizeEdgeDisplay(pick) {
-    const raw = pick.edge_pct ?? pick.ev ?? pick.edge;
-    const edge = parseFloat(raw);
-    if (!Number.isFinite(edge)) return 0;
-    return edge < 1 ? edge * 100 : edge;
+    const explicit = parseFloat(pick.edge_pct ?? pick.edge);
+    if (Number.isFinite(explicit)) return explicit;
+    const prob = parseFloat(pick.prob);
+    const odds = parseFloat(pick.odds);
+    if (Number.isFinite(prob) && Number.isFinite(odds) && odds > 0) {
+        return (prob - (1 / odds)) * 100;
+    }
+    return 0;
 }
 
 // Render History table

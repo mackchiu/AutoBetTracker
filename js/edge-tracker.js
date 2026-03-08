@@ -139,7 +139,7 @@ function splitCSVLine(line) {
 function normalizePropRow(row, fallbackDate) {
     const result = normalizeResult(row.result);
     if (!['win', 'loss', 'push', 'void'].includes(result)) return null;
-    const edgePct = normalizeEdge(row.edge_pct || row.ev || row.edge);
+    const edgePct = normalizeEdge(row.edge_pct || row.edge, row);
     const odds = toFloat(row.odds);
     const stake = toFloat(row.stake || row.units);
     const profit = toFloat(row.profit);
@@ -167,7 +167,7 @@ function normalizeTeamRow(row, fallbackDate) {
     else if (market === 'TOTAL') modelType = 'total';
     else return null;
 
-    const edgePct = normalizeEdge(row.edge_pct || row.ev || row.edge);
+    const edgePct = normalizeEdge(row.edge_pct || row.edge, row);
     const odds = toFloat(row.odds);
     const stake = toFloat(row.stake || row.units);
     const profit = toFloat(row.profit);
@@ -195,11 +195,15 @@ function normalizeResult(value) {
     return 'pending';
 }
 
-function normalizeEdge(value) {
+function normalizeEdge(value, row = {}) {
     const n = toFloat(value);
-    if (n === null) return null;
-    if (n < 0) return null;
-    return n < 1 ? n * 100 : n;
+    if (n !== null && n >= 0) return n;
+    const prob = toFloat(row.prob);
+    const odds = toFloat(row.odds);
+    if (prob !== null && odds !== null && odds > 0) {
+        return (prob - (1 / odds)) * 100;
+    }
+    return null;
 }
 
 function toFloat(value) {
