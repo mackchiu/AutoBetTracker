@@ -1,11 +1,11 @@
-date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
-2026-03-08,Jayson Tatum,REB,7.5,Bovada,10.7,0.88,0.884,41.1,OVER,Starter,Boston Celtics @ Cleveland Cavaliers,2.15,0.5,Pending,0,
-2026-03-08,Kon Knueppel,PTS,19.5,Bovada,26.9,0.84,0.814,37.9,OVER,Starter,Charlotte Hornets @ Phoenix Suns,2.15,0.5,Pending,0,
-2026-03-08,Coby White,PTS,12.5,BetMGM,17.2,0.87,0.733,36.6,OVER,Rotation,Charlotte Hornets @ Phoenix Suns,2.0,0.5,Pending,0,
-2026-03-08,Bam Adebayo,AST,2.5,DraftKings,3.7,0.83,0.708,34.4,OVER,Starter,Detroit Pistons @ Miami Heat,2.06,0.5,Pending,0,
-2026-03-08,Kon Knueppel,PTS,18.5,Fanatics,26.9,0.87,0.705,36.1,OVER,Starter,Charlotte Hornets @ Phoenix Suns,1.95,0.5,Pending,0,
-2026-03-08,Jalen Suggs,REB,3.5,BetMGM,2.7,0.79,0.688,32.0,UNDER,Starter,Orlando Magic @ Milwaukee Bucks,2.15,0.5,Pending,0,
-2026-03-08,Nique Clifford,PTS,12.5,BetRivers,6.9,0.8,0.683,32.5,UNDER,Rotation,Chicago Bulls @ Sacramento Kings,2.1,0.5,Pending,0,
-2026-03-08,Jayson Tatum,REB,6.5,DraftKings,10.7,0.94,0.599,35.0,OVER,Starter,Boston Celtics @ Cleveland Cavaliers,1.71,0.5,Pending,0,
-2026-03-08,Coby White,REB,2.5,DraftKings,4.0,0.71,0.577,26.1,OVER,Rotation,Charlotte Hornets @ Phoenix Suns,2.21,0.5,Pending,0,
-2026-03-08,LeBron James,3PTM,1.5,FanDuel,2.2,0.74,0.56,26.7,OVER,Starter,New York Knicks @ Los Angeles Lakers,2.1,0.5,Pending,0,
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade
+2026-03-08,Jayson Tatum,REB,7.5,Bovada,10.7,0.88,0.884,41.1,OVER,Starter,Boston Celtics @ Cleveland Cavaliers,2.15,0.5,Pending,0,,B
+2026-03-08,Kon Knueppel,PTS,19.5,Bovada,26.9,0.84,0.814,37.9,OVER,Starter,Charlotte Hornets @ Phoenix Suns,2.15,0.5,Pending,0,,B
+2026-03-08,Coby White,PTS,12.5,BetMGM,17.2,0.87,0.733,36.6,OVER,Rotation,Charlotte Hornets @ Phoenix Suns,2.0,0.5,Pending,0,,B
+2026-03-08,Bam Adebayo,AST,2.5,DraftKings,3.7,0.83,0.708,34.4,OVER,Starter,Detroit Pistons @ Miami Heat,2.06,0.5,Pending,0,,B
+2026-03-08,Kon Knueppel,PTS,18.5,Fanatics,26.9,0.87,0.705,36.1,OVER,Starter,Charlotte Hornets @ Phoenix Suns,1.95,0.5,Pending,0,,B
+2026-03-08,Jalen Suggs,REB,3.5,BetMGM,2.7,0.79,0.688,32.0,UNDER,Starter,Orlando Magic @ Milwaukee Bucks,2.15,0.5,Pending,0,,B
+2026-03-08,Nique Clifford,PTS,12.5,BetRivers,6.9,0.8,0.683,32.5,UNDER,Rotation,Chicago Bulls @ Sacramento Kings,2.1,0.5,Pending,0,,B
+2026-03-08,Jayson Tatum,REB,6.5,DraftKings,10.7,0.94,0.599,35.0,OVER,Starter,Boston Celtics @ Cleveland Cavaliers,1.71,0.5,Pending,0,,B
+2026-03-08,Coby White,REB,2.5,DraftKings,4.0,0.71,0.577,26.1,OVER,Rotation,Charlotte Hornets @ Phoenix Suns,2.21,0.5,Pending,0,,B
+2026-03-08,LeBron James,3PTM,1.5,FanDuel,2.2,0.74,0.56,26.7,OVER,Starter,New York Knicks @ Los Angeles Lakers,2.1,0.5,Pending,0,,B
