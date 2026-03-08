@@ -241,6 +241,13 @@ function filterTodayPicks() {
     renderTeamModelTable(teamModel);
 }
 
+function normalizeEdgeDisplay(pick) {
+    const raw = pick.edge_pct ?? pick.ev ?? pick.edge;
+    const edge = parseFloat(raw);
+    if (!Number.isFinite(edge)) return 0;
+    return edge < 1 ? edge * 100 : edge;
+}
+
 // Render Player Props table
 function renderPlayerPropsTable(picks) {
     const tbody = document.getElementById('playerPropsBody');
@@ -258,7 +265,7 @@ function renderPlayerPropsTable(picks) {
     }
 
     tbody.innerHTML = picks.map(pick => {
-        const edge = parseFloat(pick.edge_pct) || 0;
+        const edge = normalizeEdgeDisplay(pick);
         const edgeClass = edge > 5 ? 'edge-high' : edge > 2 ? 'edge-medium' : 'edge-low';
         const statusClass = getStatusClass(pick.result || 'pending');
         const gameShort = pick.game ? pick.game.split(' @ ').map(t => t.split(' ').pop()).join(' @ ') : '-';

@@ -214,6 +214,13 @@ function filterAndRenderHistory() {
     renderHistoryTable(history);
 }
 
+function normalizeEdgeDisplay(pick) {
+    const raw = pick.edge_pct ?? pick.ev ?? pick.edge;
+    const edge = parseFloat(raw);
+    if (!Number.isFinite(edge)) return 0;
+    return edge < 1 ? edge * 100 : edge;
+}
+
 // Render History table
 function renderHistoryTable(history) {
     const tbody = document.getElementById('historyBody');
@@ -239,7 +246,7 @@ function renderHistoryTable(history) {
         const displayProj = isPlayerProp ?
             `${pick.projection}` :
             pick.proj;
-        const edge = parseFloat(pick.edge_pct || pick.edge) || 0;
+        const edge = normalizeEdgeDisplay(pick);
         const profit = parseFloat(pick.profit) || 0;
         const profitClass = profit > 0 ? 'profit-positive' : profit < 0 ? 'profit-negative' : 'profit-zero';
         const statusClass = getStatusClass(pick.result || 'pending');
