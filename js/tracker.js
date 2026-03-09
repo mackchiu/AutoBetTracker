@@ -288,6 +288,7 @@ function renderPlayerPropsTable(picks) {
                 <td>${pick.bet || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
+                <td>${renderSignalIcons(pick)}</td>
                 <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
@@ -296,13 +297,22 @@ function renderPlayerPropsTable(picks) {
 }
 
 // Render Team Model table
+function renderSignalIcons(pick) {
+    const parts = [];
+    if (pick.line_movement_flag) parts.push(pick.line_movement_flag);
+    if (pick.sharp_flag) parts.push(pick.sharp_flag);
+    if (pick.divergence_flag) parts.push(pick.divergence_flag);
+    if (pick.conflict_flag) parts.push(pick.conflict_flag);
+    return parts.length ? parts.join(' ') : '—';
+}
+
 function renderTeamModelTable(picks) {
     const tbody = document.getElementById('teamModelBody');
 
     if (picks.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="8" class="empty-state">
+                <td colspan="9" class="empty-state">
                     <div class="empty-state-icon">🏆</div>
                     No team model picks for selected date
                 </td>
@@ -350,6 +360,7 @@ function renderTeamModelTable(picks) {
                 <td>${pick.book || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
+                <td>${renderSignalIcons(pick)}</td>
                 <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
