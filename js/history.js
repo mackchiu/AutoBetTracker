@@ -71,9 +71,12 @@ async function loadAllHistoryData() {
                 if (!p.date) p.date = date;
                 p.modelType = 'Team Model';
             });
+
+            const activePlayerProps = playerProps.filter(p => String(p.legacy || '').toLowerCase() !== 'true');
+            const activeTeamModel = teamModel.filter(p => String(p.legacy || '').toLowerCase() !== 'true');
             
-            allPlayerProps.push(...playerProps);
-            allTeamModel.push(...teamModel);
+            allPlayerProps.push(...activePlayerProps);
+            allTeamModel.push(...activeTeamModel);
         }
         
         state.allPlayerProps = allPlayerProps;
