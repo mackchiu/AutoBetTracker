@@ -3,11 +3,11 @@ const CONFIG = {
     LOOKBACK_DAYS: 90,
     BUCKETS: {
         props: [
-            { label: '0-25%', min: 0, max: 25 },
-            { label: '25-50%', min: 25, max: 50 },
-            { label: '50-75%', min: 50, max: 75 },
-            { label: '75-100%', min: 75, max: 100 },
-            { label: '100%+', min: 100, max: Infinity }
+            { label: '20-25%', min: 20, max: 25 },
+            { label: '25-30%', min: 25, max: 30 },
+            { label: '30-35%', min: 30, max: 35 },
+            { label: '35-40%', min: 35, max: 40 },
+            { label: '40%+', min: 40, max: Infinity }
         ],
         spread: [
             { label: '0-3%', min: 0, max: 3 },
