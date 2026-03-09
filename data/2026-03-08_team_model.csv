@@ -1,17 +1,17 @@
 date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,grade,edge_pct
-2026-03-08,Boston Celtics @ Cleveland Cavaliers,SPREAD,Cavaliers -1.0,-1.0,Cleveland Cavaliers -5.9,4.9,BetUS,1.91,0.0,Pending,0,,C,4.9
-2026-03-08,Boston Celtics @ Cleveland Cavaliers,TOTAL,UNDER 223.0,223.0,202.8,20.2,BetUS,1.91,1.0,Pending,0,,A,20.2
-2026-03-08,New York Knicks @ Los Angeles Lakers,TOTAL,OVER 227.5,227.5,235.0,7.5,FanDuel,1.91,0.5,Pending,0,,B,7.5
-2026-03-08,Dallas Mavericks @ Toronto Raptors,TOTAL,OVER 229.5,229.5,239.1,9.6,FanDuel,1.91,0.5,Pending,0,,B,9.6
-2026-03-08,Detroit Pistons @ Miami Heat,SPREAD,Pistons -1.5,-1.5,Detroit Pistons -7.6,6.1,FanDuel,1.91,0.5,Pending,0,,B,6.1
-2026-03-08,Washington Wizards @ New Orleans Pelicans,TOTAL,UNDER 244.5,244.5,231.3,13.2,DraftKings,1.91,1.0,Pending,0,,A,13.2
-2026-03-08,Houston Rockets @ San Antonio Spurs,SPREAD,Spurs -5.5,-5.5,San Antonio Spurs -11.1,5.6,Caesars,1.91,0.5,Pending,0,,B,5.6
-2026-03-08,Houston Rockets @ San Antonio Spurs,TOTAL,OVER 222.5,222.5,225.8,3.3,Caesars,1.91,0.0,Pending,0,,C,3.3
-2026-03-08,Orlando Magic @ Milwaukee Bucks,SPREAD,Bucks +4.0,4.0,Milwaukee Bucks -0.7,3.3,BetOnline.ag,1.91,0.0,Pending,0,,C,3.3
-2026-03-08,Orlando Magic @ Milwaukee Bucks,TOTAL,OVER 218.5,218.5,231.4,12.9,BetOnline.ag,1.91,1.0,Pending,0,,A,12.9
-2026-03-08,Chicago Bulls @ Sacramento Kings,SPREAD,Kings +2.5,2.5,Sacramento Kings -3.7,6.2,Caesars,1.91,0.5,Pending,0,,B,6.2
-2026-03-08,Chicago Bulls @ Sacramento Kings,TOTAL,UNDER 236.0,236.0,231.0,5.0,Caesars,1.91,0.5,Pending,0,,B,5.0
-2026-03-08,Indiana Pacers @ Portland Trail Blazers,SPREAD,Blazers -8.5,-8.5,Portland Trail Blazers -11.7,3.2,Caesars,1.91,0.0,Pending,0,,C,3.2
-2026-03-08,Indiana Pacers @ Portland Trail Blazers,TOTAL,OVER 236.5,236.5,250.7,14.2,Caesars,1.91,1.0,Pending,0,,A,14.2
-2026-03-08,Charlotte Hornets @ Phoenix Suns,SPREAD,Hornets -4.5,-4.5,Charlotte Hornets -7.6,3.1,Caesars,1.91,0.0,Pending,0,,C,3.1
-2026-03-08,Charlotte Hornets @ Phoenix Suns,TOTAL,OVER 218.5,218.5,222.0,3.5,Caesars,1.91,0.0,Pending,0,,C,3.5
+2026-03-08,Boston Celtics @ Cleveland Cavaliers,SPREAD,Cavaliers -1.0,-1.0,Cleveland Cavaliers -5.9,4.9,BetUS,1.91,0.0,Loss,-0.0,,C,4.9
+2026-03-08,Boston Celtics @ Cleveland Cavaliers,TOTAL,UNDER 223.0,223.0,202.8,20.2,BetUS,1.91,1.0,Win,0.91,,A,20.2
+2026-03-08,New York Knicks @ Los Angeles Lakers,TOTAL,OVER 227.5,227.5,235.0,7.5,FanDuel,1.91,0.5,Loss,-0.5,,B,7.5
+2026-03-08,Dallas Mavericks @ Toronto Raptors,TOTAL,OVER 229.5,229.5,239.1,9.6,FanDuel,1.91,0.5,Loss,-0.5,,B,9.6
+2026-03-08,Detroit Pistons @ Miami Heat,SPREAD,Pistons -1.5,-1.5,Detroit Pistons -7.6,6.1,FanDuel,1.91,0.5,Loss,-0.5,,B,6.1
+2026-03-08,Washington Wizards @ New Orleans Pelicans,TOTAL,UNDER 244.5,244.5,231.3,13.2,DraftKings,1.91,1.0,Loss,-1.0,,A,13.2
+2026-03-08,Houston Rockets @ San Antonio Spurs,SPREAD,Spurs -5.5,-5.5,San Antonio Spurs -11.1,5.6,Caesars,1.91,0.5,Win,0.45,,B,5.6
+2026-03-08,Houston Rockets @ San Antonio Spurs,TOTAL,OVER 222.5,222.5,225.8,3.3,Caesars,1.91,0.0,Win,0.0,,C,3.3
+2026-03-08,Orlando Magic @ Milwaukee Bucks,SPREAD,Bucks +4.0,4.0,Milwaukee Bucks -0.7,3.3,BetOnline.ag,1.91,0.0,Loss,-0.0,,C,3.3
+2026-03-08,Orlando Magic @ Milwaukee Bucks,TOTAL,OVER 218.5,218.5,231.4,12.9,BetOnline.ag,1.91,1.0,Win,0.91,,A,12.9
+2026-03-08,Chicago Bulls @ Sacramento Kings,SPREAD,Kings +2.5,2.5,Sacramento Kings -3.7,6.2,Caesars,1.91,0.5,Win,0.45,,B,6.2
+2026-03-08,Chicago Bulls @ Sacramento Kings,TOTAL,UNDER 236.0,236.0,231.0,5.0,Caesars,1.91,0.5,Push,0.0,,B,5.0
+2026-03-08,Indiana Pacers @ Portland Trail Blazers,SPREAD,Blazers -8.5,-8.5,Portland Trail Blazers -11.7,3.2,Caesars,1.91,0.0,Win,0.0,,C,3.2
+2026-03-08,Indiana Pacers @ Portland Trail Blazers,TOTAL,OVER 236.5,236.5,250.7,14.2,Caesars,1.91,1.0,Win,0.91,,A,14.2
+2026-03-08,Charlotte Hornets @ Phoenix Suns,SPREAD,Hornets -4.5,-4.5,Charlotte Hornets -7.6,3.1,Caesars,1.91,0.0,Loss,-0.0,,C,3.1
+2026-03-08,Charlotte Hornets @ Phoenix Suns,TOTAL,OVER 218.5,218.5,222.0,3.5,Caesars,1.91,0.0,Loss,-0.0,,C,3.5
