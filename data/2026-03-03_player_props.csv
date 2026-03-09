@@ -1,11 +1,11 @@
-date,player,market,line,book,projection,edge_pct,bet,confidence,role,game,odds,stake,result,profit
-2026-03-03,Jamal Shead,REB,1.5,BetMGM,2.7,78.6,OVER,,Rotation,New York Knicks @ Toronto Raptors,1.74,0.25,Win,0.18
-2026-03-03,Brandon Ingram,3PTM,1.5,BetRivers,2.6,74.6,OVER,,Starter,New York Knicks @ Toronto Raptors,2.07,0.25,Win,0.27
-2026-03-03,Luke Kornet,REB,4.5,Caesars,7.8,74.0,OVER,,Rotation,San Antonio Spurs @ Philadelphia 76ers,1.71,0.25,Loss,-0.25
-2026-03-03,Miles Bridges,3PTM,1.5,BetRivers,2.5,67.6,OVER,,Starter,Dallas Mavericks @ Charlotte Hornets,1.79,0.25,Loss,-0.25
-2026-03-03,Carlton Carrington,REB,3.5,BetRivers,5.7,63.5,OVER,,Starter,Washington Wizards @ Orlando Magic,2.02,0.25,Loss,-0.25
-2026-03-03,Dean Wade,REB,3.5,DraftKings,5.5,58.5,OVER,,Rotation,Detroit Pistons @ Cleveland Cavaliers,2.15,0.25,Win,0.29
-2026-03-03,Ryan Kalkbrenner,PTS,4.5,BetMGM,7.0,55.8,OVER,,Rotation,Dallas Mavericks @ Charlotte Hornets,1.8,0.25,Win,0.2
-2026-03-03,Grant Williams,PTS,7.5,BetRivers,11.7,55.5,OVER,,Rotation,Dallas Mavericks @ Charlotte Hornets,2.1,0.25,Win,0.28
-2026-03-03,LeBron James,3PTM,1.5,FanDuel,2.3,55.3,OVER,,Starter,New Orleans Pelicans @ Los Angeles Lakers,1.76,0.25,Loss,-0.25
-2026-03-03,Cedric Coward,AST,2.5,BetOnline.ag,3.9,54.7,OVER,,Rotation,Memphis Grizzlies @ Minnesota Timberwolves,2.12,0.25,Win,0.28
+date,player,market,line,book,projection,edge_pct,bet,confidence,role,game,odds,stake,result,profit,legacy
+2026-03-03,Jamal Shead,REB,1.5,BetMGM,2.7,78.6,OVER,,Rotation,New York Knicks @ Toronto Raptors,1.74,0.25,Win,0.18,true
+2026-03-03,Brandon Ingram,3PTM,1.5,BetRivers,2.6,74.6,OVER,,Starter,New York Knicks @ Toronto Raptors,2.07,0.25,Win,0.27,true
+2026-03-03,Luke Kornet,REB,4.5,Caesars,7.8,74.0,OVER,,Rotation,San Antonio Spurs @ Philadelphia 76ers,1.71,0.25,Loss,-0.25,true
+2026-03-03,Miles Bridges,3PTM,1.5,BetRivers,2.5,67.6,OVER,,Starter,Dallas Mavericks @ Charlotte Hornets,1.79,0.25,Loss,-0.25,true
+2026-03-03,Carlton Carrington,REB,3.5,BetRivers,5.7,63.5,OVER,,Starter,Washington Wizards @ Orlando Magic,2.02,0.25,Loss,-0.25,true
+2026-03-03,Dean Wade,REB,3.5,DraftKings,5.5,58.5,OVER,,Rotation,Detroit Pistons @ Cleveland Cavaliers,2.15,0.25,Win,0.29,true
+2026-03-03,Ryan Kalkbrenner,PTS,4.5,BetMGM,7.0,55.8,OVER,,Rotation,Dallas Mavericks @ Charlotte Hornets,1.8,0.25,Win,0.2,true
+2026-03-03,Grant Williams,PTS,7.5,BetRivers,11.7,55.5,OVER,,Rotation,Dallas Mavericks @ Charlotte Hornets,2.1,0.25,Win,0.28,true
+2026-03-03,LeBron James,3PTM,1.5,FanDuel,2.3,55.3,OVER,,Starter,New Orleans Pelicans @ Los Angeles Lakers,1.76,0.25,Loss,-0.25,true
+2026-03-03,Cedric Coward,AST,2.5,BetOnline.ag,3.9,54.7,OVER,,Rotation,Memphis Grizzlies @ Minnesota Timberwolves,2.12,0.25,Win,0.28,true

@@ -139,6 +139,8 @@ function splitCSVLine(line) {
 function normalizePropRow(row, fallbackDate) {
     const result = normalizeResult(row.result);
     if (!['win', 'loss', 'push', 'void'].includes(result)) return null;
+    if (String(row.legacy || '').toLowerCase() === 'true') return null;
+    if (String(row.legacy || '').toLowerCase() === 'true') return null;
     const edgePct = normalizeEdge(row.edge_pct || row.edge, row);
     const odds = toFloat(row.odds);
     const stake = toFloat(row.stake || row.units);
@@ -161,6 +163,7 @@ function normalizePropRow(row, fallbackDate) {
 function normalizeTeamRow(row, fallbackDate) {
     const result = normalizeResult(row.result);
     if (!['win', 'loss', 'push', 'void'].includes(result)) return null;
+    if (String(row.legacy || '').toLowerCase() === 'true') return null;
     const market = (row.market || '').toUpperCase();
     let modelType = null;
     if (market === 'SPREAD') modelType = 'spread';
