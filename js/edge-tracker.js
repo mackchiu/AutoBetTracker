@@ -48,8 +48,8 @@ async function loadEdgeData() {
 
     for (const date of dates) {
         const [propsRows, teamRows] = await Promise.all([
-            loadCSV(`${CONFIG.DATA_PATH}${date}_player_props.csv`),
-            loadCSV(`${CONFIG.DATA_PATH}${date}_team_model.csv`)
+            loadCSV(`${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`, `${CONFIG.DATA_PATH}${date}_player_props.csv`),
+            loadCSV(`${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`, `${CONFIG.DATA_PATH}${date}_team_model.csv`)
         ]);
 
         propsRows.forEach(row => {
@@ -80,8 +80,8 @@ async function discoverAvailableDates() {
         date.setDate(date.getDate() - i);
         const dateStr = date.toISOString().split('T')[0];
         const exists = await Promise.any([
-            fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`),
-            fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`)
+            fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_player_props_graded.csv`),
+            fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_team_model_graded.csv`)
         ]).catch(() => false);
         if (exists) dates.push(dateStr);
     }
@@ -93,15 +93,18 @@ async function fileExists(path) {
     return response.ok;
 }
 
-async function loadCSV(path) {
-    try {
-        const response = await fetch(path);
+async function loadCSV(...paths) {
+    for (const path of paths) {
+        try {
+            const response = await fetch(path);
         if (!response.ok) return [];
-        return parseCSV(await response.text());
-    } catch {
-        return [];
+            return parseCSV(await response.text());
+        } catch {
+        }
     }
+    return [];
 }
+
 
 function parseCSV(text) {
     const lines = text.trim().split('\n');

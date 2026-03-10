@@ -58,8 +58,8 @@ async function loadAllHistoryData() {
         
         for (const date of dates) {
             const [playerProps, teamModel] = await Promise.all([
-                loadCSV(`${CONFIG.DATA_PATH}${date}_player_props.csv`),
-                loadCSV(`${CONFIG.DATA_PATH}${date}_team_model.csv`)
+                loadCSV(`${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`, `${CONFIG.DATA_PATH}${date}_player_props.csv`),
+                loadCSV(`${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`, `${CONFIG.DATA_PATH}${date}_team_model.csv`)
             ]);
             
             // Add date to each record if not present
@@ -108,8 +108,8 @@ async function discoverAvailableDates() {
         const dateStr = date.toISOString().split('T')[0];
         
         // Check if either file exists for this date
-        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
-        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
+        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_player_props_graded.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
+        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_team_model_graded.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
         
         if (playerPropsExists || teamModelExists) {
             dates.push(dateStr);
@@ -119,7 +119,9 @@ async function discoverAvailableDates() {
     // Also check known dates from config as fallback
     for (const date of CONFIG.KNOWN_DATES) {
         if (!dates.includes(date)) {
-            const exists = await fileExists(`${CONFIG.DATA_PATH}${date}_player_props.csv`) ||
+            const exists = await fileExists(`${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`) ||
+                          await fileExists(`${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`) ||
+                          await fileExists(`${CONFIG.DATA_PATH}${date}_player_props.csv`) ||
                           await fileExists(`${CONFIG.DATA_PATH}${date}_team_model.csv`);
             if (exists) {
                 dates.push(date);
@@ -142,22 +144,25 @@ async function fileExists(path) {
 }
 
 // Load and parse CSV file
-async function loadCSV(path) {
-    try {
-        const response = await fetch(path);
+async function loadCSV(...paths) {
+    for (const path of paths) {
+        try {
+            const response = await fetch(path);
         if (!response.ok) {
             if (response.status === 404) {
                 return [];
             }
             throw new Error(`HTTP ${response.status}`);
         }
-        const text = await response.text();
-        return parseCSV(text);
-    } catch (error) {
-        console.warn(`Could not load ${path}:`, error.message);
-        return [];
+            const text = await response.text();
+            return parseCSV(text);
+        } catch (error) {
+            console.warn(`Could not load ${path}:`, error.message);
+        }
     }
+    return [];
 }
+
 
 // Parse CSV text into array of objects
 function parseCSV(text) {
