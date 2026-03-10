@@ -59,8 +59,8 @@ async function loadAllData() {
         
         for (const date of dates) {
             const [playerProps, teamModel] = await Promise.all([
-                loadCSV(`${CONFIG.DATA_PATH}${date}_player_props.csv`),
-                loadCSV(`${CONFIG.DATA_PATH}${date}_team_model.csv`)
+                loadCSV(`${CONFIG.DATA_PATH}final/${date}_player_props_final.csv`, `${CONFIG.DATA_PATH}${date}_player_props.csv`),
+                loadCSV(`${CONFIG.DATA_PATH}final/${date}_team_model_final.csv`, `${CONFIG.DATA_PATH}${date}_team_model.csv`)
             ]);
             
             playerProps.forEach(p => { if (!p.date) p.date = date; });
@@ -100,8 +100,8 @@ async function discoverAvailableDates() {
         date.setDate(date.getDate() - i);
         const dateStr = date.toISOString().split('T')[0];
         
-        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
-        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
+        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}final/${dateStr}_player_props_final.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
+        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}final/${dateStr}_team_model_final.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
         
         if (playerPropsExists || teamModelExists) {
             dates.push(dateStr);
@@ -122,20 +122,23 @@ async function fileExists(path) {
 }
 
 // Load and parse CSV file
-async function loadCSV(path) {
-    try {
-        const response = await fetch(path);
+async function loadCSV(...paths) {
+    for (const path of paths) {
+        try {
+            const response = await fetch(path);
         if (!response.ok) {
             if (response.status === 404) return [];
             throw new Error(`HTTP ${response.status}`);
         }
-        const text = await response.text();
-        return parseCSV(text);
-    } catch (error) {
-        console.warn(`Could not load ${path}:`, error.message);
-        return [];
+            const text = await response.text();
+            return parseCSV(text);
+        } catch (error) {
+            console.warn(`Could not load ${path}:`, error.message);
+        }
     }
+    return [];
 }
+
 
 // Parse CSV text into array of objects
 function parseCSV(text) {

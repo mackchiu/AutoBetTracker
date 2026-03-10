@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade
+2026-03-09,Gui Santos,PTS,14.5,Bovada,8.6,0.82,0.72,34.3,UNDER,Rotation,Golden State Warriors @ Utah Jazz,2.1,0.5,Loss,-0.5,,B
+2026-03-09,Olivier-Maxence Prosper,REB,6.5,DraftKings,4.2,0.78,0.649,30.8,UNDER,Rotation,Memphis Grizzlies @ Brooklyn Nets,2.11,0.5,Win,0.55,,B
+2026-03-09,Darius Garland,PTS,15.5,FanDuel,21.3,0.84,0.586,31.2,OVER,Starter,New York Knicks @ Los Angeles Clippers,1.88,0.5,Win,0.44,,B
+2026-03-09,Gui Santos,PTS,15.5,Bovada,8.6,0.86,0.568,31.0,UNDER,Rotation,Golden State Warriors @ Utah Jazz,1.83,0.5,Win,0.42,,B
+2026-03-09,Dominick Barlow,PTS,9.5,BetRivers,6.9,0.71,0.529,24.6,UNDER,Rotation,Philadelphia 76ers @ Cleveland Cavaliers,2.15,0.0,Win,0.0,,C
+2026-03-09,Kawhi Leonard,AST,3.5,BetRivers,4.0,0.67,0.49,22.0,OVER,Starter,New York Knicks @ Los Angeles Clippers,2.23,0.0,Win,0.0,,C
+2026-03-09,Aaron Gordon,REB,4.5,BetMGM,6.1,0.78,0.427,23.3,OVER,Rotation,Denver Nuggets @ Oklahoma City Thunder,1.83,0.0,Win,0.0,,C
+2026-03-09,Christian Braun,AST,2.5,BetOnline.ag,4.0,0.79,0.426,23.7,OVER,Starter,Denver Nuggets @ Oklahoma City Thunder,1.8,0.0,Loss,-0.0,,C
+2026-03-09,John Konchar,REB,4.5,DraftKings,3.5,0.67,0.397,19.0,UNDER,Rotation,Golden State Warriors @ Utah Jazz,2.09,0.0,Loss,-0.0,,C
+2026-03-09,Jaylin Williams,AST,3.5,FanDuel,2.8,0.64,0.361,16.9,UNDER,Rotation,Denver Nuggets @ Oklahoma City Thunder,2.14,0.0,Win,0.0,,C
