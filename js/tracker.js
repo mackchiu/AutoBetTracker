@@ -58,9 +58,10 @@ async function loadAllData() {
         const allTeamModel = [];
         
         for (const date of dates) {
+            const sourcePaths = getDataSourcePaths(date, today);
             const [playerProps, teamModel] = await Promise.all([
-                loadCSV(`${CONFIG.DATA_PATH}final/${date}_player_props_final.csv`, `${CONFIG.DATA_PATH}${date}_player_props.csv`),
-                loadCSV(`${CONFIG.DATA_PATH}final/${date}_team_model_final.csv`, `${CONFIG.DATA_PATH}${date}_team_model.csv`)
+                loadCSV(...sourcePaths.playerProps),
+                loadCSV(...sourcePaths.teamModel)
             ]);
             
             playerProps.forEach(p => { if (!p.date) p.date = date; });
@@ -100,8 +101,11 @@ async function discoverAvailableDates() {
         date.setDate(date.getDate() - i);
         const dateStr = date.toISOString().split('T')[0];
         
-        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}final/${dateStr}_player_props_final.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
-        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}final/${dateStr}_team_model_final.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
+        const sourcePaths = getDataSourcePaths(dateStr, document.getElementById('dateSelector')?.value || dateStr);
+        let playerPropsExists = false;
+        for (const path of sourcePaths.playerProps) { if (await fileExists(path)) { playerPropsExists = true; break; } }
+        let teamModelExists = false;
+        for (const path of sourcePaths.teamModel) { if (await fileExists(path)) { teamModelExists = true; break; } }
         
         if (playerPropsExists || teamModelExists) {
             dates.push(dateStr);
@@ -109,6 +113,34 @@ async function discoverAvailableDates() {
     }
     
     return dates.sort();
+}
+
+function getDataSourcePaths(date, today) {
+    const isToday = date === today;
+    if (isToday) {
+        return {
+            playerProps: [
+                `${CONFIG.DATA_PATH}final/${date}_player_props_final.csv`,
+                `${CONFIG.DATA_PATH}raw/${date}_player_props_raw.csv`,
+                `${CONFIG.DATA_PATH}${date}_player_props.csv`
+            ],
+            teamModel: [
+                `${CONFIG.DATA_PATH}final/${date}_team_model_final.csv`,
+                `${CONFIG.DATA_PATH}raw/${date}_team_model_raw.csv`,
+                `${CONFIG.DATA_PATH}${date}_team_model.csv`
+            ]
+        };
+    }
+    return {
+        playerProps: [
+            `${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`,
+            `${CONFIG.DATA_PATH}${date}_player_props.csv`
+        ],
+        teamModel: [
+            `${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`,
+            `${CONFIG.DATA_PATH}${date}_team_model.csv`
+        ]
+    };
 }
 
 // Check if a file exists
