@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade
+2026-03-10,Carlton Carrington,AST,3.5,FanDuel,5.7,0.84,0.824,38.2,OVER,Starter,Washington Wizards @ Miami Heat,2.16,0.5,Win,0.58,,B
+2026-03-10,Ryan Rollins,PTS,15.5,BetOnline.ag,10.5,0.87,0.72,36.5,UNDER,Rotation,Phoenix Suns @ Milwaukee Bucks,1.97,0.5,Win,0.48,,B
+2026-03-10,Myron Gardner,PTS,7.5,FanDuel,3.8,0.86,0.71,35.5,UNDER,Rotation,Washington Wizards @ Miami Heat,2.0,0.5,Win,0.5,,B
+2026-03-10,LeBron James,3PTM,1.5,BetMGM,2.2,0.74,0.709,30.8,OVER,Starter,Minnesota Timberwolves @ Los Angeles Lakers,2.3,0.5,Void,0,,B
+2026-03-10,Gui Santos,PTS,15.5,FanDuel,8.8,0.85,0.702,35.1,UNDER,Rotation,Chicago Bulls @ Golden State Warriors,2.0,0.5,Loss,-0.5,,B
+2026-03-10,Jarace Walker,PTS,17.5,BetMGM,12.0,0.86,0.681,34.9,UNDER,Rotation,Indiana Pacers @ Sacramento Kings,1.95,0.5,Win,0.47,,B
+2026-03-10,Jaylen Brown,AST,5.5,Caesars,7.5,0.77,0.635,29.8,OVER,Starter,Boston Celtics @ San Antonio Spurs,2.13,0.5,Win,0.56,,B
+2026-03-10,VJ Edgecombe,AST,4.5,Bovada,2.3,0.92,0.597,34.3,UNDER,Starter,Memphis Grizzlies @ Philadelphia 76ers,1.74,0.5,Loss,-0.5,,B
+2026-03-10,Ryan Rollins,3PTM,2.5,DraftKings,1.5,0.9,0.566,32.5,UNDER,Rotation,Phoenix Suns @ Milwaukee Bucks,1.74,0.5,Win,0.37,,B
+2026-03-10,Jayson Tatum,REB,6.5,BetRivers,9.9,0.81,0.565,29.3,OVER,Starter,Boston Celtics @ San Antonio Spurs,1.93,0.5,Loss,-0.5,,B

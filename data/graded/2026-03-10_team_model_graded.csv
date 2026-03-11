@@ -1,0 +1,15 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,grade,edge_pct
+2026-03-10,Memphis Grizzlies @ Philadelphia 76ers,SPREAD,76ers -3.0,-3.0,Philadelphia 76ers -14.2,11.2,BetOnline.ag,1.91,1.0,Win,0.91,,A,11.2
+2026-03-10,Dallas Mavericks @ Atlanta Hawks,SPREAD,Mavericks +10.0,10.0,Dallas Mavericks -4.9,5.1,MyBookie.ag,1.91,0.5,Loss,-0.5,,B,5.1
+2026-03-10,Dallas Mavericks @ Atlanta Hawks,TOTAL,UNDER 240.0,240.0,230.1,9.9,MyBookie.ag,1.91,0.5,Win,0.45,,B,9.9
+2026-03-10,Detroit Pistons @ Brooklyn Nets,TOTAL,OVER 217.5,217.5,221.0,3.5,FanDuel,1.91,0.0,Win,0.0,,C,3.5
+2026-03-10,Washington Wizards @ Miami Heat,SPREAD,Wizards +15.5,15.5,Washington Wizards -8.0,7.5,FanDuel,1.91,0.5,Loss,-0.5,,B,7.5
+2026-03-10,Washington Wizards @ Miami Heat,TOTAL,OVER 242.5,242.5,246.8,4.3,FanDuel,1.91,0.0,Win,0.0,,C,4.3
+2026-03-10,Boston Celtics @ San Antonio Spurs,SPREAD,Spurs -3.5,-3.5,San Antonio Spurs -11.7,8.2,Fanatics,1.91,0.5,Win,0.45,,B,8.2
+2026-03-10,Toronto Raptors @ Houston Rockets,TOTAL,UNDER 217.5,217.5,209.1,8.4,BetUS,1.91,0.5,Win,0.45,,B,8.4
+2026-03-10,Phoenix Suns @ Milwaukee Bucks,SPREAD,Bucks +1.0,1.0,Milwaukee Bucks -3.5,4.5,Fanatics,1.91,0.0,Loss,-0.0,,C,4.5
+2026-03-10,Phoenix Suns @ Milwaukee Bucks,TOTAL,OVER 217.5,217.5,223.7,6.2,Fanatics,1.91,0.5,Win,0.45,,B,6.2
+2026-03-10,Charlotte Hornets @ Portland Trail Blazers,SPREAD,Blazers +3.0,3.0,Portland Trail Blazers -1.9,4.9,Fanatics,1.91,0.0,Win,0.0,,C,4.9
+2026-03-10,Chicago Bulls @ Golden State Warriors,SPREAD,Warriors -6.5,-6.5,Golden State Warriors -12.1,5.6,MyBookie.ag,1.91,0.5,Loss,-0.5,,B,5.6
+2026-03-10,Chicago Bulls @ Golden State Warriors,TOTAL,UNDER 227.5,227.5,224.2,3.3,MyBookie.ag,1.91,0.0,Loss,-0.0,,C,3.3
+2026-03-10,Minnesota Timberwolves @ Los Angeles Lakers,TOTAL,UNDER 234.0,234.0,227.0,7.0,BetUS,1.91,0.5,Win,0.45,,B,7.0
