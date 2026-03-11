@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-03-11,James Harden,3PTM,2.5,DraftKings,3.2,0.81,0.759,34.8,OVER,Starter,Cleveland Cavaliers @ Orlando Magic,2.18,0.25,Pending,0,
+2026-03-11,Kris Dunn,AST,3.5,BetRivers,5.2,0.83,0.608,31.5,OVER,Rotation,Minnesota Timberwolves @ Los Angeles Clippers,1.93,0.25,Pending,0,
+2026-03-11,Tari Eason,PTS,9.5,BetRivers,6.9,0.76,0.608,28.7,UNDER,Rotation,Houston Rockets @ Denver Nuggets,2.12,0.25,Pending,0,
+2026-03-11,Wendell Carter Jr,PTS,9.5,BetRivers,13.3,0.82,0.607,31.0,OVER,Starter,Cleveland Cavaliers @ Orlando Magic,1.96,0.25,Pending,0,
+2026-03-11,Paolo Banchero,AST,4.5,BetMGM,6.0,0.74,0.6,27.9,OVER,Starter,Cleveland Cavaliers @ Orlando Magic,2.15,0.25,Pending,0,
+2026-03-11,Brandon Miller,REB,5.5,FanDuel,8.0,0.76,0.595,28.3,OVER,Starter,Charlotte Hornets @ Sacramento Kings,2.1,0.25,Pending,0,
+2026-03-11,Kon Knueppel,PTS,19.5,DraftKings,25.8,0.81,0.579,29.6,OVER,Starter,Charlotte Hornets @ Sacramento Kings,1.96,0.25,Pending,0,
+2026-03-11,Derik Queen,REB,4.5,BetRivers,6.6,0.75,0.54,26.2,OVER,Rotation,Toronto Raptors @ New Orleans Pelicans,2.06,0.25,Pending,0,
+2026-03-11,Cameron Johnson,AST,1.5,BetMGM,2.7,0.79,0.539,27.6,OVER,Starter,Houston Rockets @ Denver Nuggets,1.95,0.25,Pending,0,
+2026-03-11,Moussa Diabate,REB,9.5,FanDuel,7.1,0.78,0.535,27.0,UNDER,Rotation,Charlotte Hornets @ Sacramento Kings,1.98,0.25,Pending,0,
