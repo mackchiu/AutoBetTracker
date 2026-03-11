@@ -326,7 +326,6 @@ function renderPlayerPropsTable(picks) {
                 <td>${pick.bet || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
-                <td>${renderSignalIcons(pick)}</td>
                 <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
@@ -398,7 +397,6 @@ function renderTeamModelTable(picks) {
                 <td>${pick.book || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
-                <td>${renderSignalIcons(pick)}</td>
                 <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
