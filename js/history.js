@@ -6,7 +6,8 @@
 // Configuration
 const CONFIG = {
     DATA_PATH: 'data/',
-    KNOWN_DATES: ['2026-02-25', '2026-02-26']  // Will be auto-detected
+    KNOWN_DATES: ['2026-02-25', '2026-02-26'],  // Will be auto-detected
+    CLEAN_HISTORY_START: '2026-03-05'
 };
 
 // State
@@ -58,8 +59,8 @@ async function loadAllHistoryData() {
         
         for (const date of dates) {
             const [playerProps, teamModel] = await Promise.all([
-                loadCSV(`${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`, `${CONFIG.DATA_PATH}${date}_player_props.csv`),
-                loadCSV(`${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`, `${CONFIG.DATA_PATH}${date}_team_model.csv`)
+                loadCSV(`${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`, `${CONFIG.DATA_PATH}final/${date}_player_props_final.csv`, `${CONFIG.DATA_PATH}${date}_player_props.csv`),
+                loadCSV(`${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`, `${CONFIG.DATA_PATH}final/${date}_team_model_final.csv`, `${CONFIG.DATA_PATH}${date}_team_model.csv`)
             ]);
             
             // Add date to each record if not present
@@ -108,8 +109,8 @@ async function discoverAvailableDates() {
         const dateStr = date.toISOString().split('T')[0];
         
         // Check if either file exists for this date
-        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_player_props_graded.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
-        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_team_model_graded.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
+        const playerPropsExists = await fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_player_props_graded.csv`) || await fileExists(`${CONFIG.DATA_PATH}final/${dateStr}_player_props_final.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_player_props.csv`);
+        const teamModelExists = await fileExists(`${CONFIG.DATA_PATH}graded/${dateStr}_team_model_graded.csv`) || await fileExists(`${CONFIG.DATA_PATH}final/${dateStr}_team_model_final.csv`) || await fileExists(`${CONFIG.DATA_PATH}${dateStr}_team_model.csv`);
         
         if (playerPropsExists || teamModelExists) {
             dates.push(dateStr);
@@ -121,6 +122,8 @@ async function discoverAvailableDates() {
         if (!dates.includes(date)) {
             const exists = await fileExists(`${CONFIG.DATA_PATH}graded/${date}_player_props_graded.csv`) ||
                           await fileExists(`${CONFIG.DATA_PATH}graded/${date}_team_model_graded.csv`) ||
+                          await fileExists(`${CONFIG.DATA_PATH}final/${date}_player_props_final.csv`) ||
+                          await fileExists(`${CONFIG.DATA_PATH}final/${date}_team_model_final.csv`) ||
                           await fileExists(`${CONFIG.DATA_PATH}${date}_player_props.csv`) ||
                           await fileExists(`${CONFIG.DATA_PATH}${date}_team_model.csv`);
             if (exists) {
@@ -129,8 +132,8 @@ async function discoverAvailableDates() {
         }
     }
     
-    // Sort ascending
-    return dates.sort();
+    // Sort ascending and keep March 5+ only for current history layer
+    return dates.filter(d => d >= CONFIG.CLEAN_HISTORY_START).sort();
 }
 
 // Check if a file exists
