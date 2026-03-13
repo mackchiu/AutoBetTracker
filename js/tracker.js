@@ -159,7 +159,7 @@ async function loadCSV(...paths) {
         try {
             const response = await fetch(path);
         if (!response.ok) {
-            if (response.status === 404) return [];
+            if (response.status === 404) continue;
             throw new Error(`HTTP ${response.status}`);
         }
             const text = await response.text();
