@@ -1,11 +1,11 @@
-date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade
-2026-03-12,Ryan Rollins,PTS,15.5,BetRivers,10.9,0.91,0.853,41.8,UNDER,Starter,Milwaukee Bucks @ Miami Heat,2.04,0.5,Pending,0,,B
-2026-03-12,Isaiah Joe,PTS,12.5,Bovada,17.5,0.79,0.811,35.2,OVER,Starter,Boston Celtics @ Oklahoma City Thunder,2.3,0.5,Pending,0,,B
-2026-03-12,Giannis Antetokounmpo,PTS,25.5,FanDuel,22.2,0.89,0.756,38.2,UNDER,Starter,Milwaukee Bucks @ Miami Heat,1.98,0.5,Pending,0,,B
-2026-03-12,Ryan Rollins,PTS,16.5,DraftKings,10.9,0.95,0.733,40.1,UNDER,Starter,Milwaukee Bucks @ Miami Heat,1.83,0.5,Pending,0,,B
-2026-03-12,Devin Vassell,REB,3.5,BetOnline.ag,5.0,0.83,0.641,32.5,OVER,Starter,Denver Nuggets @ San Antonio Spurs,1.97,0.5,Pending,0,,B
-2026-03-12,Trae Young,AST,5.5,BetOnline.ag,8.5,0.75,0.614,28.5,OVER,Rotation,Washington Wizards @ Orlando Magic,2.15,0.5,Pending,0,,B
-2026-03-12,Ryan Rollins,3PTM,2.5,BetMGM,1.8,0.82,0.602,30.9,UNDER,Starter,Milwaukee Bucks @ Miami Heat,1.95,0.5,Pending,0,,B
-2026-03-12,Drake Powell,REB,2.5,Bovada,1.4,0.83,0.583,30.5,UNDER,Rotation,Brooklyn Nets @ Atlanta Hawks,1.91,0.5,Pending,0,,B
-2026-03-12,Devin Vassell,AST,2.5,BetMGM,3.3,0.73,0.568,26.4,OVER,Starter,Denver Nuggets @ San Antonio Spurs,2.15,0.5,Pending,0,,B
-2026-03-12,Taylor Hendricks,3PTM,1.5,FanDuel,2.1,0.67,0.525,23.2,OVER,Rotation,Dallas Mavericks @ Memphis Grizzlies,2.26,0.0,Pending,0,,C
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-12,Ryan Rollins,PTS,15.5,BetRivers,10.9,0.91,0.853,41.8,UNDER,Starter,Milwaukee Bucks @ Miami Heat,2.04,0.5,Pending,0,,B,,,,
+2026-03-12,Isaiah Joe,PTS,12.5,Bovada,17.5,0.79,0.811,35.2,OVER,Starter,Boston Celtics @ Oklahoma City Thunder,2.3,0.5,Pending,0,,B,,,,
+2026-03-12,Giannis Antetokounmpo,PTS,25.5,FanDuel,22.2,0.89,0.756,38.2,UNDER,Starter,Milwaukee Bucks @ Miami Heat,1.98,0.5,Pending,0,,B,,,,
+2026-03-12,Ryan Rollins,PTS,16.5,DraftKings,10.9,0.95,0.733,40.1,UNDER,Starter,Milwaukee Bucks @ Miami Heat,1.83,0.5,Pending,0,,B,,,,
+2026-03-12,Devin Vassell,REB,3.5,BetOnline.ag,5.0,0.83,0.641,32.5,OVER,Starter,Denver Nuggets @ San Antonio Spurs,1.97,0.5,Pending,0,,B,,,,
+2026-03-12,Trae Young,AST,5.5,BetOnline.ag,8.5,0.75,0.614,28.5,OVER,Rotation,Washington Wizards @ Orlando Magic,2.15,0.5,Pending,0,,B,,,,
+2026-03-12,Ryan Rollins,3PTM,2.5,BetMGM,1.8,0.82,0.602,30.9,UNDER,Starter,Milwaukee Bucks @ Miami Heat,1.95,0.5,Pending,0,,B,,,,
+2026-03-12,Drake Powell,REB,2.5,Bovada,1.4,0.83,0.583,30.5,UNDER,Rotation,Brooklyn Nets @ Atlanta Hawks,1.91,0.5,Pending,0,,B,,,,
+2026-03-12,Devin Vassell,AST,2.5,BetMGM,3.3,0.73,0.568,26.4,OVER,Starter,Denver Nuggets @ San Antonio Spurs,2.15,0.5,Pending,0,,B,,,,
+2026-03-12,Taylor Hendricks,3PTM,1.5,FanDuel,2.1,0.67,0.525,23.2,OVER,Rotation,Dallas Mavericks @ Memphis Grizzlies,2.26,0.0,Pending,0,,C,,,,
