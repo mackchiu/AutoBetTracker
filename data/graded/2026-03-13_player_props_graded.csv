@@ -7,5 +7,5 @@ date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stak
 2026-03-13,Cooper Flagg,AST,4.5,FanDuel,5.7,0.75,0.612,28.6,OVER,Starter,Cleveland Cavaliers @ Dallas Mavericks,2.14,0.5,Win,0.57,,B
 2026-03-13,Isaiah Collier,AST,9.5,BetRivers,6.3,0.93,0.579,34.1,UNDER,Rotation,Utah Jazz @ Portland Trail Blazers,1.7,0.5,Win,0.35,,B
 2026-03-13,Jeremiah Fears,AST,2.5,BetRivers,3.8,0.76,0.576,27.7,OVER,Rotation,New Orleans Pelicans @ Houston Rockets,2.08,0.5,Loss,-0.5,,B
-2026-03-13,G.G. Jackson,REB,4.5,BetOnline.ag,6.8,0.78,0.566,28.3,OVER,Rotation,Memphis Grizzlies @ Detroit Pistons,2.0,0.5,Pending,0,,B
+2026-03-13,G.G. Jackson,REB,4.5,BetOnline.ag,6.8,0.78,0.566,28.3,OVER,Rotation,Memphis Grizzlies @ Detroit Pistons,2.0,0.5,Void,0,,B
 2026-03-13,Derik Queen,REB,4.5,FanDuel,6.5,0.75,0.56,26.9,OVER,Rotation,New Orleans Pelicans @ Houston Rockets,2.08,0.5,Loss,-0.5,,B
