@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-14,Precious Achiuwa,REB,6.5,Caesars,8.4,0.81,0.766,35.2,OVER,Rotation,Sacramento Kings @ Los Angeles Clippers,2.18,0.5,Win,0.59,,B,,,,
+2026-03-14,Jaylen Brown,AST,5.5,FanDuel,8.0,0.94,0.762,40.6,OVER,Starter,Washington Wizards @ Boston Celtics,1.88,0.5,Loss,-0.5,,B,,,,
+2026-03-14,Giannis Antetokounmpo,PTS,26.5,BetRivers,23.1,0.81,0.748,34.6,UNDER,Starter,Milwaukee Bucks @ Atlanta Hawks,2.16,0.5,Void,0,,B,,,,
+2026-03-14,Ryan Rollins,PTS,17.5,FanDuel,10.5,0.97,0.708,40.2,UNDER,Starter,Milwaukee Bucks @ Atlanta Hawks,1.76,0.5,Loss,-0.5,,B,,,,
+2026-03-14,Giannis Antetokounmpo,PTS,27.5,FanDuel,23.1,0.87,0.689,35.5,UNDER,Starter,Milwaukee Bucks @ Atlanta Hawks,1.94,0.5,Void,0,,B,,,,
+2026-03-14,Carlton Carrington,AST,3.5,BetMGM,5.8,0.9,0.687,36.8,OVER,Starter,Washington Wizards @ Boston Celtics,1.87,0.5,Win,0.44,,B,,,,
+2026-03-14,Kon Knueppel,PTS,18.5,FanDuel,24.5,0.8,0.636,31.2,OVER,Starter,Charlotte Hornets @ San Antonio Spurs,2.04,0.5,Win,0.52,,B,,,,
+2026-03-14,Quentin Grimes,AST,4.5,FanDuel,2.7,0.81,0.605,30.5,UNDER,Starter,Brooklyn Nets @ Philadelphia 76ers,1.98,0.5,Win,0.49,,B,,,,
+2026-03-14,Jalen Wilson,REB,2.5,DraftKings,1.8,0.7,0.549,25.0,UNDER,Rotation,Brooklyn Nets @ Philadelphia 76ers,2.2,0.5,Void,0,,B,,,,
+2026-03-14,Precious Achiuwa,REB,5.5,DraftKings,8.4,0.91,0.545,32.1,OVER,Rotation,Sacramento Kings @ Los Angeles Clippers,1.7,0.5,Win,0.35,,B,,,,
