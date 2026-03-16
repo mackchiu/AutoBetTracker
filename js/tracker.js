@@ -13,6 +13,7 @@ const CONFIG = {
 let state = {
     allPlayerProps: [],
     allTeamModel: [],
+    allMoneyline: [],
     todayPlayerProps: [],
     todayTeamModel: [],
     todayMoneyline: [],
@@ -273,7 +274,7 @@ function filterTodayPicks() {
     // Filter from all data
     let playerProps = state.allPlayerProps.filter(p => p.date === selectedDate);
     let teamModel = state.allTeamModel.filter(p => p.date === selectedDate && (p.market || '').toUpperCase() !== 'MONEYLINE');
-    let moneyline = state.allTeamModel.filter(p => p.date === selectedDate && (p.market || '').toUpperCase() === 'MONEYLINE');
+    let moneyline = (state.allMoneyline || []).filter(p => p.date === selectedDate);
     
     // Apply model filter
     if (modelFilter === 'player-props') {
@@ -416,6 +417,7 @@ function renderTeamModelTable(picks) {
                 <td>${pick.book || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
+                <td>${renderSignalIcons(pick)}</td>
                 <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
