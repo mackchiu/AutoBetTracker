@@ -57,6 +57,7 @@ async function loadAllData() {
         
         const allPlayerProps = [];
         const allTeamModel = [];
+        const allMoneyline = [];
         
         for (const date of dates) {
             const sourcePaths = getDataSourcePaths(date, today);
@@ -71,12 +72,16 @@ async function loadAllData() {
             const activePlayerProps = playerProps.filter(p => String(p.legacy || '').toLowerCase() !== 'true');
             const activeTeamModel = teamModel.filter(p => String(p.legacy || '').toLowerCase() !== 'true');
             
+            const activeMoneyline = activeTeamModel.filter(p => (p.market || '').toUpperCase() === 'MONEYLINE');
+            const activeNonMoneyline = activeTeamModel.filter(p => (p.market || '').toUpperCase() !== 'MONEYLINE');
             allPlayerProps.push(...activePlayerProps);
-            allTeamModel.push(...activeTeamModel);
+            allTeamModel.push(...activeNonMoneyline);
+            allMoneyline.push(...activeMoneyline);
         }
         
         state.allPlayerProps = allPlayerProps;
         state.allTeamModel = allTeamModel;
+        state.allMoneyline = allMoneyline;
         state.todayPlayerProps = allPlayerProps.filter(p => p.date === today);
         state.todayTeamModel = allTeamModel.filter(p => p.date === today);
         state.lastRefresh = new Date();
@@ -210,11 +215,17 @@ function calculateKPIs() {
     updateKPIDisplay('playerWinRate', formatPercent(playerStats.winRate));
     updateKPIDisplay('playerROI', formatPercent(playerStats.roi), playerStats.roi >= 0);
     
-    // Team Model KPIs (all-time)
+    // Team Model KPIs (all-time, excluding moneyline)
     const teamStats = calculateStats(state.allTeamModel);
     updateKPIDisplay('teamBets', teamStats.totalBets);
     updateKPIDisplay('teamWinRate', formatPercent(teamStats.winRate));
     updateKPIDisplay('teamROI', formatPercent(teamStats.roi), teamStats.roi >= 0);
+
+    // Moneyline KPIs
+    const mlStats = calculateStats(state.allMoneyline || []);
+    updateKPIDisplay('mlBets', mlStats.totalBets);
+    updateKPIDisplay('mlWinRate', formatPercent(mlStats.winRate));
+    updateKPIDisplay('mlROI', formatPercent(mlStats.roi), mlStats.roi >= 0);
 }
 
 // Calculate stats for a set of picks
