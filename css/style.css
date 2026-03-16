@@ -172,14 +172,21 @@ body {
     color: var(--text-primary);
 }
 
-.kpi-grid {
+.kpi-grid-overall {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.kpi-grid-secondary {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
 @media (max-width: 1024px) {
-    .kpi-grid {
+    .kpi-grid-secondary {
         grid-template-columns: 1fr;
     }
 }

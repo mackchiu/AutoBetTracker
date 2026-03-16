@@ -202,7 +202,7 @@ function parseCSV(text) {
 
 // Calculate all KPIs using ALL historical data
 function calculateKPIs() {
-    const allPicks = [...state.allPlayerProps, ...state.allTeamModel];
+    const allPicks = [...state.allPlayerProps, ...state.allTeamModel, ...(state.allMoneyline || [])];
     
     // Overall KPIs
     const overall = calculateStats(allPicks);
