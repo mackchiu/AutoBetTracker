@@ -467,6 +467,8 @@ function renderMoneylineTable(picks) {
             <tr>
                 <td><strong>${pick.game || '-'}</strong></td>
                 <td>${pickText}</td>
+                <td>${pick.book || '-'}</td>
+                <td>${pick.odds ? parseFloat(pick.odds).toFixed(2) : '-'}</td>
                 <td>${winProb}</td>
                 <td class="edge-high">${edge}</td>
                 <td>${unitsDisplay}</td>
