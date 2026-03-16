@@ -15,6 +15,7 @@ let state = {
     allTeamModel: [],
     todayPlayerProps: [],
     todayTeamModel: [],
+    todayMoneyline: [],
     lastRefresh: null
 };
 
@@ -259,11 +260,13 @@ function filterTodayPicks() {
     
     // Filter from all data
     let playerProps = state.allPlayerProps.filter(p => p.date === selectedDate);
-    let teamModel = state.allTeamModel.filter(p => p.date === selectedDate);
+    let teamModel = state.allTeamModel.filter(p => p.date === selectedDate && (p.market || '').toUpperCase() !== 'MONEYLINE');
+    let moneyline = state.allTeamModel.filter(p => p.date === selectedDate && (p.market || '').toUpperCase() === 'MONEYLINE');
     
     // Apply model filter
     if (modelFilter === 'player-props') {
         teamModel = [];
+        moneyline = [];
     } else if (modelFilter === 'team-model') {
         playerProps = [];
     }
@@ -273,10 +276,13 @@ function filterTodayPicks() {
         modelFilter === 'team-model' ? 'none' : 'block';
     document.getElementById('teamModelSection').style.display = 
         modelFilter === 'player-props' ? 'none' : 'block';
+    document.getElementById('moneylineSection').style.display = 
+        modelFilter === 'player-props' ? 'none' : 'block';
     
     // Render tables
     renderPlayerPropsTable(playerProps);
     renderTeamModelTable(teamModel);
+    renderMoneylineTable(moneyline);
 }
 
 function normalizeEdgeDisplay(pick) {
@@ -397,6 +403,57 @@ function renderTeamModelTable(picks) {
                 <td>${pick.book || '-'}</td>
                 <td>${odds}</td>
                 <td class="${edgeClass}">${edge.toFixed(1)}%</td>
+                <td>${unitsDisplay}</td>
+                <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
+            </tr>
+        `;
+    }).join('');
+}
+
+
+function renderMoneylineTable(picks) {
+    const tbody = document.getElementById('moneylineBody');
+    if (picks.length === 0) {
+        tbody.innerHTML = `
+            <tr>
+                <td colspan="6" class="empty-state">
+                    <div class="empty-state-icon">💰</div>
+                    No moneyline value picks for selected date
+                </td>
+            </tr>
+        `;
+        return;
+    }
+
+    tbody.innerHTML = picks.map(pick => {
+        const statusClass = getStatusClass(pick.result || 'pending');
+        const units = parseFloat(pick.stake) || 0;
+        const unitsDisplay = units > 0 ? units.toFixed(2) : '-';
+        const pickText = pick.pick || pick.ml_candidate || '-';
+        let winProb = '-';
+        if (pick.pick && pick.pick.includes('ML')) {
+            const team = pick.pick.replace(' ML','');
+            if (pick.game && pick.game.split(' @ ')[1] === team && pick.home_ml_prob) {
+                winProb = `${(parseFloat(pick.home_ml_prob) * 100).toFixed(1)}%`;
+            } else if (pick.away_ml_prob) {
+                winProb = `${(parseFloat(pick.away_ml_prob) * 100).toFixed(1)}%`;
+            }
+        }
+        let edge = '-';
+        if (pick.pick && pick.pick.includes('ML')) {
+            const team = pick.pick.replace(' ML','');
+            if (pick.game && pick.game.split(' @ ')[1] === team && pick.home_ml_edge !== undefined) {
+                edge = `${parseFloat(pick.home_ml_edge).toFixed(1)}%`;
+            } else if (pick.away_ml_edge !== undefined) {
+                edge = `${parseFloat(pick.away_ml_edge).toFixed(1)}%`;
+            }
+        }
+        return `
+            <tr>
+                <td><strong>${pick.game || '-'}</strong></td>
+                <td>${pickText}</td>
+                <td>${winProb}</td>
+                <td class="edge-high">${edge}</td>
                 <td>${unitsDisplay}</td>
                 <td><span class="status ${statusClass}">${formatStatus(pick.result || 'pending')}</span></td>
             </tr>
