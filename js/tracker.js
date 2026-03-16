@@ -84,6 +84,7 @@ async function loadAllData() {
         state.allMoneyline = allMoneyline;
         state.todayPlayerProps = allPlayerProps.filter(p => p.date === today);
         state.todayTeamModel = allTeamModel.filter(p => p.date === today);
+        state.todayMoneyline = allMoneyline.filter(p => p.date === today);
         state.lastRefresh = new Date();
         
         updateLastUpdated();
@@ -280,6 +281,7 @@ function filterTodayPicks() {
         moneyline = [];
     } else if (modelFilter === 'team-model') {
         playerProps = [];
+        moneyline = [];
     }
     
     // Update visibility
