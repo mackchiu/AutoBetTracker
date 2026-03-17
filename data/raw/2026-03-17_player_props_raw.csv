@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-03-17,Precious Achiuwa,REB,8.5,Bovada,10.4,0.82,0.805,36.6,OVER,Starter,San Antonio Spurs @ Sacramento Kings,2.2,0.25,Pending,0,
+2026-03-17,Ayo Dosunmu,PTS,15.5,Bovada,10.8,0.83,0.738,35.2,UNDER,Rotation,Phoenix Suns @ Minnesota Timberwolves,2.1,0.25,Pending,0,
+2026-03-17,Wendell Carter Jr,PTS,11.5,Bovada,15.4,0.79,0.656,31.2,OVER,Starter,Oklahoma City Thunder @ Orlando Magic,2.1,0.25,Pending,0,
+2026-03-17,Julius Randle,PTS,21.5,FanDuel,13.3,0.83,0.656,32.8,UNDER,Starter,Phoenix Suns @ Minnesota Timberwolves,2.0,0.25,Pending,0,
+2026-03-17,Giannis Antetokounmpo,PTS,28.5,BetMGM,23.2,0.87,0.616,33.3,UNDER,Starter,Cleveland Cavaliers @ Milwaukee Bucks,1.85,0.25,Pending,0,
+2026-03-17,Kyle Kuzma,REB,4.5,BetRivers,3.5,0.89,0.556,31.7,UNDER,Rotation,Cleveland Cavaliers @ Milwaukee Bucks,1.75,0.25,Pending,0,
+2026-03-17,Brandon Miller,AST,3.5,FanDuel,4.0,0.69,0.542,24.4,OVER,Starter,Miami Heat @ Charlotte Hornets,2.22,0.25,Pending,0,
+2026-03-17,Ayo Dosunmu,3PTM,1.5,BetMGM,0.9,0.67,0.502,22.3,UNDER,Rotation,Phoenix Suns @ Minnesota Timberwolves,2.25,0.25,Pending,0,
+2026-03-17,Cason Wallace,AST,2.5,BetMGM,4.4,0.76,0.475,24.4,OVER,Rotation,Oklahoma City Thunder @ Orlando Magic,1.95,0.25,Pending,0,
+2026-03-17,Cameron Johnson,REB,3.5,FanDuel,4.2,0.67,0.44,20.4,OVER,Starter,Philadelphia 76ers @ Denver Nuggets,2.16,0.25,Pending,0,
