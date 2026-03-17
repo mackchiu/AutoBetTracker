@@ -1,19 +1,16 @@
 date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
-2026-03-16,Orlando Magic @ Atlanta Hawks,MONEYLINE,Orlando Magic ML,,51.2% win prob,7.7,BetOnline.ag,1.91,0.5,Pending,0,,0.4885,0.5115,-12.88,7.68,Orlando Magic ML
-2026-03-16,Orlando Magic @ Atlanta Hawks,SPREAD,Magic +3.0,3.0,Orlando Magic -5.2,8.2,BetOnline.ag,1.91,0.5,Pending,0,,0.4885,0.5115,-12.88,7.68,Orlando Magic ML
-2026-03-16,Orlando Magic @ Atlanta Hawks,TOTAL,UNDER 231.0,231.0,221.0,10.0,BetOnline.ag,1.91,1.0,Pending,0,,0.4885,0.5115,-12.88,7.68,Orlando Magic ML
-2026-03-16,Golden State Warriors @ Washington Wizards,SPREAD,Wizards +7.5,7.5,Washington Wizards -1.1,8.6,Caesars,1.91,0.5,Pending,0,,0.7648,0.2352,47.5,-51.11,
-2026-03-16,Golden State Warriors @ Washington Wizards,TOTAL,OVER 233.0,233.0,243.2,10.2,Caesars,1.91,1.0,Pending,0,,0.7648,0.2352,47.5,-51.11,
-2026-03-16,Phoenix Suns @ Boston Celtics,MONEYLINE,Boston Celtics ML,,94.4% win prob,13.8,FanDuel,1.91,1.0,Pending,0,,0.944,0.056,13.76,-18.73,Boston Celtics ML
-2026-03-16,Phoenix Suns @ Boston Celtics,TOTAL,UNDER 214.5,214.5,210.5,4.0,FanDuel,1.91,0.0,Pending,0,,0.944,0.056,13.76,-18.73,Boston Celtics ML
-2026-03-16,Portland Trail Blazers @ Brooklyn Nets,SPREAD,Nets +10.5,10.5,Brooklyn Nets -4.0,6.5,DraftKings,1.91,0.5,Pending,0,,0.5471,0.4529,33.97,-38.05,
-2026-03-16,Portland Trail Blazers @ Brooklyn Nets,TOTAL,UNDER 221.5,221.5,216.2,5.3,DraftKings,1.91,0.5,Pending,0,,0.5471,0.4529,33.97,-38.05,
-2026-03-16,Memphis Grizzlies @ Chicago Bulls,MONEYLINE,Memphis Grizzlies ML,,36.4% win prob,5.6,Caesars,1.91,0.5,Pending,0,,0.6363,0.3637,-9.37,5.6,Memphis Grizzlies ML
-2026-03-16,Memphis Grizzlies @ Chicago Bulls,SPREAD,Grizzlies +7.0,7.0,Memphis Grizzlies -2.0,9.0,Caesars,1.91,0.5,Pending,0,,0.6363,0.3637,-9.37,5.6,Memphis Grizzlies ML
-2026-03-16,Memphis Grizzlies @ Chicago Bulls,TOTAL,UNDER 243.5,243.5,233.8,9.7,Caesars,1.91,0.5,Pending,0,,0.6363,0.3637,-9.37,5.6,Memphis Grizzlies ML
-2026-03-16,Dallas Mavericks @ New Orleans Pelicans,MONEYLINE,New Orleans Pelicans ML,,92.7% win prob,14.6,LowVig.ag,1.91,1.0,Pending,0,,0.9274,0.0726,14.61,-18.38,New Orleans Pelicans ML
-2026-03-16,Dallas Mavericks @ New Orleans Pelicans,TOTAL,UNDER 240.5,240.5,228.7,11.8,LowVig.ag,1.91,1.0,Pending,0,,0.9274,0.0726,14.61,-18.38,New Orleans Pelicans ML
-2026-03-16,Los Angeles Lakers @ Houston Rockets,SPREAD,Rockets -2.0,-2.0,Houston Rockets -7.3,5.3,Caesars,1.91,0.5,Pending,0,,0.9266,0.0734,36.16,-41.2,
-2026-03-16,Los Angeles Lakers @ Houston Rockets,TOTAL,UNDER 225.0,225.0,215.6,9.4,Caesars,1.91,0.5,Pending,0,,0.9266,0.0734,36.16,-41.2,
-2026-03-16,San Antonio Spurs @ Los Angeles Clippers,SPREAD,Clippers +8.0,8.0,Los Angeles Clippers -3.1,4.9,FanDuel,1.91,0.0,Pending,0,,0.587,0.413,31.23,-36.22,
-2026-03-16,San Antonio Spurs @ Los Angeles Clippers,TOTAL,OVER 233.5,233.5,239.4,5.9,FanDuel,1.91,0.5,Pending,0,,0.587,0.413,31.23,-36.22,
+2026-03-16,Golden State Warriors @ Washington Wizards,SPREAD,Wizards +8.5,8.5,Washington Wizards -0.9,9.4,FanDuel,,0.5,Pending,0,,0.755,0.245,58.11,-55.5,
+2026-03-16,Orlando Magic @ Atlanta Hawks,SPREAD,Magic +9.5,9.5,Orlando Magic -5.2,14.7,MyBookie.ag,,1.0,Pending,0,,0.4885,0.5115,-35.19,32.11,
+2026-03-16,Orlando Magic @ Atlanta Hawks,TOTAL,UNDER 230.5,230.5,221.0,9.5,MyBookie.ag,,0.5,Pending,0,,0.4885,0.5115,-35.19,32.11,
+2026-03-16,Portland Trail Blazers @ Brooklyn Nets,SPREAD,Nets +19.5,19.5,Brooklyn Nets -3.9,15.6,FanDuel,,1.0,Pending,0,,0.5504,0.4496,48.79,-51.19,
+2026-03-16,Phoenix Suns @ Boston Celtics,MONEYLINE,Boston Celtics ML,,91.2% win prob,15.4,FanDuel,1.32,1.0,Pending,0,,0.9117,0.0883,15.42,-16.81,Boston Celtics ML
+2026-03-16,Phoenix Suns @ Boston Celtics,TOTAL,UNDER 224.5,224.5,210.5,14.0,Bovada,,1.0,Pending,0,,0.9117,0.0883,15.42,-16.81,Boston Celtics ML
+2026-03-16,Memphis Grizzlies @ Chicago Bulls,MONEYLINE,Memphis Grizzlies ML,,36.4% win prob,6.5,Bovada,3.35,0.5,Pending,0,,0.6363,0.3637,-8.84,6.52,Memphis Grizzlies ML
+2026-03-16,Memphis Grizzlies @ Chicago Bulls,SPREAD,Grizzlies +7.0,7.0,Memphis Grizzlies -2.0,9.0,BetRivers,,0.5,Pending,0,,0.6363,0.3637,-8.84,6.52,Memphis Grizzlies ML
+2026-03-16,Memphis Grizzlies @ Chicago Bulls,TOTAL,UNDER 244.0,244.0,233.8,10.2,BetRivers,,1.0,Pending,0,,0.6363,0.3637,-8.84,6.52,Memphis Grizzlies ML
+2026-03-16,Dallas Mavericks @ New Orleans Pelicans,MONEYLINE,New Orleans Pelicans ML,,90.5% win prob,15.3,Caesars,1.33,1.0,Pending,0,,0.9046,0.0954,15.27,-15.46,New Orleans Pelicans ML
+2026-03-16,Dallas Mavericks @ New Orleans Pelicans,TOTAL,UNDER 238.5,238.5,228.7,9.8,BetRivers,,0.5,Pending,0,,0.9046,0.0954,15.27,-15.46,New Orleans Pelicans ML
+2026-03-16,Los Angeles Lakers @ Houston Rockets,SPREAD,Rockets +1.5,1.5,Houston Rockets -5.1,6.6,BetRivers,,0.5,Pending,0,,0.882,0.118,38.7,-41.68,
+2026-03-16,Los Angeles Lakers @ Houston Rockets,TOTAL,UNDER 223.5,223.5,215.6,7.9,BetRivers,,0.5,Pending,0,,0.882,0.118,38.7,-41.68,
+2026-03-16,San Antonio Spurs @ Los Angeles Clippers,SPREAD,Clippers +8.0,8.0,Los Angeles Clippers -3.7,4.3,Caesars,,0.0,Pending,0,,0.5616,0.4384,28.76,-31.91,
+2026-03-16,San Antonio Spurs @ Los Angeles Clippers,TOTAL,OVER 234.0,234.0,239.4,5.4,Caesars,,0.5,Pending,0,,0.5616,0.4384,28.76,-31.91,
