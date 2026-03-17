@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-16,Luke Kennard,PTS,7.5,Bovada,10.1,0.75,0.729,31.7,OVER,Rotation,Los Angeles Lakers @ Houston Rockets,2.3,0.0,Loss,-0.0,,C,,,,
+2026-03-16,Tari Eason,PTS,9.5,Bovada,6.4,0.82,0.728,34.7,UNDER,Rotation,Los Angeles Lakers @ Houston Rockets,2.1,0.5,Win,0.55,,B,,,,
+2026-03-16,Wendell Carter Jr,PTS,11.5,Bovada,15.7,0.81,0.663,32.3,OVER,Starter,Orlando Magic @ Atlanta Hawks,2.05,0.5,Win,0.52,,B,,,,
+2026-03-16,LeBron James,PTS,18.5,FanDuel,23.3,0.81,0.598,30.2,OVER,Starter,Los Angeles Lakers @ Houston Rockets,1.98,0.5,Loss,-0.5,,B,,,,
+2026-03-16,Jaylen Brown,AST,4.5,BetOnline.ag,7.7,0.91,0.582,33.4,OVER,Starter,Phoenix Suns @ Boston Celtics,1.74,0.5,Win,0.37,,B,,,,
+2026-03-16,Baylor Scheierman,3PTM,1.5,DraftKings,2.2,0.75,0.58,27.6,OVER,Starter,Phoenix Suns @ Boston Celtics,2.1,0.5,Win,0.55,,B,,,,
+2026-03-16,Jonathan Kuminga,REB,4.5,FanDuel,7.0,0.84,0.576,30.6,OVER,Rotation,Orlando Magic @ Atlanta Hawks,1.88,0.5,Win,0.44,,B,,,,
+2026-03-16,Tre Jones,AST,5.5,BetMGM,4.0,0.79,0.535,27.4,UNDER,Starter,Memphis Grizzlies @ Chicago Bulls,1.95,0.5,Win,0.47,,B,,,,
+2026-03-16,Sam Hauser,REB,3.5,DraftKings,4.9,0.84,0.487,27.4,OVER,Starter,Phoenix Suns @ Boston Celtics,1.78,0.5,Win,0.39,,B,,,,
+2026-03-16,Derrick White,3PTM,2.5,Fanatics,3.4,0.74,0.482,24.1,OVER,Starter,Phoenix Suns @ Boston Celtics,2.0,0.5,Win,0.5,,B,,,,
