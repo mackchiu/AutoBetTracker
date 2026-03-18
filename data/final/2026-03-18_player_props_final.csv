@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-18,LeBron James,PTS,18.5,BetRivers,22.2,0.81,0.775,35.6,OVER,Starter,Los Angeles Lakers @ Houston Rockets,2.18,0.5,Pending,0,,B,,,,
+2026-03-18,Tari Eason,PTS,9.5,FanDuel,6.1,0.87,0.721,36.4,UNDER,Rotation,Los Angeles Lakers @ Houston Rockets,1.98,0.5,Pending,0,,B,,,,
+2026-03-18,Jaden McDaniels,PTS,16.5,Bovada,10.4,0.85,0.697,34.8,UNDER,Rotation,Utah Jazz @ Minnesota Timberwolves,2.0,0.5,Pending,0,,B,,,,
+2026-03-18,Julius Randle,PTS,23.5,BetRivers,16.2,0.78,0.609,29.7,UNDER,Starter,Utah Jazz @ Minnesota Timberwolves,2.05,0.0,Pending,0,,C,,,,
+2026-03-18,Isaiah Collier,AST,7.5,Bovada,5.9,0.74,0.549,26.1,UNDER,Rotation,Utah Jazz @ Minnesota Timberwolves,2.1,0.0,Pending,0,,C,,,,
+2026-03-18,Matas Buzelis,REB,5.5,FanDuel,7.0,0.78,0.517,26.6,OVER,Starter,Toronto Raptors @ Chicago Bulls,1.94,0.5,Pending,0,,B,,,,
+2026-03-18,Nikola Jokic,3PTM,1.5,BetRivers,0.8,0.75,0.509,25.2,UNDER,Starter,Denver Nuggets @ Memphis Grizzlies,2.02,0.0,Pending,0,,C,,,,
+2026-03-18,Chet Holmgren,REB,8.5,Caesars,10.9,0.72,0.476,23.2,OVER,Starter,Oklahoma City Thunder @ Brooklyn Nets,2.05,0.5,Pending,0,,B,,,,
+2026-03-18,Gui Santos,REB,6.5,BetOnline.ag,8.0,0.68,0.458,21.3,OVER,Starter,Golden State Warriors @ Boston Celtics,2.15,0.0,Pending,0,,C,,,,
+2026-03-18,R.J. Barrett,REB,5.5,BetMGM,6.5,0.84,0.438,25.6,OVER,Starter,Toronto Raptors @ Chicago Bulls,1.71,0.5,Pending,0,,B,,,,

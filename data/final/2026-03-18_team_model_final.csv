@@ -1,0 +1,15 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate,grade,edge_pct,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-18,Golden State Warriors @ Boston Celtics,SPREAD,Warriors +11.5,11.5,Golden State Warriors -3.7,7.8,BetOnline.ag,1.91,0.5,Pending,0,,0.8473,0.1527,-0.74,-1.39,,B,7.8,—,—,—,—
+2026-03-18,Oklahoma City Thunder @ Brooklyn Nets,SPREAD,Nets +19.0,19.0,Brooklyn Nets -8.8,10.2,Fanatics,1.91,1.0,Pending,0,,0.3262,0.6738,25.48,-28.78,,A,10.2,—,—,—,—
+2026-03-18,Oklahoma City Thunder @ Brooklyn Nets,TOTAL,OVER 213.5,213.5,223.6,10.1,Fanatics,1.91,1.0,Pending,0,,0.3262,0.6738,25.48,-28.78,,A,10.1,—,—,—,—
+2026-03-18,Portland Trail Blazers @ Indiana Pacers,TOTAL,UNDER 232.5,232.5,226.0,6.5,MyBookie.ag,1.91,0.5,Pending,0,,0.3216,0.6784,14.31,-17.63,,B,6.5,—,—,—,—
+2026-03-18,Toronto Raptors @ Chicago Bulls,TOTAL,UNDER 234.5,234.5,226.9,7.6,MyBookie.ag,1.91,0.5,Pending,0,,0.4066,0.5934,12.09,-15.29,,B,7.6,—,—,—,—
+2026-03-18,Los Angeles Clippers @ New Orleans Pelicans,MONEYLINE,Los Angeles Clippers ML,,64.7% win prob,18.2,LowVig.ag,2.15,1.0,Pending,0,,0.3526,0.6474,-20.3,18.23,Los Angeles Clippers ML,A,18.2,—,—,—,—
+2026-03-18,Los Angeles Clippers @ New Orleans Pelicans,SPREAD,Clippers +2.0,2.0,Los Angeles Clippers -8.2,10.2,Caesars,1.91,1.0,Pending,0,,0.3526,0.6474,-20.3,18.23,Los Angeles Clippers ML,A,10.2,—,—,—,—
+2026-03-18,Los Angeles Clippers @ New Orleans Pelicans,TOTAL,UNDER 234.0,234.0,221.9,12.1,Caesars,1.91,1.0,Pending,0,,0.3526,0.6474,-20.3,18.23,Los Angeles Clippers ML,A,12.1,—,—,—,—
+2026-03-18,Utah Jazz @ Minnesota Timberwolves,SPREAD,Jazz +13.5,13.5,Utah Jazz -6.7,6.8,Caesars,1.91,0.5,Pending,0,,0.9165,0.0835,3.16,-5.74,,B,6.8,—,—,—,—
+2026-03-18,Utah Jazz @ Minnesota Timberwolves,TOTAL,UNDER 230.5,230.5,219.7,10.8,Caesars,1.91,1.0,Pending,0,,0.9165,0.0835,3.16,-5.74,,A,10.8,—,—,—,—
+2026-03-18,Atlanta Hawks @ Dallas Mavericks,SPREAD,Mavericks +8.5,8.5,Dallas Mavericks -0.2,8.7,Bovada,1.91,0.5,Pending,0,,0.7285,0.2715,46.88,-49.19,,B,8.7,—,—,—,—
+2026-03-18,Atlanta Hawks @ Dallas Mavericks,TOTAL,UNDER 238.0,238.0,217.9,20.1,Bovada,1.91,1.0,Pending,0,,0.7285,0.2715,46.88,-49.19,,A,20.1,—,—,—,—
+2026-03-18,Denver Nuggets @ Memphis Grizzlies,SPREAD,Grizzlies +13.0,13.0,Memphis Grizzlies -4.1,8.9,Bovada,1.91,0.5,Pending,0,,0.5426,0.4574,40.18,-41.98,,B,8.9,—,—,—,—
+2026-03-18,Los Angeles Lakers @ Houston Rockets,TOTAL,UNDER 222.5,222.5,219.1,3.4,Caesars,1.91,0.0,Pending,0,,0.8584,0.1416,28.36,-31.29,,C,3.4,—,—,—,—
