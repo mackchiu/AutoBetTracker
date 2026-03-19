@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-03-19,Quentin Grimes,AST,4.5,BetRivers,2.5,0.94,0.859,43.6,UNDER,Starter,Philadelphia 76ers @ Sacramento Kings,1.97,0.25,Pending,0,
+2026-03-19,Daniss Jenkins,PTS,13.5,FanDuel,7.2,0.91,0.676,36.5,UNDER,Rotation,Detroit Pistons @ Washington Wizards,1.85,0.25,Pending,0,
+2026-03-19,VJ Edgecombe,AST,4.5,BetMGM,3.0,0.76,0.6,28.6,UNDER,Starter,Philadelphia 76ers @ Sacramento Kings,2.1,0.25,Pending,0,
+2026-03-19,LeBron James,PTS,19.5,FanDuel,24.1,0.8,0.577,29.1,OVER,Starter,Los Angeles Lakers @ Miami Heat,1.98,0.25,Pending,0,
+2026-03-19,Tristan da Silva,REB,4.5,BetRivers,5.7,0.7,0.55,25.0,OVER,Starter,Orlando Magic @ Charlotte Hornets,2.2,0.25,Pending,0,
+2026-03-19,Dominick Barlow,PTS,10.5,Bovada,8.2,0.71,0.534,24.8,UNDER,Rotation,Philadelphia 76ers @ Sacramento Kings,2.15,0.25,Pending,0,
+2026-03-19,Ausar Thompson,PTS,10.5,FanDuel,6.5,0.78,0.512,26.5,UNDER,Rotation,Detroit Pistons @ Washington Wizards,1.93,0.25,Pending,0,
+2026-03-19,Kon Knueppel,REB,4.5,Bovada,3.5,0.68,0.5,22.7,UNDER,Starter,Orlando Magic @ Charlotte Hornets,2.2,0.25,Pending,0,
+2026-03-19,Daniss Jenkins,AST,5.5,FanDuel,3.1,0.77,0.49,25.3,UNDER,Rotation,Detroit Pistons @ Washington Wizards,1.94,0.25,Pending,0,
+2026-03-19,Darius Garland,3PTM,2.5,Fanatics,3.7,0.78,0.486,25.5,OVER,Starter,Los Angeles Clippers @ New Orleans Pelicans,1.91,0.25,Pending,0,
