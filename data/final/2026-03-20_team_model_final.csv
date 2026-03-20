@@ -1,0 +1,9 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate,grade,edge_pct,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-20,New York Knicks @ Brooklyn Nets,SPREAD,Nets +17.5,17.5,Brooklyn Nets by 7.6,9.9,Caesars,1.91,0.5,Pending,0,,0.3802,0.6198,29.33,-32.36,,B,9.9,—,—,—,—
+2026-03-20,Golden State Warriors @ Detroit Pistons,SPREAD,Pistons -5.0,-5.0,Detroit Pistons by 8.4,3.4,Caesars,1.91,0.0,Pending,0,,0.9429,0.0571,27.17,-28.18,,C,3.4,—,—,—,—
+2026-03-20,Golden State Warriors @ Detroit Pistons,TOTAL,OVER 217.0,217.0,235.9,18.9,Caesars,1.91,1.0,Pending,0,,0.9429,0.0571,27.17,-28.18,,A,18.9,—,—,—,—
+2026-03-20,Boston Celtics @ Memphis Grizzlies,SPREAD,Grizzlies +15.0,15.0,Memphis Grizzlies by 11.4,3.6,FanDuel,1.94,0.0,Pending,0,,0.2271,0.7729,11.72,-14.45,,C,3.6,—,—,—,—
+2026-03-20,Boston Celtics @ Memphis Grizzlies,TOTAL,UNDER 229.0,229.0,223.4,5.6,FanDuel,1.91,0.5,Pending,0,,0.2271,0.7729,11.72,-14.45,,B,5.6,—,—,—,—
+2026-03-20,Portland Trail Blazers @ Minnesota Timberwolves,TOTAL,UNDER 231.5,231.5,221.2,10.3,Caesars,1.87,1.0,Pending,0,,0.8714,0.1286,30.0,-32.59,,A,10.3,—,—,—,—
+2026-03-20,Toronto Raptors @ Denver Nuggets,SPREAD,Nuggets -7.0,-7.0,Denver Nuggets by 12.4,5.4,FanDuel,1.91,0.5,Pending,0,,0.9798,0.0202,24.99,-28.38,,B,5.4,—,—,—,—
+2026-03-20,Toronto Raptors @ Denver Nuggets,TOTAL,UNDER 238.0,238.0,232.6,5.4,FanDuel,1.91,0.5,Pending,0,,0.9798,0.0202,24.99,-28.38,,B,5.4,—,—,—,—
