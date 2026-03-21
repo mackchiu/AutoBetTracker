@@ -1,15 +1,14 @@
 date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
-2026-03-19,Detroit Pistons @ Washington Wizards,SPREAD,Wizards +14.5,14.5,Washington Wizards -5.0,9.5,Caesars,1.87,0.5,Pending,0,,0.5011,0.4989,38.76,-41.86,
-2026-03-19,Detroit Pistons @ Washington Wizards,TOTAL,OVER 231.0,231.0,242.4,11.4,Caesars,1.91,1.0,Pending,0,,0.5011,0.4989,38.76,-41.86,
-2026-03-19,Orlando Magic @ Charlotte Hornets,MONEYLINE,Orlando Magic ML,,57.4% win prob,22.6,LowVig.ag,2.88,1.0,Pending,0,,0.4264,0.5736,-24.93,22.64,Orlando Magic ML
-2026-03-19,Orlando Magic @ Charlotte Hornets,SPREAD,Magic +5.5,5.5,Orlando Magic -6.6,12.1,Caesars,1.91,1.0,Pending,0,,0.4264,0.5736,-24.93,22.64,Orlando Magic ML
-2026-03-19,Orlando Magic @ Charlotte Hornets,TOTAL,UNDER 225.5,225.5,214.5,11.0,Caesars,1.91,1.0,Pending,0,,0.4264,0.5736,-24.93,22.64,Orlando Magic ML
-2026-03-19,Cleveland Cavaliers @ Chicago Bulls,TOTAL,UNDER 241.0,241.0,224.9,16.1,Bovada,1.91,1.0,Pending,0,,0.2718,0.7282,12.68,-14.9,
-2026-03-19,Los Angeles Clippers @ New Orleans Pelicans,SPREAD,Clippers +1.5,1.5,Los Angeles Clippers -3.4,4.9,Bovada,1.91,0.0,Pending,0,,0.5762,0.4238,2.97,-5.24,
-2026-03-19,Los Angeles Clippers @ New Orleans Pelicans,TOTAL,UNDER 231.5,231.5,222.9,8.6,Bovada,1.91,0.5,Pending,0,,0.5762,0.4238,2.97,-5.24,
-2026-03-19,Los Angeles Lakers @ Miami Heat,SPREAD,Heat -3.5,-3.5,Miami Heat -7.0,3.5,FanDuel,1.94,0.0,Pending,0,,0.9209,0.0791,32.92,-35.57,
-2026-03-19,Los Angeles Lakers @ Miami Heat,TOTAL,UNDER 242.5,242.5,222.6,19.9,FanDuel,1.91,1.0,Pending,0,,0.9209,0.0791,32.92,-35.57,
-2026-03-19,Phoenix Suns @ San Antonio Spurs,MONEYLINE,San Antonio Spurs ML,,99.4% win prob,18.1,Bovada,1.23,1.0,Pending,0,,0.994,0.006,18.1,-20.68,San Antonio Spurs ML
-2026-03-19,Phoenix Suns @ San Antonio Spurs,SPREAD,Spurs -10.0,-10.0,San Antonio Spurs -16.4,6.4,MyBookie.ag,1.91,0.5,Pending,0,,0.994,0.006,18.1,-20.68,San Antonio Spurs ML
-2026-03-19,Philadelphia 76ers @ Sacramento Kings,SPREAD,76ers -2.5,-2.5,Philadelphia 76ers -5.9,3.4,DraftKings,1.91,0.0,Pending,0,,0.4561,0.5439,1.17,-3.08,
-2026-03-19,Philadelphia 76ers @ Sacramento Kings,TOTAL,OVER 226.5,226.5,237.6,11.1,DraftKings,1.91,1.0,Pending,0,,0.4561,0.5439,1.17,-3.08,
+2026-03-19,Detroit Pistons @ Washington Wizards,SPREAD,Wizards +14.0,14.0,Washington Wizards -6.0,8.0,FanDuel,1.94,0.5,Pending,0,,0.4538,0.5462,34.03,-35.47,
+2026-03-19,Detroit Pistons @ Washington Wizards,TOTAL,OVER 232.0,232.0,239.3,7.3,FanDuel,1.89,0.5,Pending,0,,0.4538,0.5462,34.03,-35.47,
+2026-03-19,Orlando Magic @ Charlotte Hornets,TOTAL,UNDER 227.0,227.0,215.7,11.3,Caesars,1.91,1.0,Pending,0,,0.8663,0.1337,19.06,-20.87,
+2026-03-19,Cleveland Cavaliers @ Chicago Bulls,TOTAL,UNDER 237.0,237.0,232.9,4.1,BetRivers,1.88,0.0,Pending,0,,0.2468,0.7532,4.68,-4.68,
+2026-03-19,Los Angeles Clippers @ New Orleans Pelicans,SPREAD,Pelicans -2.5,-2.5,New Orleans Pelicans -5.9,3.4,DraftKings,1.91,0.0,Pending,0,,0.8994,0.1006,33.44,-36.02,
+2026-03-19,Los Angeles Lakers @ Miami Heat,TOTAL,UNDER 241.5,241.5,226.6,14.9,Caesars,1.95,1.0,Pending,0,,0.7902,0.2098,18.42,-19.84,
+2026-03-19,Phoenix Suns @ San Antonio Spurs,MONEYLINE,San Antonio Spurs ML,,98.4% win prob,18.4,FanDuel,1.25,1.0,Pending,0,,0.984,0.016,18.4,-19.68,San Antonio Spurs ML
+2026-03-19,Phoenix Suns @ San Antonio Spurs,SPREAD,Spurs -9.5,-9.5,San Antonio Spurs -13.2,3.7,Caesars,1.87,0.0,Pending,0,,0.984,0.016,18.4,-19.68,San Antonio Spurs ML
+2026-03-19,Milwaukee Bucks @ Utah Jazz,SPREAD,Jazz +6.0,6.0,Utah Jazz -0.1,6.1,Bovada,1.91,0.5,Pending,0,,0.7263,0.2737,40.37,-42.07,
+2026-03-19,Milwaukee Bucks @ Utah Jazz,TOTAL,OVER 229.0,229.0,239.7,10.7,Bovada,1.91,1.0,Pending,0,,0.7263,0.2737,40.37,-42.07,
+2026-03-19,Philadelphia 76ers @ Sacramento Kings,MONEYLINE,Philadelphia 76ers ML,,77.7% win prob,18.9,FanDuel,1.7,1.0,Pending,0,,0.2228,0.7772,-21.77,18.9,Philadelphia 76ers ML
+2026-03-19,Philadelphia 76ers @ Sacramento Kings,SPREAD,76ers -2.5,-2.5,Philadelphia 76ers -11.5,9.0,DraftKings,1.89,0.5,Pending,0,,0.2228,0.7772,-21.77,18.9,Philadelphia 76ers ML
+2026-03-19,Philadelphia 76ers @ Sacramento Kings,TOTAL,OVER 227.5,227.5,236.2,8.7,DraftKings,1.91,0.5,Pending,0,,0.2228,0.7772,-21.77,18.9,Philadelphia 76ers ML
