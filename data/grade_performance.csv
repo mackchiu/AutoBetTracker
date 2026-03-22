@@ -1,10 +1,1 @@
-date,model_type,bets,wins,losses,pushes,win_rate,profit,roi
-2026-02-27,player_props,10,6,4,0,60.0,2.7,54.0
-2026-02-27,team_model,6,2,4,0,33.3,-1.1,-36.7
-2026-02-28,player_props,8,4,4,0,50.0,5.85,52.0
-2026-02-28,team_model,7,3,4,0,42.9,-1.25,-17.9
-2026-03-01,player_props,11,8,3,0,72.7,5.27,47.9
-2026-03-01,team_model,4,2,2,0,50.0,0.32,8.0
-2026-03-02,player_props,9,5,4,0,55.6,-1.63,-18.1
-2026-03-02,team_model,3,0,3,0,0.0,-1.26,-42.0
-2026-03-04,team_model,5,3,2,0,60.0,-0.02,-0.4
+date,model_type,picks,wins,losses,pushes,win_pct,profit,roi
