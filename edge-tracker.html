@@ -54,6 +54,7 @@
                 <button class="tab-btn active" data-tab="props">🏀 Player Props</button>
                 <button class="tab-btn" data-tab="spread">🏆 Team Spreads</button>
                 <button class="tab-btn" data-tab="total">📊 Team Totals</button>
+                <button class="tab-btn" data-tab="moneyline">💰 Moneyline</button>
             </div>
 
             <div id="edgePanels">
@@ -134,6 +135,33 @@
                                 </tr>
                             </thead>
                             <tbody id="totalTableBody"></tbody>
+                        </table>
+                    </div>
+                </section>
+
+                <section class="edge-panel" data-panel="moneyline">
+                    <div class="summary-grid" id="moneylineSummary"></div>
+                    <div class="chart-wrap">
+                        <h3>ROI by Edge Bucket</h3>
+                        <div class="bar-chart" id="moneylineChart"></div>
+                    </div>
+                    <div class="table-container">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Bucket</th>
+                                    <th class="small-col">Bets</th>
+                                    <th class="small-col">Wins</th>
+                                    <th class="small-col">Losses</th>
+                                    <th>Win Rate</th>
+                                    <th>Units</th>
+                                    <th>ROI</th>
+                                    <th>Avg Odds</th>
+                                    <th>Avg Edge</th>
+                                    <th>Push/Void</th>
+                                </tr>
+                            </thead>
+                            <tbody id="moneylineTableBody"></tbody>
                         </table>
                     </div>
                 </section>

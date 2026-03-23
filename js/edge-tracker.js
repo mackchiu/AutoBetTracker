@@ -22,6 +22,13 @@ const CONFIG = {
             { label: '5-7.5%', min: 5, max: 7.5 },
             { label: '7.5-10%', min: 7.5, max: 10 },
             { label: '10%+', min: 10, max: Infinity }
+        ],
+        moneyline: [
+            { label: '0-5%', min: 0, max: 5 },
+            { label: '5-8%', min: 5, max: 8 },
+            { label: '8-12%', min: 8, max: 12 },
+            { label: '12-20%', min: 12, max: 20 },
+            { label: '20%+', min: 20, max: Infinity }
         ]
     }
 };
@@ -44,7 +51,7 @@ function setupTabs() {
 
 async function loadEdgeData() {
     const dates = await discoverAvailableDates();
-    const normalized = { props: [], spread: [], total: [] };
+    const normalized = { props: [], spread: [], total: [], moneyline: [] };
 
     for (const date of dates) {
         const [propsRows, teamRows] = await Promise.all([
@@ -63,7 +70,7 @@ async function loadEdgeData() {
         });
     }
 
-    ['props', 'spread', 'total'].forEach(type => {
+    ['props', 'spread', 'total', 'moneyline'].forEach(type => {
         const summary = summarizeRows(normalized[type]);
         const buckets = bucketRows(normalized[type], CONFIG.BUCKETS[type]);
         renderSummary(type, summary);
@@ -171,6 +178,7 @@ function normalizeTeamRow(row, fallbackDate) {
     let modelType = null;
     if (market === 'SPREAD') modelType = 'spread';
     else if (market === 'TOTAL') modelType = 'total';
+    else if (market === 'MONEYLINE') modelType = 'moneyline';
     else return null;
 
     const edgePct = normalizeEdge(row.edge_pct || row.edge, row);

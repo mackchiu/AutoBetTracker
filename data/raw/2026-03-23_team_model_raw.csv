@@ -1,0 +1,16 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-03-23,Los Angeles Lakers @ Detroit Pistons,TOTAL,UNDER 226.0,226.0,210.5,15.5,Caesars,1.91,1.0,Pending,0,,0.759,0.241,26.88,-29.37,
+2026-03-23,Indiana Pacers @ Orlando Magic,MONEYLINE,Orlando Magic ML,,97.0% win prob,9.3,LowVig.ag,1.14,0.5,Pending,0,,0.9697,0.0303,9.25,-11.05,Orlando Magic ML
+2026-03-23,Indiana Pacers @ Orlando Magic,TOTAL,UNDER 231.5,231.5,219.9,11.6,Bovada,1.91,1.0,Pending,0,,0.9697,0.0303,9.25,-11.05,Orlando Magic ML
+2026-03-23,Oklahoma City Thunder @ Philadelphia 76ers,SPREAD,76ers +16.0,16.0,Philadelphia 76ers by 1.2,17.2,FanDuel,1.93,1.0,Pending,0,,0.7656,0.2344,65.21,-68.3,
+2026-03-23,Oklahoma City Thunder @ Philadelphia 76ers,TOTAL,OVER 225.0,225.0,229.6,4.6,FanDuel,1.89,0.0,Pending,0,,0.7656,0.2344,65.21,-68.3,
+2026-03-23,Memphis Grizzlies @ Atlanta Hawks,SPREAD,Grizzlies +14.0,14.0,Memphis Grizzlies by 7.0,7.0,Caesars,1.91,0.5,Pending,0,,0.9214,0.0786,2.05,-5.35,
+2026-03-23,Memphis Grizzlies @ Atlanta Hawks,TOTAL,UNDER 240.5,240.5,229.2,11.3,Caesars,1.91,1.0,Pending,0,,0.9214,0.0786,2.05,-5.35,
+2026-03-23,Houston Rockets @ Chicago Bulls,SPREAD,Bulls +8.5,8.5,Chicago Bulls by 4.7,3.8,DraftKings,1.89,0.0,Pending,0,,0.5159,0.4841,26.59,-29.11,
+2026-03-23,Houston Rockets @ Chicago Bulls,TOTAL,OVER 229.5,229.5,237.0,7.5,DraftKings,1.89,0.5,Pending,0,,0.5159,0.4841,26.59,-29.11,
+2026-03-23,Toronto Raptors @ Utah Jazz,SPREAD,Jazz +12.5,12.5,Utah Jazz by 7.7,4.8,Caesars,1.91,0.0,Pending,0,,0.3773,0.6227,22.92,-26.23,
+2026-03-23,Golden State Warriors @ Dallas Mavericks,SPREAD,Mavericks +2.0,2.0,Dallas Mavericks by 7.5,9.5,Fanatics,1.91,0.5,Pending,0,,0.9294,0.0706,45.77,-48.49,
+2026-03-23,Golden State Warriors @ Dallas Mavericks,TOTAL,OVER 230.5,230.5,233.8,3.3,Fanatics,1.91,0.0,Pending,0,,0.9294,0.0706,45.77,-48.49,
+2026-03-23,Brooklyn Nets @ Portland Trail Blazers,SPREAD,Nets +15.0,15.0,Brooklyn Nets by 7.9,7.1,Caesars,1.91,0.5,Pending,0,,0.9348,0.0652,3.39,-5.53,
+2026-03-23,Brooklyn Nets @ Portland Trail Blazers,TOTAL,UNDER 219.0,219.0,213.0,6.0,Caesars,1.91,0.5,Pending,0,,0.9348,0.0652,3.39,-5.53,
+2026-03-23,Milwaukee Bucks @ Los Angeles Clippers,SPREAD,Bucks +13.0,13.0,Milwaukee Bucks by 5.2,7.8,BetUS,1.91,0.5,Pending,0,,0.8851,0.1149,0.01,-3.32,

@@ -386,26 +386,15 @@ function renderTeamModelTable(picks) {
         const units = parseFloat(pick.stake) || 0;
         const unitsDisplay = units > 0 ? units.toFixed(2) : '-';
         
-        // Parse projection and show favored side (negative spread) only
+        // Render projection as human-readable margin: "Team by X"
         let projValue = pick.proj || '-';
         if (projValue !== '-' && pick.game) {
-            const match = projValue.match(/^(.+?)\s+([+-]?\d+\.?\d*)$/);
-            if (match) {
-                const projTeam = match[1];
-                const projSpread = parseFloat(match[2]);
-                const teams = pick.game.split(' @ ');
-                if (teams.length === 2) {
-                    const awayTeam = teams[0];
-                    const homeTeam = teams[1];
-                    // If projection is positive (underdog), show the other team as favored
-                    if (projSpread > 0) {
-                        const favoredTeam = projTeam === homeTeam ? awayTeam : homeTeam;
-                        projValue = `${favoredTeam} -${projSpread.toFixed(1)}`;
-                    } else if (projSpread < 0) {
-                        // Already favored, show as-is
-                        projValue = `${projTeam} ${projSpread.toFixed(1)}`;
-                    }
-                }
+            const teams = pick.game.split(' @ ');
+            const match = projValue.match(/^(.+?)\s+(?:by|[-])\s*([+-]?\d+\.?\d*)$/i);
+            if (match && teams.length === 2) {
+                const projTeam = match[1].trim();
+                const projPts = Math.abs(parseFloat(match[2]));
+                projValue = `${projTeam} by ${projPts.toFixed(1)}`;
             }
         }
 

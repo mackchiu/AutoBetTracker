@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-23,R.J. Barrett,AST,3.5,Caesars,2.0,0.87,0.775,37.8,UNDER,Starter,Toronto Raptors @ Utah Jazz,2.05,0.5,Pending,0,,B,,,,
+2026-03-23,Jake LaRavia,PTS,8.5,DraftKings,4.7,0.9,0.76,39.0,UNDER,Rotation,Los Angeles Lakers @ Detroit Pistons,1.95,0.5,Pending,0,,B,,,,
+2026-03-23,G.G. Jackson,3PTM,1.5,FanDuel,0.8,0.94,0.742,40.1,UNDER,Rotation,Memphis Grizzlies @ Atlanta Hawks,1.85,0.5,Pending,0,,B,,,,
+2026-03-23,Kyle Kuzma,REB,3.5,BetMGM,2.5,0.79,0.73,35.2,UNDER,Rotation,Milwaukee Bucks @ Los Angeles Clippers,2.2,0.5,Pending,0,,B,,,,
+2026-03-23,Tari Eason,PTS,10.5,DraftKings,6.6,0.93,0.699,38.2,UNDER,Rotation,Houston Rockets @ Chicago Bulls,1.83,0.5,Pending,0,,B,,,,
+2026-03-23,Scottie Barnes,REB,7.5,Bovada,5.2,0.85,0.662,36.0,UNDER,Starter,Toronto Raptors @ Utah Jazz,1.95,0.5,Pending,0,,B,,,,
+2026-03-23,Jevon Carter,PTS,11.5,BetRivers,8.7,0.83,0.611,25.5,UNDER,Rotation,Indiana Pacers @ Orlando Magic,1.94,0.0,Pending,0,,C,,,,
+2026-03-23,Draymond Green,REB,5.5,BetMGM,4.2,0.73,0.571,20.6,UNDER,Starter,Golden State Warriors @ Dallas Mavericks,2.15,0.0,Pending,0,,C,,,,
+2026-03-23,Deni Avdija,PTS,24.5,Bovada,18.1,0.77,0.532,28.6,UNDER,Starter,Brooklyn Nets @ Portland Trail Blazers,2.0,0.5,Pending,0,,B,,,,
+2026-03-23,Cooper Flagg,AST,5.5,FanDuel,6.9,0.8,0.509,32.1,OVER,Starter,Golden State Warriors @ Dallas Mavericks,1.88,0.5,Pending,0,,B,,,,
