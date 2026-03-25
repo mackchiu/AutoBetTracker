@@ -1,0 +1,22 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-03-25,Atlanta Hawks @ Detroit Pistons,SPREAD,Pistons -2.5,-2.5,Detroit Pistons by 6.1,3.6,BetUS,1.91,0.0,Pending,0,,0.904,0.096,31.23,-33.88,
+2026-03-25,Atlanta Hawks @ Detroit Pistons,TOTAL,UNDER 228.5,228.5,222.9,5.6,BetUS,1.91,0.5,Pending,0,,0.904,0.096,31.23,-33.88,
+2026-03-25,Chicago Bulls @ Philadelphia 76ers,SPREAD,76ers -6.5,-6.5,Philadelphia 76ers by 13.1,6.6,Bovada,1.91,0.5,Pending,0,,0.9836,0.0164,28.43,-30.62,
+2026-03-25,Chicago Bulls @ Philadelphia 76ers,TOTAL,UNDER 240.0,240.0,231.7,8.3,Bovada,1.91,0.5,Pending,0,,0.9836,0.0164,28.43,-30.62,
+2026-03-25,Los Angeles Lakers @ Indiana Pacers,SPREAD,Pacers +10.5,10.5,Indiana Pacers by 5.4,5.1,FanDuel,1.93,0.5,Pending,0,,0.4804,0.5196,29.52,-32.78,
+2026-03-25,Los Angeles Lakers @ Indiana Pacers,TOTAL,UNDER 238.0,238.0,228.9,9.1,FanDuel,1.88,0.5,Pending,0,,0.4804,0.5196,29.52,-32.78,
+2026-03-25,Oklahoma City Thunder @ Boston Celtics,SPREAD,Celtics +2.0,2.0,Boston Celtics by 1.9,3.9,MyBookie.ag,1.91,0.0,Pending,0,,0.7906,0.2094,34.02,-36.53,
+2026-03-25,Oklahoma City Thunder @ Boston Celtics,TOTAL,OVER 218.0,218.0,234.6,16.6,MyBookie.ag,1.91,1.0,Pending,0,,0.7906,0.2094,34.02,-36.53,
+2026-03-25,Miami Heat @ Cleveland Cavaliers,TOTAL,UNDER 243.0,243.0,231.9,11.1,Caesars,1.91,1.0,Pending,0,,0.8371,0.1629,25.57,-27.38,
+2026-03-25,San Antonio Spurs @ Memphis Grizzlies,SPREAD,Grizzlies +16.5,16.5,Memphis Grizzlies by 7.3,9.2,MyBookie.ag,1.91,0.5,Pending,0,,0.3945,0.6055,29.92,-32.91,
+2026-03-25,San Antonio Spurs @ Memphis Grizzlies,TOTAL,OVER 233.0,233.0,236.4,3.4,MyBookie.ag,1.91,0.0,Pending,0,,0.3945,0.6055,29.92,-32.91,
+2026-03-25,Washington Wizards @ Utah Jazz,SPREAD,Wizards +4.5,4.5,Washington Wizards by 1.2,3.3,Fanatics,1.91,0.0,Pending,0,,0.7677,0.2323,13.88,-14.94,
+2026-03-25,Washington Wizards @ Utah Jazz,TOTAL,UNDER 239.0,239.0,224.3,14.7,Fanatics,1.91,1.0,Pending,0,,0.7677,0.2323,13.88,-14.94,
+2026-03-25,Houston Rockets @ Minnesota Timberwolves,SPREAD,Timberwolves +1.5,1.5,Minnesota Timberwolves by 3.3,4.8,FanDuel,1.93,0.0,Pending,0,,0.8356,0.1644,35.49,-38.21,
+2026-03-25,Houston Rockets @ Minnesota Timberwolves,TOTAL,OVER 224.0,224.0,227.2,3.2,FanDuel,1.88,0.0,Pending,0,,0.8356,0.1644,35.49,-38.21,
+2026-03-25,Brooklyn Nets @ Golden State Warriors,MONEYLINE,Golden State Warriors ML,,95.3% win prob,9.8,LowVig.ag,1.17,0.5,Pending,0,,0.9526,0.0474,9.79,-13.11,Golden State Warriors ML
+2026-03-25,Brooklyn Nets @ Golden State Warriors,TOTAL,OVER 217.0,217.0,231.6,14.6,BetOnline.ag,1.91,1.0,Pending,0,,0.9526,0.0474,9.79,-13.11,Golden State Warriors ML
+2026-03-25,Dallas Mavericks @ Denver Nuggets,SPREAD,Mavericks +12.0,12.0,Dallas Mavericks by 2.9,9.1,BetUS,1.91,0.5,Pending,0,,0.8241,0.1759,-4.55,1.72,
+2026-03-25,Dallas Mavericks @ Denver Nuggets,TOTAL,UNDER 245.0,245.0,240.2,4.8,BetUS,1.91,0.0,Pending,0,,0.8241,0.1759,-4.55,1.72,
+2026-03-25,Milwaukee Bucks @ Portland Trail Blazers,SPREAD,Bucks +12.5,12.5,Milwaukee Bucks by 5.7,6.8,Caesars,1.95,0.5,Pending,0,,0.8959,0.1041,2.63,-6.2,
+2026-03-25,Toronto Raptors @ Los Angeles Clippers,SPREAD,Raptors +4.0,4.0,Toronto Raptors by 2.6,6.6,Bovada,1.87,0.5,Pending,0,,0.61,0.39,-1.9,-0.37,
