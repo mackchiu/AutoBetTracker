@@ -1,0 +1,19 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-03-27,Los Angeles Clippers @ Indiana Pacers,SPREAD,Pacers +8.5,8.5,Indiana Pacers by 4.6,3.9,LowVig.ag,1.96,0.0,Pending,0,,0.5199,0.4801,27.59,-30.73,
+2026-03-27,Los Angeles Clippers @ Indiana Pacers,TOTAL,UNDER 238.5,238.5,235.4,3.1,LowVig.ag,1.93,0.0,Pending,0,,0.5199,0.4801,27.59,-30.73,
+2026-03-27,Atlanta Hawks @ Boston Celtics,SPREAD,Celtics -4.5,-4.5,Boston Celtics by 7.8,3.3,BetUS,1.91,0.0,Pending,0,,0.9345,0.0655,27.22,-29.81,
+2026-03-27,Atlanta Hawks @ Boston Celtics,TOTAL,UNDER 226.5,226.5,213.8,12.7,BetUS,1.91,1.0,Pending,0,,0.9345,0.0655,27.22,-29.81,
+2026-03-27,Miami Heat @ Cleveland Cavaliers,TOTAL,UNDER 242.5,242.5,230.6,11.9,Caesars,1.91,1.0,Pending,0,,0.8949,0.1051,23.27,-25.21,
+2026-03-27,Chicago Bulls @ Oklahoma City Thunder,SPREAD,Bulls +19.5,19.5,Chicago Bulls by 12.8,6.7,Caesars,1.91,0.5,Pending,0,,0.982,0.018,2.05,-4.87,
+2026-03-27,Chicago Bulls @ Oklahoma City Thunder,TOTAL,UNDER 239.5,239.5,231.2,8.3,Caesars,1.91,0.5,Pending,0,,0.982,0.018,2.05,-4.87,
+2026-03-27,Houston Rockets @ Memphis Grizzlies,SPREAD,Grizzlies +13.0,13.0,Memphis Grizzlies by 2.6,10.4,BetUS,1.95,1.0,Pending,0,,0.6123,0.3877,46.51,-49.73,
+2026-03-27,Houston Rockets @ Memphis Grizzlies,TOTAL,OVER 227.5,227.5,243.2,15.7,BetUS,1.91,1.0,Pending,0,,0.6123,0.3877,46.51,-49.73,
+2026-03-27,New Orleans Pelicans @ Toronto Raptors,MONEYLINE,Toronto Raptors ML,,82.3% win prob,6.0,BetMGM,1.31,0.5,Pending,0,,0.8233,0.1767,5.99,-9.0,Toronto Raptors ML
+2026-03-27,New Orleans Pelicans @ Toronto Raptors,SPREAD,Pelicans +8.5,8.5,New Orleans Pelicans by 2.9,5.6,Caesars,1.91,0.5,Pending,0,,0.8233,0.1767,5.99,-9.0,Toronto Raptors ML
+2026-03-27,New Orleans Pelicans @ Toronto Raptors,TOTAL,OVER 229.0,229.0,232.2,3.2,Caesars,1.91,0.0,Pending,0,,0.8233,0.1767,5.99,-9.0,Toronto Raptors ML
+2026-03-27,Utah Jazz @ Denver Nuggets,SPREAD,Jazz +18.5,18.5,Utah Jazz by 10.8,7.7,Caesars,1.95,0.5,Pending,0,,0.9684,0.0316,2.5,-4.53,
+2026-03-27,Utah Jazz @ Denver Nuggets,TOTAL,UNDER 248.5,248.5,237.3,11.2,Caesars,1.91,1.0,Pending,0,,0.9684,0.0316,2.5,-4.53,
+2026-03-27,Dallas Mavericks @ Portland Trail Blazers,MONEYLINE,Portland Trail Blazers ML,,96.5% win prob,14.5,FanDuel,1.22,1.0,Pending,0,,0.9651,0.0349,14.54,-17.56,Portland Trail Blazers ML
+2026-03-27,Dallas Mavericks @ Portland Trail Blazers,TOTAL,OVER 239.5,239.5,248.5,9.0,Caesars,1.87,0.5,Pending,0,,0.9651,0.0349,14.54,-17.56,Portland Trail Blazers ML
+2026-03-27,Washington Wizards @ Golden State Warriors,SPREAD,Wizards +14.0,14.0,Washington Wizards by 5.9,8.1,Fanatics,1.91,0.5,Pending,0,,0.8999,0.1001,-0.1,-2.76,
+2026-03-27,Brooklyn Nets @ Los Angeles Lakers,SPREAD,Nets +16.0,16.0,Brooklyn Nets by 6.1,9.9,BetRivers,1.92,0.5,Pending,0,,0.9042,0.0958,-3.04,0.49,
