@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-03-26,Malik Monk,REB,2.5,BetRivers,1.4,0.78,0.676,25.4,UNDER,Rotation,Sacramento Kings @ Orlando Magic,2.15,0.0,Win,0.0,,C,,,,
+2026-03-26,Mikal Bridges,PTS,12.5,Bovada,9.0,0.79,0.622,24.3,UNDER,Starter,New York Knicks @ Charlotte Hornets,2.05,0.0,Loss,-0.0,,C,,,,
+2026-03-26,OG Anunoby,PTS,16.5,BetRivers,21.3,0.74,0.544,26.1,OVER,Starter,New York Knicks @ Charlotte Hornets,2.08,0.5,Win,0.54,,B,,,,
+2026-03-26,Ryan Kalkbrenner,PTS,4.5,Caesars,8.5,0.84,0.539,34.5,OVER,Rotation,New York Knicks @ Charlotte Hornets,1.83,0.5,Loss,-0.5,,B,,,,
+2026-03-26,Jalen Duren,PTS,23.5,FanDuel,27.6,0.75,0.493,24.6,OVER,Starter,New Orleans Pelicans @ Detroit Pistons,2.0,0.5,Win,0.5,,B,,,,
+2026-03-26,LaMelo Ball,AST,6.5,BetOnline.ag,5.1,0.68,0.487,24.3,UNDER,Rotation,New York Knicks @ Charlotte Hornets,2.18,0.0,Win,0.0,,C,,,,
+2026-03-26,Mikal Bridges,REB,3.5,Bovada,4.7,0.68,0.469,26.8,OVER,Starter,New York Knicks @ Charlotte Hornets,2.15,0.5,Loss,-0.5,,B,,,,
+2026-03-26,Trey Murphy III,REB,4.5,BetMGM,5.8,0.8,0.462,25.3,OVER,Starter,New Orleans Pelicans @ Detroit Pistons,1.83,0.5,Void,0,,B,,,,
+2026-03-26,Josh Hart,REB,7.5,BetOnline.ag,8.9,0.69,0.456,16.5,OVER,Starter,New York Knicks @ Charlotte Hornets,2.12,0.0,Loss,-0.0,,C,,,,
+2026-03-26,Caris LeVert,AST,3.5,BetOnline.ag,2.5,0.72,0.413,23.0,UNDER,Rotation,New Orleans Pelicans @ Detroit Pistons,1.97,0.0,Void,0,,C,,,,
