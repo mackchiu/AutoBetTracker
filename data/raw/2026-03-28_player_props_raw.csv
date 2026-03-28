@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-03-28,Naz Reid,PTS,15.5,Bovada,11.3,0.84,0.809,37.6,UNDER,Rotation,Detroit Pistons @ Minnesota Timberwolves,2.15,0.25,Pending,0,
+2026-03-28,Jock Landale,PTS,13.5,Caesars,7.3,0.97,0.794,42.9,UNDER,Rotation,Sacramento Kings @ Atlanta Hawks,1.85,0.25,Pending,0,
+2026-03-28,Jalen Duren,PTS,22.5,Bovada,29.4,0.85,0.709,35.4,OVER,Starter,Detroit Pistons @ Minnesota Timberwolves,2.0,0.25,Pending,0,
+2026-03-28,Tyrese Maxey,PTS,23.5,BetMGM,29.2,0.88,0.682,35.7,OVER,Starter,Philadelphia 76ers @ Charlotte Hornets,1.91,0.25,Pending,0,
+2026-03-28,Devin Vassell,AST,2.5,DraftKings,2.9,0.73,0.506,24.5,OVER,Starter,San Antonio Spurs @ Milwaukee Bucks,2.06,0.25,Pending,0,
+2026-03-28,Precious Achiuwa,REB,8.5,FanDuel,9.8,0.68,0.485,22.2,OVER,Starter,Sacramento Kings @ Atlanta Hawks,2.18,0.25,Pending,0,
+2026-03-28,Kelly Oubre Jr,AST,1.5,DraftKings,2.4,0.81,0.469,25.8,OVER,Starter,Philadelphia 76ers @ Charlotte Hornets,1.82,0.25,Pending,0,
+2026-03-28,Devin Carter,REB,4.5,FanDuel,5.5,0.69,0.458,21.8,OVER,Rotation,Sacramento Kings @ Atlanta Hawks,2.1,0.25,Pending,0,
+2026-03-28,Jalen Johnson,REB,10.5,BetMGM,8.2,0.78,0.426,23.3,UNDER,Starter,Sacramento Kings @ Atlanta Hawks,1.83,0.25,Pending,0,
+2026-03-28,Myles Turner,REB,4.5,BetMGM,3.1,0.7,0.41,20.5,UNDER,Rotation,San Antonio Spurs @ Milwaukee Bucks,2.0,0.25,Pending,0,
