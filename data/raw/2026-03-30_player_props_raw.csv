@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-03-30,Austin Reaves,PTS,28.5,BetRivers,21.5,0.88,0.912,41.8,UNDER,Starter,Washington Wizards @ Los Angeles Lakers,2.18,0.25,Pending,0,
+2026-03-30,Luke Kennard,PTS,10.5,BetRivers,5.3,0.88,0.78,38.6,UNDER,Rotation,Washington Wizards @ Los Angeles Lakers,2.02,0.25,Pending,0,
+2026-03-30,Rui Hachimura,PTS,12.5,DraftKings,7.8,0.9,0.773,39.1,UNDER,Rotation,Washington Wizards @ Los Angeles Lakers,1.98,0.25,Pending,0,
+2026-03-30,Dennis Schroder,PTS,9.5,DraftKings,5.3,0.9,0.769,39.2,UNDER,Rotation,Cleveland Cavaliers @ Utah Jazz,1.96,0.25,Pending,0,
+2026-03-30,Jaylen Brown,AST,5.5,DraftKings,7.0,0.81,0.629,31.3,OVER,Starter,Boston Celtics @ Atlanta Hawks,2.01,0.25,Pending,0,
+2026-03-30,Austin Reaves,AST,6.5,BetRivers,5.5,0.76,0.607,28.7,UNDER,Starter,Washington Wizards @ Los Angeles Lakers,2.12,0.25,Pending,0,
+2026-03-30,Zaccharie Risacher,REB,2.5,BetOnline.ag,4.1,0.74,0.604,27.8,OVER,Rotation,Boston Celtics @ Atlanta Hawks,2.17,0.25,Pending,0,
+2026-03-30,Dominick Barlow,REB,3.5,BetRivers,5.3,0.77,0.579,28.2,OVER,Rotation,Philadelphia 76ers @ Miami Heat,2.05,0.25,Pending,0,
+2026-03-30,Daniss Jenkins,AST,6.5,Bovada,7.6,0.68,0.536,23.8,OVER,Starter,Detroit Pistons @ Oklahoma City Thunder,2.25,0.25,Pending,0,
+2026-03-30,Sam Merrill,AST,2.5,DraftKings,3.2,0.72,0.527,24.9,OVER,Starter,Cleveland Cavaliers @ Utah Jazz,2.12,0.25,Pending,0,
