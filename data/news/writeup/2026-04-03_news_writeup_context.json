@@ -1,0 +1,634 @@
+{
+  "date": "2026-04-03",
+  "items": [
+    {
+      "news_id": "2ea0e400daf6f90e",
+      "headline": "LeBron James really hates Memphis, wants Grizzlies to move",
+      "blurb": "LeBron James really hates Memphis, wants Grizzlies to move \u2014 There are certain cities that professional athletes love traveling to. And there are others they don't.",
+      "player_name": null,
+      "team_name": "Memphis Grizzlies",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-03T01:38:57-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/lebron_james_really_hates_memphis_wants_grizzlies_to_move/s1_13132_43680814"
+    },
+    {
+      "news_id": "adf9a1330eb76da7",
+      "headline": "Cooper Flagg gets candid about the Mavericks' brutal season",
+      "blurb": "Cooper Flagg gets candid about the Mavericks' brutal season \u2014 Cooper Flagg regularly won games in high school and in college, but he\u2019s not having the same experience since he turned pro.",
+      "player_name": "Cooper Flagg",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-03T01:36:50-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/cooper_flagg_gets_candid_about_the_mavericks_brutal_season/s1_127_43678008"
+    },
+    {
+      "news_id": "b210a6713287707e",
+      "headline": "Get Your Latest NBA News From RealGM's Basketball Wiretap",
+      "blurb": "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap.",
+      "player_name": "Get Your Latest",
+      "team_name": null,
+      "tags": [],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-03T01:17:01-04:00",
+      "link": "https://basketball.realgm.com/news"
+    },
+    {
+      "news_id": "50ee6c8560e2e7c5",
+      "headline": "Luka Doncic to undergo MRI after suffering injury in Lakers' 43-point loss",
+      "blurb": "Luka Doncic to undergo MRI after suffering injury in Lakers' 43-point loss \u2014 Los Angeles Lakers superstar Luka Doncic suffered a left hamstring injury in Thursday\u2019s game at Oklahoma City.",
+      "player_name": "Luka Doncic",
+      "team_name": "Los Angeles Lakers",
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-03T00:59:38-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/luka_doncic_to_undergo_mri_after_suffering_injury_in_lakers_43_point_loss/s1_14822_43680996"
+    },
+    {
+      "news_id": "fd0ab403ceceb24a",
+      "headline": "NBA Highlights (April 2)",
+      "blurb": "NBA Highlights (April 2)",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-03T00:51:46-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "febf0f96685a7238",
+      "headline": "Mitchell scores 25 points as Cavaliers hold off Warriors to clinch playoff spot",
+      "blurb": "Mitchell scores 25 points as Cavaliers hold off Warriors to clinch playoff spot",
+      "player_name": null,
+      "team_name": "Cleveland Cavaliers",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-03T00:45:13-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "184f8eb2561ae5c6",
+      "headline": "NBA Highlights: Cavaliers 118, Warriors 111",
+      "blurb": "NBA Highlights: Cavaliers 118, Warriors 111 \u2014 Donovan Mitchell scored a team-high 25 points, Max Strus added 24, and the Cleveland Cavaliers earned a 118-111 victory over the Golden State Warriors.",
+      "player_name": "Donovan Mitchell",
+      "team_name": "Cleveland Cavaliers",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-03T00:43:59-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "50f8a71f5770d69f",
+      "headline": "NBA Highlights: Trail Blazers 118, Pelicans 106",
+      "blurb": "NBA Highlights: Trail Blazers 118, Pelicans 106 \u2014 Jrue Holiday poured in a game-high 27 points, while Deni Avdija added 26 of his own as the Portland Trail Blazers earned a 118-106 win over the New Orleans Pelicans. Jeremiah Fears posted a team-high 21 points off the bench in the loss.",
+      "player_name": "Trail Blazers",
+      "team_name": "New Orleans Pelicans",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-03T00:41:58-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "b6c300ebc049a7a1",
+      "headline": "Thunder hand Lakers one of the worst losses in franchise history",
+      "blurb": "Thunder hand Lakers one of the worst losses in franchise history",
+      "player_name": null,
+      "team_name": "Los Angeles Lakers",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-03T00:21:41-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "507d39d65b9271b7",
+      "headline": "NBA Highlights: Thunder 139, Lakers 96",
+      "blurb": "NBA Highlights: Thunder 139, Lakers 96 \u2014 Shai Gilgeous-Alexander tallied 28 points with seven rebounds and seven assists and Isaiah Joe off the bench scored 20 points with six three-pointers in just 13 minutes as the Oklahoma City Thunder blew out the Los Angeles Lakers 139-96.",
+      "player_name": "Shai Gilgeous-",
+      "team_name": "Los Angeles Lakers",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-03T00:08:55-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "e455253c90cc15b8",
+      "headline": "The 'NBA two's leaders by season' quiz",
+      "blurb": "The 'NBA two's leaders by season' quiz \u2014 How many of the players to lead the NBA in made two-pointers for each season of the NBA's three-point era (since 1979-80) can you name in six minutes?",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-03T00:00:40-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/the_nba_twos_leaders_by_season_quiz/s1__43676549"
+    },
+    {
+      "news_id": "f7a7c170fb8032b3",
+      "headline": "Lakers\u2019 Luka Doncic exits vs. Thunder with left hamstring injury",
+      "blurb": "Lakers\u2019 Luka Doncic exits vs. Thunder with left hamstring injury",
+      "player_name": "Luka Doncic",
+      "team_name": "Oklahoma City Thunder",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T23:51:43-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "777f219590ff1f2a",
+      "headline": "Report: One NBA head coach may be in danger of getting fired",
+      "blurb": "Report: One NBA head coach may be in danger of getting fired \u2014 One NBA head coach may be paying the price for his team\u2019s underachieving this season.",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T23:03:11-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/report_one_nba_head_coach_may_be_in_danger_of_getting_fired/s1_127_43680675"
+    },
+    {
+      "news_id": "b1cfcb452bfa21dd",
+      "headline": "Kansas Center Flory Bidunga To Declare For NBA Draft, Enter Transfer Portal",
+      "blurb": "Kansas Center Flory Bidunga To Declare For NBA Draft, Enter Transfer Portal \u2014 Kansas sophomore center Flory Bidunga intends to declare for the NBA Draft while maintaining his college eligibility, sources told ESPN Thursday. Bidunga will also enter the NCAA transfer portal, preserving his option to return to college basketball. Bidunga would immediately rank as the top available player among the mo",
+      "player_name": "Kansas Center Flory",
+      "team_name": null,
+      "tags": [],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T22:26:50-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284866/Kansas-Center-Flory-Bidunga-To-Declare-For-NBA-Draft-Enter-Transfer-Portal"
+    },
+    {
+      "news_id": "7711828f7224c0e3",
+      "headline": "Arizona's Tommy Lloyd: 'I'm Not A Multitasker' Amid North Carolina Head Coach Rumors",
+      "blurb": "Arizona's Tommy Lloyd: 'I'm Not A Multitasker' Amid North Carolina Head Coach Rumors \u2014 Arizona head coach Tommy Lloyd declined to engage with speculation linking him to the North Carolina vacancy Thursday, saying his complete attention belongs to the Wildcats ahead of Saturday's Final Four matchup against Michigan. \"I'm a simple guy. I'm kind of just one thing at a time. I'm not a multitasker,\" Ll",
+      "player_name": "Tommy Lloyd",
+      "team_name": "Chicago Bulls",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T22:17:27-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284865/Arizonas-Tommy-Lloyd-Im-Not-A-Multitasker-Amid-North-Carolina-Head-Coach-Rumors"
+    },
+    {
+      "news_id": "a799332f18e5b5d3",
+      "headline": "NBA Highlights: Pistons 113, Timberwolves 108",
+      "blurb": "NBA Highlights: Pistons 113, Timberwolves 108 \u2014 Daniss Jenkins registered 26 points and eight assists, Jalen Duren tallied a double-double of 22 points and 14 rebounds, and Ausar Thompson\u2019s nine assists were a career-high in the Detroit Pistons\u2019 113-108 victory over the Minnesota Timberwolves.",
+      "player_name": "Daniss Jenkins",
+      "team_name": "Detroit Pistons",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T22:13:33-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "bb85b6b7c15a2e0e",
+      "headline": "Jalen Duren, Pistons Both Say They Want Long-Term Deal In Offseason",
+      "blurb": "Jalen Duren, Pistons Both Say They Want Long-Term Deal In Offseason \u2014 Jalen Duren and the Detroit Pistons both say they want a long-term partnership despite failing to reach a contract extension by the deadline last October, making the 22-year-old center a restricted free agent this summer. Both sides insist the impasse was purely a business matter. \"I mean, it was what it was,\" Duren said. \"I thi",
+      "player_name": "Jalen Duren",
+      "team_name": "Detroit Pistons",
+      "tags": [
+        "injury",
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T22:10:49-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284864/Jalen-Duren-Pistons-Both-Say-They-Want-Long-Term-Deal-In-Offseason"
+    },
+    {
+      "news_id": "bab8457d17850426",
+      "headline": "Suns guard Gillespie sets franchise record for three-pointers in a season",
+      "blurb": "Suns guard Gillespie sets franchise record for three-pointers in a season \u2014 Phoenix guard Collin Gillespie set the Suns\u2019 franchise record for 3-pointers in a season on Thursday night.",
+      "player_name": "Collin Gillespie",
+      "team_name": "Phoenix Suns",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T21:44:33-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "43a108041b2e23c2",
+      "headline": "NBA Highlights: Hornets 127, Suns 107",
+      "blurb": "NBA Highlights: Hornets 127, Suns 107 \u2014 Miles Bridges scored 25 points, Kon Knueppel added 20, and Coby White in 20 minutes off the bench dropped 19 points as the Charlotte Hornets scored 69 points over the second and third quarters on their way to a 127-107 win over the Phoenix Suns.",
+      "player_name": "Miles Bridges",
+      "team_name": "Charlotte Hornets",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T21:37:23-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "3dd1d047aad33287",
+      "headline": "Hornets\u2019 Knueppel hits milestone in win over Suns; Rockets clinch playoff berth",
+      "blurb": "Hornets\u2019 Knueppel hits milestone in win over Suns; Rockets clinch playoff berth \u2014 Charlotte rookie Kon Knueppel set the Hornets\u2019 franchise record for 3-pointers in a season.",
+      "player_name": "Kon Knueppel",
+      "team_name": "Houston Rockets",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T21:33:51-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "bffa75978aea75a9",
+      "headline": "Hornets' Kon Knueppel, Suns' Collin Gillespie make history in Charlotte's win",
+      "blurb": "Hornets' Kon Knueppel, Suns' Collin Gillespie make history in Charlotte's win \u2014 The Charlotte Hornets and Phoenix Suns each have a new franchise leader for three-pointers made in a single season.",
+      "player_name": "Kon Knueppel",
+      "team_name": "Charlotte Hornets",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T21:02:26-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/hornets_kon_knueppel_suns_collin_gillespie_make_history_in_charlottes_win/s1_13132_43680694"
+    },
+    {
+      "news_id": "c331438c26136479",
+      "headline": "Notable update emerges about Steve Kerr's future",
+      "blurb": "Notable update emerges about Steve Kerr's future \u2014 Steve Kerr might not necessarily be going out sad as the head coach of the Golden State Warriors.",
+      "player_name": "Steve Kerr",
+      "team_name": "Golden State Warriors",
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T20:54:39-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/notable_update_emerges_about_steve_kerrs_future/s1_127_43680686"
+    },
+    {
+      "news_id": "55d4abd04307ab3b",
+      "headline": "Thompson skies for ridiculous two-handed rejection of Conley triple",
+      "blurb": "Thompson skies for ridiculous two-handed rejection of Conley triple \u2014 Detroit Pistons forward Ausar Thompson tracks the Minnesota Timberwolves&#8217; Ayo Dosunmu and races to the corner to leap for a two-handed, volleyball-like block of Mike Conley&#8217;s three-point attempt.",
+      "player_name": "Detroit Pistons",
+      "team_name": "Detroit Pistons",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T20:44:36-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "fc99396c159e720f",
+      "headline": "Dunc'd On: 2028 Crystal Ball",
+      "blurb": "Dunc'd On: 2028 Crystal Ball \u2014 It's time to put on our infallible swami hats and give our fearless predictions for what the league landscape will look like in 2028. We pick who the best players will be, All-NBA teams, the conference finalists, NBA champion, and the two worst teams in the league. \u2060Watch Steve Kerr's explanation of how ball-handlers use their off-arms\u2060 . Join Dunc'd On Prime ! It's ",
+      "player_name": "Crystal Ball It",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T20:26:22-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284863/Duncd-On-2028-Crystal-Ball"
+    },
+    {
+      "news_id": "b3cf6c041741dd31",
+      "headline": "Timberwolves\u2019 Edwards out vs. Pistons, ineligible for end-of-season awards",
+      "blurb": "Timberwolves\u2019 Edwards out vs. Pistons, ineligible for end-of-season awards \u2014 Anthony Edwards won&#8217;t be able to make a third straight All-NBA team.",
+      "player_name": "Anthony Edwards",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T18:17:49-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "5fedbdadad74cee1",
+      "headline": "The 'Most 40-point games in a season' quiz",
+      "blurb": "The 'Most 40-point games in a season' quiz \u2014 How many of the active NBA players to score at least 40 points in six or more games in a single season can you name in six minutes?",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T18:00:55-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/the_most_40_point_games_in_a_season_quiz/s1__43679748"
+    },
+    {
+      "news_id": "930ab0445de02456",
+      "headline": "Jock Landale Out At Least Two Weeks With High Ankle Sprain",
+      "blurb": "Jock Landale Out At Least Two Weeks With High Ankle Sprain \u2014 Jock Landale sustained a right ankle injury during the fourth quarter of Wednesday night's 130-101 win by the Atlanta Hawks at the Orlando Magic. Landale has been diagnosed with a right high ankle sprain and will be re-evaluated in approximately two weeks. Landale will miss at least the remainder of the regular season and an initial play",
+      "player_name": "At Least Two",
+      "team_name": "Atlanta Hawks",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T17:21:17-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284862/Jock-Landale-Out-At-Least-Two-Weeks-With-High-Ankle-Sprain"
+    },
+    {
+      "news_id": "cd4f8d45a3d4517c",
+      "headline": "LeBron James Says He Might Have Pulled An 'Eli Manning' If Grizzlies Won 2003 Lottery",
+      "blurb": "LeBron James Says He Might Have Pulled An 'Eli Manning' If Grizzlies Won 2003 Lottery \u2014 LeBron James suggested he may have refused to play for the Memphis Grizzlies had they won the 2003 NBA Draft lottery , comparing a hypothetical holdout to Eli Manning's refusal to suit up for the San Diego Chargers in the 2004 NFL Draft. \"Their only chance was in 2003 if they would've won the lottery to get me,",
+      "player_name": "James Says He",
+      "team_name": "Cleveland Cavaliers",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T17:12:22-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284861/LeBron-James-Says-He-Might-Have-Pulled-An-Eli-Manning-If-Grizzlies-Won-2003-Lottery"
+    },
+    {
+      "news_id": "0a6491fe60251bc7",
+      "headline": "Penny Hardaway Names Gabriel Harris First General Manager At Memphis",
+      "blurb": "Penny Hardaway Names Gabriel Harris First General Manager At Memphis \u2014 University of Memphis men's basketball coach Penny Hardaway has hired Gabriel Harris as the program's first-ever general manager, the school announced Thursday. Harris comes to Memphis after serving as general manager of the Stockton Kings, the NBA G League affiliate of the Sacramento Kings. \"We are thrilled to welcome Gabriel ",
+      "player_name": "Penny Hardaway Names",
+      "team_name": "Detroit Pistons",
+      "tags": [
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T15:53:42-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284860/Penny-Hardaway-Names-Gabriel-Harris-First-General-Manager-At-Memphis"
+    },
+    {
+      "news_id": "55b606597e0a6561",
+      "headline": "Cade Cunningham Out At Least One More Week, Will Lose Award Eligibility",
+      "blurb": "Cade Cunningham Out At Least One More Week, Will Lose Award Eligibility \u2014 Detroit Pistons guard Cade Cunningham continues to progress in his return from a left lung pneumothorax, the team announced Thursday. He will be re-evaluated in one week, ruling him out for at least four more games. The timeline makes Cunningham ineligible for end-of-season honors including MVP and All-NBA teams. He suffered",
+      "player_name": "At Least One",
+      "team_name": "Detroit Pistons",
+      "tags": [
+        "injury",
+        "performance"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T15:38:14-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284859/Cade-Cunningham-Out-At-Least-One-More-Week-Will-Lose-Award-Eligibility"
+    },
+    {
+      "news_id": "e0054b35f4f3ed0f",
+      "headline": "NBA Brainstormed Fantasy Football-Style 'Draft Credit' System Before Rejecting Concept",
+      "blurb": "NBA Brainstormed Fantasy Football-Style 'Draft Credit' System Before Rejecting Concept \u2014 The NBA considered but ultimately set aside a concept known as the \"draft credit\" system during internal brainstorming sessions, sources told The Stein Line. The idea was discussed before preferred reform concepts were presented to all 30 teams at the recent Board of Governors meeting in Manhattan. The system ",
+      "player_name": "Brainstormed Fantasy Football-",
+      "team_name": null,
+      "tags": [
+        "injury",
+        "starting",
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T15:32:54-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284858/NBA-Brainstormed-Fantasy-Football-Style-Draft-Credit-System-Before-Rejecting-Concept"
+    },
+    {
+      "news_id": "3c3a72a596f577dd",
+      "headline": "Darius Acuff Closing Gap On Darryn Peterson At Guard On NBA Draft Boards",
+      "blurb": "Darius Acuff Closing Gap On Darryn Peterson At Guard On NBA Draft Boards \u2014 Arkansas freshman Darius Acuff is mounting a serious challenge to Darryn Peterson to be the top-ranked guard prospect in the 2026 NBA Draft after polling across the league. Several scouts now rank Acuff ahead of Peterson among guards following dominant performances in both the SEC and NCAA Tournaments. \"Acuff definitely put",
+      "player_name": "Darius Acuff Closing",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T15:24:59-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284857/Darius-Acuff-Closing-Gap-On-Darryn-Peterson-At-Guard-On-NBA-Draft-Boards"
+    },
+    {
+      "news_id": "6c13c7f3d3ee9745",
+      "headline": "Luka Doncic, Jalen Johnson Named NBA Players Of March",
+      "blurb": "Luka Doncic, Jalen Johnson Named NBA Players Of March \u2014 Luka Doncic and Jalen Johnson have been named the NBA's Players of the Month for March. Doncic averaged 37.5 points, 8.0 rebounds and 7.4 assists as the Los Angeles Lakers went 15-2. Doncic previously won the award in January. Johnson averaged 22.4 points, 8.5 rebounds and 8.5 assists as the Atlanta Hawks went 13-2. This is the first time Joh",
+      "player_name": "Luka Doncic",
+      "team_name": "Atlanta Hawks",
+      "tags": [],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T15:04:53-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284856/Luka-Doncic-Jalen-Johnson-Named-NBA-Players-Of-March"
+    },
+    {
+      "news_id": "652e19fa59b045b1",
+      "headline": "Ausar Thompson, Victor Wembanyama Named NBA Defensive Players Of March",
+      "blurb": "Ausar Thompson, Victor Wembanyama Named NBA Defensive Players Of March \u2014 Ausar Thompson and Victor Wembanyama have been named the NBA's Defensive Players of the Month for March. Thompson led the NBA in steals at 2.5 per game and deflections at 4.8 per game. Thompson won Defensive Player of the Month in January. Wembanyama led the NBA in blocks at 3.7 per game and was ranked second in contested sho",
+      "player_name": "Ausar Thompson",
+      "team_name": null,
+      "tags": [],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T15:02:09-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284855/Ausar-Thompson-Victor-Wembanyama-Named-NBA-Defensive-Players-Of-March"
+    },
+    {
+      "news_id": "3b530a8b2cab037e",
+      "headline": "Basketball Intelligence For 4/2/26",
+      "blurb": "Basketball Intelligence For 4/2/26 \u2014 Today's Best NBA Reporting And Analysis",
+      "player_name": "Basketball Intelligence For",
+      "team_name": null,
+      "tags": [],
+      "source": "Basketball Intelligence",
+      "published_at": "2026-04-02T14:57:57-04:00",
+      "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-4226"
+    },
+    {
+      "news_id": "1329223a6f268329",
+      "headline": "VJ Edgecombe, Maxime Raynaud Named NBA's Rookies Of March",
+      "blurb": "VJ Edgecombe, Maxime Raynaud Named NBA's Rookies Of March \u2014 VJ Edgecombe and Maxime Raynaud have been named the NBA's Rookies of the Month for March. Edgecombe becomes the first player to win the award this season in the Eastern Conference after Kon Knueppel won in November, December, January and February. Edgecombe averaged 18.9 points, 5.8 rebounds and 4.3 assists for the Philadelphia 76ers. Ray",
+      "player_name": "Maxime Raynaud Named",
+      "team_name": "Philadelphia 76ers",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T14:56:15-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284854/VJ-Edgecombe-Maxime-Raynaud-Named-NBAs-Rookies-Of-March"
+    },
+    {
+      "news_id": "47cbca1f26469559",
+      "headline": "NBA Hall of Famer Robert Parish sends clear message to legends criticizing today's stars",
+      "blurb": "NBA Hall of Famer Robert Parish sends clear message to legends criticizing today's stars \u2014 A lot of former players have issues with how the game has changed, and it usually circles back to physicality.",
+      "player_name": "Famer Robert Parish",
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T14:47:04-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/nba_hall_of_famer_robert_parish_sends_clear_message_to_legends_criticizing_todays_stars/s1_13132_43676026"
+    },
+    {
+      "news_id": "efdc78394daa4dc1",
+      "headline": "Wizards\u2019 Kyshawn George out for season with elbow injury",
+      "blurb": "Wizards\u2019 Kyshawn George out for season with elbow injury \u2014 The Washington Wizards forward is out for the year with an elbow injury, the team announced on Thursday.",
+      "player_name": "Kyshawn George",
+      "team_name": "Washington Wizards",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T14:20:07-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "367d9939410fdfc3",
+      "headline": "Pistons\u2019 Cunningham out at least one more week with collapsed lung",
+      "blurb": "Pistons\u2019 Cunningham out at least one more week with collapsed lung",
+      "player_name": null,
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T13:44:41-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "3a68556b690b5692",
+      "headline": "NBA Hasn't Set Timeline To Conclude Clippers' Salary Cap Investigation",
+      "blurb": "NBA Hasn't Set Timeline To Conclude Clippers' Salary Cap Investigation \u2014 The NBA's investigation into alleged salary cap circumvention involving the LA Clippers and Kawhi Leonard has no set end date, with interviews still ongoing nearly seven months after the probe began. \"Wachtell's investigation is ongoing,\" an NBA spokesperson said. \"There is more work to be done and no set timeline.\" The inqui",
+      "player_name": "Set Timeline To",
+      "team_name": "Los Angeles Clippers",
+      "tags": [
+        "injury",
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T12:34:06-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284853/NBA-Hasnt-Set-Timeline-To-Conclude-Clippers-Salary-Cap-Investigation"
+    },
+    {
+      "news_id": "5f1c3d9f9942bdf1",
+      "headline": "Can Raptors\u2019 Barnes balance point guard duties while putting up points?",
+      "blurb": "Can Raptors\u2019 Barnes balance point guard duties while putting up points? \u2014 The Raptors Show hosts&#8217; Blake Murphy and Matt Bonner break down their loss to the Sacramento Kings and how Scottie should be utilized to get the most out of him.",
+      "player_name": "Can Raptors",
+      "team_name": "Sacramento Kings",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-02T12:18:39-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "bb3501b6773dcf44",
+      "headline": "How To Watch Spurs Vs Clippers, Live Stream, TV Channel, Prediction, Betting Odds",
+      "blurb": "How To Watch Spurs Vs Clippers, Live Stream, TV Channel, Prediction, Betting Odds \u2014 The NBA regular season enters its final stretch this Thursday, April 2, as the San Antonio Spurs travel to Southern California to face the LA Clippers at the brand-new Intuit Dome. San Antonio (58-18) continues its dominant run at the top of the Western Conference, currently riding a ten-game winning streak as they",
+      "player_name": "How To Watch",
+      "team_name": "Los Angeles Clippers",
+      "tags": [
+        "injury",
+        "performance"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T11:54:49-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284852/How-To-Watch-Spurs-Vs-Clippers-Live-Stream-TV-Channel-Prediction-Betting-Odds"
+    },
+    {
+      "news_id": "50a6e91331d90bc8",
+      "headline": "How To Watch Trail Blazers Vs Pelicans, Live Stream, TV Channel, Prediction, Betting Odds",
+      "blurb": "How To Watch Trail Blazers Vs Pelicans, Live Stream, TV Channel, Prediction, Betting Odds \u2014 Western Conference intensity heats up this Thursday, April 2, as the New Orleans Pelicans travel to the Pacific Northwest to face the Portland Trail Blazers at the Moda Center. The Blazers (39-38) are in the midst of a high-stakes race for the final Play-In spots, currently looking to leverage their home-co",
+      "player_name": "How To Watch",
+      "team_name": "New Orleans Pelicans",
+      "tags": [
+        "injury",
+        "performance"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T11:42:28-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284851/How-To-Watch-Trail-Blazers-Vs-Pelicans-Live-Stream-TV-Channel-Prediction-Betting-Odds"
+    },
+    {
+      "news_id": "df55974963b18c7f",
+      "headline": "How To Watch Cavaliers Vs Warriors, Live Stream, TV Channel, Prediction, Betting Odds",
+      "blurb": "How To Watch Cavaliers Vs Warriors, Live Stream, TV Channel, Prediction, Betting Odds \u2014 ` Inter-conference intensity heats up this Thursday as the Cleveland Cavaliers travel to San Francisco to face the Golden State Warriors at Chase Center. The Cavaliers (47-29) arrive as the fourth seed in the Eastern Conference, looking to bounce back from a loss to the Lakers and solidify their playoff positio",
+      "player_name": "How To Watch",
+      "team_name": "Cleveland Cavaliers",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T11:25:13-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284850/How-To-Watch-Cavaliers-Vs-Warriors-Live-Stream-TV-Channel-Prediction-Betting-Odds"
+    },
+    {
+      "news_id": "c43d5f9642382d03",
+      "headline": "How To Watch Suns Vs Hornets, Live Stream, TV Channel, Prediction, Betting Odds",
+      "blurb": "How To Watch Suns Vs Hornets, Live Stream, TV Channel, Prediction, Betting Odds \u2014 The race for playoff positioning reaches a critical juncture this Thursday as the Phoenix Suns travel to face the Charlotte Hornets at the Spectrum Center. The Suns (42-34) are looking to right the ship after a difficult 3-6 stretch over their last ten games, while the Hornets (40-36) enter the night as one of the Ea",
+      "player_name": "How To Watch",
+      "team_name": "Charlotte Hornets",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T10:53:46-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284849/How-To-Watch-Suns-Vs-Hornets-Live-Stream-TV-Channel-Prediction-Betting-Odds"
+    },
+    {
+      "news_id": "9aeac9b5c635b867",
+      "headline": "Victor Wembanyama: 'I Do Care Deeply' About Winning NBA MVP",
+      "blurb": "Victor Wembanyama: 'I Do Care Deeply' About Winning NBA MVP \u2014 Victor Wembanyama reiterated his MVP intentions plainly Wednesday, telling ESPN he is actively chasing the award. The declaration came after a commanding 41-point, 18-rebound performance in San Antonio's 127-113 road victory over Golden State. \"I do care deeply about it,\" Wembanyama told ESPN's Scott Van Pelt. \"I think that of the great",
+      "player_name": "Victor Wembanyama",
+      "team_name": "Oklahoma City Thunder",
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T10:52:44-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284848/Victor-Wembanyama-I-Do-Care-Deeply-About-Winning-NBA-MVP"
+    },
+    {
+      "news_id": "8e19aa3fe287781d",
+      "headline": "Tre Scott, Nets Sign 10-Day Hardship Contract",
+      "blurb": "Tre Scott, Nets Sign 10-Day Hardship Contract \u2014 Tre Scott and the Brooklyn Nets have signed a 10-day hardship deal. Scott has appeared in 47 games this season with the Long Island Nets , averaging 12.0 points, 4.8 rebounds and 2.0 assists in 28.1 minutes. Scott was with the Nets for training camp. Scott, a 6'8 small forward, went undrafted out of Cincinnati in 2020. Danny Wolf is likely to miss th",
+      "player_name": "Tre Scott",
+      "team_name": "Brooklyn Nets",
+      "tags": [
+        "injury",
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-02T10:44:16-04:00",
+      "link": "https://basketball.realgm.com/wiretap/284847/Tre-Scott-Nets-Sign-10-Day-Hardship-Contract"
+    },
+    {
+      "news_id": "4394cc7aa83d295b",
+      "headline": "Tampering violations make Trail Blazers' selection of Yang Hansen more baffling",
+      "blurb": "Tampering violations make Trail Blazers' selection of Yang Hansen more baffling \u2014 No team would break NBA rules to add rookie center Yang Hansen, except for the Portland Trail Blazers.",
+      "player_name": "Trail Blazers",
+      "team_name": "Portland Trail Blazers",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T10:43:01-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/tampering_violations_make_trail_blazers_selection_of_yang_hansen_more_baffling/s1_13132_43676388"
+    },
+    {
+      "news_id": "a82ec32c1782e71f",
+      "headline": "Is Amar\u2019e Stoudemire the new Hall of Fame standard?",
+      "blurb": "Is Amar\u2019e Stoudemire the new Hall of Fame standard? \u2014 Amar\u2019e Stoudemire\u2019s selection to the 2026 class of the Naismith Memorial Basketball Hall of Fame has quickly become the most debated inclusion.",
+      "player_name": "Is Amar",
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T10:43:01-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/is_amare_stoudemire_the_new_hall_of_fame_standard/s1_13132_43674879"
+    },
+    {
+      "news_id": "1264aa00d975cda2",
+      "headline": "Celtics' Jayson Tatum shuts down injury worries after triple-double vs. Heat",
+      "blurb": "Celtics' Jayson Tatum shuts down injury worries after triple-double vs. Heat \u2014 For those who may have been wondering whether Boston Celtics forward Jayson Tatum rushed his return from a right Achilles tear, don't be.",
+      "player_name": "Jayson Tatum",
+      "team_name": "Boston Celtics",
+      "tags": [
+        "injury",
+        "performance"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-02T10:43:01-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/celtics_jayson_tatum_shuts_down_injury_worries_after_triple_double_vs_heat/s1_13132_43676527"
+    }
+  ],
+  "summary": [
+    "LeBron James really hates Memphis, wants Grizzlies to move \u2014 There are certain cities that professional athletes love traveling to. And there are others they don't.",
+    "Cooper Flagg gets candid about the Mavericks' brutal season \u2014 Cooper Flagg regularly won games in high school and in college, but he\u2019s not having the same experience since he turned pro.",
+    "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap.",
+    "Luka Doncic to undergo MRI after suffering injury in Lakers' 43-point loss \u2014 Los Angeles Lakers superstar Luka Doncic suffered a left hamstring injury in Thursday\u2019s game at Oklahoma City.",
+    "NBA Highlights (April 2)",
+    "Mitchell scores 25 points as Cavaliers hold off Warriors to clinch playoff spot",
+    "NBA Highlights: Cavaliers 118, Warriors 111 \u2014 Donovan Mitchell scored a team-high 25 points, Max Strus added 24, and the Cleveland Cavaliers earned a 118-111 victory over the Golden State Warriors.",
+    "NBA Highlights: Trail Blazers 118, Pelicans 106 \u2014 Jrue Holiday poured in a game-high 27 points, while Deni Avdija added 26 of his own as the Portland Trail Blazers earned a 118-106 win over the New Orleans Pelicans. Jeremiah Fears posted a team-high 21 points off the bench in the loss.",
+    "Thunder hand Lakers one of the worst losses in franchise history",
+    "NBA Highlights: Thunder 139, Lakers 96 \u2014 Shai Gilgeous-Alexander tallied 28 points with seven rebounds and seven assists and Isaiah Joe off the bench scored 20 points with six three-pointers in just 13 minutes as the Oklahoma City Thunder blew out the Los Angeles Lakers 139-96."
+  ]
+}

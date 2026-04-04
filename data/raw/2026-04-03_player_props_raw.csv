@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-04-03,Jaylen Brown,AST,5.5,FanDuel,6.9,0.78,0.78,34.2,OVER,Starter,Boston Celtics @ Milwaukee Bucks,2.28,0.25,Pending,0,
+2026-04-03,Quenton Jackson,PTS,9.5,Bovada,5.7,0.84,0.766,36.5,UNDER,Rotation,Indiana Pacers @ Charlotte Hornets,2.1,0.25,Pending,0,
+2026-04-03,Zion Williamson,AST,3.5,BetMGM,2.3,0.91,0.694,37.1,UNDER,Starter,New Orleans Pelicans @ Sacramento Kings,1.87,0.25,Pending,0,
+2026-04-03,Nickeil Alexander-Walker,PTS,20.5,Bovada,25.7,0.76,0.586,27.9,OVER,Starter,Atlanta Hawks @ Brooklyn Nets,2.1,0.25,Pending,0,
+2026-04-03,Onyeka Okongwu,AST,2.5,DraftKings,3.8,0.88,0.56,31.6,OVER,Starter,Atlanta Hawks @ Brooklyn Nets,1.77,0.25,Pending,0,
+2026-04-03,Josh Hart,AST,4.5,FanDuel,3.7,0.73,0.539,25.7,UNDER,Starter,Chicago Bulls @ New York Knicks,2.1,0.25,Pending,0,
+2026-04-03,Brice Sensabaugh,PTS,21.5,BetRivers,25.8,0.71,0.503,23.7,OVER,Starter,Utah Jazz @ Houston Rockets,2.12,0.25,Pending,0,
+2026-04-03,Zion Williamson,REB,5.5,BetMGM,4.4,0.74,0.447,22.9,UNDER,Starter,New Orleans Pelicans @ Sacramento Kings,1.95,0.25,Pending,0,
+2026-04-03,Jeremiah Fears,REB,3.5,FanDuel,2.3,0.74,0.446,22.8,UNDER,Rotation,New Orleans Pelicans @ Sacramento Kings,1.96,0.25,Pending,0,
+2026-04-03,Derrick White,3PTM,2.5,BetOnline.ag,2.0,0.62,0.421,18.4,UNDER,Starter,Boston Celtics @ Milwaukee Bucks,2.28,0.25,Pending,0,
