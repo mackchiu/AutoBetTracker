@@ -1,0 +1,16 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-05,Toronto Raptors @ Boston Celtics,MONEYLINE,Boston Celtics ML,,91.7% win prob,10.4,FanDuel,1.23,1.0,Pending,0,,0.9166,0.0834,10.36,-13.59,Boston Celtics ML
+2026-04-05,Washington Wizards @ Brooklyn Nets,TOTAL,UNDER 230.5,230.5,224.9,5.6,Caesars,1.91,0.5,Pending,0,,0.8474,0.1526,23.01,-25.39,
+2026-04-05,Phoenix Suns @ Chicago Bulls,SPREAD,Bulls +10.0,10.0,Chicago Bulls by 3.7,6.3,Caesars,1.95,0.5,Pending,0,,0.5627,0.4373,35.65,-38.24,
+2026-04-05,Memphis Grizzlies @ Milwaukee Bucks,TOTAL,OVER 228.5,228.5,234.4,5.9,Caesars,1.91,0.5,Pending,0,,0.8484,0.1516,14.42,-17.1,
+2026-04-05,Indiana Pacers @ Cleveland Cavaliers,SPREAD,Pacers +15.5,15.5,Indiana Pacers by 7.9,7.6,DraftKings,1.91,0.5,Pending,0,,0.9357,0.0643,0.98,-3.32,
+2026-04-05,Indiana Pacers @ Cleveland Cavaliers,TOTAL,OVER 239.0,239.0,245.0,6.0,DraftKings,1.93,0.5,Pending,0,,0.9357,0.0643,0.98,-3.32,
+2026-04-05,Charlotte Hornets @ Minnesota Timberwolves,SPREAD,Timberwolves +2.0,2.0,Minnesota Timberwolves by 1.8,3.8,Caesars,1.91,0.0,Pending,0,,0.7893,0.2107,32.42,-34.49,
+2026-04-05,Orlando Magic @ New Orleans Pelicans,SPREAD,Pelicans +4.5,4.5,New Orleans Pelicans by 5.0,9.5,FanDuel,1.94,0.5,Pending,0,,0.8807,0.1193,50.75,-53.0,
+2026-04-05,Orlando Magic @ New Orleans Pelicans,TOTAL,UNDER 237.0,237.0,229.4,7.6,FanDuel,1.93,0.5,Pending,0,,0.8807,0.1193,50.75,-53.0,
+2026-04-05,Utah Jazz @ Oklahoma City Thunder,SPREAD,Jazz +24.0,24.0,Utah Jazz by 14.4,9.6,Caesars,1.91,0.5,Pending,0,,0.9886,0.0114,0.82,-3.21,
+2026-04-05,Utah Jazz @ Oklahoma City Thunder,TOTAL,OVER 239.0,239.0,242.2,3.2,Caesars,1.91,0.0,Pending,0,,0.9886,0.0114,0.82,-3.21,
+2026-04-05,Los Angeles Lakers @ Dallas Mavericks,TOTAL,OVER 234.0,234.0,244.9,10.9,DraftKings,1.95,1.0,Pending,0,,0.5341,0.4659,5.56,-8.06,
+2026-04-05,Los Angeles Clippers @ Sacramento Kings,SPREAD,Kings +13.0,13.0,Sacramento Kings by 7.1,5.9,BetUS,1.91,0.5,Pending,0,,0.404,0.596,26.32,-28.9,
+2026-04-05,Houston Rockets @ Golden State Warriors,SPREAD,Warriors +3.5,3.5,Golden State Warriors by 1.0,4.5,Caesars,1.91,0.0,Pending,0,,0.76,0.24,34.33,-36.6,
+2026-04-05,Houston Rockets @ Golden State Warriors,TOTAL,OVER 226.5,226.5,236.1,9.6,Caesars,1.91,0.5,Pending,0,,0.76,0.24,34.33,-36.6,

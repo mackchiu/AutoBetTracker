@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-04-05,Josh Minott,REB,5.5,Bovada,3.2,0.94,1.025,49.7,UNDER,Rotation,Washington Wizards @ Brooklyn Nets,2.15,0.5,Pending,0,,B,,,,
+2026-04-05,Rui Hachimura,PTS,14.5,Bovada,7.7,0.94,1.021,41.5,UNDER,Rotation,Los Angeles Lakers @ Dallas Mavericks,2.15,0.0,Pending,0,,C,,,,
+2026-04-05,Gary Payton II,PTS,8.5,Caesars,14.7,0.97,0.948,42.2,OVER,Rotation,Houston Rockets @ Golden State Warriors,2.01,0.0,Pending,0,,C,,,,
+2026-04-05,Jake LaRavia,AST,2.5,DraftKings,1.3,0.89,0.862,35.0,UNDER,Rotation,Los Angeles Lakers @ Dallas Mavericks,2.1,0.5,Pending,0,,B,,,,
+2026-04-05,LeBron James,PTS,25.5,Caesars,16.9,0.94,0.853,45.1,UNDER,Starter,Los Angeles Lakers @ Dallas Mavericks,1.98,1.0,Pending,0,,A,,,,
+2026-04-05,Quenton Jackson,PTS,12.5,Bovada,7.5,0.85,0.826,32.4,UNDER,Rotation,Indiana Pacers @ Cleveland Cavaliers,2.15,0.0,Pending,0,,C,,,,
+2026-04-05,Thomas Bryant,REB,7.5,DraftKings,4.8,0.86,0.815,38.4,UNDER,Rotation,Indiana Pacers @ Cleveland Cavaliers,2.12,0.5,Pending,0,,B,,,,
+2026-04-05,Devin Carter,REB,4.5,Fanatics,6.2,0.81,0.771,40.1,OVER,Rotation,Los Angeles Clippers @ Sacramento Kings,2.2,0.5,Pending,0,,B,,,,
+2026-04-05,LeBron James,AST,9.5,BetRivers,6.1,0.84,0.759,38.1,UNDER,Starter,Los Angeles Lakers @ Dallas Mavericks,2.1,0.5,Pending,0,,B,,,,
+2026-04-05,Rui Hachimura,REB,3.5,Caesars,2.3,0.77,0.686,25.2,UNDER,Rotation,Los Angeles Lakers @ Dallas Mavericks,2.2,0.0,Pending,0,,C,,,,

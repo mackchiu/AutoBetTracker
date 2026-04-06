@@ -1,0 +1,11 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-06,New York Knicks @ Atlanta Hawks,SPREAD,Knicks +1.5,1.5,New York Knicks by 2.2,3.7,DraftKings,1.91,0.0,Pending,0,,0.6307,0.3693,9.59,-12.58,
+2026-04-06,New York Knicks @ Atlanta Hawks,TOTAL,UNDER 227.0,227.0,220.1,6.9,DraftKings,1.91,0.5,Pending,0,,0.6307,0.3693,9.59,-12.58,
+2026-04-06,Detroit Pistons @ Orlando Magic,MONEYLINE,Detroit Pistons ML,,69.1% win prob,10.3,BetRivers,1.7,1.0,Pending,0,,0.3089,0.6911,-11.67,10.29,Detroit Pistons ML
+2026-04-06,Detroit Pistons @ Orlando Magic,SPREAD,Pistons -2.5,-2.5,Detroit Pistons by 9.2,6.7,Caesars,1.91,0.5,Pending,0,,0.3089,0.6911,-11.67,10.29,Detroit Pistons ML
+2026-04-06,Detroit Pistons @ Orlando Magic,TOTAL,OVER 224.5,224.5,231.8,7.3,Caesars,1.91,0.5,Pending,0,,0.3089,0.6911,-11.67,10.29,Detroit Pistons ML
+2026-04-06,Cleveland Cavaliers @ Memphis Grizzlies,SPREAD,Grizzlies +15.0,15.0,Memphis Grizzlies by 0.5,14.5,Caesars,1.91,1.0,Pending,0,,0.7019,0.2981,60.42,-62.78,
+2026-04-06,Cleveland Cavaliers @ Memphis Grizzlies,TOTAL,OVER 234.0,234.0,241.9,7.9,Caesars,1.91,0.5,Pending,0,,0.7019,0.2981,60.42,-62.78,
+2026-04-06,Philadelphia 76ers @ San Antonio Spurs,MONEYLINE,San Antonio Spurs ML,,91.5% win prob,14.0,Bovada,1.29,1.0,Pending,0,,0.9153,0.0847,14.01,-16.47,San Antonio Spurs ML
+2026-04-06,Portland Trail Blazers @ Denver Nuggets,MONEYLINE,Denver Nuggets ML,,86.8% win prob,11.6,MyBookie.ag,1.33,1.0,Pending,0,,0.8678,0.1322,11.6,-13.81,Denver Nuggets ML
+2026-04-06,Portland Trail Blazers @ Denver Nuggets,SPREAD,Blazers +7.5,7.5,Portland Trail Blazers by 4.5,3.0,BetOnline.ag,1.95,0.0,Pending,0,,0.8678,0.1322,11.6,-13.81,Denver Nuggets ML
