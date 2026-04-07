@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-04-06,Stephon Castle,AST,8.5,FanDuel,10.4,0.8,0.729,33.7,OVER,Starter,Philadelphia 76ers @ San Antonio Spurs,2.16,0.5,Win,0.58,,B,,,,
+2026-04-06,Nickeil Alexander-Walker,PTS,19.5,FanDuel,23.4,0.8,0.595,24.7,OVER,Starter,New York Knicks @ Atlanta Hawks,2.0,0.0,Win,0.0,,C,,,,
+2026-04-06,Dominick Barlow,REB,3.5,FanDuel,6.4,0.81,0.595,35.3,OVER,Rotation,Philadelphia 76ers @ San Antonio Spurs,1.96,0.5,Win,0.48,,B,,,,
+2026-04-06,Max Strus,REB,4.5,Fanatics,6.6,0.86,0.547,35.4,OVER,Rotation,Cleveland Cavaliers @ Memphis Grizzlies,1.8,0.5,Void,0,,B,,,,
+2026-04-06,VJ Edgecombe,PTS,12.5,DraftKings,20.6,0.78,0.53,32.2,OVER,Starter,Philadelphia 76ers @ San Antonio Spurs,1.95,0.5,Win,0.47,,B,,,,
+2026-04-06,Christian Braun,PTS,12.5,Bovada,16.5,0.75,0.529,30.8,OVER,Starter,Portland Trail Blazers @ Denver Nuggets,2.05,0.5,Loss,-0.5,,B,,,,
+2026-04-06,Joel Embiid,3PTM,1.5,BetMGM,2.2,0.72,0.515,19.5,OVER,Starter,Philadelphia 76ers @ San Antonio Spurs,2.1,0.0,Win,0.0,,C,,,,
+2026-04-06,Devin Vassell,AST,2.5,DraftKings,3.2,0.72,0.486,28.7,OVER,Starter,Philadelphia 76ers @ San Antonio Spurs,2.05,0.5,Win,0.52,,B,,,,
+2026-04-06,C.J. McCollum,AST,3.5,BetRivers,5.5,0.81,0.45,25.0,OVER,Starter,New York Knicks @ Atlanta Hawks,1.8,0.5,Win,0.4,,B,,,,
+2026-04-06,Josh Hart,AST,4.5,BetMGM,3.8,0.73,0.433,24.2,UNDER,Starter,New York Knicks @ Atlanta Hawks,1.95,0.5,Win,0.47,,B,,,,
