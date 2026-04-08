@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade,line_movement_flag,sharp_flag,divergence_flag,conflict_flag
+2026-04-07,Saddiq Bey,3PTM,2.5,DraftKings,3.5,0.82,0.8,41.3,OVER,Starter,Utah Jazz @ New Orleans Pelicans,2.2,0.5,Pending,0,,B,,,,
+2026-04-07,Zion Williamson,PTS,21.5,Bovada,17.7,0.83,0.782,36.4,UNDER,Starter,Utah Jazz @ New Orleans Pelicans,2.15,0.5,Pending,0,,B,,,,
+2026-04-07,P.J. Washington,AST,1.5,BetOnline.ag,0.8,0.82,0.72,36.3,UNDER,Starter,Dallas Mavericks @ Los Angeles Clippers,2.1,0.5,Pending,0,,B,,,,
+2026-04-07,Isaac Okoro,REB,3.5,BetMGM,2.1,0.84,0.713,28.8,UNDER,Starter,Chicago Bulls @ Washington Wizards,2.05,0.5,Pending,0,,B,,,,
+2026-04-07,Jake LaRavia,PTS,10.5,Bovada,7.1,0.74,0.71,24.9,UNDER,Starter,Oklahoma City Thunder @ Los Angeles Lakers,2.3,0.0,Pending,0,,C,,,,
+2026-04-07,Gary Payton II,PTS,11.5,FanDuel,14.7,0.84,0.696,29.5,OVER,Rotation,Sacramento Kings @ Golden State Warriors,2.02,0.0,Pending,0,,C,,,,
+2026-04-07,Pelle Larsson,PTS,11.5,BetRivers,14.6,0.77,0.695,36.6,OVER,Starter,Miami Heat @ Toronto Raptors,2.2,0.5,Pending,0,,B,,,,
+2026-04-07,Dillon Brooks,REB,3.5,DraftKings,4.6,0.77,0.694,36.4,OVER,Starter,Houston Rockets @ Phoenix Suns,2.21,0.5,Pending,0,,B,,,,
+2026-04-07,Jaime Jaquez Jr,AST,3.5,Bovada,5.7,0.87,0.661,34.6,OVER,Starter,Miami Heat @ Toronto Raptors,1.91,0.5,Pending,0,,B,,,,
+2026-04-07,Devin Carter,REB,5.5,FanDuel,6.8,0.76,0.654,35.0,OVER,Rotation,Sacramento Kings @ Golden State Warriors,2.18,0.5,Pending,0,,B,,,,

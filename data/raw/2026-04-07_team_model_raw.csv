@@ -1,0 +1,14 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-07,Chicago Bulls @ Washington Wizards,SPREAD,Wizards +6.0,6.0,Washington Wizards by 3.2,9.2,Caesars,1.91,0.5,Pending,0,,0.8316,0.1684,49.26,-51.65,
+2026-04-07,Chicago Bulls @ Washington Wizards,TOTAL,OVER 250.0,250.0,254.8,4.8,Caesars,1.91,0.0,Pending,0,,0.8316,0.1684,49.26,-51.65,
+2026-04-07,Minnesota Timberwolves @ Indiana Pacers,SPREAD,Pacers +12.5,12.5,Indiana Pacers by 2.7,15.2,DraftKings,1.95,1.0,Pending,0,,0.8189,0.1811,67.08,-69.61,
+2026-04-07,Milwaukee Bucks @ Brooklyn Nets,TOTAL,OVER 220.0,220.0,223.5,3.5,LowVig.ag,1.92,0.0,Pending,0,,0.747,0.253,28.62,-31.2,
+2026-04-07,Miami Heat @ Toronto Raptors,TOTAL,OVER 242.0,242.0,249.0,7.0,BetUS,1.91,0.5,Pending,0,,0.8429,0.1571,29.65,-32.37,
+2026-04-07,Utah Jazz @ New Orleans Pelicans,MONEYLINE,New Orleans Pelicans ML,,97.5% win prob,14.1,Fanatics,1.2,1.0,Pending,0,,0.9746,0.0254,14.13,-16.51,New Orleans Pelicans ML
+2026-04-07,Utah Jazz @ New Orleans Pelicans,TOTAL,UNDER 243.5,243.5,224.7,18.8,Caesars,1.91,1.0,Pending,0,,0.9746,0.0254,14.13,-16.51,New Orleans Pelicans ML
+2026-04-07,Sacramento Kings @ Golden State Warriors,MONEYLINE,Golden State Warriors ML,,96.3% win prob,6.2,BetUS,1.11,0.5,Pending,0,,0.9626,0.0374,6.17,-8.76,Golden State Warriors ML
+2026-04-07,Sacramento Kings @ Golden State Warriors,SPREAD,Kings +14.5,14.5,Sacramento Kings by 10.1,4.4,Caesars,1.91,0.0,Pending,0,,0.9626,0.0374,6.17,-8.76,Golden State Warriors ML
+2026-04-07,Dallas Mavericks @ Los Angeles Clippers,SPREAD,Mavericks +12.0,12.0,Dallas Mavericks by 5.4,6.6,Fanatics,1.91,0.5,Pending,0,,0.8888,0.1112,3.41,-6.27,
+2026-04-07,Oklahoma City Thunder @ Los Angeles Lakers,SPREAD,Lakers +18.0,18.0,Los Angeles Lakers by 0.8,17.2,FanDuel,1.93,1.0,Pending,0,,0.691,0.309,61.4,-64.33,
+2026-04-07,Oklahoma City Thunder @ Los Angeles Lakers,TOTAL,OVER 220.5,220.5,229.2,8.7,FanDuel,1.91,0.5,Pending,0,,0.691,0.309,61.4,-64.33,
+2026-04-07,Houston Rockets @ Phoenix Suns,SPREAD,Rockets +1.0,1.0,Houston Rockets by 3.1,4.1,MyBookie.ag,1.91,0.0,Pending,0,,0.5893,0.4107,7.38,-10.21,
