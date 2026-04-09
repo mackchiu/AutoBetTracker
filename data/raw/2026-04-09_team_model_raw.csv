@@ -1,0 +1,11 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-09,Chicago Bulls @ Washington Wizards,SPREAD,Wizards +6.5,6.5,Washington Wizards by 6.4,12.9,BetMGM,1.87,1.0,Pending,0,,0.9092,0.0908,59.18,-61.85,
+2026-04-09,Chicago Bulls @ Washington Wizards,TOTAL,OVER 247.5,247.5,251.9,4.4,BetMGM,1.91,0.0,Pending,0,,0.9092,0.0908,59.18,-61.85,
+2026-04-09,Miami Heat @ Toronto Raptors,SPREAD,Raptors -3.5,-3.5,Toronto Raptors by 9.5,6.0,Caesars,1.91,0.5,Pending,0,,0.9558,0.0442,35.7,-37.24,
+2026-04-09,Boston Celtics @ New York Knicks,SPREAD,Celtics +4.5,4.5,Boston Celtics by 0.8,5.3,Caesars,1.91,0.5,Pending,0,,0.688,0.312,4.7,-6.97,
+2026-04-09,Boston Celtics @ New York Knicks,TOTAL,OVER 216.5,216.5,219.8,3.3,Caesars,1.91,0.0,Pending,0,,0.688,0.312,4.7,-6.97,
+2026-04-09,Indiana Pacers @ Brooklyn Nets,TOTAL,OVER 224.5,224.5,233.3,8.8,LowVig.ag,1.98,0.5,Pending,0,,0.6734,0.3266,24.79,-27.22,
+2026-04-09,Philadelphia 76ers @ Houston Rockets,SPREAD,76ers +4.0,4.0,Philadelphia 76ers by 1.2,5.2,Caesars,1.87,0.5,Pending,0,,0.6747,0.3253,5.36,-7.47,
+2026-04-09,Philadelphia 76ers @ Houston Rockets,TOTAL,OVER 227.0,227.0,230.3,3.3,Caesars,1.91,0.0,Pending,0,,0.6747,0.3253,5.36,-7.47,
+2026-04-09,Los Angeles Lakers @ Golden State Warriors,SPREAD,Lakers +4.5,4.5,Los Angeles Lakers by 0.8,5.3,Caesars,1.95,0.5,Pending,0,,0.6895,0.3105,4.85,-7.12,
+2026-04-09,Los Angeles Lakers @ Golden State Warriors,TOTAL,OVER 225.5,225.5,241.4,15.9,Caesars,1.91,1.0,Pending,0,,0.6895,0.3105,4.85,-7.12,
