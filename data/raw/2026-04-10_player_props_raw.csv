@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-04-10,Tyrese Maxey,PTS,28.5,Bovada,23.6,0.88,0.839,39.9,UNDER,Starter,Philadelphia 76ers @ Indiana Pacers,2.1,0.25,Pending,0,
+2026-04-10,Daniss Jenkins,PTS,10.5,BetOnline.ag,17.0,0.87,0.728,36.6,OVER,Starter,Detroit Pistons @ Charlotte Hornets,1.99,0.25,Pending,0,
+2026-04-10,Stephon Castle,AST,7.5,BetOnline.ag,10.4,0.87,0.687,35.6,OVER,Starter,Dallas Mavericks @ San Antonio Spurs,1.93,0.25,Pending,0,
+2026-04-10,Dillon Brooks,REB,3.5,BetOnline.ag,5.0,0.83,0.632,32.1,OVER,Starter,Phoenix Suns @ Los Angeles Lakers,1.97,0.25,Pending,0,
+2026-04-10,LeBron James,PTS,24.5,Caesars,17.3,0.87,0.596,32.5,UNDER,Starter,Phoenix Suns @ Los Angeles Lakers,1.83,0.25,Pending,0,
+2026-04-10,Jakob Poeltl,REB,6.5,Bovada,4.5,0.74,0.592,27.5,UNDER,Rotation,Toronto Raptors @ New York Knicks,2.15,0.25,Pending,0,
+2026-04-10,Max Strus,REB,4.5,Bovada,6.1,0.75,0.583,27.8,OVER,Rotation,Cleveland Cavaliers @ Atlanta Hawks,2.1,0.25,Pending,0,
+2026-04-10,Devin Carter,AST,5.5,BetOnline.ag,3.8,0.9,0.567,32.6,UNDER,Starter,Golden State Warriors @ Sacramento Kings,1.74,0.25,Pending,0,
+2026-04-10,Evan Mobley,AST,2.5,BetOnline.ag,3.9,0.91,0.563,32.9,OVER,Starter,Cleveland Cavaliers @ Atlanta Hawks,1.71,0.25,Pending,0,
+2026-04-10,Derik Queen,PTS,14.5,BetOnline.ag,10.6,0.79,0.563,28.6,UNDER,Rotation,New Orleans Pelicans @ Boston Celtics,1.97,0.25,Pending,0,
