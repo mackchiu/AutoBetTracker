@@ -1,0 +1,621 @@
+{
+  "date": "2026-04-11",
+  "items": [
+    {
+      "news_id": "aa3fa74eb88d84ec",
+      "headline": "LeBron James reaches 12,000 assists as Lakers trounce Suns",
+      "blurb": "LeBron James reaches 12,000 assists as Lakers trounce Suns \u2014 LeBron James had 28 points, 12 assists and six rebounds, and the short-handed Los Angeles Lakers clinched home-court advantage in the first round of the playoffs with their 101-73 victory over the Phoenix Suns on Friday night.",
+      "player_name": "Los Angeles Lakers",
+      "team_name": "Los Angeles Lakers",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-11T01:32:02-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "fd7b1fd01137b4db",
+      "headline": "Get Your Latest NBA News From RealGM's Basketball Wiretap",
+      "blurb": "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap.",
+      "player_name": "Get Your Latest",
+      "team_name": null,
+      "tags": [],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-11T01:17:02-04:00",
+      "link": "https://basketball.realgm.com/news"
+    },
+    {
+      "news_id": "5a5ae2c83cd36459",
+      "headline": "NBA Highlights: Lakers 101, Suns 73",
+      "blurb": "NBA Highlights: Lakers 101, Suns 73 \u2014 LeBron James led the way with a 28-point, 12-assist double-double and Luke Kennard had 19 points as the Los Angeles Lakers defeated the Phoenix Suns 101-73.",
+      "player_name": "Luke Kennard",
+      "team_name": "Los Angeles Lakers",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-11T01:16:58-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "77b1085c7ea2613d",
+      "headline": "Celtics tie their own NBA record vs. Pelicans",
+      "blurb": "Celtics tie their own NBA record vs. Pelicans \u2014 Two teams in NBA history had ever made 29 three-pointers in a game before this week. Friday night, the Boston Celtics became the second team in five nights to tie the single-game record for threes.",
+      "player_name": "Pelicans Two",
+      "team_name": "Boston Celtics",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T01:02:18-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/celtics_tie_their_own_nba_record_vs_pelicans/s1_13132_43713113"
+    },
+    {
+      "news_id": "0069b4faecefe9a1",
+      "headline": "NBA Highlights: Kings 124, Warriors 118",
+      "blurb": "NBA Highlights: Kings 124, Warriors 118 \u2014 Devin Carter knocked down six three&#8217;s and finished with 29 points, while Maxime Raynaud added 23 points and nine rebounds as the Sacramento Kings edged the Golden State Warriors 124-118. Brandin Podziemski poured in a game-high 30 points in the loss.",
+      "player_name": "Devin Carter",
+      "team_name": "Golden State Warriors",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-11T00:58:10-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "6ba3e8471203a522",
+      "headline": "Warriors facing a dilemma heading into NBA postseason",
+      "blurb": "Warriors facing a dilemma heading into NBA postseason \u2014 The Golden State Warriors face a unique dilemma of their own heading into the play-in tournament.",
+      "player_name": "The Golden State",
+      "team_name": "Golden State Warriors",
+      "tags": [
+        "performance"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T00:49:34-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/warriors_facing_a_dilemma_heading_into_nba_postseason/s1_13132_43698125"
+    },
+    {
+      "news_id": "27bf69eafd62e3a6",
+      "headline": "Tiered lottery proposal could solve NBA's tanking problem",
+      "blurb": "Tiered lottery proposal could solve NBA's tanking problem \u2014 NBA commissioner Adam Silver has proposed changes to the league's draft lottery to discourage teams from losing on purpose. Now there's a new wrinkle that could dramatically change the incentives for losing.",
+      "player_name": "Adam Silver",
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T00:49:34-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/tiered_lottery_proposal_could_solve_nbas_tanking_problem/s1_13132_43712109"
+    },
+    {
+      "news_id": "7a885592ecc3e8a8",
+      "headline": "'Where's Woj?': Doc Rivers calls out Shams Charania over Bucks reporting",
+      "blurb": "'Where's Woj?': Doc Rivers calls out Shams Charania over Bucks reporting \u2014 Rivers didn't appreciate a recent report from Charania.",
+      "player_name": "Doc Rivers",
+      "team_name": "Milwaukee Bucks",
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T00:49:34-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/wheres_woj_doc_rivers_calls_out_shams_charania_over_bucks_reporting/s1_13132_43711414"
+    },
+    {
+      "news_id": "2e9b8ad08bfb60f6",
+      "headline": "NBA Highlights: Trail Blazers 116, Clippers 97",
+      "blurb": "NBA Highlights: Trail Blazers 116, Clippers 97 \u2014 Deni Avdija dropped a game-high 35 points and Donovan Clingan added an 18-point, 13-rebound double-double to lead the Portland Trail Blazers past the Los Angeles Clippers 116-97.",
+      "player_name": "Trail Blazers",
+      "team_name": "Los Angeles Clippers",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-11T00:45:41-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "90b56e88b4254003",
+      "headline": "Notable update emerges on Victor Wembanyama's injury",
+      "blurb": "Notable update emerges on Victor Wembanyama's injury \u2014 The 22-year-old Wembanyama went down during Monday\u2019s win over the Philadelphia 76ers.",
+      "player_name": "Victor Wembanyama",
+      "team_name": "Philadelphia 76ers",
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T00:44:36-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/notable_update_emerges_on_victor_wembanyamas_injury/s1_127_43699658"
+    },
+    {
+      "news_id": "7c574d6e96332aa3",
+      "headline": "Luka Doncic makes unexpected move following unfortunate Lakers injury news",
+      "blurb": "Luka Doncic makes unexpected move following unfortunate Lakers injury news \u2014 The Los Angeles Lakers are dealing with a ticking clock when it comes to Luka Doncic and his injured hamstring.",
+      "player_name": "Luka Doncic",
+      "team_name": "Los Angeles Lakers",
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T00:44:36-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/luka_doncic_makes_unexpected_move_following_unfortunate_lakers_injury_news/s1_13132_43692276"
+    },
+    {
+      "news_id": "c83dc1b5168673a3",
+      "headline": "NBA Highlights: Timberwolves 136, Rockets 132",
+      "blurb": "NBA Highlights: Timberwolves 136, Rockets 132 \u2014 Anthony Edwards dropped 22 points and Terrance Shannon added 23 points to help the Minnesota Timberwolves beat the Houston Rockets 136-132.",
+      "player_name": "Anthony Edwards",
+      "team_name": "Houston Rockets",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-11T00:21:37-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "d6b64ff81f9287f5",
+      "headline": "Nuggets extend winning streak despite resting starters vs. Thunder",
+      "blurb": "Nuggets extend winning streak despite resting starters vs. Thunder \u2014 The Denver Nuggets didn't care enough about playoff seeding to play any of their starters Friday night. After the Oklahoma City Thunder sat nine rotation players themselves, they came away with their 11th straight game and clinched home-court advantage in the first round.",
+      "player_name": "Thunder The Denver",
+      "team_name": "Denver Nuggets",
+      "tags": [
+        "injury",
+        "starting"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-11T00:16:54-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/nuggets_extend_winning_streak_despite_resting_starters_vs_thunder/s1_13132_43713271"
+    },
+    {
+      "news_id": "6f7ac2a0c3180677",
+      "headline": "NBA Roundup: Pistons surge past Hornets, locking Charlotte into play-in",
+      "blurb": "NBA Roundup: Pistons surge past Hornets, locking Charlotte into play-in",
+      "player_name": "NBA Roundup",
+      "team_name": "Detroit Pistons",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-11T00:14:11-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "6e5dfefc61c15f55",
+      "headline": "NBA Highlights: Jazz 147, Grizzlies 101",
+      "blurb": "NBA Highlights: Jazz 147, Grizzlies 101 \u2014 Seven players scored in double figures, led by Ben Hinson\u2019s 30 points, while Bez Mbeng and John Konchar each recorded triple-doubles off the bench as the Utah Jazz trounced the Memphis Grizzlies 147\u2013101.",
+      "player_name": "Ben Hinson",
+      "team_name": "Memphis Grizzlies",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T23:47:37-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "2ec1d734133ec6b4",
+      "headline": "NBA Highlights: Nuggets 127, Thunder 107",
+      "blurb": "NBA Highlights: Nuggets 127, Thunder 107 \u2014 Jonas Valanciunas led the way with a 23-point, 17-rebound double-double and David Robby chipped in 21 points off the bench to help the Denver Nuggets beat the Oklahoma City Thunder 127-107.",
+      "player_name": "Jonas Valanciunas",
+      "team_name": "Denver Nuggets",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T23:23:33-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "e8ce49eda5e5c6fd",
+      "headline": "Raptors Takeaways: Larger goal still within reach despite loss to Knicks",
+      "blurb": "Raptors Takeaways: Larger goal still within reach despite loss to Knicks \u2014 Friday&#8217;s outcome was predictable for the Raptors, who were missing several key contributors and have now lost to the Knicks in 13 straight meetings.",
+      "player_name": "Raptors Takeaways",
+      "team_name": "New York Knicks",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T23:17:52-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "cfacb4b06f841ccf",
+      "headline": "Wembanyama has 40 points, 13 rebounds in 65th game to lead Spurs past Mavericks",
+      "blurb": "Wembanyama has 40 points, 13 rebounds in 65th game to lead Spurs past Mavericks \u2014 Victor Wembanyama had 40 points and 13 rebounds in his 65th game to become eligible for NBA awards, and the San Antonio Spurs beat the Dallas Mavericks 139-120 on Friday night.",
+      "player_name": "Mavericks Victor Wembanyama",
+      "team_name": "Dallas Mavericks",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:57:26-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "ea73632127fd0661",
+      "headline": "Nneka Ogwumike Chooses Sparks Over Lynx In Free Agency",
+      "blurb": "Nneka Ogwumike Chooses Sparks Over Lynx In Free Agency \u2014 Nneka Ogwumike has agreed to rejoin the Los Angeles Sparks after two seasons with the Seattle Storm. The news was first reported by her sister, Chiney Ogwumike, an ESPN analyst. Ogwumike also visited the Minnesota Lynx before settling on a return to Los Angeles as she enters her 15th professional season. Ogwumike is a 10-time All-Star. The v",
+      "player_name": "Nneka Ogwumike Chooses",
+      "team_name": null,
+      "tags": [],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T22:39:25-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285040/Nneka-Ogwumike-Chooses-Sparks-Over-Lynx-In-Free-Agency"
+    },
+    {
+      "news_id": "4ede9a07a83c7788",
+      "headline": "Jalen Brunson, Karl-Anthony Towns help Knicks clinch No. 3 seed",
+      "blurb": "Jalen Brunson, Karl-Anthony Towns help Knicks clinch No. 3 seed \u2014 As the NBA playoff field takes shape in the final days of the regular season, the New York Knicks now officially know their place.",
+      "player_name": "Jalen Brunson",
+      "team_name": "New York Knicks",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T22:36:11-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/jalen_brunson_karl_anthony_towns_help_knicks_clinch_no_3_seed/s1_13132_43713123"
+    },
+    {
+      "news_id": "6fc1c19e8783cbde",
+      "headline": "NBA Highlights: Magic 127, Bulls 103",
+      "blurb": "NBA Highlights: Magic 127, Bulls 103 \u2014 Franz Wagner dropped a game-high 25 points and Jamal Cain chipped in 20 points off the bench to help the Orlando Magic beat the Chicago Bulls 127-103.",
+      "player_name": "Franz Wagner",
+      "team_name": "Chicago Bulls",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:33:55-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "7732eb34dca9fb55",
+      "headline": "NBA Highlights: Bucks 125, Nets 108",
+      "blurb": "NBA Highlights: Bucks 125, Nets 108 \u2014 AJ Green hit 11 threes for a game-high 35 points, Cormac Ryan added 28 points, and the Milwaukee Bucks took a 125-108 win over the Brooklyn Nets.",
+      "player_name": "Cormac Ryan",
+      "team_name": "Brooklyn Nets",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:33:50-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "3dd0f3b31c3b546c",
+      "headline": "Arike Ogunbowale Takes Below-Supermax Deal To Stay With Wings",
+      "blurb": "Arike Ogunbowale Takes Below-Supermax Deal To Stay With Wings \u2014 Arike Ogunbowale is returning to the Dallas Wings on a multiyear, seven-figure contract, sources told ESPN Friday. The four-time WNBA All-Star opted for below the available $1.4 million supermax to allow the franchise flexibility in building a competitive roster around her. The Wings had extended Ogunbowale a core qualifying offer ear",
+      "player_name": "Arike Ogunbowale Takes",
+      "team_name": null,
+      "tags": [
+        "injury",
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T22:33:45-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285039/Arike-Ogunbowale-Takes-Below-Supermax-Deal-To-Stay-With-Wings"
+    },
+    {
+      "news_id": "ff53fb0b8c235123",
+      "headline": "NBA Highlights: Spurs 139, Mavericks 120",
+      "blurb": "NBA Highlights: Spurs 139, Mavericks 120 \u2014 Victor Wembanyama dominated with a 40-point, 13-rebound double-double, De&#8217;Aaron Fox added 18 points and 10 assists, and the San Antonio Spurs secured a 139-120 win over the Dallas Mavericks.",
+      "player_name": "Victor Wembanyama",
+      "team_name": "Dallas Mavericks",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:33:18-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "d00383e7297394f4",
+      "headline": "Kelsey Mitchell, Fever Sign One-Year, $1.4M Supermax",
+      "blurb": "Kelsey Mitchell, Fever Sign One-Year, $1.4M Supermax \u2014 Kelsey Mitchell and the Indiana Fever have agreed to a one-year, $1.4 million supermax agreement. Mitchell was an All-WNBA selection in 2025, helping the Fever into the WNBA semifinals despite the injury absence of Caitlin Clark and Sophie Cunningham. Mitchell finished fifth in MVP voting. Mitchell became the first Fever player to average 20 p",
+      "player_name": "Kelsey Mitchell",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T22:22:47-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285038/Kelsey-Mitchell-Fever-Sign-One-Year-$14M-Supermax"
+    },
+    {
+      "news_id": "f1b16659f09563b9",
+      "headline": "Celtics hit 29 threes, rout Pelicans to clinch East\u2019s No. 2 seed",
+      "blurb": "Celtics hit 29 threes, rout Pelicans to clinch East\u2019s No. 2 seed",
+      "player_name": null,
+      "team_name": "Boston Celtics",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:18:59-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "cecb29c81c8f7433",
+      "headline": "Chelsea Gray, Aces Sign Three-Year, $3M Deal",
+      "blurb": "Chelsea Gray, Aces Sign Three-Year, $3M Deal \u2014 Chelsea Gray has agreed to a three-year, $3 million fully guaranteed deal to return to the Las Vegas Aces. Gray averaged 11.2 points, 5.4 rebounds and 3.9 assists in 2025 while helping Las Vegas to its third title in four years. Gray was named MVP of the WNBA Finals in 2022. Gray is a six-time All-Star and was the 11th overall pick in the 2014 draft o",
+      "player_name": "Chelsea Gray",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T22:14:54-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285037/Chelsea-Gray-Aces-Sign-Three-Year-$3M-Deal"
+    },
+    {
+      "news_id": "a36ec33681b05a92",
+      "headline": "NBA Highlights: Knicks 112, Raptors 95",
+      "blurb": "NBA Highlights: Knicks 112, Raptors 95 \u2014 Jalen Brunson led the way with 29 points and Karl-Anthony Towns had a 22-point, 10-rebound double-double to help the New York Knicks beat the Toronto Raptors 112-95.",
+      "player_name": "Jalen Brunson",
+      "team_name": "New York Knicks",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:09:56-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "ba180e611581932d",
+      "headline": "NBA Highlights: Celtics 144, Pelicans 118",
+      "blurb": "NBA Highlights: Celtics 144, Pelicans 118 \u2014 Sam Hauser dropped a team-high 24 points, Payton Pritchard had 21 points and 10 assists off the bench, and the Boston Celtics cruised to a 144-118 win over the New Orleans Pelicans.",
+      "player_name": "Sam Hauser",
+      "team_name": "Boston Celtics",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:01:33-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "54f97707f26ded89",
+      "headline": "NBA Highlights: 76ers 105, Pacers 94",
+      "blurb": "NBA Highlights: 76ers 105, Pacers 94 \u2014 Tyrese Maxey poured in a game-high 32 points, while adding eight rebounds and five assists, and Paul George chipped in with 21 points as the Philadelphia 76ers earned a 105-94 win over the Indiana Pacers.",
+      "player_name": "Tyrese Maxey",
+      "team_name": "Indiana Pacers",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T22:00:13-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "2c75f5cc44afdb7e",
+      "headline": "76ers Convert Daley Terry To Standard NBA Contract, Waive Cameron Payne",
+      "blurb": "76ers Convert Daley Terry To Standard NBA Contract, Waive Cameron Payne \u2014 The Philadelphia 76ers have converted guard Daley Terry from a Two-Way contract to a standard NBA deal. Terry signed his original Two-Way agreement on February 10. In 13 appearances for Philadelphia, he averaged 4.3 points, 1.8 assists, and 1.5 rebounds across 13.0 minutes per game. In three games with the Delaware Blue Coat",
+      "player_name": "Convert Daley Terry",
+      "team_name": "Chicago Bulls",
+      "tags": [
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T22:00:12-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285036/76ers-Convert-Daley-Terry-To-Standard-NBA-Contract-Waive-Cameron-Payne"
+    },
+    {
+      "news_id": "904cf678689a42e0",
+      "headline": "NBA highlights (April 10)",
+      "blurb": "NBA highlights (April 10)",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T21:51:37-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "4586f9c1c95492ba",
+      "headline": "Wizards clinch NBA\u2019s worst record with loss to Heat",
+      "blurb": "Wizards clinch NBA\u2019s worst record with loss to Heat \u2014 The Washington Wizards clinched the worst record in the NBA on Friday night with a 140-117 loss to the Miami Heat.",
+      "player_name": "Heat The Washington",
+      "team_name": "Miami Heat",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T21:50:01-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "74c5acacccc6c704",
+      "headline": "NBA Highlights: Hawks 124, Cavaliers 102",
+      "blurb": "NBA Highlights: Hawks 124, Cavaliers 102 \u2014 Dyson Daniels had a 13-point, 10-rebound, and 12-assist triple-double and CJ McCollum led all scorers with 29 points as the Atlanta Hawks defeated the Cleveland Cavaliers 124-102.",
+      "player_name": "Dyson Daniels",
+      "team_name": "Atlanta Hawks",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T21:48:13-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "0e98a85ba0089d7f",
+      "headline": "NBA Highlights: Pistons 118, Hornets 100",
+      "blurb": "NBA Highlights: Pistons 118, Hornets 100 \u2014 Jalen Duren had 20 points and Duncan Robinson chipped in with 19 points and three three-pointers to help the Detroit Pistons beat the Charlotte Hornets 118-100.",
+      "player_name": "Jalen Duren",
+      "team_name": "Charlotte Hornets",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T21:46:38-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "8dcf24277f96b9cd",
+      "headline": "NBA Highlights: Heat 140, Wizards 117",
+      "blurb": "NBA Highlights: Heat 140, Wizards 117 \u2014 Bam Adebayo had a 20-point, 11-rebound double-double and Pelle Larsson added 24 points off the bench to help the Miami Heat beat the Washington Wizards 140-117.",
+      "player_name": "Bam Adebayo",
+      "team_name": "Miami Heat",
+      "tags": [
+        "performance"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T21:35:57-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "70e922f728cb9430",
+      "headline": "Knicks\u2019 OG Anunoby exits vs. Raptors with ankle injury",
+      "blurb": "Knicks\u2019 OG Anunoby exits vs. Raptors with ankle injury",
+      "player_name": null,
+      "team_name": "Toronto Raptors",
+      "tags": [
+        "injury"
+      ],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T21:13:22-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "39317d23c1b325b3",
+      "headline": "Spurs\u2019 Wembanyama eligible for NBA end-of-season awards",
+      "blurb": "Spurs\u2019 Wembanyama eligible for NBA end-of-season awards",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T20:19:09-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "6eebc5b52c51a53b",
+      "headline": "Report: Celtics could break up their core this offseason",
+      "blurb": "Report: Celtics could break up their core this offseason \u2014 The pressure may suddenly be on for the Boston Celtics this postseason.",
+      "player_name": "Boston Celtics",
+      "team_name": "Boston Celtics",
+      "tags": [
+        "performance"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T18:45:52-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/report_celtics_could_break_up_their_core_this_offseason/s1_127_43712447"
+    },
+    {
+      "news_id": "6174387c7c93d2d1",
+      "headline": "The 'Season triple-double record by team' quiz",
+      "blurb": "The 'Season triple-double record by team' quiz \u2014 How many of the players to record the most triple-doubles in one season since the NBA/ABA merger for each franchise can you name in five minutes?",
+      "player_name": null,
+      "team_name": null,
+      "tags": [
+        "performance"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T18:00:40-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/the_season_triple_double_record_by_team_quiz/s1__43711080"
+    },
+    {
+      "news_id": "a23c612718d212bf",
+      "headline": "LeBron James makes NBA history with son Bronny in Lakers' win",
+      "blurb": "LeBron James makes NBA history with son Bronny in Lakers' win \u2014 Of his many big moments and accolades, LeBron James will probably remember one play from Thursday night's game as much as any when he's long retired.",
+      "player_name": null,
+      "team_name": null,
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T17:51:03-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/lebron_james_makes_nba_history_with_son_bronny_in_lakers_win/s1_13132_43708850"
+    },
+    {
+      "news_id": "e3286361e0506160",
+      "headline": "Lucas Williamson, Grizzlies Sign 2nd 10-Day Contract",
+      "blurb": "Lucas Williamson, Grizzlies Sign 2nd 10-Day Contract \u2014 The Memphis Grizzlies have signed wing Lucas Williamson to a second 10-Day contract. Williamson (6-4, 205) has appeared in five games (one start) and has averaged 9.0 points, 3.8 rebounds and 2.4 assists in 28.2 minutes since signing his first 10-Day contract on March 31. The 27-year-old has averaged 16.5 points in his last two games. Williams",
+      "player_name": "Lucas Williamson",
+      "team_name": "Memphis Grizzlies",
+      "tags": [
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T17:32:57-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285034/Lucas-Williamson-Grizzlies-Sign-2nd-10-Day-Contract"
+    },
+    {
+      "news_id": "7c53a646912cabc4",
+      "headline": "Will Lakers add to their roster ahead of the playoffs?",
+      "blurb": "Will Lakers add to their roster ahead of the playoffs? \u2014 With Luka Doncic and Austin Reaves dealing with injuries late in the season, Los Angeles Lakers general manager Rob Pelinka will have to get creative.",
+      "player_name": "Will Lakers",
+      "team_name": "Los Angeles Lakers",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T15:46:44-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/will_lakers_add_to_their_roster_ahead_of_the_playoffs/s1_13132_43711752"
+    },
+    {
+      "news_id": "ccaeca5a686c515c",
+      "headline": "A winning season doesn't mean job security for Trail Blazers leadership",
+      "blurb": "A winning season doesn't mean job security for Trail Blazers leadership \u2014 The Portland Trail Blazers are bound for the play-in tournament this season, their first postseason appearance in five years. That success might not translate to job security for the people in charge.",
+      "player_name": "Trail Blazers",
+      "team_name": "Portland Trail Blazers",
+      "tags": [
+        "performance"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T15:46:44-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/a_winning_season_doesnt_mean_job_security_for_trail_blazers_leadership/s1_13132_43702797"
+    },
+    {
+      "news_id": "4fb81c58ba4805cb",
+      "headline": "Why Kendrick Perkins is still not buying the Knicks after win over Celtics",
+      "blurb": "Why Kendrick Perkins is still not buying the Knicks after win over Celtics \u2014 Former NBA champion with the Celtics and current ESPN analyst Kendrick Perkins was on Friday's edition of \"First Take\" and made it clear he is still not a believer in the Knicks overtaking the Celtics in the Eastern Conference.",
+      "player_name": "Why Kendrick Perkins",
+      "team_name": "Boston Celtics",
+      "tags": [],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T15:40:23-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/why_kendrick_perkins_is_still_not_buying_the_knicks_after_win_over_celtics/s1_13132_43711986"
+    },
+    {
+      "news_id": "2699dc492a6c77e7",
+      "headline": "Michigan State\u2019s Jeremy Fears to declare for NBA draft with option to return school",
+      "blurb": "Michigan State\u2019s Jeremy Fears to declare for NBA draft with option to return school \u2014 Jeremy Fears, who led Michigan State in scoring and the nation in assists per game, will declare for the NBA draft while maintaining his college eligibility, he announced on Instagram on Friday.",
+      "player_name": "Michigan State",
+      "team_name": null,
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T15:32:48-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "fc2ce34951bb5af1",
+      "headline": "Basketball Intelligence For 4/10/26",
+      "blurb": "Basketball Intelligence For 4/10/26 \u2014 Today's Best NBA Reporting And Analysis",
+      "player_name": "Basketball Intelligence For",
+      "team_name": null,
+      "tags": [],
+      "source": "Basketball Intelligence",
+      "published_at": "2026-04-10T14:44:12-04:00",
+      "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-41026"
+    },
+    {
+      "news_id": "530223e763ea49ca",
+      "headline": "Heat waive Rozier as last official act of season derailed by gambling charges",
+      "blurb": "Heat waive Rozier as last official act of season derailed by gambling charges",
+      "player_name": null,
+      "team_name": "Miami Heat",
+      "tags": [],
+      "source": "Sportsnet NBA",
+      "published_at": "2026-04-10T13:57:53-04:00",
+      "link": ""
+    },
+    {
+      "news_id": "5805e2f724f88b3d",
+      "headline": "Joel Embiid's miserable injury luck continues with latest diagnosis",
+      "blurb": "Joel Embiid's miserable injury luck continues with latest diagnosis \u2014 There's no timetable for Embiid's return to the court, but the recovery could last two to four weeks, if not more.",
+      "player_name": "Joel Embiid",
+      "team_name": null,
+      "tags": [
+        "injury"
+      ],
+      "source": "Yardbarker NBA",
+      "published_at": "2026-04-10T13:39:25-04:00",
+      "link": "https://www.yardbarker.com/nba/articles/joel_embiids_miserable_injury_luck_continues_with_latest_diagnosis/s1_13132_43707645"
+    },
+    {
+      "news_id": "344b65cc6777f8a4",
+      "headline": "Tyreke Key Waived By Raptors",
+      "blurb": "Tyreke Key Waived By Raptors \u2014 The Toronto Raptors have waived guard Tyreke Key. Key averaged 14.9 points, 2.5 rebounds, 1.7 assists and 24.5 minutes in 47 games (16 starts) with Raptors 905 in the NBA G League this season. Key helped the 905 earn the number one seed in the league's Tip-Off Tournament, reach the 2025 G League Winter Showcase Final and secure a playoff berth. Key signed with the Ra",
+      "player_name": "Tyreke Key Waived",
+      "team_name": "Toronto Raptors",
+      "tags": [
+        "trade"
+      ],
+      "source": "RealGM Wiretap",
+      "published_at": "2026-04-10T13:30:25-04:00",
+      "link": "https://basketball.realgm.com/wiretap/285033/Tyreke-Key-Waived-By-Raptors"
+    }
+  ],
+  "summary": [
+    "LeBron James reaches 12,000 assists as Lakers trounce Suns \u2014 LeBron James had 28 points, 12 assists and six rebounds, and the short-handed Los Angeles Lakers clinched home-court advantage in the first round of the playoffs with their 101-73 victory over the Phoenix Suns on Friday night.",
+    "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap.",
+    "NBA Highlights: Lakers 101, Suns 73 \u2014 LeBron James led the way with a 28-point, 12-assist double-double and Luke Kennard had 19 points as the Los Angeles Lakers defeated the Phoenix Suns 101-73.",
+    "Celtics tie their own NBA record vs. Pelicans \u2014 Two teams in NBA history had ever made 29 three-pointers in a game before this week. Friday night, the Boston Celtics became the second team in five nights to tie the single-game record for threes.",
+    "NBA Highlights: Kings 124, Warriors 118 \u2014 Devin Carter knocked down six three&#8217;s and finished with 29 points, while Maxime Raynaud added 23 points and nine rebounds as the Sacramento Kings edged the Golden State Warriors 124-118. Brandin Podziemski poured in a game-high 30 points in the loss.",
+    "Warriors facing a dilemma heading into NBA postseason \u2014 The Golden State Warriors face a unique dilemma of their own heading into the play-in tournament.",
+    "Tiered lottery proposal could solve NBA's tanking problem \u2014 NBA commissioner Adam Silver has proposed changes to the league's draft lottery to discourage teams from losing on purpose. Now there's a new wrinkle that could dramatically change the incentives for losing.",
+    "'Where's Woj?': Doc Rivers calls out Shams Charania over Bucks reporting \u2014 Rivers didn't appreciate a recent report from Charania.",
+    "NBA Highlights: Trail Blazers 116, Clippers 97 \u2014 Deni Avdija dropped a game-high 35 points and Donovan Clingan added an 18-point, 13-rebound double-double to lead the Portland Trail Blazers past the Los Angeles Clippers 116-97.",
+    "Notable update emerges on Victor Wembanyama's injury \u2014 The 22-year-old Wembanyama went down during Monday\u2019s win over the Philadelphia 76ers."
+  ]
+}

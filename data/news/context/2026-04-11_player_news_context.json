@@ -8,15 +8,6 @@
     "tags": [],
     "items": [
       {
-        "news_id": "044f50c2272d5f95",
-        "source": "basketball_intelligence",
-        "title": "Basketball Intelligence For 4/11/26",
-        "blurb": "Basketball Intelligence For 4/11/26 \u2014 Today's Best NBA Reporting And Analysis",
-        "published_at": "2026-04-11T11:22:05-04:00",
-        "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-41126",
-        "tags": []
-      },
-      {
         "news_id": "fc2ce34951bb5af1",
         "source": "basketball_intelligence",
         "title": "Basketball Intelligence For 4/10/26",
@@ -159,76 +150,105 @@
         "published_at": "2026-03-26T13:35:06-04:00",
         "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-32626",
         "tags": []
+      },
+      {
+        "news_id": "8329b7a228a38a2f",
+        "source": "basketball_intelligence",
+        "title": "Basketball Intelligence For 3/25/26",
+        "blurb": "Basketball Intelligence For 3/25/26 \u2014 The day's best basketball news and analysis.",
+        "published_at": "2026-03-25T13:40:29-04:00",
+        "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-32526",
+        "tags": []
       }
     ],
-    "summary": "Basketball Intelligence For 4/11/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/10/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/9/26 \u2014 Today's Best NBA Reporting And Analysis"
+    "summary": "Basketball Intelligence For 4/10/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/9/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/8/26 \u2014 The day's best basketball news and analysis."
   },
   {
-    "player_name": "Victor Wembanyama",
-    "player_key": "victor wembanyama",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 3,
+    "player_name": "How To Watch",
+    "player_key": "how to watch",
+    "team_name": "Denver Nuggets",
+    "team_key": "denver_nuggets",
+    "news_count": 5,
     "tags": [
       "injury",
-      "performance"
+      "performance",
+      "starting"
     ],
     "items": [
       {
-        "news_id": "ea30ed465962b49b",
-        "source": "yardbarker_nba",
-        "title": "Victor Wembanyama knows how to fix the NBA's 65-game rule",
-        "blurb": "Victor Wembanyama knows how to fix the NBA's 65-game rule \u2014 Wembanyama shared his honest thoughts on the 65-game rule, whether it works and if it should be changed or removed.",
-        "published_at": "2026-04-12T00:57:23-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/victor_wembanyama_knows_how_to_fix_the_nbas_65_game_rule/s1_13132_43715282",
-        "tags": []
-      },
-      {
-        "news_id": "90b56e88b4254003",
-        "source": "yardbarker_nba",
-        "title": "Notable update emerges on Victor Wembanyama's injury",
-        "blurb": "Notable update emerges on Victor Wembanyama's injury \u2014 The 22-year-old Wembanyama went down during Monday\u2019s win over the Philadelphia 76ers.",
-        "published_at": "2026-04-11T00:44:36-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/notable_update_emerges_on_victor_wembanyamas_injury/s1_127_43699658",
+        "news_id": "ec60e5535c195be5",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Thunder Vs Nuggets, Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Thunder Vs Nuggets, Live Stream, TV Channel, Predictions \u2014 The NBA regular season reaches a fever pitch this Friday, April 10, as the Oklahoma City Thunder travel to the Mile High City to face the Denver Nuggets at Ball Arena. Oklahoma City (63-16) enters the night as the undisputed top seed in the Western Conference, riding a multi-game winning streak and looking to sweep the season ",
+        "published_at": "2026-04-09T16:20:12-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285018/How-To-Watch-Thunder-Vs-Nuggets-Live-Stream-TV-Channel-Predictions",
         "tags": [
-          "injury"
+          "injury",
+          "performance"
         ]
       },
       {
-        "news_id": "ff53fb0b8c235123",
-        "source": "sportsnet_nba",
-        "title": "NBA Highlights: Spurs 139, Mavericks 120",
-        "blurb": "NBA Highlights: Spurs 139, Mavericks 120 \u2014 Victor Wembanyama dominated with a 40-point, 13-rebound double-double, De&#8217;Aaron Fox added 18 points and 10 assists, and the San Antonio Spurs secured a 139-120 win over the Dallas Mavericks.",
-        "published_at": "2026-04-10T22:33:18-04:00",
-        "link": "",
+        "news_id": "309e01b5fb5f47ed",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Pistons Vs Hornets, Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Pistons Vs Hornets, Live Stream, TV Channel, Predictions \u2014 The NBA regular season is reaching its finale this Friday, April 10, as the Detroit Pistons travel to the Spectrum Center to face the Charlotte Hornets . Detroit (58-22) enters the game having already clinched the #1 seed in the Eastern Conference, a historic turnaround for the franchise. Meanwhile, the Hornets (43-37) are cur",
+        "published_at": "2026-04-09T16:14:47-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285017/How-To-Watch-Pistons-Vs-Hornets-Live-Stream-TV-Channel-Predictions",
         "tags": [
+          "injury",
+          "performance",
+          "starting"
+        ]
+      },
+      {
+        "news_id": "910da5c6f548bd97",
+        "source": "realgm_wiretap",
+        "title": "How To Watch 76ers Vs Rockets, Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch 76ers Vs Rockets, Live Stream, TV Channel, Predictions \u2014 The NBA regular season reaches a boiling point this Thursday, April 9, as the Philadelphia 76ers visit the Houston Rockets at the Toyota Center. Houston (50-29) enters tonight as one of the elite forces in the Western Conference, recently coming off a dominant win against Phoenix, while the 76ers (43-36) are fighting to solidify",
+        "published_at": "2026-04-09T11:12:50-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285012/How-To-Watch-76ers-Vs-Rockets-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
+          "performance"
+        ]
+      },
+      {
+        "news_id": "54b4db2266ae5ab3",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Pacers Vs Nets, Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Pacers Vs Nets, Live Stream, TV Channel, Predictions \u2014 The NBA regular season winds down tonight, Thursday, April 9, as the Indiana Pacers visit the Brooklyn Nets at Barclays Center. Both teams find themselves in the lower tier of the Eastern Conference standings, but tonight's game remains a critical evaluation period for their young rotations. Brooklyn (20-59) enters the night on a ",
+        "published_at": "2026-04-09T10:55:50-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285011/How-To-Watch-Pacers-Vs-Nets-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
+          "starting"
+        ]
+      },
+      {
+        "news_id": "deb1224d90e8c0f7",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Bulls Vs Wizards, Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Bulls Vs Wizards, Live Stream, TV Channel, Predictions \u2014 The NBA regular season winds down tonight, Thursday, April 9, as the Chicago Bulls visit the Washington Wizards at Capital One Arena. This matchup serves as a quick rematch from Tuesday, where the Bulls (30-49) dominated the Wizards (17-62) in a 129-98 victory. Both teams are officially eliminated from postseason contention and ",
+        "published_at": "2026-04-09T09:49:50-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285010/How-To-Watch-Bulls-Vs-Wizards-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
           "performance"
         ]
       }
     ],
-    "summary": "Victor Wembanyama knows how to fix the NBA's 65-game rule \u2014 Wembanyama shared his honest thoughts on the 65-game rule, whether it works and if it should be changed or removed. | Notable update emerges on Victor Wembanyama's injury \u2014 The 22-year-old Wembanyama went down during Monday\u2019s win over the Philadelphia 76ers. | NBA Highlights: Spurs 139, Mavericks 120 \u2014 Victor Wembanyama dominated with a 40-point, 13-rebound double-double, De&#8217;Aaron Fox added 18 points and 10 assists, and the San Antonio Spurs secured a 139-120 win over the Dallas Mavericks."
+    "summary": "How To Watch Thunder Vs Nuggets, Live Stream, TV Channel, Predictions \u2014 The NBA regular season reaches a fever pitch this Friday, April 10, as the Oklahoma City Thunder travel to the Mile High City to face the Denver Nuggets at Ball Arena. Oklahoma City (63-16) enters the night as the undisputed top seed in the Western Conference, riding a multi-game winning streak and looking to sweep the season  | How To Watch Pistons Vs Hornets, Live Stream, TV Channel, Predictions \u2014 The NBA regular season is reaching its finale this Friday, April 10, as the Detroit Pistons travel to the Spectrum Center to face the Charlotte Hornets . Detroit (58-22) enters the game having already clinched the #1 seed in the Eastern Conference, a historic turnaround for the franchise. Meanwhile, the Hornets (43-37) are "
   },
   {
     "player_name": "Anthony Edwards",
     "player_key": "anthony edwards",
-    "team_name": "New Orleans Pelicans",
-    "team_key": "new_orleans_pelicans",
+    "team_name": "Houston Rockets",
+    "team_key": "houston_rockets",
     "news_count": 2,
     "tags": [
       "injury"
     ],
     "items": [
-      {
-        "news_id": "a53eaa7baec678dc",
-        "source": "rotowire",
-        "title": "Anthony Edwards: Sitting out Sunday's game",
-        "blurb": "Anthony Edwards: Sitting out Sunday's game \u2014 Edwards won't play Sunday against the Pelicans due to right knee injury maintenance. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-11T06:41:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/anthony-edwards-5110",
-        "tags": [
-          "injury"
-        ]
-      },
       {
         "news_id": "c83dc1b5168673a3",
         "source": "sportsnet_nba",
@@ -237,9 +257,20 @@
         "published_at": "2026-04-11T00:21:37-04:00",
         "link": "",
         "tags": []
+      },
+      {
+        "news_id": "b3cf6c041741dd31",
+        "source": "sportsnet_nba",
+        "title": "Timberwolves\u2019 Edwards out vs. Pistons, ineligible for end-of-season awards",
+        "blurb": "Timberwolves\u2019 Edwards out vs. Pistons, ineligible for end-of-season awards \u2014 Anthony Edwards won&#8217;t be able to make a third straight All-NBA team.",
+        "published_at": "2026-04-02T18:17:49-04:00",
+        "link": "",
+        "tags": [
+          "injury"
+        ]
       }
     ],
-    "summary": "Anthony Edwards: Sitting out Sunday's game \u2014 Edwards won't play Sunday against the Pelicans due to right knee injury maintenance. Visit RotoWire.com for more analysis on this update. | NBA Highlights: Timberwolves 136, Rockets 132 \u2014 Anthony Edwards dropped 22 points and Terrance Shannon added 23 points to help the Minnesota Timberwolves beat the Houston Rockets 136-132."
+    "summary": "NBA Highlights: Timberwolves 136, Rockets 132 \u2014 Anthony Edwards dropped 22 points and Terrance Shannon added 23 points to help the Minnesota Timberwolves beat the Houston Rockets 136-132. | Timberwolves\u2019 Edwards out vs. Pistons, ineligible for end-of-season awards \u2014 Anthony Edwards won&#8217;t be able to make a third straight All-NBA team."
   },
   {
     "player_name": "Can Raptors",
@@ -277,6 +308,39 @@
     "summary": "Can Raptors\u2019 offence complement terrorizing defence in post-season? \u2014 Dave DuFour joins the Raptors Show to break down how the Toronto Raptors match up against the rest of the league, and he also shares how Darko Rajakovi\u0107 has assembled a great defensive structured team. | Can Raptors\u2019 Barnes balance point guard duties while putting up points? \u2014 The Raptors Show hosts&#8217; Blake Murphy and Matt Bonner break down their loss to the Sacramento Kings and how Scottie should be utilized to get the most out of him."
   },
   {
+    "player_name": "Grayson Allen",
+    "player_key": "grayson allen",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 2,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "6f79527c119d56d5",
+        "source": "rotowire",
+        "title": "Grayson Allen: Won't return Friday",
+        "blurb": "Grayson Allen: Won't return Friday \u2014 Allen (hamstring) won't return to Friday's game against the Lakers. He'll finish with eight points (2-7 FG, 1-5 3Pt, 3-3 FT), four rebounds, one assist and one steal across 13 minutes. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-10T08:59:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/grayson-allen-4454",
+        "tags": []
+      },
+      {
+        "news_id": "7d7cb5f8eff141c8",
+        "source": "rotowire",
+        "title": "Grayson Allen: Exits to locker room",
+        "blurb": "Grayson Allen: Exits to locker room \u2014 Allen exited to the locker room in the second quarter of Friday's game against the Lakers due to an apparent left hamstring injury, Amanda Pflugrad of 3TV Phoenix reports. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-10T08:26:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/grayson-allen-4454",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Grayson Allen: Won't return Friday \u2014 Allen (hamstring) won't return to Friday's game against the Lakers. He'll finish with eight points (2-7 FG, 1-5 3Pt, 3-3 FT), four rebounds, one assist and one steal across 13 minutes. Visit RotoWire.com for more analysis on this update. | Grayson Allen: Exits to locker room \u2014 Allen exited to the locker room in the second quarter of Friday's game against the Lakers due to an apparent left hamstring injury, Amanda Pflugrad of 3TV Phoenix reports. Visit RotoWire.com for more analysis on this update."
+  },
+  {
     "player_name": "Jalen Brunson",
     "player_key": "jalen brunson",
     "team_name": "New York Knicks",
@@ -287,11 +351,11 @@
     ],
     "items": [
       {
-        "news_id": "c9ab50be9cc7fb21",
+        "news_id": "4ede9a07a83c7788",
         "source": "yardbarker_nba",
         "title": "Jalen Brunson, Karl-Anthony Towns help Knicks clinch No. 3 seed",
         "blurb": "Jalen Brunson, Karl-Anthony Towns help Knicks clinch No. 3 seed \u2014 As the NBA playoff field takes shape in the final days of the regular season, the New York Knicks now officially know their place.",
-        "published_at": "2026-04-11T01:02:18-04:00",
+        "published_at": "2026-04-10T22:36:11-04:00",
         "link": "https://www.yardbarker.com/nba/articles/jalen_brunson_karl_anthony_towns_help_knicks_clinch_no_3_seed/s1_13132_43713123",
         "tags": []
       },
@@ -308,6 +372,39 @@
       }
     ],
     "summary": "Jalen Brunson, Karl-Anthony Towns help Knicks clinch No. 3 seed \u2014 As the NBA playoff field takes shape in the final days of the regular season, the New York Knicks now officially know their place. | NBA Highlights: Knicks 112, Raptors 95 \u2014 Jalen Brunson led the way with 29 points and Karl-Anthony Towns had a 22-point, 10-rebound double-double to help the New York Knicks beat the Toronto Raptors 112-95."
+  },
+  {
+    "player_name": "Jalen Duren",
+    "player_key": "jalen duren",
+    "team_name": "Charlotte Hornets",
+    "team_key": "charlotte_hornets",
+    "news_count": 2,
+    "tags": [
+      "performance"
+    ],
+    "items": [
+      {
+        "news_id": "0e98a85ba0089d7f",
+        "source": "sportsnet_nba",
+        "title": "NBA Highlights: Pistons 118, Hornets 100",
+        "blurb": "NBA Highlights: Pistons 118, Hornets 100 \u2014 Jalen Duren had 20 points and Duncan Robinson chipped in with 19 points and three three-pointers to help the Detroit Pistons beat the Charlotte Hornets 118-100.",
+        "published_at": "2026-04-10T21:46:38-04:00",
+        "link": "",
+        "tags": []
+      },
+      {
+        "news_id": "f57e30f679002fc2",
+        "source": "rotowire",
+        "title": "Jalen Duren: Nears double-double Friday",
+        "blurb": "Jalen Duren: Nears double-double Friday \u2014 Duren had 20 points (8-11 FG, 4-4 FT), nine rebounds and four assists over 22 minutes during Friday's 118-100 victory over the Hornets. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-10T10:11:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/jalen-duren-5703",
+        "tags": [
+          "performance"
+        ]
+      }
+    ],
+    "summary": "NBA Highlights: Pistons 118, Hornets 100 \u2014 Jalen Duren had 20 points and Duncan Robinson chipped in with 19 points and three three-pointers to help the Detroit Pistons beat the Charlotte Hornets 118-100. | Jalen Duren: Nears double-double Friday \u2014 Duren had 20 points (8-11 FG, 4-4 FT), nine rebounds and four assists over 22 minutes during Friday's 118-100 victory over the Hornets. Visit RotoWire.com for more analysis on this update."
   },
   {
     "player_name": "Joel Embiid",
@@ -471,24 +568,13 @@
   {
     "player_name": "Trail Blazers",
     "player_key": "trail blazers",
-    "team_name": "Portland Trail Blazers",
-    "team_key": "portland_trail_blazers",
+    "team_name": "Los Angeles Clippers",
+    "team_key": "los_angeles_clippers",
     "news_count": 2,
     "tags": [
       "performance"
     ],
     "items": [
-      {
-        "news_id": "084a10427e17d758",
-        "source": "yardbarker_nba",
-        "title": "A winning season doesn't mean job security for Trail Blazers leadership",
-        "blurb": "A winning season doesn't mean job security for Trail Blazers leadership \u2014 The Portland Trail Blazers are bound for the play-in tournament this season, their first postseason appearance in five years. That success might not translate to job security for the people in charge.",
-        "published_at": "2026-04-11T09:32:48-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/a_winning_season_doesnt_mean_job_security_for_trail_blazers_leadership/s1_13132_43702797",
-        "tags": [
-          "performance"
-        ]
-      },
       {
         "news_id": "2e9b8ad08bfb60f6",
         "source": "sportsnet_nba",
@@ -499,9 +585,56 @@
         "tags": [
           "performance"
         ]
+      },
+      {
+        "news_id": "ccaeca5a686c515c",
+        "source": "yardbarker_nba",
+        "title": "A winning season doesn't mean job security for Trail Blazers leadership",
+        "blurb": "A winning season doesn't mean job security for Trail Blazers leadership \u2014 The Portland Trail Blazers are bound for the play-in tournament this season, their first postseason appearance in five years. That success might not translate to job security for the people in charge.",
+        "published_at": "2026-04-10T15:46:44-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/a_winning_season_doesnt_mean_job_security_for_trail_blazers_leadership/s1_13132_43702797",
+        "tags": [
+          "performance"
+        ]
       }
     ],
-    "summary": "A winning season doesn't mean job security for Trail Blazers leadership \u2014 The Portland Trail Blazers are bound for the play-in tournament this season, their first postseason appearance in five years. That success might not translate to job security for the people in charge. | NBA Highlights: Trail Blazers 116, Clippers 97 \u2014 Deni Avdija dropped a game-high 35 points and Donovan Clingan added an 18-point, 13-rebound double-double to lead the Portland Trail Blazers past the Los Angeles Clippers 116-97."
+    "summary": "NBA Highlights: Trail Blazers 116, Clippers 97 \u2014 Deni Avdija dropped a game-high 35 points and Donovan Clingan added an 18-point, 13-rebound double-double to lead the Portland Trail Blazers past the Los Angeles Clippers 116-97. | A winning season doesn't mean job security for Trail Blazers leadership \u2014 The Portland Trail Blazers are bound for the play-in tournament this season, their first postseason appearance in five years. That success might not translate to job security for the people in charge."
+  },
+  {
+    "player_name": "Victor Wembanyama",
+    "player_key": "victor wembanyama",
+    "team_name": "Philadelphia 76ers",
+    "team_key": "philadelphia_76ers",
+    "news_count": 2,
+    "tags": [
+      "injury",
+      "performance"
+    ],
+    "items": [
+      {
+        "news_id": "90b56e88b4254003",
+        "source": "yardbarker_nba",
+        "title": "Notable update emerges on Victor Wembanyama's injury",
+        "blurb": "Notable update emerges on Victor Wembanyama's injury \u2014 The 22-year-old Wembanyama went down during Monday\u2019s win over the Philadelphia 76ers.",
+        "published_at": "2026-04-11T00:44:36-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/notable_update_emerges_on_victor_wembanyamas_injury/s1_127_43699658",
+        "tags": [
+          "injury"
+        ]
+      },
+      {
+        "news_id": "ff53fb0b8c235123",
+        "source": "sportsnet_nba",
+        "title": "NBA Highlights: Spurs 139, Mavericks 120",
+        "blurb": "NBA Highlights: Spurs 139, Mavericks 120 \u2014 Victor Wembanyama dominated with a 40-point, 13-rebound double-double, De&#8217;Aaron Fox added 18 points and 10 assists, and the San Antonio Spurs secured a 139-120 win over the Dallas Mavericks.",
+        "published_at": "2026-04-10T22:33:18-04:00",
+        "link": "",
+        "tags": [
+          "performance"
+        ]
+      }
+    ],
+    "summary": "Notable update emerges on Victor Wembanyama's injury \u2014 The 22-year-old Wembanyama went down during Monday\u2019s win over the Philadelphia 76ers. | NBA Highlights: Spurs 139, Mavericks 120 \u2014 Victor Wembanyama dominated with a 40-point, 13-rebound double-double, De&#8217;Aaron Fox added 18 points and 10 assists, and the San Antonio Spurs secured a 139-120 win over the Dallas Mavericks."
   },
   {
     "player_name": "Adam Silver",
@@ -546,30 +679,6 @@
       }
     ],
     "summary": "Alex Sarr Likely Out For Season With Toe Injury \u2014 Washington Wizards forward Alex Sarr is likely to miss the team's final three games of the season with a toe injury, head coach Brian Keefe said on Thursday. Sarr has missed the past six games with capsulitis in his left big toe. \"It's probably unlikely that he comes back with the short amount of time that we have here,\" Keefe said on Thursday. Sar"
-  },
-  {
-    "player_name": "Anunoby Exits Knicks",
-    "player_key": "anunoby exits knicks",
-    "team_name": "New York Knicks",
-    "team_key": "new_york_knicks",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "66dca4511fd83b4d",
-        "source": "realgm_wiretap",
-        "title": "OG Anunoby Exits Knicks Win Early Due To Left Ankle Injury",
-        "blurb": "OG Anunoby Exits Knicks Win Early Due To Left Ankle Injury \u2014 The New York Knicks wrapped up the #3 seed in the Eastern Conference Playoffs with a win over the Toronto Raptors on Friday. However, that might have been a costly victory for New York, as OG Anunoby suffered a left ankle injury. Anunoby tripped over Scottie Barnes while contesting a shot early in the second quarter. The Knicks forward a",
-        "published_at": "2026-04-11T09:09:02-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285046/OG-Anunoby-Exits-Knicks-Win-Early-Due-To-Left-Ankle-Injury",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "OG Anunoby Exits Knicks Win Early Due To Left Ankle Injury \u2014 The New York Knicks wrapped up the #3 seed in the Eastern Conference Playoffs with a win over the Toronto Raptors on Friday. However, that might have been a costly victory for New York, as OG Anunoby suffered a left ankle injury. Anunoby tripped over Scottie Barnes while contesting a shot early in the second quarter. The Knicks forward a"
   },
   {
     "player_name": "Arike Ogunbowale Takes",
@@ -798,48 +907,24 @@
     "summary": "Brandon Ingram sets new Raptors high with 38 points in win over Heat"
   },
   {
-    "player_name": "Brittney Griner Set",
-    "player_key": "brittney griner set",
+    "player_name": "Cade Cunningham",
+    "player_key": "cade cunningham",
     "team_name": null,
     "team_key": null,
     "news_count": 1,
     "tags": [],
     "items": [
       {
-        "news_id": "4cd399c8e3b19450",
-        "source": "realgm_wiretap",
-        "title": "Brittney Griner Set To Join Sun On Seven-Figure Deal",
-        "blurb": "Brittney Griner Set To Join Sun On Seven-Figure Deal \u2014 Brittney Griner is finalizing a seven-figure deal with the Connecticut Sun, sources told Alexa Philippou of ESPN. Griner, who had spent her entire career with the Mercury, averaged 9.8 points and 5.2 rebounds for the Dream last season. The 35-year-old is a six-time WNBA All-Star. The team is set to move to Houston for the 2027 season. Griner i",
-        "published_at": "2026-04-11T01:21:05-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285041/Brittney-Griner-Set-To-Join-Sun-On-Seven-Figure-Deal",
+        "news_id": "e2be8518bacebdc3",
+        "source": "rotowire",
+        "title": "Cade Cunningham: Fills stat sheet vs. Charlotte",
+        "blurb": "Cade Cunningham: Fills stat sheet vs. Charlotte \u2014 Cunningham posted 14 points (7-13 FG, 0-3 3Pt, 0-1 FT), two rebounds, seven assists, one block and one steal over 28 minutes during Friday's 118-100 win over the Hornets. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-10T10:13:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/cade-cunningham-5336",
         "tags": []
       }
     ],
-    "summary": "Brittney Griner Set To Join Sun On Seven-Figure Deal \u2014 Brittney Griner is finalizing a seven-figure deal with the Connecticut Sun, sources told Alexa Philippou of ESPN. Griner, who had spent her entire career with the Mercury, averaged 9.8 points and 5.2 rebounds for the Dream last season. The 35-year-old is a six-time WNBA All-Star. The team is set to move to Houston for the 2027 season. Griner i"
-  },
-  {
-    "player_name": "Cedric Coward",
-    "player_key": "cedric coward",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "e76a441ab17bdc43",
-        "source": "rotowire",
-        "title": "Cedric Coward: Won't play Sunday",
-        "blurb": "Cedric Coward: Won't play Sunday \u2014 Coward (back) has been ruled out for Sunday's game against Houston. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-11T07:11:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/cedric-coward-6592",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Cedric Coward: Won't play Sunday \u2014 Coward (back) has been ruled out for Sunday's game against Houston. Visit RotoWire.com for more analysis on this update."
+    "summary": "Cade Cunningham: Fills stat sheet vs. Charlotte \u2014 Cunningham posted 14 points (7-13 FG, 0-3 3Pt, 0-1 FT), two rebounds, seven assists, one block and one steal over 28 minutes during Friday's 118-100 win over the Hornets. Visit RotoWire.com for more analysis on this update."
   },
   {
     "player_name": "Chelsea Gray",
@@ -866,28 +951,48 @@
     "summary": "Chelsea Gray, Aces Sign Three-Year, $3M Deal \u2014 Chelsea Gray has agreed to a three-year, $3 million fully guaranteed deal to return to the Las Vegas Aces. Gray averaged 11.2 points, 5.4 rebounds and 3.9 assists in 2025 while helping Las Vegas to its third title in four years. Gray was named MVP of the WNBA Finals in 2022. Gray is a six-time All-Star and was the 11th overall pick in the 2014 draft o"
   },
   {
-    "player_name": "Collin Gillespie",
-    "player_key": "collin gillespie",
-    "team_name": "Oklahoma City Thunder",
-    "team_key": "oklahoma_city_thunder",
+    "player_name": "Clears Kings",
+    "player_key": "clears kings",
+    "team_name": "Golden State Warriors",
+    "team_key": "golden_state_warriors",
     "news_count": 1,
     "tags": [
       "injury"
     ],
     "items": [
       {
-        "news_id": "12822a6afb9a96c1",
-        "source": "rotowire",
-        "title": "Collin Gillespie: Iffy to face OKC",
-        "blurb": "Collin Gillespie: Iffy to face OKC \u2014 Gillespie is listed as questionable for Sunday's game against the Thunder due to a right shoulder contusion. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-11T06:52:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/collin-gillespie-5732",
+        "news_id": "37db505f7825ce19",
+        "source": "realgm_wiretap",
+        "title": "NBA Clears Kings, Says Late-Game Foul On Seth Curry Was Coaching Error, Not Tanking",
+        "blurb": "NBA Clears Kings, Says Late-Game Foul On Seth Curry Was Coaching Error, Not Tanking \u2014 The NBA has cleared Sacramento Kings coach Doug Christie of tanking following an investigation into his decision to foul Golden State Warriors guard Seth Curry in the final minutes of Tuesday's 110-105 loss, determining the move was a tactical miscalculation rather than a deliberate effort to lose. \"The investiga",
+        "published_at": "2026-04-09T19:40:45-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285020/NBA-Clears-Kings-Says-Late-Game-Foul-On-Seth-Curry-Was-Coaching-Error-Not-Tanking",
         "tags": [
           "injury"
         ]
       }
     ],
-    "summary": "Collin Gillespie: Iffy to face OKC \u2014 Gillespie is listed as questionable for Sunday's game against the Thunder due to a right shoulder contusion. Visit RotoWire.com for more analysis on this update."
+    "summary": "NBA Clears Kings, Says Late-Game Foul On Seth Curry Was Coaching Error, Not Tanking \u2014 The NBA has cleared Sacramento Kings coach Doug Christie of tanking following an investigation into his decision to foul Golden State Warriors guard Seth Curry in the final minutes of Tuesday's 110-105 loss, determining the move was a tactical miscalculation rather than a deliberate effort to lose. \"The investiga"
+  },
+  {
+    "player_name": "Collin Gillespie",
+    "player_key": "collin gillespie",
+    "team_name": "Phoenix Suns",
+    "team_key": "phoenix_suns",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "bab8457d17850426",
+        "source": "sportsnet_nba",
+        "title": "Suns guard Gillespie sets franchise record for three-pointers in a season",
+        "blurb": "Suns guard Gillespie sets franchise record for three-pointers in a season \u2014 Phoenix guard Collin Gillespie set the Suns\u2019 franchise record for 3-pointers in a season on Thursday night.",
+        "published_at": "2026-04-02T21:44:33-04:00",
+        "link": "",
+        "tags": []
+      }
+    ],
+    "summary": "Suns guard Gillespie sets franchise record for three-pointers in a season \u2014 Phoenix guard Collin Gillespie set the Suns\u2019 franchise record for 3-pointers in a season on Thursday night."
   },
   {
     "player_name": "Convert Daley Terry",
@@ -934,32 +1039,6 @@
     "summary": "NBA Highlights: Bucks 125, Nets 108 \u2014 AJ Green hit 11 threes for a game-high 35 points, Cormac Ryan added 28 points, and the Milwaukee Bucks took a 125-108 win over the Brooklyn Nets."
   },
   {
-    "player_name": "Dalano Banton",
-    "player_key": "dalano banton",
-    "team_name": "Boston Celtics",
-    "team_key": "boston_celtics",
-    "news_count": 1,
-    "tags": [
-      "injury",
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "c18fa4f99f2e27de",
-        "source": "realgm_wiretap",
-        "title": "Dalano Banton, Celtics Agree To Two-Year Contract",
-        "blurb": "Dalano Banton, Celtics Agree To Two-Year Contract \u2014 The Boston Celtics are signing guard Dalano Banton to a two-year contract. Banton will fill Boston's 15th standard roster spot going into the playoffs. The Celtics timed things down to the day to fill out their roster, while also finishing the season under the luxury tax. Boston will avoid the tax by about $11 thousand dollars. That, combined wit",
-        "published_at": "2026-04-11T11:20:57-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285048/Dalano-Banton-Celtics-Agree-To-Two-Year-Contract",
-        "tags": [
-          "injury",
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Dalano Banton, Celtics Agree To Two-Year Contract \u2014 The Boston Celtics are signing guard Dalano Banton to a two-year contract. Banton will fill Boston's 15th standard roster spot going into the playoffs. The Celtics timed things down to the day to fill out their roster, while also finishing the season under the luxury tax. Boston will avoid the tax by about $11 thousand dollars. That, combined wit"
-  },
-  {
     "player_name": "Dale Earnhardt Jr",
     "player_key": "dale earnhardt",
     "team_name": null,
@@ -968,11 +1047,11 @@
     "tags": [],
     "items": [
       {
-        "news_id": "dfb8eae4cb398067",
+        "news_id": "89d98084330b3de0",
         "source": "yardbarker_nba",
         "title": "NASCAR icon Dale Earnhardt Jr. makes his pick for NBA Rookie of the Year: 'He deserves it'",
         "blurb": "NASCAR icon Dale Earnhardt Jr. makes his pick for NBA Rookie of the Year: 'He deserves it' \u2014 NASCAR Hall of Famer and North Carolina native Dale Earnhardt Jr. is paying attention to the NBA Rookie of the Year race.",
-        "published_at": "2026-04-11T00:44:36-04:00",
+        "published_at": "2026-04-07T23:58:27-04:00",
         "link": "https://www.yardbarker.com/nba/articles/nascar_icon_dale_earnhardt_jr_makes_his_pick_for_nba_rookie_of_the_year_he_deserves_it/s1_13132_43700033",
         "tags": []
       }
@@ -1144,24 +1223,32 @@
     "summary": "\u2018Keep fining teams\u2019: Warriors\u2019 Draymond Green chimes in on NBA\u2019s tanking issue \u2014 While commissioner Adam Silver and the top brass of the NBA ponder over ideas to combat tanking across the league, the oft-outspoken Draymond Green made sure to chime in on the matter."
   },
   {
-    "player_name": "Dusty May Agrees",
-    "player_key": "dusty may agrees",
+    "player_name": "Dybantsa Moves To",
+    "player_key": "dybantsa moves to",
     "team_name": null,
     "team_key": null,
     "news_count": 1,
-    "tags": [],
+    "tags": [
+      "injury",
+      "minutes",
+      "performance"
+    ],
     "items": [
       {
-        "news_id": "431c549942b5886b",
+        "news_id": "f6b145b54cc9abce",
         "source": "realgm_wiretap",
-        "title": "Dusty May Agrees To New Deal With Michigan",
-        "blurb": "Dusty May Agrees To New Deal With Michigan \u2014 Michigan coach Dusty May has agreed on a deal that will have him continuing to lead the Wolverines \"for many years to come,\" athletic director Warde Manuel said Saturday. Manuel made the comment during a ceremony celebrating Michigan's NCAA tournament championship. \"Dusty and I have already reached an agreement,\" Manuel said in a remark that resulted in",
-        "published_at": "2026-04-11T17:16:01-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285051/Dusty-May-Agrees-To-New-Deal-With-Michigan",
-        "tags": []
+        "title": "AJ Dybantsa Moves To No. 1 In ESPN's 2026 NBA Draft Big Board, Top Of Class Remains Open",
+        "blurb": "AJ Dybantsa Moves To No. 1 In ESPN's 2026 NBA Draft Big Board, Top Of Class Remains Open \u2014 AJ Dybantsa has claimed the top position in ESPN's updated 2026 NBA Draft rankings, displacing Darryn Peterson atop the big board following a strong close to his freshman season at BYU that solidified his standing among league executives. Dybantsa, a 6-foot-9 wing, averaged 25.5 points, 6.8 rebounds and 3.7 ",
+        "published_at": "2026-04-09T12:36:01-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285013/AJ-Dybantsa-Moves-To-No-1-In-ESPNs-2026-NBA-Draft-Big-Board-Top-Of-Class-Remains-Open",
+        "tags": [
+          "injury",
+          "minutes",
+          "performance"
+        ]
       }
     ],
-    "summary": "Dusty May Agrees To New Deal With Michigan \u2014 Michigan coach Dusty May has agreed on a deal that will have him continuing to lead the Wolverines \"for many years to come,\" athletic director Warde Manuel said Saturday. Manuel made the comment during a ceremony celebrating Michigan's NCAA tournament championship. \"Dusty and I have already reached an agreement,\" Manuel said in a remark that resulted in"
+    "summary": "AJ Dybantsa Moves To No. 1 In ESPN's 2026 NBA Draft Big Board, Top Of Class Remains Open \u2014 AJ Dybantsa has claimed the top position in ESPN's updated 2026 NBA Draft rankings, displacing Darryn Peterson atop the big board following a strong close to his freshman season at BYU that solidified his standing among league executives. Dybantsa, a 6-foot-9 wing, averaged 25.5 points, 6.8 rebounds and 3.7 "
   },
   {
     "player_name": "Dylan Harper Outshines",
@@ -1210,6 +1297,30 @@
       }
     ],
     "summary": "NBA Highlights: Hawks 124, Cavaliers 102 \u2014 Dyson Daniels had a 13-point, 10-rebound, and 12-assist triple-double and CJ McCollum led all scorers with 29 points as the Atlanta Hawks defeated the Cleveland Cavaliers 124-102."
+  },
+  {
+    "player_name": "Ebuka Okorie Declares",
+    "player_key": "ebuka okorie declares",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 1,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "520ec87906fad120",
+        "source": "realgm_wiretap",
+        "title": "Stanford's Ebuka Okorie Declares For NBA Draft After Record Freshman Season",
+        "blurb": "Stanford's Ebuka Okorie Declares For NBA Draft After Record Freshman Season \u2014 Stanford guard Ebuka Okorie announced Thursday he will enter the NBA Draft following a record-breaking freshman season in which he led the ACC in scoring and established himself as one of the top prospects in the country. Okorie, who arrived at Stanford with no high-major scholarship offers out of New Hampshire, averaged",
+        "published_at": "2026-04-09T19:45:47-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285021/Stanfords-Ebuka-Okorie-Declares-For-NBA-Draft-After-Record-Freshman-Season",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Stanford's Ebuka Okorie Declares For NBA Draft After Record Freshman Season \u2014 Stanford guard Ebuka Okorie announced Thursday he will enter the NBA Draft following a record-breaking freshman season in which he led the ACC in scoring and established himself as one of the top prospects in the country. Okorie, who arrived at Stanford with no high-major scholarship offers out of New Hampshire, averaged"
   },
   {
     "player_name": "Final Four Predictions",
@@ -1276,26 +1387,6 @@
     "summary": "NBA Highlights: Magic 127, Bulls 103 \u2014 Franz Wagner dropped a game-high 25 points and Jamal Cain chipped in 20 points off the bench to help the Orlando Magic beat the Chicago Bulls 127-103."
   },
   {
-    "player_name": "Garrett Temple",
-    "player_key": "garrett temple",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "3ac30403fa85c519",
-        "source": "sportsnet_nba",
-        "title": "Amid late-season chaos, Raptors\u2019 Temple finding peace of mind on greens",
-        "blurb": "Amid late-season chaos, Raptors\u2019 Temple finding peace of mind on greens \u2014 During the tumult that comes with the final days of the NBA season, there is always one reliable oasis of calm for Garrett Temple: A Saturday off to watch The Masters. Michael Grange tees it up with the vet.",
-        "published_at": "2026-04-11T08:56:11-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Amid late-season chaos, Raptors\u2019 Temple finding peace of mind on greens \u2014 During the tumult that comes with the final days of the NBA season, there is always one reliable oasis of calm for Garrett Temple: A Saturday off to watch The Masters. Michael Grange tees it up with the vet."
-  },
-  {
     "player_name": "Get Your Latest",
     "player_key": "get your latest",
     "team_name": null,
@@ -1304,11 +1395,11 @@
     "tags": [],
     "items": [
       {
-        "news_id": "544e3f25007a9556",
+        "news_id": "fd7b1fd01137b4db",
         "source": "realgm_wiretap",
         "title": "Get Your Latest NBA News From RealGM's Basketball Wiretap",
         "blurb": "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap.",
-        "published_at": "2026-04-12T01:17:02-04:00",
+        "published_at": "2026-04-11T01:17:02-04:00",
         "link": "https://basketball.realgm.com/news",
         "tags": []
       }
@@ -1334,6 +1425,32 @@
       }
     ],
     "summary": "Report: NBA investigating Bucks for handling health of Giannis Antetokounmpo"
+  },
+  {
+    "player_name": "Giannis Antetokounmpo Ruled",
+    "player_key": "giannis antetokounmpo ruled",
+    "team_name": "Brooklyn Nets",
+    "team_key": "brooklyn_nets",
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "484f3ba54cc062d6",
+        "source": "realgm_wiretap",
+        "title": "Giannis Antetokounmpo Ruled Out For Bucks' Home Finale On Friday",
+        "blurb": "Giannis Antetokounmpo Ruled Out For Bucks' Home Finale On Friday \u2014 Giannis Antetokounmpo has been ruled out by the Milwaukee Bucks for their regular season finale on Friday against the Brooklyn Nets. Antetokounmpo has been out since suffered a hyperextended left knee and a bone bruise on March 15th. Antetokounmpo is widely expected to be traded this offseason if he doesn't signal his intention to ",
+        "published_at": "2026-04-09T19:36:18-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285019/Giannis-Antetokounmpo-Ruled-Out-For-Bucks-Home-Finale-On-Friday",
+        "tags": [
+          "injury",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Giannis Antetokounmpo Ruled Out For Bucks' Home Finale On Friday \u2014 Giannis Antetokounmpo has been ruled out by the Milwaukee Bucks for their regular season finale on Friday against the Brooklyn Nets. Antetokounmpo has been out since suffered a hyperextended left knee and a bone bruise on March 15th. Antetokounmpo is widely expected to be traded this offseason if he doesn't signal his intention to "
   },
   {
     "player_name": "Grizzlies Rookie Is",
@@ -1382,56 +1499,6 @@
       }
     ],
     "summary": "Has Wembanyama\u2019s injury scare and Nuggets win streak changed odds in West? \u2014 VSiN By The Books&#8217; Dave Ross and Jensen Lewis discuss the Spurs apparently dodging a bullet with Victor Wembanyama&#8217;s injury scare, and whether that and the hard-charging Nuggets and Rockets have changed the odds in the Western Conference?"
-  },
-  {
-    "player_name": "Hayden Gray",
-    "player_key": "hayden gray",
-    "team_name": "Utah Jazz",
-    "team_key": "utah_jazz",
-    "news_count": 1,
-    "tags": [
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "1fbd54127487b742",
-        "source": "realgm_wiretap",
-        "title": "Hayden Gray, Jazz Signing Two-Year Contract",
-        "blurb": "Hayden Gray, Jazz Signing Two-Year Contract \u2014 The Utah Jazz are signing guard Hayden Gray to a two-year contract. Gray spent this season playing for the Maine Celtics of the G League. Gray appeared in 48 games for Maine with 23 starts. The 6-foot-4 guard averaged 9.9 points, 2.8 rebounds, 5.8 assists and 2.1 steals in 27.9 minutes per game. This signing will bring the Jazz back to the maximum of 1",
-        "published_at": "2026-04-11T10:13:26-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285047/Hayden-Gray-Jazz-Signing-Two-Year-Contract",
-        "tags": [
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Hayden Gray, Jazz Signing Two-Year Contract \u2014 The Utah Jazz are signing guard Hayden Gray to a two-year contract. Gray spent this season playing for the Maine Celtics of the G League. Gray appeared in 48 games for Maine with 23 starts. The 6-foot-4 guard averaged 9.9 points, 2.8 rebounds, 5.8 assists and 2.1 steals in 27.9 minutes per game. This signing will bring the Jazz back to the maximum of 1"
-  },
-  {
-    "player_name": "Heat Convert Jahmir",
-    "player_key": "heat convert jahmir",
-    "team_name": "Miami Heat",
-    "team_key": "miami_heat",
-    "news_count": 1,
-    "tags": [
-      "performance",
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "97943682cdfbd36e",
-        "source": "realgm_wiretap",
-        "title": "Heat Convert Jahmir Young To Standard NBA Contract",
-        "blurb": "Heat Convert Jahmir Young To Standard NBA Contract \u2014 The Miami Heat are converting Jahmir Young's two-way contract to a two-year, standard NBA deal, sources told Shams Charania of ESPN. The Heat waived Terry Rozier earlier on Friday, creating the roster spot for Young. Young's salary for next season will be non-guaranteed. Young will now be eligible for the postseason.",
-        "published_at": "2026-04-11T01:27:53-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285042/Heat-Convert-Jahmir-Young-To-Standard-NBA-Contract",
-        "tags": [
-          "performance",
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Heat Convert Jahmir Young To Standard NBA Contract \u2014 The Miami Heat are converting Jahmir Young's two-way contract to a two-year, standard NBA deal, sources told Shams Charania of ESPN. The Heat waived Terry Rozier earlier on Friday, creating the roster spot for Young. Young's salary for next season will be non-guaranteed. Young will now be eligible for the postseason."
   },
   {
     "player_name": "Heat The Raptors",
@@ -1612,48 +1679,30 @@
     "summary": "NBA Insider Raises Questions About Bulls\u2019 Trade Deadline Plans \u2014 &#160; The Chicago Bulls opened the 2025 season with a 7-6 record that positioned them eighth in the Eastern Conference standings. That early performance generated speculation about potential roster changes despite the trade deadline remaining months away. Recent struggles have shifted the conversation around the organization&#8217;s"
   },
   {
-    "player_name": "Jalen Duren",
-    "player_key": "jalen duren",
-    "team_name": "Charlotte Hornets",
-    "team_key": "charlotte_hornets",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "0e98a85ba0089d7f",
-        "source": "sportsnet_nba",
-        "title": "NBA Highlights: Pistons 118, Hornets 100",
-        "blurb": "NBA Highlights: Pistons 118, Hornets 100 \u2014 Jalen Duren had 20 points and Duncan Robinson chipped in with 19 points and three three-pointers to help the Detroit Pistons beat the Charlotte Hornets 118-100.",
-        "published_at": "2026-04-10T21:46:38-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "NBA Highlights: Pistons 118, Hornets 100 \u2014 Jalen Duren had 20 points and Duncan Robinson chipped in with 19 points and three three-pointers to help the Detroit Pistons beat the Charlotte Hornets 118-100."
-  },
-  {
-    "player_name": "Jalen Green",
-    "player_key": "jalen green",
-    "team_name": "Oklahoma City Thunder",
-    "team_key": "oklahoma_city_thunder",
+    "player_name": "Jackie Young Becomes",
+    "player_key": "jackie young becomes",
+    "team_name": null,
+    "team_key": null,
     "news_count": 1,
     "tags": [
-      "injury"
+      "injury",
+      "trade"
     ],
     "items": [
       {
-        "news_id": "9cc586bb4ff4a175",
-        "source": "rotowire",
-        "title": "Jalen Green: Iffy for Sunday",
-        "blurb": "Jalen Green: Iffy for Sunday \u2014 Green is listed as questionable for Sunday's game against the Thunder due to right knee soreness. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-11T06:48:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/jalen-green-5230",
+        "news_id": "2007e4107bd7144f",
+        "source": "realgm_wiretap",
+        "title": "Jackie Young Becomes First WNBA Player To Sign Million Dollar Contract In Return To Aces",
+        "blurb": "Jackie Young Becomes First WNBA Player To Sign Million Dollar Contract In Return To Aces \u2014 Four-time All-Star guard Jackie Young is finalizing a one-year agreement to return to the Las Vegas Aces worth $1.19 million, sources told ESPN Thursday, making her the first player in WNBA history to sign a million dollar contract. Young did not take meetings with any other teams despite being one of the mo",
+        "published_at": "2026-04-09T22:01:31-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285022/Jackie-Young-Becomes-First-WNBA-Player-To-Sign-Million-Dollar-Contract-In-Return-To-Aces",
         "tags": [
-          "injury"
+          "injury",
+          "trade"
         ]
       }
     ],
-    "summary": "Jalen Green: Iffy for Sunday \u2014 Green is listed as questionable for Sunday's game against the Thunder due to right knee soreness. Visit RotoWire.com for more analysis on this update."
+    "summary": "Jackie Young Becomes First WNBA Player To Sign Million Dollar Contract In Return To Aces \u2014 Four-time All-Star guard Jackie Young is finalizing a one-year agreement to return to the Las Vegas Aces worth $1.19 million, sources told ESPN Thursday, making her the first player in WNBA history to sign a million dollar contract. Young did not take meetings with any other teams despite being one of the mo"
   },
   {
     "player_name": "James Dealing With",
@@ -1724,6 +1773,54 @@
     "summary": "LeBron James Made NBA History On Tuesday \u2014 &#160; The NBA season has been going on for about a month now, but Tuesday night was the first time that LeBron James of the Los Angeles Lakers played. The 40-year-old four-time champion was finally healed from his injury and ready to play, although there were concerns about how well he&#8217;d do. No matter what, [&#8230;] The post LeBron James Made NBA "
   },
   {
+    "player_name": "Jaylen Brown Turned",
+    "player_key": "jaylen brown turned",
+    "team_name": "Boston Celtics",
+    "team_key": "boston_celtics",
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "starting",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "e4b4694bbc39cf1d",
+        "source": "realgm_wiretap",
+        "title": "Jaylen Brown Turned Celtics' Gap-Year Season Into 'Opportunity To Show World What I Could Do'",
+        "blurb": "Jaylen Brown Turned Celtics' Gap-Year Season Into 'Opportunity To Show World What I Could Do' \u2014 When the Boston Celtics lost three starters from their championship roster and Jayson Tatum ruptured his Achilles tendon, the league largely wrote off the 2025-26 season as a transitional year, but Jaylen Brown had a different interpretation entirely. \"From a financial standpoint, this was a rebuild, ri",
+        "published_at": "2026-04-09T12:48:17-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285014/Jaylen-Brown-Turned-Celtics-Gap-Year-Season-Into-Opportunity-To-Show-World-What-I-Could-Do",
+        "tags": [
+          "injury",
+          "starting",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Jaylen Brown Turned Celtics' Gap-Year Season Into 'Opportunity To Show World What I Could Do' \u2014 When the Boston Celtics lost three starters from their championship roster and Jayson Tatum ruptured his Achilles tendon, the league largely wrote off the 2025-26 season as a transitional year, but Jaylen Brown had a different interpretation entirely. \"From a financial standpoint, this was a rebuild, ri"
+  },
+  {
+    "player_name": "Joel Embiid Undergoes",
+    "player_key": "joel embiid undergoes",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "b2aa335075e6696f",
+        "source": "realgm_wiretap",
+        "title": "Joel Embiid Undergoes Appendectomy",
+        "blurb": "Joel Embiid Undergoes Appendectomy \u2014 Joel Embiid has been diagnosed with appendicitis and underwent successful surgery on Thursday afternoon in Houston. Embiid has appeared in 38 games this season, averaging 26.9 points, 7.7 rebounds and 3.9 assists in 31.6 minutes. Embiid has a PER of 24.5. NBA players have roughly needed two to three weeks to recover from an appendectomy before returning to game",
+        "published_at": "2026-04-09T15:32:28-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285016/Joel-Embiid-Undergoes-Appendectomy",
+        "tags": []
+      }
+    ],
+    "summary": "Joel Embiid Undergoes Appendectomy \u2014 Joel Embiid has been diagnosed with appendicitis and underwent successful surgery on Thursday afternoon in Houston. Embiid has appeared in 38 games this season, averaging 26.9 points, 7.7 rebounds and 3.9 assists in 31.6 minutes. Embiid has a PER of 24.5. NBA players have roughly needed two to three weeks to recover from an appendectomy before returning to game"
+  },
+  {
     "player_name": "Jonas Valanciunas",
     "player_key": "jonas valanciunas",
     "team_name": "Denver Nuggets",
@@ -1768,26 +1865,6 @@
     "summary": "Leonard\u2019s 34-point night lifts Clippers over Mavericks after blown 23-point lead \u2014 Kawhi Leonard scored 34 points, hitting six 3-pointers, and the Los Angeles Clippers recovered after blowing a 23-point lead to beat rookie Cooper Flagg and the Dallas Mavericks 116-103 on Tuesday night."
   },
   {
-    "player_name": "Keaton Wagler Declares",
-    "player_key": "keaton wagler declares",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "3b655e7091f103f8",
-        "source": "realgm_wiretap",
-        "title": "Keaton Wagler Declares For 2026 NBA Draft",
-        "blurb": "Keaton Wagler Declares For 2026 NBA Draft \u2014 Illinois guard Keaton Wagler has declared as an Early Entry Candidate for the 2026 NBA Draft. Wagler is currently ranked fifth on ESPN's Top 100 prospects for this year's draft. Wagler played in 37 games in his lone season for the Fighting Illini. The 6-foot-6 guard averaged 17.9 points, 5.1 rebounds and 4.2 assists as a freshman. Wagler also put up 44.5",
-        "published_at": "2026-04-11T20:42:52-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285053/Keaton-Wagler-Declares-For-2026-NBA-Draft",
-        "tags": []
-      }
-    ],
-    "summary": "Keaton Wagler Declares For 2026 NBA Draft \u2014 Illinois guard Keaton Wagler has declared as an Early Entry Candidate for the 2026 NBA Draft. Wagler is currently ranked fifth on ESPN's Top 100 prospects for this year's draft. Wagler played in 37 games in his lone season for the Fighting Illini. The 6-foot-6 guard averaged 17.9 points, 5.1 rebounds and 4.2 assists as a freshman. Wagler also put up 44.5"
-  },
-  {
     "player_name": "Kelsey Mitchell",
     "player_key": "kelsey mitchell",
     "team_name": null,
@@ -1830,6 +1907,30 @@
       }
     ],
     "summary": "Kings Weekly Podcast \u2014 Rookie Report Part Three: Dylan Cardwell"
+  },
+  {
+    "player_name": "Knicks Guard Immanuel",
+    "player_key": "knicks guard immanuel",
+    "team_name": "New York Knicks",
+    "team_key": "new_york_knicks",
+    "news_count": 1,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "de7d72205f8d2133",
+        "source": "sportsnet_nba",
+        "title": "Raptors\u2019 Murray-Boyles, Quickley out vs. Knicks",
+        "blurb": "Raptors\u2019 Murray-Boyles, Quickley out vs. Knicks \u2014 Guard Immanuel Quickley and forward Collin Murray-Boyles are listed as out for the showdown against the New York Knicks, the team announced before Friday&#8217;s game.",
+        "published_at": "2026-04-10T12:40:09-04:00",
+        "link": "",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Raptors\u2019 Murray-Boyles, Quickley out vs. Knicks \u2014 Guard Immanuel Quickley and forward Collin Murray-Boyles are listed as out for the showdown against the New York Knicks, the team announced before Friday&#8217;s game."
   },
   {
     "player_name": "Lakers Waive Kobe",
@@ -1930,24 +2031,28 @@
     "summary": "NBA Highlights: Lakers 101, Suns 73 \u2014 LeBron James led the way with a 28-point, 12-assist double-double and Luke Kennard had 19 points as the Los Angeles Lakers defeated the Phoenix Suns 101-73."
   },
   {
-    "player_name": "Luke Kennard The",
-    "player_key": "luke kennard the",
-    "team_name": "Los Angeles Lakers",
-    "team_key": "los_angeles_lakers",
+    "player_name": "Magic Fined",
+    "player_key": "magic fined",
+    "team_name": "Detroit Pistons",
+    "team_key": "detroit_pistons",
     "news_count": 1,
-    "tags": [],
+    "tags": [
+      "injury"
+    ],
     "items": [
       {
-        "news_id": "565a1e61ac36d1dd",
-        "source": "yardbarker_nba",
-        "title": "'Two cerebral basketball players': Lakers' LeBron James addresses connection with Luke Kennard",
-        "blurb": "'Two cerebral basketball players': Lakers' LeBron James addresses connection with Luke Kennard \u2014 The real story centered on the connection between James and Kennard, a pairing that continues to develop as the Lakers navigate through roster limitations.",
-        "published_at": "2026-04-11T09:32:48-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/two_cerebral_basketball_players_lakers_lebron_james_addresses_connection_with_luke_kennard/s1_13132_43714604",
-        "tags": []
+        "news_id": "fb22dc3cd42f03ea",
+        "source": "realgm_wiretap",
+        "title": "Magic Fined $25,000 Over Anthony Black Injury Reporting",
+        "blurb": "Magic Fined $25,000 Over Anthony Black Injury Reporting \u2014 The NBA announced today that the Orlando Magic organization has been fined $25,000 for violating league injury reporting rules. The Magic failed to accurately disclose the game availability status of Anthony Black prior to their game against the Detroit Pistons on April 6. Black was listed as \"Out\" in Orlando's initial injury report and sub",
+        "published_at": "2026-04-09T14:56:39-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285015/Magic-Fined-$25000-Over-Anthony-Black-Injury-Reporting",
+        "tags": [
+          "injury"
+        ]
       }
     ],
-    "summary": "'Two cerebral basketball players': Lakers' LeBron James addresses connection with Luke Kennard \u2014 The real story centered on the connection between James and Kennard, a pairing that continues to develop as the Lakers navigate through roster limitations."
+    "summary": "Magic Fined $25,000 Over Anthony Black Injury Reporting \u2014 The NBA announced today that the Orlando Magic organization has been fined $25,000 for violating league injury reporting rules. The Magic failed to accurately disclose the game availability status of Anthony Black prior to their game against the Detroit Pistons on April 6. Black was listed as \"Out\" in Orlando's initial injury report and sub"
   },
   {
     "player_name": "Marc Eversley",
@@ -1968,30 +2073,6 @@
       }
     ],
     "summary": "Bulls fire GM Marc Eversley, EVP of basketball operations Arturas Karnisova"
-  },
-  {
-    "player_name": "Mark Williams",
-    "player_key": "mark williams",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "411fef6fd515d630",
-        "source": "rotowire",
-        "title": "Mark Williams: Questionable for Sunday",
-        "blurb": "Mark Williams: Questionable for Sunday \u2014 Williams (foot) is listed as questionable for Sunday's game against the Thunder. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-11T06:55:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/mark-williams-5647",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Mark Williams: Questionable for Sunday \u2014 Williams (foot) is listed as questionable for Sunday's game against the Thunder. Visit RotoWire.com for more analysis on this update."
   },
   {
     "player_name": "Mavericks Victor Wembanyama",
@@ -2198,32 +2279,6 @@
     "summary": "Nneka Ogwumike Chooses Sparks Over Lynx In Free Agency \u2014 Nneka Ogwumike has agreed to rejoin the Los Angeles Sparks after two seasons with the Seattle Storm. The news was first reported by her sister, Chiney Ogwumike, an ESPN analyst. Ogwumike also visited the Minnesota Lynx before settling on a return to Los Angeles as she enters her 15th professional season. Ogwumike is a 10-time All-Star. The v"
   },
   {
-    "player_name": "Nuggets To Sit",
-    "player_key": "nuggets to sit",
-    "team_name": "Denver Nuggets",
-    "team_key": "denver_nuggets",
-    "news_count": 1,
-    "tags": [
-      "injury",
-      "performance"
-    ],
-    "items": [
-      {
-        "news_id": "44168e88418134d3",
-        "source": "realgm_wiretap",
-        "title": "Nuggets To Sit Most Of Rotation Sunday; Nikola Jokic Questionable With Award Eligibility At Stake",
-        "blurb": "Nuggets To Sit Most Of Rotation Sunday; Nikola Jokic Questionable With Award Eligibility At Stake \u2014 The Denver Nuggets again ruled out most of their regular rotation Sunday against the San Antonio Spurs, but three-time MVP Nikola Jokic remains questionable. Jokic needs at least 15 minutes to secure eligibility for postseason awards. Denver enters Sunday as the No. 3 seed in the Western Conference ",
-        "published_at": "2026-04-11T22:48:32-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285054/Nuggets-To-Sit-Most-Of-Rotation-Sunday;-Nikola-Jokic-Questionable-With-Award-Eligibility-At-Stake",
-        "tags": [
-          "injury",
-          "performance"
-        ]
-      }
-    ],
-    "summary": "Nuggets To Sit Most Of Rotation Sunday; Nikola Jokic Questionable With Award Eligibility At Stake \u2014 The Denver Nuggets again ruled out most of their regular rotation Sunday against the San Antonio Spurs, but three-time MVP Nikola Jokic remains questionable. Jokic needs at least 15 minutes to secure eligibility for postseason awards. Denver enters Sunday as the No. 3 seed in the Western Conference "
-  },
-  {
     "player_name": "Numbers Tell",
     "player_key": "numbers tell",
     "team_name": null,
@@ -2242,30 +2297,6 @@
       }
     ],
     "summary": "Why NBA Numbers Tell a Bigger Story Than Highlights Alone \u2014 Basketball is often remembered through moments: a game winner at the buzzer, a poster dunk, a fourth quarter takeover. Yet the deeper story of the NBA is usually written in numbers. Behind every headline performance sits a layer of data that explains how a player influences possessions, how a team controls tempo, and why certain styles tr"
-  },
-  {
-    "player_name": "Of Hospital",
-    "player_key": "of hospital",
-    "team_name": "Philadelphia 76ers",
-    "team_key": "philadelphia_76ers",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "8038a76c64f22232",
-        "source": "realgm_wiretap",
-        "title": "Joel Embiid Out Of Hospital, No Timetable For Return",
-        "blurb": "Joel Embiid Out Of Hospital, No Timetable For Return \u2014 Joel Embiid was discharged from a Houston-area hospital on Friday after undergoing an appendectomy on Thursday. There is no timetable for Embiid's return. \"It is a tough blow,\" coach Nick Nurse said. \"I think that the biggest thing right now is that Joel comes out of the surgery as best as possible and all that goes well. That's where most of ",
-        "published_at": "2026-04-11T01:41:48-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285043/Joel-Embiid-Out-Of-Hospital-No-Timetable-For-Return",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Joel Embiid Out Of Hospital, No Timetable For Return \u2014 Joel Embiid was discharged from a Houston-area hospital on Friday after undergoing an appendectomy on Thursday. There is no timetable for Embiid's return. \"It is a tough blow,\" coach Nick Nurse said. \"I think that the biggest thing right now is that Joel comes out of the surgery as best as possible and all that goes well. That's where most of "
   },
   {
     "player_name": "Pelicans Two",
@@ -2372,30 +2403,28 @@
     "summary": "NBA Power Rankings: Pistons are Red Hot! \u2014 With roughly a month of the 2025\u201326 season in the books, the preseason storylines have given way to on-court reality \u2014 and the NBA Power Rankings look a lot different than many expected. Surprise risers like Detroit and Toronto have ripped through November, while familiar powers in Oklahoma City, Denver, and Houston are already separating [&#8230;] The po"
   },
   {
-    "player_name": "Raptors Convert",
-    "player_key": "raptors convert",
-    "team_name": "Toronto Raptors",
-    "team_key": "toronto_raptors",
+    "player_name": "Radio With Dubin",
+    "player_key": "radio with dubin",
+    "team_name": "Chicago Bulls",
+    "team_key": "chicago_bulls",
     "news_count": 1,
     "tags": [
-      "performance",
-      "trade"
+      "injury"
     ],
     "items": [
       {
-        "news_id": "86b10d9baec6217c",
+        "news_id": "f3f0ac3d45a55e4c",
         "source": "realgm_wiretap",
-        "title": "Raptors Convert AJ Lawson To Standard Contract",
-        "blurb": "Raptors Convert AJ Lawson To Standard Contract \u2014 The Toronto Raptors are converting wing A.J. Lawson from his two-way contract to a standard contract for the remainder of the season. This will make Lawson eligible for the postseason for Toronto. Lawson has appeared in 23 games for Toronto this season. The 6-foot-6 wing has averaged 4.0 points in 9.4 minutes per game for the Raptors. Lawson has sho",
-        "published_at": "2026-04-11T20:38:22-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285052/Raptors-Convert-AJ-Lawson-To-Standard-Contract",
+        "title": "RealGM Radio With Dubin, Dakhil: What's Next For Bulls, Latest Giannis Drama",
+        "blurb": "RealGM Radio With Dubin, Dakhil: What's Next For Bulls, Latest Giannis Drama \u2014 The Chicago Bulls clean house and the Giannis drama takes another turn! Jared Dubin and Mo Dakhil discuss the Bulls' recent firings of Arturas Karnisovas and Marc Eversley, the big games between the Knicks and Hawks, and Celtics and Hornets, and the latest explosive ESPN story about the rift between Giannis Antetokounmp",
+        "published_at": "2026-04-09T22:46:41-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285023/RealGM-Radio-With-Dubin-Dakhil-Whats-Next-For-Bulls-Latest-Giannis-Drama",
         "tags": [
-          "performance",
-          "trade"
+          "injury"
         ]
       }
     ],
-    "summary": "Raptors Convert AJ Lawson To Standard Contract \u2014 The Toronto Raptors are converting wing A.J. Lawson from his two-way contract to a standard contract for the remainder of the season. This will make Lawson eligible for the postseason for Toronto. Lawson has appeared in 23 games for Toronto this season. The 6-foot-6 wing has averaged 4.0 points in 9.4 minutes per game for the Raptors. Lawson has sho"
+    "summary": "RealGM Radio With Dubin, Dakhil: What's Next For Bulls, Latest Giannis Drama \u2014 The Chicago Bulls clean house and the Giannis drama takes another turn! Jared Dubin and Mo Dakhil discuss the Bulls' recent firings of Arturas Karnisovas and Marc Eversley, the big games between the Knicks and Hawks, and Celtics and Hornets, and the latest explosive ESPN story about the rift between Giannis Antetokounmp"
   },
   {
     "player_name": "Raptors Takeaways",
@@ -2504,34 +2533,6 @@
       }
     ],
     "summary": "Same Goal: What AI Writing Tools Can Learn From The NBA \u2014 Source Writing has changed, but the goal has not. In some ways, this shift looks a lot like the NBA\u2019s long relationship with analytics. People still want words that feel clear, personal, and human. Sometimes AI-assisted writing can sound flat, too polished, or distant. This is why tools are becoming more useful. They help writers keep the s"
-  },
-  {
-    "player_name": "Satou Sabally",
-    "player_key": "satou sabally",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [
-      "injury",
-      "performance",
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "cb781096b2ca2d62",
-        "source": "realgm_wiretap",
-        "title": "Satou Sabally, Jonquel Jones Sign Multiyear Deals With Liberty",
-        "blurb": "Satou Sabally, Jonquel Jones Sign Multiyear Deals With Liberty \u2014 Satou Sabally has agreed to a multiyear deal with the New York Liberty, her agent Zack Miller of WME Basketball confirmed to ESPN. Center Jonquel Jones also agreed to return to New York on a multiyear contract, a separate source confirmed. Sabally's decision was driven by New York's championship culture and her belief the Liberty rem",
-        "published_at": "2026-04-11T14:15:08-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285049/Satou-Sabally-Jonquel-Jones-Sign-Multiyear-Deals-With-Liberty",
-        "tags": [
-          "injury",
-          "performance",
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Satou Sabally, Jonquel Jones Sign Multiyear Deals With Liberty \u2014 Satou Sabally has agreed to a multiyear deal with the New York Liberty, her agent Zack Miller of WME Basketball confirmed to ESPN. Center Jonquel Jones also agreed to return to New York on a multiyear contract, a separate source confirmed. Sabally's decision was driven by New York's championship culture and her belief the Liberty rem"
   },
   {
     "player_name": "Season Trends",
@@ -2652,6 +2653,30 @@
     "summary": "Stephen A. Smith Blasts Lakers After Embarrassing Blowout Loss to Thunder \u2014 The Los Angeles Lakers are no strangers to criticism, but after their latest blowout loss to the Oklahoma City Thunder, the noise reached another level\u2014courtesy of ESPN\u2019s Stephen A. Smith. Following the lopsided defeat, Smith didn\u2019t hold back during his appearance on First Take, delivering a fiery critique of a Lakers team"
   },
   {
+    "player_name": "Stephen Curry",
+    "player_key": "stephen curry",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 1,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "db58d0fdd953c764",
+        "source": "rotowire",
+        "title": "Stephen Curry: Tweaks ankle, likely to play Sunday",
+        "blurb": "Stephen Curry: Tweaks ankle, likely to play Sunday \u2014 Head coach Steve Kerr said Curry tweaked his right ankle in Friday's 124-118 loss to the Kings, though he's expected to play in Sunday's game against the Clippers, Sam Gordon of the San Francisco Chronicle reports. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-10T10:21:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Stephen Curry: Tweaks ankle, likely to play Sunday \u2014 Head coach Steve Kerr said Curry tweaked his right ankle in Friday's 124-118 loss to the Kings, though he's expected to play in Sunday's game against the Clippers, Sam Gordon of the San Francisco Chronicle reports. Visit RotoWire.com for more analysis on this update."
+  },
+  {
     "player_name": "Stephen Curry Makes",
     "player_key": "stephen curry makes",
     "team_name": "Golden State Warriors",
@@ -2676,54 +2701,6 @@
     "summary": "Stephen Curry Makes Historic Move In All-Time Scoring Ladder \u2014 &#160; Stephen Curry of the Golden State Warriors might be getting older, but that doesn&#8217;t mean his legendary skills are dwindling. One thing is always certain: Curry can shoot the ball better than just about anyone. On Tuesday night, Curry earned another place in league history. He officially passed Vince Carter for the 22nd mos"
   },
   {
-    "player_name": "Stephen Curry Tweaks",
-    "player_key": "stephen curry tweaks",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "60444f862a99b998",
-        "source": "realgm_wiretap",
-        "title": "Stephen Curry Tweaks Ankle In Loss To Kings, Expects To Play Sunday",
-        "blurb": "Stephen Curry Tweaks Ankle In Loss To Kings, Expects To Play Sunday \u2014 Stephen Curry suffered an ankle scare Friday during the Golden State Warriors' 124-118 loss to the Sacramento Kings, but expects to be healthy for Wednesday's 9/10 Play-In game, which will likely be against the Los Angeles Clippers. The 38-year-old guard slipped on a wet spot on the floor with just over nine minutes remaining in",
-        "published_at": "2026-04-11T14:20:18-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285050/Stephen-Curry-Tweaks-Ankle-In-Loss-To-Kings-Expects-To-Play-Sunday",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Stephen Curry Tweaks Ankle In Loss To Kings, Expects To Play Sunday \u2014 Stephen Curry suffered an ankle scare Friday during the Golden State Warriors' 124-118 loss to the Sacramento Kings, but expects to be healthy for Wednesday's 9/10 Play-In game, which will likely be against the Los Angeles Clippers. The 38-year-old guard slipped on a wet spot on the floor with just over nine minutes remaining in"
-  },
-  {
-    "player_name": "Swarm Win",
-    "player_key": "swarm win",
-    "team_name": "Charlotte Hornets",
-    "team_key": "charlotte_hornets",
-    "news_count": 1,
-    "tags": [
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "4eac82d960c1df9c",
-        "source": "realgm_wiretap",
-        "title": "Swarm Win G League Finals; Tosan Evbuomwan Named MVP",
-        "blurb": "Swarm Win G League Finals; Tosan Evbuomwan Named MVP \u2014 The Greensboro Swarm won the G League title for the first time in franchise history. The Swarm defeated the Stockton Kings 2-0 in the best-of-three G League Finals. Forward Tosan Evbuomwan was named MVP after scoring 22 points in the clinching game. Evbuomwan is on a two-way contract with the Swam and the Charlotte Hornets.",
-        "published_at": "2026-04-11T08:56:50-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285045/Swarm-Win-G-League-Finals;-Tosan-Evbuomwan-Named-MVP",
-        "tags": [
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Swarm Win G League Finals; Tosan Evbuomwan Named MVP \u2014 The Greensboro Swarm won the G League title for the first time in franchise history. The Swarm defeated the Stockton Kings 2-0 in the best-of-three G League Finals. Forward Tosan Evbuomwan was named MVP after scoring 22 points in the clinching game. Evbuomwan is on a two-way contract with the Swam and the Charlotte Hornets."
-  },
-  {
     "player_name": "The Caitlin Clark",
     "player_key": "the caitlin clark",
     "team_name": null,
@@ -2742,6 +2719,26 @@
       }
     ],
     "summary": "The Caitlin Clark Effect: Accelerating Economic Progress in Women\u2019s Basketball \u2014 Since her rise at Iowa and subsequent debut in the WNBA, Caitlin Clark has redefined the trajectory of women\u2019s basketball\u2014domestically and internationally. Her arrival has coincided with record-breaking attendance, soaring television viewership, and a fresh economic narrative that will likely transform player compensa"
+  },
+  {
+    "player_name": "The Cavaliers",
+    "player_key": "the cavaliers",
+    "team_name": "Cleveland Cavaliers",
+    "team_key": "cleveland_cavaliers",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "5659ebd9c40bdf48",
+        "source": "yardbarker_nba",
+        "title": "The Cavaliers are rolling, but can James Harden and Donovan Mitchell break through?",
+        "blurb": "The Cavaliers are rolling, but can James Harden and Donovan Mitchell break through? \u2014 Can Harden and Mitchell help each other elevate past previous playoff shortcomings?",
+        "published_at": "2026-04-09T17:17:59-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/the_cavaliers_are_rolling_but_can_james_harden_and_donovan_mitchell_break_through/s1_13132_43706927",
+        "tags": []
+      }
+    ],
+    "summary": "The Cavaliers are rolling, but can James Harden and Donovan Mitchell break through? \u2014 Can Harden and Mitchell help each other elevate past previous playoff shortcomings?"
   },
   {
     "player_name": "The Golden State",
@@ -2867,7 +2864,7 @@
         "source": "yardbarker_nba",
         "title": "Nuggets extend winning streak despite resting starters vs. Thunder",
         "blurb": "Nuggets extend winning streak despite resting starters vs. Thunder \u2014 The Denver Nuggets didn't care enough about playoff seeding to play any of their starters Friday night. After the Oklahoma City Thunder sat nine rotation players themselves, they came away with their 11th straight game and clinched home-court advantage in the first round.",
-        "published_at": "2026-04-11T10:10:38-04:00",
+        "published_at": "2026-04-11T00:16:54-04:00",
         "link": "https://www.yardbarker.com/nba/articles/nuggets_extend_winning_streak_despite_resting_starters_vs_thunder/s1_13132_43713271",
         "tags": [
           "injury",
@@ -2986,32 +2983,6 @@
     "summary": "NBA Highlights: 76ers 105, Pacers 94 \u2014 Tyrese Maxey poured in a game-high 32 points, while adding eight rebounds and five assists, and Paul George chipped in with 21 points as the Philadelphia 76ers earned a 105-94 win over the Indiana Pacers."
   },
   {
-    "player_name": "Victor Wembanyama Scores",
-    "player_key": "victor wembanyama scores",
-    "team_name": "Dallas Mavericks",
-    "team_key": "dallas_mavericks",
-    "news_count": 1,
-    "tags": [
-      "injury",
-      "performance"
-    ],
-    "items": [
-      {
-        "news_id": "ef3c52d8612d4c97",
-        "source": "realgm_wiretap",
-        "title": "Victor Wembanyama Scores 40 Points In Game He Only Played To Meet 65-Game Award Rule",
-        "blurb": "Victor Wembanyama Scores 40 Points In Game He Only Played To Meet 65-Game Award Rule \u2014 Victor Wembanyama played in Friday's game against the Dallas Mavericks after suffering an injury earlier in the week for the primary purpose of reaching the 65-game threshold required for regular season award eligibility. He accomplished that, came out of the game but then returned, finishing with 40 points and ",
-        "published_at": "2026-04-11T07:43:24-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285044/Victor-Wembanyama-Scores-40-Points-In-Game-He-Only-Played-To-Meet-65-Game-Award-Rule",
-        "tags": [
-          "injury",
-          "performance"
-        ]
-      }
-    ],
-    "summary": "Victor Wembanyama Scores 40 Points In Game He Only Played To Meet 65-Game Award Rule \u2014 Victor Wembanyama played in Friday's game against the Dallas Mavericks after suffering an injury earlier in the week for the primary purpose of reaching the 65-game threshold required for regular season award eligibility. He accomplished that, came out of the game but then returned, finishing with 40 points and "
-  },
-  {
     "player_name": "Warriors After",
     "player_key": "warriors after",
     "team_name": "Golden State Warriors",
@@ -3064,11 +3035,11 @@
     "tags": [],
     "items": [
       {
-        "news_id": "88fad966f1f3fa64",
+        "news_id": "4fb81c58ba4805cb",
         "source": "yardbarker_nba",
         "title": "Why Kendrick Perkins is still not buying the Knicks after win over Celtics",
         "blurb": "Why Kendrick Perkins is still not buying the Knicks after win over Celtics \u2014 Former NBA champion with the Celtics and current ESPN analyst Kendrick Perkins was on Friday's edition of \"First Take\" and made it clear he is still not a believer in the Knicks overtaking the Celtics in the Eastern Conference.",
-        "published_at": "2026-04-11T01:02:18-04:00",
+        "published_at": "2026-04-10T15:40:23-04:00",
         "link": "https://www.yardbarker.com/nba/articles/why_kendrick_perkins_is_still_not_buying_the_knicks_after_win_over_celtics/s1_13132_43711986",
         "tags": []
       }
@@ -3114,25 +3085,5 @@
       }
     ],
     "summary": "Will Lakers add to their roster ahead of the playoffs? \u2014 With Luka Doncic and Austin Reaves dealing with injuries late in the season, Los Angeles Lakers general manager Rob Pelinka will have to get creative."
-  },
-  {
-    "player_name": "Zulfi Sheikh",
-    "player_key": "zulfi sheikh",
-    "team_name": "Toronto Raptors",
-    "team_key": "toronto_raptors",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "af89ff853b9eaef8",
-        "source": "sportsnet_nba",
-        "title": "Road to the Playoffs: Raptors chasing finale win to secure playoff berth",
-        "blurb": "Road to the Playoffs: Raptors chasing finale win to secure playoff berth \u2014 The final nine playoff spots will be determined Sunday when all 30 teams are in action. That includes the Raptors, who need a win in the finale to avoid the Play-In, writes Zulfi Sheikh.",
-        "published_at": "2026-04-11T13:02:50-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Road to the Playoffs: Raptors chasing finale win to secure playoff berth \u2014 The final nine playoff spots will be determined Sunday when all 30 teams are in action. That includes the Raptors, who need a win in the finale to avoid the Play-In, writes Zulfi Sheikh."
   }
 ]
