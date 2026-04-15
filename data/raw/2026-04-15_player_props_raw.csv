@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-04-15,Tyrese Maxey,PTS,29.5,Bovada,23.4,0.89,0.826,40.3,UNDER,Starter,Orlando Magic @ Philadelphia 76ers,2.05,0.25,Pending,0,
+2026-04-15,Paolo Banchero,PTS,22.5,BetOnline.ag,17.8,0.72,0.521,24.8,UNDER,Starter,Orlando Magic @ Philadelphia 76ers,2.1,0.25,Pending,0,
+2026-04-15,Brandin Podziemski,PTS,13.5,BetOnline.ag,18.9,0.84,0.515,28.4,OVER,Rotation,Golden State Warriors @ Los Angeles Clippers,1.81,0.25,Pending,0,
+2026-04-15,Adem Bona,REB,5.5,BetRivers,3.5,0.8,0.499,26.6,UNDER,Rotation,Orlando Magic @ Philadelphia 76ers,1.88,0.25,Pending,0,
+2026-04-15,Anthony Black,PTS,9.5,BetRivers,7.2,0.71,0.498,23.5,UNDER,Rotation,Orlando Magic @ Philadelphia 76ers,2.12,0.25,Pending,0,
+2026-04-15,Brook Lopez,REB,5.5,Bovada,7.0,0.73,0.489,23.9,OVER,Starter,Golden State Warriors @ Los Angeles Clippers,2.05,0.25,Pending,0,
+2026-04-15,Gui Santos,AST,2.5,DraftKings,3.7,0.74,0.439,22.5,OVER,Rotation,Golden State Warriors @ Los Angeles Clippers,1.95,0.25,Pending,0,
+2026-04-15,De'Anthony Melton,AST,2.5,BetRivers,3.3,0.77,0.388,21.4,OVER,Rotation,Golden State Warriors @ Los Angeles Clippers,1.81,0.25,Pending,0,
+2026-04-15,Wendell Carter Jr,AST,1.5,BetRivers,1.1,0.64,0.381,17.7,UNDER,Rotation,Orlando Magic @ Philadelphia 76ers,2.15,0.25,Pending,0,
+2026-04-15,Stephen Curry,REB,3.5,Caesars,2.9,0.65,0.363,17.3,UNDER,Rotation,Golden State Warriors @ Los Angeles Clippers,2.1,0.25,Pending,0,
