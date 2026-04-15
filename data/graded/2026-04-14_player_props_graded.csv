@@ -1,12 +1,11 @@
 date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury,grade
-2026-04-14,Toumani Camara,3PTM,2.5,FanDuel,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Pending,0,,A
-2026-04-14,Bam Adebayo,AST,3.5,BetOnline.ag,,,,,OVER,,Miami Heat @ Charlotte Hornets,,1.0,Pending,0,,A
-2026-04-14,Scoot Henderson,PTS,13.5,BetRivers,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Pending,0,,A
-2026-04-14,Scoot Henderson,3PTM,1.5,BetRivers,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Pending,0,,A
-2026-04-14,Devin Booker,AST,5.5,Caesars,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Pending,0,,A
-2026-04-14,Andrew Wiggins,REB,4.5,BetRivers,,,,,UNDER,,Miami Heat @ Charlotte Hornets,,1.0,Pending,0,,A
-2026-04-14,Kon Knueppel,PTS,18.5,Bovada,,,,,UNDER,,Miami Heat @ Charlotte Hornets,,1.0,Pending,0,,A
-2026-04-14,Pelle Larsson,PTS,10.5,BetRivers,,,,,OVER,,Miami Heat @ Charlotte Hornets,,1.0,Pending,0,,A
-2026-04-14,Jrue Holiday,3PTM,2.5,FanDuel,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Pending,0,,A
-2026-04-14,Jaime Jaquez Jr,PTS,11.5,BetRivers,,,,,OVER,,Miami Heat @ Charlotte Hornets,,1.0,Pending,0,,A
-2026-04-14,,,217.0,Caesars,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,0.0,Pending,0,,C
+2026-04-14,Toumani Camara,3PTM,2.5,FanDuel,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Loss,-1.0,,A
+2026-04-14,Bam Adebayo,AST,3.5,BetOnline.ag,,,,,OVER,,Miami Heat @ Charlotte Hornets,,1.0,Loss,-1.0,,A
+2026-04-14,Scoot Henderson,PTS,13.5,BetRivers,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Loss,-1.0,,A
+2026-04-14,Scoot Henderson,3PTM,1.5,BetRivers,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Loss,-1.0,,A
+2026-04-14,Devin Booker,AST,5.5,Caesars,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Loss,-1.0,,A
+2026-04-14,Andrew Wiggins,REB,4.5,BetRivers,,,,,UNDER,,Miami Heat @ Charlotte Hornets,,1.0,Loss,-1.0,,A
+2026-04-14,Kon Knueppel,PTS,18.5,Bovada,,,,,UNDER,,Miami Heat @ Charlotte Hornets,,1.0,Win,0.91,,A
+2026-04-14,Pelle Larsson,PTS,10.5,BetRivers,,,,,OVER,,Miami Heat @ Charlotte Hornets,,1.0,Loss,-1.0,,A
+2026-04-14,Jrue Holiday,3PTM,2.5,FanDuel,,,,,OVER,,Portland Trail Blazers @ Phoenix Suns,,1.0,Win,0.91,,A
+2026-04-14,Jaime Jaquez Jr,PTS,11.5,BetRivers,,,,,OVER,,Miami Heat @ Charlotte Hornets,,1.0,Win,0.91,,A
