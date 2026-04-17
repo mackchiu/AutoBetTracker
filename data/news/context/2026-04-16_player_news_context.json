@@ -8,15 +8,6 @@
     "tags": [],
     "items": [
       {
-        "news_id": "70e1ac7b5192a2c9",
-        "source": "basketball_intelligence",
-        "title": "Basketball Intelligence For 4/16/26",
-        "blurb": "Basketball Intelligence For 4/16/26 \u2014 Today's Best NBA Reporting And Analysis",
-        "published_at": "2026-04-16T09:57:57-04:00",
-        "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-41626",
-        "tags": []
-      },
-      {
         "news_id": "ac23e6bf4478ada6",
         "source": "basketball_intelligence",
         "title": "Basketball Intelligence For 4/15/26",
@@ -159,26 +150,117 @@
         "published_at": "2026-04-01T14:09:04-04:00",
         "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-4126",
         "tags": []
+      },
+      {
+        "news_id": "6d9bbc2eedf65aa2",
+        "source": "basketball_intelligence",
+        "title": "Basketball Intelligence For 3/31/26",
+        "blurb": "Basketball Intelligence For 3/31/26 \u2014 Today's Best NBA Reporting And Analysis",
+        "published_at": "2026-03-31T15:23:09-04:00",
+        "link": "https://www.basketballintelligence.net/p/basketball-intelligence-for-33126",
+        "tags": []
       }
     ],
-    "summary": "Basketball Intelligence For 4/16/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/15/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/14/26, Part Two \u2014 Today's Best NBA Reporting And Analysis"
+    "summary": "Basketball Intelligence For 4/15/26 \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/14/26, Part Two \u2014 Today's Best NBA Reporting And Analysis | Basketball Intelligence For 4/14/26, Part One \u2014 Today's Best NBA Reporting And Analysis"
+  },
+  {
+    "player_name": "Stephen Curry",
+    "player_key": "stephen curry",
+    "team_name": "Los Angeles Clippers",
+    "team_key": "los_angeles_clippers",
+    "news_count": 6,
+    "tags": [
+      "injury",
+      "minutes",
+      "performance"
+    ],
+    "items": [
+      {
+        "news_id": "e92f08efd2d517d8",
+        "source": "realgm_wiretap",
+        "title": "Stephen Curry, Al Horford Lead Warriors To 126-121 Comeback Win Over Clippers",
+        "blurb": "Stephen Curry, Al Horford Lead Warriors To 126-121 Comeback Win Over Clippers \u2014 Stephen Curry scored 27 of his 35 points in the second half, Al Horford hit four 3-pointers during Golden State's electrifying fourth-quarter comeback, and the Warriors advanced in the NBA's play-in tournament with a 126-121 victory over the Los Angeles Clippers on Wednesday night. Curry's seventh 3-pointer broke a tie",
+        "published_at": "2026-04-16T01:14:30-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285125/Stephen-Curry-Al-Horford-Lead-Warriors-To-126-121-Comeback-Win-Over-Clippers",
+        "tags": []
+      },
+      {
+        "news_id": "6d9030608d3b67f4",
+        "source": "sportsnet_nba",
+        "title": "Curry drains filthy step-back three to put Warriors ahead in final minute",
+        "blurb": "Curry drains filthy step-back three to put Warriors ahead in final minute \u2014 Watch as Stephen Curry shakes off a double team with a filthy step-back move and drains the clutch three-pointer to put the Warriors ahead of the Clippers in the final minute of their play-in game.",
+        "published_at": "2026-04-16T01:01:51-04:00",
+        "link": "",
+        "tags": []
+      },
+      {
+        "news_id": "a23c5a9693e786bb",
+        "source": "rotowire",
+        "title": "Stephen Curry: Erupts for 35 points in victory",
+        "blurb": "Stephen Curry: Erupts for 35 points in victory \u2014 Curry supplied 35 points (12-23 FG, 7-12 3Pt, 4-5 FT), four assists, one rebound and one steal across 36 minutes in Wednesday's 126-121 win over the Clippers in the Play-In Tournament. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-15T10:03:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
+        "tags": []
+      },
+      {
+        "news_id": "36d0f51c77e277bb",
+        "source": "rotowire",
+        "title": "Stephen Curry: Returns Wednesday",
+        "blurb": "Stephen Curry: Returns Wednesday \u2014 Curry (undisclosed) returned to Wednesday's Play-In Tournament game against the Clippers with 7:59 remaining in the second quarter, per the broadcast. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-15T08:03:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
+        "tags": []
+      },
+      {
+        "news_id": "6f55574fea1924cc",
+        "source": "rotowire",
+        "title": "Stephen Curry: Exits to locker room",
+        "blurb": "Stephen Curry: Exits to locker room \u2014 Curry (undisclosed) exited to the locker room during the first quarter of Wednesday's Play-In Tournament game against the Clippers, Anthony Slater of ESPN.com reports. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-15T07:44:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
+        "tags": []
+      },
+      {
+        "news_id": "3e4ea10f26b46ddb",
+        "source": "realgm_wiretap",
+        "title": "Stephen Curry, Kristaps Porzingis, Al Horford On Minutes Restriction In Play-In Game",
+        "blurb": "Stephen Curry, Kristaps Porzingis, Al Horford On Minutes Restriction In Play-In Game \u2014 Stephen Curry, Kristaps Porzingis and Al Horford will play under minutes restrictions Wednesday when the Golden State Warriors faces the Los Angeles Clippers in a play-in game, head coach Steve Kerr confirmed. All three will be held under 40 minutes in the game despite the reality that a Warriors loss ends their",
+        "published_at": "2026-04-14T10:41:28-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285103/Stephen-Curry-Kristaps-Porzingis-Al-Horford-On-Minutes-Restriction-In-Play-In-Game",
+        "tags": [
+          "injury",
+          "minutes",
+          "performance"
+        ]
+      }
+    ],
+    "summary": "Stephen Curry, Al Horford Lead Warriors To 126-121 Comeback Win Over Clippers \u2014 Stephen Curry scored 27 of his 35 points in the second half, Al Horford hit four 3-pointers during Golden State's electrifying fourth-quarter comeback, and the Warriors advanced in the NBA's play-in tournament with a 126-121 victory over the Los Angeles Clippers on Wednesday night. Curry's seventh 3-pointer broke a tie | Curry drains filthy step-back three to put Warriors ahead in final minute \u2014 Watch as Stephen Curry shakes off a double team with a filthy step-back move and drains the clutch three-pointer to put the Warriors ahead of the Clippers in the final minute of their play-in game. | Stephen Curry: Erupts for 35 points in victory \u2014 Curry supplied 35 points (12-23 FG, 7-12 3Pt, 4-5 FT), four assists, one"
   },
   {
     "player_name": "Toronto Raptors",
     "player_key": "toronto raptors",
-    "team_name": "Toronto Raptors",
-    "team_key": "toronto_raptors",
-    "news_count": 4,
+    "team_name": "Cleveland Cavaliers",
+    "team_key": "cleveland_cavaliers",
+    "news_count": 5,
     "tags": [
       "performance"
     ],
     "items": [
       {
-        "news_id": "425686cb60a5d1cc",
+        "news_id": "1ee10eeb3ed87b41",
         "source": "sportsnet_nba",
-        "title": "\u2018He just has to be himself\u2019: Darko on how Scottie can be most impactful",
-        "blurb": "\u2018He just has to be himself\u2019: Darko on how Scottie can be most impactful \u2014 Toronto Raptors head coach Darko Rajakovi\u0107 says Scottie Barnes continues to be underappreciated for his play, adding that simply being himself and maintaining his strong performance is all the team can ask for in the playoffs.",
-        "published_at": "2026-04-16T14:17:38-04:00",
+        "title": "\u2018I\u2019m one of the best defenders\u2019: Barnes confident heading into post-season",
+        "blurb": "\u2018I\u2019m one of the best defenders\u2019: Barnes confident heading into post-season \u2014 Toronto Raptors forward Scottie Barnes meets with the media and discusses his defensive capabilities and how he views himself on the defensive end going into the team&#8217;s first-round matchup against the Cleveland Cavaliers.",
+        "published_at": "2026-04-15T15:10:50-04:00",
+        "link": "",
+        "tags": []
+      },
+      {
+        "news_id": "1f8d25a20e4c0344",
+        "source": "sportsnet_nba",
+        "title": "\u2018I know how much our whole team cares\u2019: Rajakovic on Raptors\u2019 readiness",
+        "blurb": "\u2018I know how much our whole team cares\u2019: Rajakovic on Raptors\u2019 readiness \u2014 Toronto Raptors head coach Darko Rajakovic meets with the media and discusses the mindset of his group heading into their first-round series against the Cleveland Cavaliers and the focus and care that his team has heading into the series.",
+        "published_at": "2026-04-15T15:06:20-04:00",
         "link": "",
         "tags": []
       },
@@ -212,31 +294,214 @@
         ]
       }
     ],
-    "summary": "\u2018He just has to be himself\u2019: Darko on how Scottie can be most impactful \u2014 Toronto Raptors head coach Darko Rajakovi\u0107 says Scottie Barnes continues to be underappreciated for his play, adding that simply being himself and maintaining his strong performance is all the team can ask for in the playoffs. | New-era Raptors make good on promise of playoff basketball \u2014 With the rebuild in the rearview mirror, the Toronto Raptors came into this season with a lofty goal: to play playoff basketball. They reached it. Next up: Cleveland. Michael Grange has the story | \u2018Playoff bound\u2019: Sports world reacts to Raptors clinching spot \u2014 There might not have been much doubt down the stretch between the Toronto Raptors and their opponent on Sunday night, but the final buzzer still marked a major moment."
+    "summary": "\u2018I\u2019m one of the best defenders\u2019: Barnes confident heading into post-season \u2014 Toronto Raptors forward Scottie Barnes meets with the media and discusses his defensive capabilities and how he views himself on the defensive end going into the team&#8217;s first-round matchup against the Cleveland Cavaliers. | \u2018I know how much our whole team cares\u2019: Rajakovic on Raptors\u2019 readiness \u2014 Toronto Raptors head coach Darko Rajakovic meets with the media and discusses the mindset of his group heading into their first-round series against the Cleveland Cavaliers and the focus and care that his team has heading into the series. | New-era Raptors make good on promise of playoff basketball \u2014 With the rebuild in the rearview mirror, the Toronto Raptors came into this season with a lofty goal: to play playoff"
+  },
+  {
+    "player_name": "How To Watch",
+    "player_key": "how to watch",
+    "team_name": "Atlanta Hawks",
+    "team_key": "atlanta_hawks",
+    "news_count": 4,
+    "tags": [
+      "injury",
+      "performance",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "c74f8f0034bb6b48",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Warriors Vs Clippers Play-In Game: Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Warriors Vs Clippers Play-In Game: Live Stream, TV Channel, Predictions \u2014 The postseason pressure reaches a boiling point this Wednesday, April 15, 2026, as the LA Clippers host the Golden State Warriors at the Intuit Dome for the Western Conference Play-In Tournament. This 7v8 matchup is a battle for immediate entry into the playoffs; the winner officially clinches the #7 seed, while",
+        "published_at": "2026-04-14T13:50:19-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285107/How-To-Watch-Warriors-Vs-Clippers-Play-In-Game-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
+          "performance",
+          "trade"
+        ]
+      },
+      {
+        "news_id": "782031795ab481d2",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Magic Vs 76ers Play-In Game: Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Magic Vs 76ers Play-In Game: Live Stream, TV Channel, Predictions \u2014 The 2026 NBA Play-In Tournament continues this Wednesday, April 15, with a battle for the #7 seed as the Philadelphia 76ers host the Orlando Magic at Xfinity Mobile Arena. Both teams finished the regular season with identical 45-37 records, but Philadelphia holds the home-court advantage for this pivotal matchup. The ",
+        "published_at": "2026-04-14T13:32:04-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285106/How-To-Watch-Magic-Vs-76ers-Play-In-Game-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
+          "performance"
+        ]
+      },
+      {
+        "news_id": "06d88233d2818364",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Trail Blazers Vs Suns Play-In Game: Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Trail Blazers Vs Suns Play-In Game: Live Stream, TV Channel, Predictions \u2014 The 2026 Western Conference Play-In Tournament kicks off with a heavyweight battle this Tuesday, April 14, as the Phoenix Suns host the Portland Trail Blazers at Footprint Center. Phoenix (45-37) holds home-court advantage in this 7/8 seed matchup, with the winner earning the #7 seed in the NBA Playoffs. The lo",
+        "published_at": "2026-04-14T13:14:08-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285105/How-To-Watch-Trail-Blazers-Vs-Suns-Play-In-Game-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
+          "performance"
+        ]
+      },
+      {
+        "news_id": "e39a1bfbbcb8600b",
+        "source": "realgm_wiretap",
+        "title": "How To Watch Heat Vs Hornets Play-In Game: Live Stream, TV Channel, Predictions",
+        "blurb": "How To Watch Heat Vs Hornets Play-In Game: Live Stream, TV Channel, Predictions \u2014 The 2026 NBA postseason officially kicks off this Tuesday, April 14, with a win-or-go-home scenario as the Miami Heat host the Charlotte Hornets in the Eastern Conference Play-In Tournament at Kaseya Center. Miami (42-40) finished the season strong to secure home-court advantage for this matchup, while the Hornets (4",
+        "published_at": "2026-04-14T12:45:55-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285104/How-To-Watch-Heat-Vs-Hornets-Play-In-Game-Live-Stream-TV-Channel-Predictions",
+        "tags": [
+          "injury",
+          "performance"
+        ]
+      }
+    ],
+    "summary": "How To Watch Warriors Vs Clippers Play-In Game: Live Stream, TV Channel, Predictions \u2014 The postseason pressure reaches a boiling point this Wednesday, April 15, 2026, as the LA Clippers host the Golden State Warriors at the Intuit Dome for the Western Conference Play-In Tournament. This 7v8 matchup is a battle for immediate entry into the playoffs; the winner officially clinches the #7 seed, while | How To Watch Magic Vs 76ers Play-In Game: Live Stream, TV Channel, Predictions \u2014 The 2026 NBA Play-In Tournament continues this Wednesday, April 15, with a battle for the #7 seed as the Philadelphia 76ers host the Orlando Magic at Xfinity Mobile Arena. Both teams finished the regular season with identical 45-37 records, but Philadelphia holds the home-court advantage for this pivotal matchup. T"
+  },
+  {
+    "player_name": "Bam Adebayo",
+    "player_key": "bam adebayo",
+    "team_name": "Charlotte Hornets",
+    "team_key": "charlotte_hornets",
+    "news_count": 2,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "fee533a24f60e0d0",
+        "source": "yardbarker_nba",
+        "title": "Heat lose to Hornets without Bam Adebayo after potentially dirty LaMelo Ball play",
+        "blurb": "Heat lose to Hornets without Bam Adebayo after potentially dirty LaMelo Ball play \u2014 The Miami Heat already had their hands full with the Charlotte Hornets in the 9-10 play-in game. Their task got tougher when they lost their best player to a highly questionable play.",
+        "published_at": "2026-04-15T19:55:54-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/heat_lose_to_hornets_without_bam_adebayo_after_potentially_dirty_lamelo_ball_play/s1_13132_43729894",
+        "tags": [
+          "injury"
+        ]
+      },
+      {
+        "news_id": "4abe6870c5ca437d",
+        "source": "sportsnet_nba",
+        "title": "Heat\u2019s Bam Adebayo exits after trip from Hornets\u2019 LaMelo Ball",
+        "blurb": "Heat\u2019s Bam Adebayo exits after trip from Hornets\u2019 LaMelo Ball",
+        "published_at": "2026-04-14T20:49:05-04:00",
+        "link": "",
+        "tags": []
+      }
+    ],
+    "summary": "Heat lose to Hornets without Bam Adebayo after potentially dirty LaMelo Ball play \u2014 The Miami Heat already had their hands full with the Charlotte Hornets in the 9-10 play-in game. Their task got tougher when they lost their best player to a highly questionable play. | Heat\u2019s Bam Adebayo exits after trip from Hornets\u2019 LaMelo Ball"
+  },
+  {
+    "player_name": "Bam Adebayo Ball",
+    "player_key": "bam adebayo ball",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 2,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "cf2e0d1e2c3be4c2",
+        "source": "yardbarker_nba",
+        "title": "NBA makes discipline decision on Hornets' LaMelo Ball for dirty play on Bam Adebayo",
+        "blurb": "NBA makes discipline decision on Hornets' LaMelo Ball for dirty play on Bam Adebayo \u2014 Ball is one of the Hornets' most important players, averaging 20.1 points, 7.1 assists, 4.8 rebounds and 1.2 steals per game this season.",
+        "published_at": "2026-04-15T22:48:56-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/nba_makes_discipline_decision_on_hornets_lamelo_ball_for_dirty_play_on_bam_adebayo/s1_13132_43733891",
+        "tags": []
+      },
+      {
+        "news_id": "728d2ed2f6cee70a",
+        "source": "yardbarker_nba",
+        "title": "LaMelo Ball apologizes for dirty foul on Bam Adebayo",
+        "blurb": "LaMelo Ball apologizes for dirty foul on Bam Adebayo \u2014 Ball is facing criticism for a play that injured Bam Adebayo.",
+        "published_at": "2026-04-15T22:48:56-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/lamelo_ball_apologizes_for_dirty_foul_on_bam_adebayo/s1_13132_43731325",
+        "tags": []
+      }
+    ],
+    "summary": "NBA makes discipline decision on Hornets' LaMelo Ball for dirty play on Bam Adebayo \u2014 Ball is one of the Hornets' most important players, averaging 20.1 points, 7.1 assists, 4.8 rebounds and 1.2 steals per game this season. | LaMelo Ball apologizes for dirty foul on Bam Adebayo \u2014 Ball is facing criticism for a play that injured Bam Adebayo."
+  },
+  {
+    "player_name": "Deni Avdija",
+    "player_key": "deni avdija",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 2,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "768383a874fef3eb",
+        "source": "yardbarker_nba",
+        "title": "Deni Avdija cements star status with phenomenal play-in performance",
+        "blurb": "Deni Avdija cements star status with phenomenal play-in performance \u2014 Avdija announced himself in a big way during the Blazers' play-in win over the Suns.",
+        "published_at": "2026-04-15T12:17:28-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/deni_avdija_cements_star_status_with_phenomenal_play_in_performance/s1_13132_43732081",
+        "tags": []
+      },
+      {
+        "news_id": "497e938996cca88b",
+        "source": "realgm_wiretap",
+        "title": "Deni Avdija's 41 Points Leads Blazers Back To Playoffs For First Time Since 2021",
+        "blurb": "Deni Avdija's 41 Points Leads Blazers Back To Playoffs For First Time Since 2021 \u2014 Deni Avdija scored 41 points to go with 12 assists and seven rebounds in the Portland Trail Blazers' 114-110 win at the Phoenix Suns to clinch the No. 7 seed in the Western Conference Playoffs. The Blazers hadn't reached the playoffs since 2021 when they were eliminated in the first round by the Denver Nuggets in si",
+        "published_at": "2026-04-15T11:46:17-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285116/Deni-Avdijas-41-Points-Leads-Blazers-Back-To-Playoffs-For-First-Time-Since-2021",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Deni Avdija cements star status with phenomenal play-in performance \u2014 Avdija announced himself in a big way during the Blazers' play-in win over the Suns. | Deni Avdija's 41 Points Leads Blazers Back To Playoffs For First Time Since 2021 \u2014 Deni Avdija scored 41 points to go with 12 assists and seven rebounds in the Portland Trail Blazers' 114-110 win at the Phoenix Suns to clinch the No. 7 seed in the Western Conference Playoffs. The Blazers hadn't reached the playoffs since 2021 when they were eliminated in the first round by the Denver Nuggets in si"
+  },
+  {
+    "player_name": "Derrick Jones",
+    "player_key": "derrick jones",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 2,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "b9454e0e672b304a",
+        "source": "rotowire",
+        "title": "Derrick Jones: Starts second half Wednesday",
+        "blurb": "Derrick Jones: Starts second half Wednesday \u2014 Jones (ankle) started the second half of Wednesday's Play-In Tournament game against the Warriors, per the broadcast. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-15T08:41:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/derrick-jones-4083",
+        "tags": [
+          "injury"
+        ]
+      },
+      {
+        "news_id": "211cdfcb54809fdc",
+        "source": "rotowire",
+        "title": "Derrick Jones: Leaves for locker room",
+        "blurb": "Derrick Jones: Leaves for locker room \u2014 Jones exited to the locker room in the second quarter of Wednesday's Play-In Tournament game against the Warriors due to an apparent right ankle injury, Tomer Azarly of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update.",
+        "published_at": "2026-04-15T08:20:00-04:00",
+        "link": "https://www.rotowire.com//basketball/player/derrick-jones-4083",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Derrick Jones: Starts second half Wednesday \u2014 Jones (ankle) started the second half of Wednesday's Play-In Tournament game against the Warriors, per the broadcast. Visit RotoWire.com for more analysis on this update. | Derrick Jones: Leaves for locker room \u2014 Jones exited to the locker room in the second quarter of Wednesday's Play-In Tournament game against the Warriors due to an apparent right ankle injury, Tomer Azarly of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update."
   },
   {
     "player_name": "Luka Doncic",
     "player_key": "luka doncic",
-    "team_name": "Los Angeles Lakers",
-    "team_key": "los_angeles_lakers",
-    "news_count": 3,
+    "team_name": "Houston Rockets",
+    "team_key": "houston_rockets",
+    "news_count": 2,
     "tags": [
       "injury",
       "performance",
       "starting"
     ],
     "items": [
-      {
-        "news_id": "b2b04fe42e49e80b",
-        "source": "yardbarker_nba",
-        "title": "Lakers get bad news on Luka Doncic and Austin Reaves",
-        "blurb": "Lakers get bad news on Luka Doncic and Austin Reaves \u2014 The Los Angeles Lakers closed out the season in the worst possible way. Luka Doncic and Austin Reaves, their two leading scorers, fell with complicated injuries.",
-        "published_at": "2026-04-16T16:09:22-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/lakers_get_bad_news_on_luka_doncic_and_austin_reaves/s1_13132_43736966",
-        "tags": [
-          "injury"
-        ]
-      },
       {
         "news_id": "e76a3227da8597e9",
         "source": "realgm_wiretap",
@@ -262,206 +527,7 @@
         ]
       }
     ],
-    "summary": "Lakers get bad news on Luka Doncic and Austin Reaves \u2014 The Los Angeles Lakers closed out the season in the worst possible way. Luka Doncic and Austin Reaves, their two leading scorers, fell with complicated injuries. | Luka Doncic, Austin Reaves Out Indefinitely; Lakers Won't Give Update This Week \u2014 Los Angeles Lakers coach JJ Redick confirmed Tuesday that Luka Doncic and Austin Reaves remain out indefinitely as the team begins preparation for its first-round playoff series against the Houston Rockets, leaving the club without its starting backcourt for at least the early stages of the postseason. \"They're out i | Luka Doncic\u2019s Regular Season Ends at the Worst Possible Time for the Lakers \u2014 The Los Angeles Lakers have been dealt a major blow, as Luka Doncic will miss the remainder of the r"
-  },
-  {
-    "player_name": "Stephen Curry",
-    "player_key": "stephen curry",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 3,
-    "tags": [
-      "injury",
-      "starting"
-    ],
-    "items": [
-      {
-        "news_id": "f8aaac7e9ee80b7a",
-        "source": "realgm_wiretap",
-        "title": "Stephen Curry: These Nights Make Everything Worth It",
-        "blurb": "Stephen Curry: These Nights Make Everything Worth It \u2014 Stephen Curry missed 27 consecutive games with a right knee injury where he considered whether to shut down his season entirely, but he returned for four regular-season games for the chance at the Play-In. Curry delivered in the first one with 35 points, 11 in the final 9:27, including a decisive pull-up 3-pointer that broke a 117-117 tie with",
-        "published_at": "2026-04-16T07:13:25-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285130/Stephen-Curry-These-Nights-Make-Everything-Worth-It",
-        "tags": [
-          "injury"
-        ]
-      },
-      {
-        "news_id": "d37b1ef32b675473",
-        "source": "realgm_wiretap",
-        "title": "Stephen Curry, Draymond Green Lead Warriors To 126-121 Comeback Win Over Clippers",
-        "blurb": "Stephen Curry, Draymond Green Lead Warriors To 126-121 Comeback Win Over Clippers \u2014 Stephen Curry scored 35 points and Draymond Green neutralized Kawhi Leonard down the stretch as the Golden State Warriors rallied from 13 points down to defeat the Los Angeles Clippers 126-121 Wednesday, surviving the NBA play-in tournament's first round. Curry, who returning last week from a 27-game absence due to",
-        "published_at": "2026-04-16T01:14:30-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285125/Stephen-Curry-Draymond-Green-Lead-Warriors-To-126-121-Comeback-Win-Over-Clippers",
-        "tags": [
-          "injury",
-          "starting"
-        ]
-      },
-      {
-        "news_id": "6d9030608d3b67f4",
-        "source": "sportsnet_nba",
-        "title": "Curry drains filthy step-back three to put Warriors ahead in final minute",
-        "blurb": "Curry drains filthy step-back three to put Warriors ahead in final minute \u2014 Watch as Stephen Curry shakes off a double team with a filthy step-back move and drains the clutch three-pointer to put the Warriors ahead of the Clippers in the final minute of their play-in game.",
-        "published_at": "2026-04-16T01:01:51-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Stephen Curry: These Nights Make Everything Worth It \u2014 Stephen Curry missed 27 consecutive games with a right knee injury where he considered whether to shut down his season entirely, but he returned for four regular-season games for the chance at the Play-In. Curry delivered in the first one with 35 points, 11 in the final 9:27, including a decisive pull-up 3-pointer that broke a 117-117 tie with | Stephen Curry, Draymond Green Lead Warriors To 126-121 Comeback Win Over Clippers \u2014 Stephen Curry scored 35 points and Draymond Green neutralized Kawhi Leonard down the stretch as the Golden State Warriors rallied from 13 points down to defeat the Los Angeles Clippers 126-121 Wednesday, surviving the NBA play-in tournament's first round. Curry, who returning last week from a 27-game absence due"
-  },
-  {
-    "player_name": "Brian Keefe",
-    "player_key": "brian keefe",
-    "team_name": "Washington Wizards",
-    "team_key": "washington_wizards",
-    "news_count": 2,
-    "tags": [
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "5959462b5e355e6d",
-        "source": "yardbarker_nba",
-        "title": "Wizards make decision on HC Brian Keefe after multiyear tank",
-        "blurb": "Wizards make decision on HC Brian Keefe after multiyear tank \u2014 The Washington Wizards saddled head coach Brian Keefe with a roster designed to lose games for the last three seasons.",
-        "published_at": "2026-04-17T00:23:50-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/wizards_make_decision_on_hc_brian_keefe_after_multiyear_tank/s1_13132_43737769",
-        "tags": [
-          "trade"
-        ]
-      },
-      {
-        "news_id": "7a9e923b38298c97",
-        "source": "sportsnet_nba",
-        "title": "Wizards GM says he expects head coach Brian Keefe to return next season",
-        "blurb": "Wizards GM says he expects head coach Brian Keefe to return next season \u2014 Wizards general manager Will Dawkins said he&#8217;s expecting coach Brian Keefe to return next season after Washington finished with the NBA&#8217;s worst record.",
-        "published_at": "2026-04-16T18:27:38-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Wizards make decision on HC Brian Keefe after multiyear tank \u2014 The Washington Wizards saddled head coach Brian Keefe with a roster designed to lose games for the last three seasons. | Wizards GM says he expects head coach Brian Keefe to return next season \u2014 Wizards general manager Will Dawkins said he&#8217;s expecting coach Brian Keefe to return next season after Washington finished with the NBA&#8217;s worst record."
-  },
-  {
-    "player_name": "By The Books",
-    "player_key": "by the books",
-    "team_name": "Denver Nuggets",
-    "team_key": "denver_nuggets",
-    "news_count": 2,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "1cfa9d478c748d35",
-        "source": "sportsnet_nba",
-        "title": "Who should you pinpoint in competitive Nuggets-Timberwolves matchup?",
-        "blurb": "Who should you pinpoint in competitive Nuggets-Timberwolves matchup? \u2014 VSiN By The Books&#8217; Jensen Lewis and Marc Malusis delve into the Western Conference first-round series between the Denver Nuggets and Minnesota Timberwolves and who to focus on as the favourite to advance to the Western Conference Semifinals.",
-        "published_at": "2026-04-16T10:22:58-04:00",
-        "link": "",
-        "tags": []
-      },
-      {
-        "news_id": "d8eabd2e5f5effe9",
-        "source": "sportsnet_nba",
-        "title": "Should you take Raptors to flip oddsmakers\u2019 consensus against Cavaliers?",
-        "blurb": "Should you take Raptors to flip oddsmakers\u2019 consensus against Cavaliers? \u2014 VSiN By The Books&#8217; Jensen Lewis and Marc Malusis discuss the Toronto Raptors&#8217; opening round series against the Cleveland Cavaliers and the current betting odds going into Game 1.",
-        "published_at": "2026-04-16T09:25:19-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Who should you pinpoint in competitive Nuggets-Timberwolves matchup? \u2014 VSiN By The Books&#8217; Jensen Lewis and Marc Malusis delve into the Western Conference first-round series between the Denver Nuggets and Minnesota Timberwolves and who to focus on as the favourite to advance to the Western Conference Semifinals. | Should you take Raptors to flip oddsmakers\u2019 consensus against Cavaliers? \u2014 VSiN By The Books&#8217; Jensen Lewis and Marc Malusis discuss the Toronto Raptors&#8217; opening round series against the Cleveland Cavaliers and the current betting odds going into Game 1."
-  },
-  {
-    "player_name": "Damon Jones",
-    "player_key": "damon jones",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 2,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "ec5200b6ef7bee45",
-        "source": "yardbarker_nba",
-        "title": "Former NBA coach Damon Jones makes major legal move following FBI gambling probe",
-        "blurb": "Former NBA coach Damon Jones makes major legal move following FBI gambling probe \u2014 Damon Jones is no longer fighting his charges in court.",
-        "published_at": "2026-04-16T19:43:55-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/former_nba_coach_damon_jones_makes_major_legal_move_following_fbi_gambling_probe/s1_13132_43737595",
-        "tags": []
-      },
-      {
-        "news_id": "bfabd07074a4a726",
-        "source": "sportsnet_nba",
-        "title": "Ex-NBA player Damon Jones expected to become first person to plead guilty in gambling sweep",
-        "blurb": "Ex-NBA player Damon Jones expected to become first person to plead guilty in gambling sweep",
-        "published_at": "2026-04-16T14:16:12-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Former NBA coach Damon Jones makes major legal move following FBI gambling probe \u2014 Damon Jones is no longer fighting his charges in court. | Ex-NBA player Damon Jones expected to become first person to plead guilty in gambling sweep"
-  },
-  {
-    "player_name": "In Snapshots",
-    "player_key": "in snapshots",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 2,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "110973366cc73207",
-        "source": "realgm_wiretap",
-        "title": "2026 NBA Play-In Snapshots (April 15): Warriors/Clippers, Sixers/Magic",
-        "blurb": "2026 NBA Play-In Snapshots (April 15): Warriors/Clippers, Sixers/Magic \u2014 What happened in two snapshots in the NBA Play-In on Wednesday, April 15, 2026.",
-        "published_at": "2026-04-16T06:57:18-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285129/2026-NBA-Play-In-Snapshots-April-15-Warriors-Clippers-Sixers-Magic",
-        "tags": []
-      },
-      {
-        "news_id": "7b5258b168e06420",
-        "source": "realgm_wiretap",
-        "title": "2026 NBA Play-In Snapshots (April 14): Hornets/Heat, Blazers/Suns",
-        "blurb": "2026 NBA Play-In Snapshots (April 14): Hornets/Heat, Blazers/Suns \u2014 What happened in two snapshots in the NBA Play-In on Tuesday, April 14, 2026.",
-        "published_at": "2026-04-15T09:32:40-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285114/2026-NBA-Play-In-Snapshots-April-14-Hornets-Heat-Blazers-Suns",
-        "tags": []
-      }
-    ],
-    "summary": "2026 NBA Play-In Snapshots (April 15): Warriors/Clippers, Sixers/Magic \u2014 What happened in two snapshots in the NBA Play-In on Wednesday, April 15, 2026. | 2026 NBA Play-In Snapshots (April 14): Hornets/Heat, Blazers/Suns \u2014 What happened in two snapshots in the NBA Play-In on Tuesday, April 14, 2026."
-  },
-  {
-    "player_name": "Steph Curry",
-    "player_key": "steph curry",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 2,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "8cadbac3055b2269",
-        "source": "yardbarker_nba",
-        "title": "Steph Curry reacts to Draymond Green's impact in win over Clippers",
-        "blurb": "Steph Curry reacts to Draymond Green's impact in win over Clippers \u2014 The Golden State Warriors' dynasty might be fading, but they're not going down without a fight. Draymond Green and Stephen Curry turned back the clock to take down the Los Angeles Clippers on the road.",
-        "published_at": "2026-04-16T13:19:32-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/steph_curry_reacts_to_draymond_greens_impact_in_win_over_clippers/s1_13132_43735724",
-        "tags": [
-          "injury"
-        ]
-      },
-      {
-        "news_id": "9e3883d5101cd036",
-        "source": "sportsnet_nba",
-        "title": "Warriors superstar Steph Curry leads NBA jersey sales",
-        "blurb": "Warriors superstar Steph Curry leads NBA jersey sales",
-        "published_at": "2026-04-13T10:51:35-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Steph Curry reacts to Draymond Green's impact in win over Clippers \u2014 The Golden State Warriors' dynasty might be fading, but they're not going down without a fight. Draymond Green and Stephen Curry turned back the clock to take down the Los Angeles Clippers on the road. | Warriors superstar Steph Curry leads NBA jersey sales"
+    "summary": "Luka Doncic, Austin Reaves Out Indefinitely; Lakers Won't Give Update This Week \u2014 Los Angeles Lakers coach JJ Redick confirmed Tuesday that Luka Doncic and Austin Reaves remain out indefinitely as the team begins preparation for its first-round playoff series against the Houston Rockets, leaving the club without its starting backcourt for at least the early stages of the postseason. \"They're out i | Luka Doncic\u2019s Regular Season Ends at the Worst Possible Time for the Lakers \u2014 The Los Angeles Lakers have been dealt a major blow, as Luka Doncic will miss the remainder of the regular season with a left hamstring strain. The injury comes at the worst possible time for Los Angeles, as the team was building momentum heading into the playoffs. Doncic, who has been the centerpiece of the [&#8230;]"
   },
   {
     "player_name": "Aces Sign",
@@ -490,50 +556,6 @@
     "summary": "A'ja Wilson, Aces Sign WNBA Record Three-Year, $5M Supermax Contract \u2014 A'ja Wilson has agreed to sign a three-year, $5 million supermax contract with the Las Vegas Aces. The deal is the largest in WNBA history and was negotiated by Jade-Li English of Klutch Sports Group. Wilson is a three-time WNBA champion and four-time WNBA Most Valuable Player. Wilson was the first overall pick in the 2018 WNBA"
   },
   {
-    "player_name": "Agree To Make",
-    "player_key": "agree to make",
-    "team_name": "Detroit Pistons",
-    "team_key": "detroit_pistons",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "746255955d07f5b9",
-        "source": "realgm_wiretap",
-        "title": "NBA, NBPA Agree To Make Cade Cunningham, Luka Doncic Eligible For Awards",
-        "blurb": "NBA, NBPA Agree To Make Cade Cunningham, Luka Doncic Eligible For Awards \u2014 The NBA and NBPA have agreed, in accordance with the Collective Bargaining Agreement (CBA), that Detroit Pistons guard Cade Cunningham and Los Angeles Lakers guard Luka Doncic are eligible for all annual awards for the 2025-26 NBA regular season. Cunningham played in 63 qualified games due in part to missing 12 games as a r",
-        "published_at": "2026-04-16T11:51:32-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285139/NBA-NBPA-Agree-To-Make-Cade-Cunningham-Luka-Doncic-Eligible-For-Awards",
-        "tags": []
-      }
-    ],
-    "summary": "NBA, NBPA Agree To Make Cade Cunningham, Luka Doncic Eligible For Awards \u2014 The NBA and NBPA have agreed, in accordance with the Collective Bargaining Agreement (CBA), that Detroit Pistons guard Cade Cunningham and Los Angeles Lakers guard Luka Doncic are eligible for all annual awards for the 2025-26 NBA regular season. Cunningham played in 63 qualified games due in part to missing 12 games as a r"
-  },
-  {
-    "player_name": "Alex Condon To",
-    "player_key": "alex condon to",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "9a13e8a252f46e41",
-        "source": "realgm_wiretap",
-        "title": "Alex Condon To Return To Florida For Senior Season",
-        "blurb": "Alex Condon To Return To Florida For Senior Season \u2014 Alex Condon announced that he will return to Florida for his senior season on Wednesday. Condon is currently the No. 30 prospect on ESPN's Top 100. \"When the team succeeds, everyone succeeds off the court too,\" Condon said about his decision to return. \"I feel like it could really be the same for us individually [next season]. I want to be first",
-        "published_at": "2026-04-16T01:58:18-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285127/Alex-Condon-To-Return-To-Florida-For-Senior-Season",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Alex Condon To Return To Florida For Senior Season \u2014 Alex Condon announced that he will return to Florida for his senior season on Wednesday. Condon is currently the No. 30 prospect on ESPN's Top 100. \"When the team succeeds, everyone succeeds off the court too,\" Condon said about his decision to return. \"I feel like it could really be the same for us individually [next season]. I want to be first"
-  },
-  {
     "player_name": "Andre Drummond",
     "player_key": "andre drummond",
     "team_name": "Philadelphia 76ers",
@@ -556,6 +578,58 @@
       }
     ],
     "summary": "76ers' Andre Drummond turns back the clock in play-in win vs. Magic \u2014 Playing without All-Star center Joel Embiid, the Philadelphia 76ers leaned on an All-Star center from the previous decade."
+  },
+  {
+    "player_name": "Anthony Davis Wants",
+    "player_key": "anthony davis wants",
+    "team_name": "Dallas Mavericks",
+    "team_key": "dallas_mavericks",
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "378555a56807944d",
+        "source": "realgm_wiretap",
+        "title": "Anthony Davis Wants Championship Plan From Wizards Before Committing Long-Term",
+        "blurb": "Anthony Davis Wants Championship Plan From Wizards Before Committing Long-Term \u2014 Anthony Davis made clear Monday that the Washington Wizards must present a credible path to contention this summer, setting up what figures to be one of the NBA offseason's most consequential front office conversations. Davis said he plans to meet with Monumental Basketball president Michael Winger and general manager",
+        "published_at": "2026-04-13T22:59:21-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285096/Anthony-Davis-Wants-Championship-Plan-From-Wizards-Before-Committing-Long-Term",
+        "tags": [
+          "injury",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Anthony Davis Wants Championship Plan From Wizards Before Committing Long-Term \u2014 Anthony Davis made clear Monday that the Washington Wizards must present a credible path to contention this summer, setting up what figures to be one of the NBA offseason's most consequential front office conversations. Davis said he plans to meet with Monumental Basketball president Michael Winger and general manager"
+  },
+  {
+    "player_name": "Azzi Fudd Selected",
+    "player_key": "azzi fudd selected",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "ccb1dbe7f141364c",
+        "source": "realgm_wiretap",
+        "title": "Azzi Fudd Selected No. 1 In WNBA Draft By Dallas Wings",
+        "blurb": "Azzi Fudd Selected No. 1 In WNBA Draft By Dallas Wings \u2014 Former UConn star Azzi Fudd was selected first overall by the Dallas Wings in the 2026 WNBA Draft, earning a $500,000 salary under the league's newly ratified collective bargaining agreement, nearly seven times what teammate Paige Bueckers earned as the top pick in 2025. \"I don't think it's fully sunk in. It's nothing I could have imagined,\"",
+        "published_at": "2026-04-13T21:03:29-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285095/Azzi-Fudd-Selected-No-1-In-WNBA-Draft-By-Dallas-Wings",
+        "tags": [
+          "injury",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Azzi Fudd Selected No. 1 In WNBA Draft By Dallas Wings \u2014 Former UConn star Azzi Fudd was selected first overall by the Dallas Wings in the 2026 WNBA Draft, earning a $500,000 salary under the league's newly ratified collective bargaining agreement, nearly seven times what teammate Paige Bueckers earned as the top pick in 2025. \"I don't think it's fully sunk in. It's nothing I could have imagined,\""
   },
   {
     "player_name": "Ball Fined",
@@ -632,46 +706,6 @@
     "summary": "LaMelo Ball Scores 30 Points In Hornets' Win Over Heat In Play-In Game \u2014 The Charlotte Hornets defeated the Miami Heat 127-126 in the play-in game on Tuesday night, eliminating the Heat from the playoffs. LaMelo Ball had 30 points and 10 assists in the win, with Miles Bridges adding 28 points and nine rebounds. Ball is now the fourth player to have at least 30 points and 10 assists in a play-in ga"
   },
   {
-    "player_name": "Bam Adebayo",
-    "player_key": "bam adebayo",
-    "team_name": "Miami Heat",
-    "team_key": "miami_heat",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "5f22b52c91c310c7",
-        "source": "yardbarker_nba",
-        "title": "Bam Adebayo addresses whether LaMelo Ball apologized to him",
-        "blurb": "Bam Adebayo addresses whether LaMelo Ball apologized to him \u2014 Miami Heat center Bam Adebayo is firing back at LaMelo Ball over Ball\u2019s controversial move in the NBA Play-In Tournament.",
-        "published_at": "2026-04-17T00:54:45-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/bam_adebayo_addresses_whether_lamelo_ball_apologized_to_him/s1_127_43736559",
-        "tags": []
-      }
-    ],
-    "summary": "Bam Adebayo addresses whether LaMelo Ball apologized to him \u2014 Miami Heat center Bam Adebayo is firing back at LaMelo Ball over Ball\u2019s controversial move in the NBA Play-In Tournament."
-  },
-  {
-    "player_name": "Bam Adebayo Ball",
-    "player_key": "bam adebayo ball",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "6c1bb1d1474ecb9c",
-        "source": "yardbarker_nba",
-        "title": "LaMelo Ball apologizes for dirty foul on Bam Adebayo",
-        "blurb": "LaMelo Ball apologizes for dirty foul on Bam Adebayo \u2014 Ball is facing criticism for a play that injured Bam Adebayo.",
-        "published_at": "2026-04-16T13:19:50-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/lamelo_ball_apologizes_for_dirty_foul_on_bam_adebayo/s1_13132_43731325",
-        "tags": []
-      }
-    ],
-    "summary": "LaMelo Ball apologizes for dirty foul on Bam Adebayo \u2014 Ball is facing criticism for a play that injured Bam Adebayo."
-  },
-  {
     "player_name": "Becomes President",
     "player_key": "becomes president",
     "team_name": null,
@@ -710,30 +744,6 @@
       }
     ],
     "summary": "Best Online Activities for Competitive NBA Fans \u2014 The best online activities for NBA fans mirror the habits that define serious basketball analysis. The strongest fits reward the same instincts behind reading BPM tables, tracking usage shifts, and reacting quickly to new information. The NBAstuffer audience spends time on referee assignments, efficiency splits, possession trends, and lineup contex"
-  },
-  {
-    "player_name": "Boston Celtics",
-    "player_key": "boston celtics",
-    "team_name": "Boston Celtics",
-    "team_key": "boston_celtics",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "a8513bfdfcca967a",
-        "source": "sportsnet_nba",
-        "title": "\u2018Can their will outweigh the Cavs?\u2019: Scalabrine on Raptors\u2019 series",
-        "blurb": "\u2018Can their will outweigh the Cavs?\u2019: Scalabrine on Raptors\u2019 series \u2014 Boston Celtics announcer Brian Scalabrine joins The Raptors Show and gives his thoughts on the Toronto Raptors and Cleveland Cavaliers opening round playoff series.",
-        "published_at": "2026-04-16T12:38:03-04:00",
-        "link": "",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "\u2018Can their will outweigh the Cavs?\u2019: Scalabrine on Raptors\u2019 series \u2014 Boston Celtics announcer Brian Scalabrine joins The Raptors Show and gives his thoughts on the Toronto Raptors and Cleveland Cavaliers opening round playoff series."
   },
   {
     "player_name": "Brad Fay",
@@ -796,70 +806,72 @@
     "summary": "UNC\u2019s Caleb Wilson declares for NBA Draft"
   },
   {
-    "player_name": "Chris Finch Says",
-    "player_key": "chris finch says",
-    "team_name": "Denver Nuggets",
-    "team_key": "denver_nuggets",
+    "player_name": "Caleb Wilson Officially",
+    "player_key": "caleb wilson officially",
+    "team_name": null,
+    "team_key": null,
     "news_count": 1,
     "tags": [
-      "injury",
-      "performance"
+      "injury"
     ],
     "items": [
       {
-        "news_id": "337b924a115338d9",
+        "news_id": "162b022372b2cb7b",
         "source": "realgm_wiretap",
-        "title": "Chris Finch Says Timberwolves Have To 'Flip' Switch Versus Nuggets",
-        "blurb": "Chris Finch Says Timberwolves Have To 'Flip' Switch Versus Nuggets \u2014 Head coach Chris Finch said that it's up to the Minnesota Timberwolves to turn on the \"switch\" ahead of their matchup against the Denver Nuggets in the first round of the playoffs. \"We know the team we can be and who we have been. It's about whether we can maintain that,\" Finch said. \"You don't ever really want to be a flip-the-s",
-        "published_at": "2026-04-16T02:13:23-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285128/Chris-Finch-Says-Timberwolves-Have-To-Flip-Switch-Versus-Nuggets",
+        "title": "Caleb Wilson Officially Declares For NBA Draft",
+        "blurb": "Caleb Wilson Officially Declares For NBA Draft \u2014 Caleb Wilson officially declared for the NBA Draft in a video statement on Monday. \"I am grateful for the opportunity I had to represent North Carolina,\" Wilson said. \"Wearing No. 8, running out of that historic tunnel every day for practice and games, and I'm happy to say every day I gave it my all.\" Wilson averaged 19.8 points and 9.4 rebounds in ",
+        "published_at": "2026-04-14T02:21:18-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285098/Caleb-Wilson-Officially-Declares-For-NBA-Draft",
         "tags": [
-          "injury",
-          "performance"
+          "injury"
         ]
       }
     ],
-    "summary": "Chris Finch Says Timberwolves Have To 'Flip' Switch Versus Nuggets \u2014 Head coach Chris Finch said that it's up to the Minnesota Timberwolves to turn on the \"switch\" ahead of their matchup against the Denver Nuggets in the first round of the playoffs. \"We know the team we can be and who we have been. It's about whether we can maintain that,\" Finch said. \"You don't ever really want to be a flip-the-s"
+    "summary": "Caleb Wilson Officially Declares For NBA Draft \u2014 Caleb Wilson officially declared for the NBA Draft in a video statement on Monday. \"I am grateful for the opportunity I had to represent North Carolina,\" Wilson said. \"Wearing No. 8, running out of that historic tunnel every day for practice and games, and I'm happy to say every day I gave it my all.\" Wilson averaged 19.8 points and 9.4 rebounds in "
   },
   {
-    "player_name": "Chris Paul",
-    "player_key": "chris paul",
+    "player_name": "Cavaliers Sportsnet",
+    "player_key": "cavaliers sportsnet",
+    "team_name": "Cleveland Cavaliers",
+    "team_key": "cleveland_cavaliers",
+    "news_count": 1,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "5a44f217a95f35ae",
+        "source": "sportsnet_nba",
+        "title": "Breaking down the Raptors\u2019 first-round series against the Cavaliers",
+        "blurb": "Breaking down the Raptors\u2019 first-round series against the Cavaliers \u2014 Sportsnet&#8217;s Danielle Michaud and Michael Grange discuss the Toronto Raptors&#8217; first-round matchup against the Cleveland Cavaliers, what the keys are for the Raptors, and what Scottie Barnes and RJ Barrett feel about the series.",
+        "published_at": "2026-04-15T16:45:47-04:00",
+        "link": "",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Breaking down the Raptors\u2019 first-round series against the Cavaliers \u2014 Sportsnet&#8217;s Danielle Michaud and Michael Grange discuss the Toronto Raptors&#8217; first-round matchup against the Cleveland Cavaliers, what the keys are for the Raptors, and what Scottie Barnes and RJ Barrett feel about the series."
+  },
+  {
+    "player_name": "Clippers Stephen Curry",
+    "player_key": "clippers stephen curry",
     "team_name": "Los Angeles Clippers",
     "team_key": "los_angeles_clippers",
     "news_count": 1,
     "tags": [],
     "items": [
       {
-        "news_id": "392620ec588fe284",
-        "source": "yardbarker_nba",
-        "title": "Chris Paul had the pettiest social media post after Clippers got eliminated",
-        "blurb": "Chris Paul had the pettiest social media post after Clippers got eliminated \u2014 It is safe to say that the bridge between Chris Paul and the L.A. Clippers has been burnt to a crisp.",
-        "published_at": "2026-04-16T13:19:32-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/chris_paul_had_the_pettiest_social_media_post_after_clippers_got_eliminated/s1_127_43734382",
-        "tags": []
-      }
-    ],
-    "summary": "Chris Paul had the pettiest social media post after Clippers got eliminated \u2014 It is safe to say that the bridge between Chris Paul and the L.A. Clippers has been burnt to a crisp."
-  },
-  {
-    "player_name": "Clippers Stephen Curry",
-    "player_key": "clippers stephen curry",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "a5c7438cfb853aa3",
+        "news_id": "9be02a64053fe81a",
         "source": "sportsnet_nba",
         "title": "Warriors keep season alive with play-in victory over Clippers",
-        "blurb": "Warriors keep season alive with play-in victory over Clippers \u2014 Stephen Curry hit seven three-pointers while scoring 35 points, holding every fan at Intuit Dome in his thrall with another dazzling display of his unmatched shooting skill.",
+        "blurb": "Warriors keep season alive with play-in victory over Clippers \u2014 Stephen Curry scored 27 of his 35 points in the second half, Al Horford hit four three-pointers during Golden State&#8217;s electrifying fourth-quarter comeback, and the Warriors advanced in the NBA\u2019s play-in tournament with a 126-121 victory over the Los Angeles Clippers on Wednesday night.",
         "published_at": "2026-04-16T00:48:42-04:00",
         "link": "",
         "tags": []
       }
     ],
-    "summary": "Warriors keep season alive with play-in victory over Clippers \u2014 Stephen Curry hit seven three-pointers while scoring 35 points, holding every fan at Intuit Dome in his thrall with another dazzling display of his unmatched shooting skill."
+    "summary": "Warriors keep season alive with play-in victory over Clippers \u2014 Stephen Curry scored 27 of his 35 points in the second half, Al Horford hit four three-pointers during Golden State&#8217;s electrifying fourth-quarter comeback, and the Warriors advanced in the NBA\u2019s play-in tournament with a 126-121 victory over the Los Angeles Clippers on Wednesday night."
   },
   {
     "player_name": "Dallas Mavericks Are",
@@ -888,56 +900,24 @@
     "summary": "Why the Dallas Mavericks Are the Frontrunner to Land LeBron James \u2014 The NBA offseason is heating up, and the buzz is undeniable: LeBron James might be on the move. At nearly 41 and entering the final year of his massive contract, rumblings suggest tension with the Lakers organization\u2014setting the stage for a potential blockbuster trade. Among the teams showing interest, one stands out: the Dallas M"
   },
   {
-    "player_name": "Darius Garland",
-    "player_key": "darius garland",
-    "team_name": "Cleveland Cavaliers",
-    "team_key": "cleveland_cavaliers",
+    "player_name": "Devin Booker",
+    "player_key": "devin booker",
+    "team_name": "Phoenix Suns",
+    "team_key": "phoenix_suns",
     "news_count": 1,
-    "tags": [
-      "injury",
-      "starting",
-      "trade"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "08a684d3ba0c4459",
-        "source": "realgm_wiretap",
-        "title": "Darius Garland, Ty Lue Only Members Of Clippers Certain To Return Next Season",
-        "blurb": "Darius Garland, Ty Lue Only Members Of Clippers Certain To Return Next Season \u2014 Tyronn Lue and Darius Garland are the only two confirmed pieces of the Los Angeles Clippers' future following their play-in elimination loss to the Golden State Warriors, as the franchise heads into an offseason clouded by roster uncertainty and an ongoing NBA investigation. Lue is under contract as head coach through ",
-        "published_at": "2026-04-16T22:31:46-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285148/Darius-Garland-Ty-Lue-Only-Members-Of-Clippers-Certain-To-Return-Next-Season",
-        "tags": [
-          "injury",
-          "starting",
-          "trade"
-        ]
+        "news_id": "58b3f1dd23bf5a99",
+        "source": "yardbarker_nba",
+        "title": "Suns' play-in loss highlights worrying Devin Booker trend",
+        "blurb": "Suns' play-in loss highlights worrying Devin Booker trend \u2014 The Phoenix Suns dropped their play-in game to the Portland Trail Blazers Tuesday night in part because Portland made almost twice as many three-point shots. The 114-110 loss forced the Suns into an elimination game on Friday and exposed an issue with the team's biggest star.",
+        "published_at": "2026-04-15T18:01:45-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/suns_play_in_loss_highlights_worrying_devin_booker_trend/s1_13132_43733329",
+        "tags": []
       }
     ],
-    "summary": "Darius Garland, Ty Lue Only Members Of Clippers Certain To Return Next Season \u2014 Tyronn Lue and Darius Garland are the only two confirmed pieces of the Los Angeles Clippers' future following their play-in elimination loss to the Golden State Warriors, as the franchise heads into an offseason clouded by roster uncertainty and an ongoing NBA investigation. Lue is under contract as head coach through "
-  },
-  {
-    "player_name": "Deni Avdija",
-    "player_key": "deni avdija",
-    "team_name": "Denver Nuggets",
-    "team_key": "denver_nuggets",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "497e938996cca88b",
-        "source": "realgm_wiretap",
-        "title": "Deni Avdija's 41 Points Leads Blazers Back To Playoffs For First Time Since 2021",
-        "blurb": "Deni Avdija's 41 Points Leads Blazers Back To Playoffs For First Time Since 2021 \u2014 Deni Avdija scored 41 points to go with 12 assists and seven rebounds in the Portland Trail Blazers' 114-110 win at the Phoenix Suns to clinch the No. 7 seed in the Western Conference Playoffs. The Blazers hadn't reached the playoffs since 2021 when they were eliminated in the first round by the Denver Nuggets in si",
-        "published_at": "2026-04-15T11:46:17-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285116/Deni-Avdijas-41-Points-Leads-Blazers-Back-To-Playoffs-For-First-Time-Since-2021",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Deni Avdija's 41 Points Leads Blazers Back To Playoffs For First Time Since 2021 \u2014 Deni Avdija scored 41 points to go with 12 assists and seven rebounds in the Portland Trail Blazers' 114-110 win at the Phoenix Suns to clinch the No. 7 seed in the Western Conference Playoffs. The Blazers hadn't reached the playoffs since 2021 when they were eliminated in the first round by the Denver Nuggets in si"
+    "summary": "Suns' play-in loss highlights worrying Devin Booker trend \u2014 The Phoenix Suns dropped their play-in game to the Portland Trail Blazers Tuesday night in part because Portland made almost twice as many three-point shots. The 114-110 loss forced the Suns into an elimination game on Friday and exposed an issue with the team's biggest star."
   },
   {
     "player_name": "Devin Booker Signs",
@@ -986,30 +966,24 @@
     "summary": "Doc Rivers steps down as Bucks head coach \u2014 Doc Rivers will be departing as the Bucks&#8217; bench boss following a 32-50 season that saw them miss the playoffs, ESPN&#8217;s Shams Charania reported on Sunday."
   },
   {
-    "player_name": "Donovan Mitchell Hopes",
-    "player_key": "donovan mitchell hopes",
-    "team_name": "Cleveland Cavaliers",
-    "team_key": "cleveland_cavaliers",
+    "player_name": "Doug Christie",
+    "player_key": "doug christie",
+    "team_name": "Sacramento Kings",
+    "team_key": "sacramento_kings",
     "news_count": 1,
-    "tags": [
-      "injury",
-      "performance"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "f45d0243023e4c4c",
-        "source": "realgm_wiretap",
-        "title": "Donovan Mitchell Hopes To Play With Cavaliers 'For As Long As He Can'",
-        "blurb": "Donovan Mitchell Hopes To Play With Cavaliers 'For As Long As He Can' \u2014 Donovan Mitchell is excited about the Cleveland Cavaliers potential heading into the 2026 NBA Playoffs. Mitchell has been enthused about his backcourt partnership with James Harden. He hopes they can fuel a deep postseason run and success beyond this year. When asked if anything has changed with how he might feel about signing",
-        "published_at": "2026-04-16T09:40:17-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285132/Donovan-Mitchell-Hopes-To-Play-With-Cavaliers-For-As-Long-As-He-Can",
-        "tags": [
-          "injury",
-          "performance"
-        ]
+        "news_id": "6bd112196d8665a4",
+        "source": "sportsnet_nba",
+        "title": "AP Source: Kings to bring back coach Doug Christie for second full season",
+        "blurb": "AP Source: Kings to bring back coach Doug Christie for second full season",
+        "published_at": "2026-04-12T14:22:51-04:00",
+        "link": "",
+        "tags": []
       }
     ],
-    "summary": "Donovan Mitchell Hopes To Play With Cavaliers 'For As Long As He Can' \u2014 Donovan Mitchell is excited about the Cleveland Cavaliers potential heading into the 2026 NBA Playoffs. Mitchell has been enthused about his backcourt partnership with James Harden. He hopes they can fuel a deep postseason run and success beyond this year. When asked if anything has changed with how he might feel about signing"
+    "summary": "AP Source: Kings to bring back coach Doug Christie for second full season"
   },
   {
     "player_name": "Draft Set For",
@@ -1056,30 +1030,6 @@
     "summary": "Warriors\u2019 Green comes up clutch with steals on back-to-back possessions \u2014 Watch as Draymond Green comes up clutch for the Warriors with incredible effort plays to force steals on back-to-back possessions in their play-in game against the Clippers."
   },
   {
-    "player_name": "Duncan The Playoff",
-    "player_key": "duncan the playoff",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "132476c0100ba89e",
-        "source": "realgm_wiretap",
-        "title": "Hollinger & Duncan The Playoff Crucible Outlook 2026",
-        "blurb": "Hollinger & Duncan The Playoff Crucible Outlook 2026 \u2014 John and Nate look ahead to the playoffs, picking all 4 rounds and the eventual champions. Plus, they pick their: Most interesting series Least interesting series Best Individual Matchup Star player with the toughest matchup Star player with the easiest matchup Best coaching matchup Biggest coaching mismatch Series with the most variables Rota",
-        "published_at": "2026-04-16T22:03:22-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285147/Hollinger-Duncan-The-Playoff-Crucible-Outlook-2026",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Hollinger & Duncan The Playoff Crucible Outlook 2026 \u2014 John and Nate look ahead to the playoffs, picking all 4 rounds and the eventual champions. Plus, they pick their: Most interesting series Least interesting series Best Individual Matchup Star player with the toughest matchup Star player with the easiest matchup Best coaching matchup Biggest coaching mismatch Series with the most variables Rota"
-  },
-  {
     "player_name": "Dylan Harper Outshines",
     "player_key": "dylan harper outshines",
     "team_name": "Dallas Mavericks",
@@ -1102,6 +1052,26 @@
       }
     ],
     "summary": "Dylan Harper Outshines Cooper Flagg in Summer League Showdown \u2014 The highly anticipated duel between the No. 1 and No. 2 picks in the 2025 NBA Draft took place at the Thomas &#038; Mack Center in Las Vegas\u2014and it delivered. Despite a 31-point performance by Cooper Flagg of the Dallas Mavericks, it was Dylan Harper of the San Antonio Spurs who claimed the early bragging [&#8230;] The post Dylan Harp"
+  },
+  {
+    "player_name": "Dylan Mingo Decommits",
+    "player_key": "dylan mingo decommits",
+    "team_name": null,
+    "team_key": null,
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "f3f67e08b1e1c35e",
+        "source": "realgm_wiretap",
+        "title": "Dylan Mingo Decommits From North Carolina",
+        "blurb": "Dylan Mingo Decommits From North Carolina \u2014 Five-star prospect Dylan Mingo decommitted from North Carolina on Monday. Mingo had initially committed to the program under Hubert Davis, who was fired following the season. UNC hired Michael Malone earlier this month. Mingo picked the Tar Heels over Baylor, Penn State and Washington, but he is expected to consider other programs. Mingo is ranked ranked",
+        "published_at": "2026-04-14T02:25:30-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285099/Dylan-Mingo-Decommits-From-North-Carolina",
+        "tags": []
+      }
+    ],
+    "summary": "Dylan Mingo Decommits From North Carolina \u2014 Five-star prospect Dylan Mingo decommitted from North Carolina on Monday. Mingo had initially committed to the program under Hubert Davis, who was fired following the season. UNC hired Michael Malone earlier this month. Mingo picked the Tar Heels over Baylor, Penn State and Washington, but he is expected to consider other programs. Mingo is ranked ranked"
   },
   {
     "player_name": "Erik Spoelstra Says",
@@ -1148,26 +1118,6 @@
     "summary": "Final Four Predictions: Who Wins Saturday and Who Reaches the National Championship Game? \u2014 The Final Four is finally here, and this year\u2019s field feels less like a bracket surprise and more like a collision of heavyweights. UConn vs. Illinois. Michigan vs. Arizona. Four teams, four different paths, and two tickets to Monday night. There is no Cinderella left standing. What remains is size, shot-ma"
   },
   {
-    "player_name": "Five Raptors",
-    "player_key": "five raptors",
-    "team_name": "Toronto Raptors",
-    "team_key": "toronto_raptors",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "6b6d8f9ae2dd8a10",
-        "source": "sportsnet_nba",
-        "title": "Five Raptors stat trends to watch going into the playoffs",
-        "blurb": "Five Raptors stat trends to watch going into the playoffs \u2014 The Raptors took serious strides on the way to their first playoff berth in four years. Ian Finlayson breaks down the stats that will define their post-season push.",
-        "published_at": "2026-04-16T12:17:06-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Five Raptors stat trends to watch going into the playoffs \u2014 The Raptors took serious strides on the way to their first playoff berth in four years. Ian Finlayson breaks down the stats that will define their post-season push."
-  },
-  {
     "player_name": "Get Your Latest",
     "player_key": "get your latest",
     "team_name": null,
@@ -1176,11 +1126,11 @@
     "tags": [],
     "items": [
       {
-        "news_id": "7ea0e1e9926d86a0",
+        "news_id": "f27607660609b1fa",
         "source": "realgm_wiretap",
         "title": "Get Your Latest NBA News From RealGM's Basketball Wiretap",
         "blurb": "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap.",
-        "published_at": "2026-04-17T01:17:01-04:00",
+        "published_at": "2026-04-16T01:17:01-04:00",
         "link": "https://basketball.realgm.com/news",
         "tags": []
       }
@@ -1188,78 +1138,48 @@
     "summary": "Get Your Latest NBA News From RealGM's Basketball Wiretap \u2014 Get all the latest news and happenings from around the NBA with RealGM's Basketball Wiretap."
   },
   {
-    "player_name": "Golden State",
-    "player_key": "golden state",
-    "team_name": "Boston Celtics",
-    "team_key": "boston_celtics",
+    "player_name": "Giannis Antetokounmpo",
+    "player_key": "giannis antetokounmpo",
+    "team_name": "Milwaukee Bucks",
+    "team_key": "milwaukee_bucks",
     "news_count": 1,
-    "tags": [
-      "injury"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "0a9bef4eb5464c09",
-        "source": "realgm_wiretap",
-        "title": "Dunc'd On: GSW @ LAC; ORL @ PHI",
-        "blurb": "Dunc'd On: GSW @ LAC; ORL @ PHI \u2014 Another fantastic night of play-in drama as the old lions for Golden State summon their powers one more time to take down Kawhi and the Clippers. We break down how Draymond Green and Stephen Curry put together virtuoso performances. We catch up on the latest news, including LaMelo Ball's light punishment, then break down how the Sixers moved on to face the Celtics",
-        "published_at": "2026-04-16T10:53:43-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285136/Duncd-On-GSW-@-LAC;-ORL-@-PHI",
-        "tags": [
-          "injury"
-        ]
+        "news_id": "e1f98229a3514fc7",
+        "source": "sportsnet_nba",
+        "title": "Giannis Antetokounmpo: \u2018Disrespectful\u2019 to be benched by Bucks in final weeks",
+        "blurb": "Giannis Antetokounmpo: \u2018Disrespectful\u2019 to be benched by Bucks in final weeks \u2014 Giannis Antetokounmpo said it was \u201cdisrespectful\u201d for Milwaukee to bench him over the final weeks of the season while he said he was healthy enough to play, a stinging rebuke of the franchise as he enters a stay-or-leave off-season.",
+        "published_at": "2026-04-12T22:19:39-04:00",
+        "link": "",
+        "tags": []
       }
     ],
-    "summary": "Dunc'd On: GSW @ LAC; ORL @ PHI \u2014 Another fantastic night of play-in drama as the old lions for Golden State summon their powers one more time to take down Kawhi and the Clippers. We break down how Draymond Green and Stephen Curry put together virtuoso performances. We catch up on the latest news, including LaMelo Ball's light punishment, then break down how the Sixers moved on to face the Celtics"
+    "summary": "Giannis Antetokounmpo: \u2018Disrespectful\u2019 to be benched by Bucks in final weeks \u2014 Giannis Antetokounmpo said it was \u201cdisrespectful\u201d for Milwaukee to bench him over the final weeks of the season while he said he was healthy enough to play, a stinging rebuke of the franchise as he enters a stay-or-leave off-season."
   },
   {
-    "player_name": "Grayson Allen",
-    "player_key": "grayson allen",
-    "team_name": null,
-    "team_key": null,
+    "player_name": "Giannis Antetokounmpo The",
+    "player_key": "giannis antetokounmpo the",
+    "team_name": "Miami Heat",
+    "team_key": "miami_heat",
     "news_count": 1,
     "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "89fd6f7f5dc247b5",
-        "source": "rotowire",
-        "title": "Grayson Allen: Game-time call for Friday",
-        "blurb": "Grayson Allen: Game-time call for Friday \u2014 Allen (hamstring) is questionable for Friday's Play-In Tournament game against the Warriors. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-16T05:25:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/grayson-allen-4454",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Grayson Allen: Game-time call for Friday \u2014 Allen (hamstring) is questionable for Friday's Play-In Tournament game against the Warriors. Visit RotoWire.com for more analysis on this update."
-  },
-  {
-    "player_name": "Grizzlies Expected To",
-    "player_key": "grizzlies expected to",
-    "team_name": "Memphis Grizzlies",
-    "team_key": "memphis_grizzlies",
-    "news_count": 1,
-    "tags": [
-      "injury",
       "trade"
     ],
     "items": [
       {
-        "news_id": "2b99199a7d18c2eb",
-        "source": "realgm_wiretap",
-        "title": "Grizzlies Expected To Have Wider Market For Ja Morant This Summer",
-        "blurb": "Grizzlies Expected To Have Wider Market For Ja Morant This Summer \u2014 The Memphis Grizzlies are expected to re-engage teams in trade talks involving star point guard Ja Morant this offseason. Executives around the league believe Memphis will find a wider market for Morant this summer, but that the Grizzlies shouldn't expect to get much value in return. Memphis did well to acquire seven first-round p",
-        "published_at": "2026-04-16T09:55:03-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285134/Grizzlies-Expected-To-Have-Wider-Market-For-Ja-Morant-This-Summer",
+        "news_id": "d5343bfcc1116ada",
+        "source": "yardbarker_nba",
+        "title": "One factor that could impact Heat trade for Giannis Antetokounmpo",
+        "blurb": "One factor that could impact Heat trade for Giannis Antetokounmpo \u2014 The Heat are expected to pursue Antetokounmpo, but one factor may determine their ability to land the star.",
+        "published_at": "2026-04-15T10:06:35-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/one_factor_that_could_impact_heat_trade_for_giannis_antetokounmpo/s1_13132_43731450",
         "tags": [
-          "injury",
           "trade"
         ]
       }
     ],
-    "summary": "Grizzlies Expected To Have Wider Market For Ja Morant This Summer \u2014 The Memphis Grizzlies are expected to re-engage teams in trade talks involving star point guard Ja Morant this offseason. Executives around the league believe Memphis will find a wider market for Morant this summer, but that the Grizzlies shouldn't expect to get much value in return. Memphis did well to acquire seven first-round p"
+    "summary": "One factor that could impact Heat trade for Giannis Antetokounmpo \u2014 The Heat are expected to pursue Antetokounmpo, but one factor may determine their ability to land the star."
   },
   {
     "player_name": "Grizzlies Rookie Is",
@@ -1286,24 +1206,24 @@
     "summary": "Grizzlies Rookie Is Emerging As \u2018Bright Spot\u2019 This Season \u2014 &#160; The NBA season has certainly presented the Memphis Grizzlies with challenges so far, but it&#8217;s also shown them a few things to be excited about. For example, they have a promising young rookie who could be someone special for years to come. Writing on social media, Keith Smith praised Cedric Coward, a 22-year-old guard [&#8230"
   },
   {
-    "player_name": "How Collin Murray-",
-    "player_key": "how collin murray",
-    "team_name": null,
-    "team_key": null,
+    "player_name": "How Barnes",
+    "player_key": "how barnes",
+    "team_name": "Toronto Raptors",
+    "team_key": "toronto_raptors",
     "news_count": 1,
     "tags": [],
     "items": [
       {
-        "news_id": "9907a073c1e503ee",
+        "news_id": "805100b3e83221a2",
         "source": "sportsnet_nba",
-        "title": "How Collin Murray-Boyles can adjust his game to guard any player on the court",
-        "blurb": "How Collin Murray-Boyles can adjust his game to guard any player on the court \u2014 Sportsnet\u2019s Danielle Michaud and Michael Grange discuss how Scottie Barnes can take the next step in the playoffs, and how Collin Murray-Boyles has the versatility to defend players across the court.",
-        "published_at": "2026-04-16T15:06:10-04:00",
+        "title": "How Barnes\u2019 leadership helped Raptors to unlikely fifth seed",
+        "blurb": "How Barnes\u2019 leadership helped Raptors to unlikely fifth seed \u2014 Brad Fay, Sherman Hamilton, and Matt Bonner discuss the playoff picture in the NBA&#8217;s Eastern Conference and explain how the leadership from Toronto Raptors forward Scottie Barnes helped his team secure the fifth seed in the playoffs on the final day.",
+        "published_at": "2026-04-12T21:02:09-04:00",
         "link": "",
         "tags": []
       }
     ],
-    "summary": "How Collin Murray-Boyles can adjust his game to guard any player on the court \u2014 Sportsnet\u2019s Danielle Michaud and Michael Grange discuss how Scottie Barnes can take the next step in the playoffs, and how Collin Murray-Boyles has the versatility to defend players across the court."
+    "summary": "How Barnes\u2019 leadership helped Raptors to unlikely fifth seed \u2014 Brad Fay, Sherman Hamilton, and Matt Bonner discuss the playoff picture in the NBA&#8217;s Eastern Conference and explain how the leadership from Toronto Raptors forward Scottie Barnes helped his team secure the fifth seed in the playoffs on the final day."
   },
   {
     "player_name": "How Digital Culture",
@@ -1350,26 +1270,6 @@
     "summary": "How Quickley\u2019s injury could be big factor in deciding Raptors vs. Cavaliers \u2014 The Raptors Show hosts Matt Bonner and Blake Murphy discuss the significance of Immanuel Quickley&#8217;s injury and how it will affect the Toronto Raptors as they head into their matchup against the Cleveland Cavaliers."
   },
   {
-    "player_name": "How Raptors",
-    "player_key": "how raptors",
-    "team_name": "Toronto Raptors",
-    "team_key": "toronto_raptors",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "06e52be5f7cf5dd9",
-        "source": "sportsnet_nba",
-        "title": "How Raptors\u2019 Walter is vital to stingy team defence against Cavaliers",
-        "blurb": "How Raptors\u2019 Walter is vital to stingy team defence against Cavaliers \u2014 Blake Murphy, Matt Bonner, and Michael Grange on The Raptors Show detail the emergence of Toronto Raptors guard Ja&#8217;Kobe Walter and how his role defensively in guarding stars James Harden and Donovan Mitchell will be crucial in their playoff matchup.",
-        "published_at": "2026-04-16T12:03:09-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "How Raptors\u2019 Walter is vital to stingy team defence against Cavaliers \u2014 Blake Murphy, Matt Bonner, and Michael Grange on The Raptors Show detail the emergence of Toronto Raptors guard Ja&#8217;Kobe Walter and how his role defensively in guarding stars James Harden and Donovan Mitchell will be crucial in their playoff matchup."
-  },
-  {
     "player_name": "Immanuel Quickley",
     "player_key": "immanuel quickley",
     "team_name": null,
@@ -1390,30 +1290,44 @@
     "summary": "Raptors\u2019 Immanuel Quickley day-to-day with mild hamstring strain"
   },
   {
-    "player_name": "In Active Talks",
-    "player_key": "in active talks",
+    "player_name": "In Snapshots",
+    "player_key": "in snapshots",
     "team_name": null,
     "team_key": null,
     "news_count": 1,
-    "tags": [
-      "injury",
-      "trade"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "a02aed2394fde716",
+        "news_id": "7b5258b168e06420",
         "source": "realgm_wiretap",
-        "title": "NBA In Active Talks With Kalshi, Polymarket On Prediction Market Deal",
-        "blurb": "NBA In Active Talks With Kalshi, Polymarket On Prediction Market Deal \u2014 The NBA is in active discussions with prediction market platforms Kalshi and Polymarket about a potential partnership deal, with talks gaining significant momentum in recent months, multiple sources familiar with the matter told Front Office Sports. Informal discussions have been underway for more than a year, but accelerated ",
-        "published_at": "2026-04-16T13:41:53-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285146/NBA-In-Active-Talks-With-Kalshi-Polymarket-On-Prediction-Market-Deal",
-        "tags": [
-          "injury",
-          "trade"
-        ]
+        "title": "2026 NBA Play-In Snapshots (April 14): Hornets/Heat, Blazers/Suns",
+        "blurb": "2026 NBA Play-In Snapshots (April 14): Hornets/Heat, Blazers/Suns \u2014 What happened in two snapshots in the NBA Play-In on Tuesday, April 14, 2026.",
+        "published_at": "2026-04-15T09:32:40-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285114/2026-NBA-Play-In-Snapshots-April-14-Hornets-Heat-Blazers-Suns",
+        "tags": []
       }
     ],
-    "summary": "NBA In Active Talks With Kalshi, Polymarket On Prediction Market Deal \u2014 The NBA is in active discussions with prediction market platforms Kalshi and Polymarket about a potential partnership deal, with talks gaining significant momentum in recent months, multiple sources familiar with the matter told Front Office Sports. Informal discussions have been underway for more than a year, but accelerated "
+    "summary": "2026 NBA Play-In Snapshots (April 14): Hornets/Heat, Blazers/Suns \u2014 What happened in two snapshots in the NBA Play-In on Tuesday, April 14, 2026."
+  },
+  {
+    "player_name": "In Tournament The",
+    "player_key": "in tournament the",
+    "team_name": "Golden State Warriors",
+    "team_key": "golden_state_warriors",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "0d463387acb6c9d5",
+        "source": "sportsnet_nba",
+        "title": "What to expect from Wednesday\u2019s Leonard-Curry clash in Play-In Tournament",
+        "blurb": "What to expect from Wednesday\u2019s Leonard-Curry clash in Play-In Tournament \u2014 The Athletic&#8217;s Law Murray joins The Raptors Show and gives his thoughts on the Play-In Tournament matchup between the Los Angeles Clippers and Golden State Warriors that will see two all-time greats in Kawhi Leonard and Stephen Curry go head-to-head.",
+        "published_at": "2026-04-15T12:28:29-04:00",
+        "link": "",
+        "tags": []
+      }
+    ],
+    "summary": "What to expect from Wednesday\u2019s Leonard-Curry clash in Play-In Tournament \u2014 The Athletic&#8217;s Law Murray joins The Raptors Show and gives his thoughts on the Play-In Tournament matchup between the Los Angeles Clippers and Golden State Warriors that will see two all-time greats in Kawhi Leonard and Stephen Curry go head-to-head."
   },
   {
     "player_name": "Insider Links Warriors",
@@ -1484,30 +1398,6 @@
       }
     ],
     "summary": "NBA Insider Raises Questions About Bulls\u2019 Trade Deadline Plans \u2014 &#160; The Chicago Bulls opened the 2025 season with a 7-6 record that positioned them eighth in the Eastern Conference standings. That early performance generated speculation about potential roster changes despite the trade deadline remaining months away. Recent struggles have shifted the conversation around the organization&#8217;s"
-  },
-  {
-    "player_name": "Ja Morant Has",
-    "player_key": "ja morant has",
-    "team_name": "Los Angeles Lakers",
-    "team_key": "los_angeles_lakers",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "5bceca5efff099dc",
-        "source": "realgm_wiretap",
-        "title": "Ja Morant Has Informed Players, Former Coaches He's Done Playing For Grizzlies",
-        "blurb": "Ja Morant Has Informed Players, Former Coaches He's Done Playing For Grizzlies \u2014 Ja Morant has privately told players around the league and some of his former coaches that he is no longer willing to play for the Memphis Grizzlies, multiple league sources told ESPN. The breaking point traces directly to a one-game suspension Morant received early in the season following a locker room confrontation ",
-        "published_at": "2026-04-16T12:05:49-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285140/Ja-Morant-Has-Informed-Players-Former-Coaches-Hes-Done-Playing-For-Grizzlies",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Ja Morant Has Informed Players, Former Coaches He's Done Playing For Grizzlies \u2014 Ja Morant has privately told players around the league and some of his former coaches that he is no longer willing to play for the Memphis Grizzlies, multiple league sources told ESPN. The breaking point traces directly to a one-game suspension Morant received early in the season following a locker room confrontation "
   },
   {
     "player_name": "Jamal Shead",
@@ -1594,50 +1484,6 @@
     "summary": "LeBron James Made NBA History On Tuesday \u2014 &#160; The NBA season has been going on for about a month now, but Tuesday night was the first time that LeBron James of the Los Angeles Lakers played. The 40-year-old four-time champion was finally healed from his injury and ready to play, although there were concerns about how well he&#8217;d do. No matter what, [&#8230;] The post LeBron James Made NBA "
   },
   {
-    "player_name": "Jock Landale",
-    "player_key": "jock landale",
-    "team_name": "Atlanta Hawks",
-    "team_key": "atlanta_hawks",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "1be4659bf862b571",
-        "source": "rotowire",
-        "title": "Jock Landale: Out at least two more weeks",
-        "blurb": "Jock Landale: Out at least two more weeks \u2014 The Hawks announced Thursday that Landale (ankle) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-16T07:10:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/jock-landale-4562",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Jock Landale: Out at least two more weeks \u2014 The Hawks announced Thursday that Landale (ankle) is progressing in his rehabilitation and will be re-evaluated in approximately two weeks. Visit RotoWire.com for more analysis on this update."
-  },
-  {
-    "player_name": "Joel Embiid",
-    "player_key": "joel embiid",
-    "team_name": null,
-    "team_key": null,
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "931aaf1a32b1f28a",
-        "source": "rotowire",
-        "title": "Joel Embiid: Likely to miss start of playoffs",
-        "blurb": "Joel Embiid: Likely to miss start of playoffs \u2014 ESPN's Shams Charania reported Thursday on NBA Today that Embiid (abdomen) isn't expected to be available for the start of the playoffs. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-16T12:45:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/joel-embiid-3572",
-        "tags": []
-      }
-    ],
-    "summary": "Joel Embiid: Likely to miss start of playoffs \u2014 ESPN's Shams Charania reported Thursday on NBA Today that Embiid (abdomen) isn't expected to be available for the start of the playoffs. Visit RotoWire.com for more analysis on this update."
-  },
-  {
     "player_name": "June The",
     "player_key": "june the",
     "team_name": null,
@@ -1658,30 +1504,24 @@
     "summary": "NBA sets 2026 draft dates for late June \u2014 The 2026 NBA Draft will take place on June 23 and 24 at the Barclays Center in Brooklyn, N.Y., the league announced Tuesday."
   },
   {
-    "player_name": "Kawhi Leonard Defers",
-    "player_key": "kawhi leonard defers",
-    "team_name": "Los Angeles Clippers",
-    "team_key": "los_angeles_clippers",
+    "player_name": "Kawhi Leonard",
+    "player_key": "kawhi leonard",
+    "team_name": null,
+    "team_key": null,
     "news_count": 1,
-    "tags": [
-      "injury",
-      "trade"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "a9aee4dd96135140",
-        "source": "realgm_wiretap",
-        "title": "Kawhi Leonard Defers On Clippers Future As Contract Extension Window Approaches",
-        "blurb": "Kawhi Leonard Defers On Clippers Future As Contract Extension Window Approaches \u2014 Kawhi Leonard declined to address his future with the Los Angeles Clippers following Wednesday's season-ending play-in loss to Golden State, entering an offseason that carries significant uncertainty both contractually and legally. \"Let me cry about this loss a little bit more,\" Leonard said when asked whether he cou",
-        "published_at": "2026-04-16T07:21:42-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285131/Kawhi-Leonard-Defers-On-Clippers-Future-As-Contract-Extension-Window-Approaches",
-        "tags": [
-          "injury",
-          "trade"
-        ]
+        "news_id": "40ed4efae1b0932c",
+        "source": "sportsnet_nba",
+        "title": "Clippers\u2019 Leonard gets around Warriors\u2019 Podziemski for two-handed slam",
+        "blurb": "Clippers\u2019 Leonard gets around Warriors\u2019 Podziemski for two-handed slam \u2014 Watch as Kawhi Leonard pushes up the court and gets around Brandin Podziemski for the easy two-handed slam against the Warriors.",
+        "published_at": "2026-04-15T23:51:46-04:00",
+        "link": "",
+        "tags": []
       }
     ],
-    "summary": "Kawhi Leonard Defers On Clippers Future As Contract Extension Window Approaches \u2014 Kawhi Leonard declined to address his future with the Los Angeles Clippers following Wednesday's season-ending play-in loss to Golden State, entering an offseason that carries significant uncertainty both contractually and legally. \"Let me cry about this loss a little bit more,\" Leonard said when asked whether he cou"
+    "summary": "Clippers\u2019 Leonard gets around Warriors\u2019 Podziemski for two-handed slam \u2014 Watch as Kawhi Leonard pushes up the court and gets around Brandin Podziemski for the easy two-handed slam against the Warriors."
   },
   {
     "player_name": "Kenny Atkinson",
@@ -1704,26 +1544,6 @@
     "summary": "Cavaliers\u2019 Kenny Atkinson: It\u2019ll be \u2018no picnic\u2019 playing Raptors in Round 1 \u2014 Kenny Atkinson shared some high praise for his team&#8217;s first-round opponent on Tuesday."
   },
   {
-    "player_name": "Kevin Durant",
-    "player_key": "kevin durant",
-    "team_name": "Houston Rockets",
-    "team_key": "houston_rockets",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "abe8daf79b3c9806",
-        "source": "yardbarker_nba",
-        "title": "At 37, Rockets superstar Kevin Durant still belongs on All-NBA first team",
-        "blurb": "At 37, Rockets superstar Kevin Durant still belongs on All-NBA first team \u2014 At 37, Kevin Durant continues to defy time. In his first season with the Houston Rockets, the veteran forward delivered another elite campaign, proving he remains one of the most unstoppable scorers in NBA history.",
-        "published_at": "2026-04-16T13:19:38-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/at_37_rockets_superstar_kevin_durant_still_belongs_on_all_nba_first_team/s1_13132_43723902",
-        "tags": []
-      }
-    ],
-    "summary": "At 37, Rockets superstar Kevin Durant still belongs on All-NBA first team \u2014 At 37, Kevin Durant continues to defy time. In his first season with the Houston Rockets, the veteran forward delivered another elite campaign, proving he remains one of the most unstoppable scorers in NBA history."
-  },
-  {
     "player_name": "Kings Weekly Podcast",
     "player_key": "kings weekly podcast",
     "team_name": "Sacramento Kings",
@@ -1744,96 +1564,68 @@
     "summary": "Kings Weekly Podcast \u2014 Rookie Report Part Three: Dylan Cardwell"
   },
   {
-    "player_name": "Kobe Walter",
-    "player_key": "kobe walter",
-    "team_name": "Toronto Raptors",
-    "team_key": "toronto_raptors",
+    "player_name": "Luka Doncic Returning",
+    "player_key": "luka doncic returning",
+    "team_name": "Dallas Mavericks",
+    "team_key": "dallas_mavericks",
     "news_count": 1,
     "tags": [
       "injury"
     ],
     "items": [
       {
-        "news_id": "1ce31c36b59e5314",
-        "source": "sportsnet_nba",
-        "title": "How a driven Ja\u2019Kobe Walter earned crucial role with Raptors",
-        "blurb": "How a driven Ja\u2019Kobe Walter earned crucial role with Raptors \u2014 For Ja&#8217;Kobe Walter, the ability to &#8216;figure it out&#8217; was baked in. Michael Grange has the story on how the second-year wing earned a crucial role on the playoff-bound Raptors.",
-        "published_at": "2026-04-16T12:24:40-04:00",
-        "link": "",
+        "news_id": "1110e5cc030be193",
+        "source": "realgm_wiretap",
+        "title": "Luka Doncic Returning To Los Angeles From Spain Before Start Of Playoffs",
+        "blurb": "Luka Doncic Returning To Los Angeles From Spain Before Start Of Playoffs \u2014 Luka Doncic is returning to Los Angeles on Friday after spending the past week in Spain receiving multiple treatments on his left hamstring strain. Doncic is rehabilitating a Grade 2 left hamstring strain. The Los Angeles Lakers haven't provided a timetable for when Doncic may be able to return from his injury. The Lakers o",
+        "published_at": "2026-04-13T16:50:14-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285093/Luka-Doncic-Returning-To-Los-Angeles-From-Spain-Before-Start-Of-Playoffs",
         "tags": [
           "injury"
         ]
       }
     ],
-    "summary": "How a driven Ja\u2019Kobe Walter earned crucial role with Raptors \u2014 For Ja&#8217;Kobe Walter, the ability to &#8216;figure it out&#8217; was baked in. Michael Grange has the story on how the second-year wing earned a crucial role on the playoff-bound Raptors."
+    "summary": "Luka Doncic Returning To Los Angeles From Spain Before Start Of Playoffs \u2014 Luka Doncic is returning to Los Angeles on Friday after spending the past week in Spain receiving multiple treatments on his left hamstring strain. Doncic is rehabilitating a Grade 2 left hamstring strain. The Los Angeles Lakers haven't provided a timetable for when Doncic may be able to return from his injury. The Lakers o"
   },
   {
-    "player_name": "Kristaps Porzingis",
-    "player_key": "kristaps porzingis",
-    "team_name": "Phoenix Suns",
-    "team_key": "phoenix_suns",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "3b7c01e280f678b0",
-        "source": "rotowire",
-        "title": "Kristaps Porzingis: Listed questionable for Friday",
-        "blurb": "Kristaps Porzingis: Listed questionable for Friday \u2014 Porzingis is questionable for Friday's Play-In Tournament game against the Suns due to right ankle soreness. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-16T05:11:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/kristaps-porzingis-3669",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Kristaps Porzingis: Listed questionable for Friday \u2014 Porzingis is questionable for Friday's Play-In Tournament game against the Suns due to right ankle soreness. Visit RotoWire.com for more analysis on this update."
-  },
-  {
-    "player_name": "Mark Williams",
-    "player_key": "mark williams",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "c09d3a4bdb1c5e7b",
-        "source": "rotowire",
-        "title": "Mark Williams: Tagged questionable for Friday",
-        "blurb": "Mark Williams: Tagged questionable for Friday \u2014 Williams is questionable for Friday's Play-In Tournament game against the Warriors due to left foot soreness. Visit RotoWire.com for more analysis on this update.",
-        "published_at": "2026-04-16T05:23:00-04:00",
-        "link": "https://www.rotowire.com//basketball/player/mark-williams-5647",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Mark Williams: Tagged questionable for Friday \u2014 Williams is questionable for Friday's Play-In Tournament game against the Warriors due to left foot soreness. Visit RotoWire.com for more analysis on this update."
-  },
-  {
-    "player_name": "Mexico City",
-    "player_key": "mexico city",
-    "team_name": "Indiana Pacers",
-    "team_key": "indiana_pacers",
+    "player_name": "Marcus Smart",
+    "player_key": "marcus smart",
+    "team_name": "Los Angeles Lakers",
+    "team_key": "los_angeles_lakers",
     "news_count": 1,
     "tags": [],
     "items": [
       {
-        "news_id": "bf9726936d90128b",
-        "source": "sportsnet_nba",
-        "title": "NBA sending Nuggets, Pacers to Mexico City for game next season",
-        "blurb": "NBA sending Nuggets, Pacers to Mexico City for game next season \u2014 The NBA is sending Denver and Indiana to Mexico City for a regular-season game on Nov. 7, the league said Thursday.",
-        "published_at": "2026-04-16T21:04:14-04:00",
-        "link": "",
+        "news_id": "719956419c95fa29",
+        "source": "yardbarker_nba",
+        "title": "Marcus Smart vows Lakers won\u2019t get punked by Rockets in playoffs",
+        "blurb": "Marcus Smart vows Lakers won\u2019t get punked by Rockets in playoffs \u2014 The Los Angeles Lakers are heading into the NBA playoffs on fumes, and they know it.",
+        "published_at": "2026-04-15T19:55:54-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/marcus_smart_vows_lakers_wont_get_punked_by_rockets_in_playoffs/s1_13132_43733574",
         "tags": []
       }
     ],
-    "summary": "NBA sending Nuggets, Pacers to Mexico City for game next season \u2014 The NBA is sending Denver and Indiana to Mexico City for a regular-season game on Nov. 7, the league said Thursday."
+    "summary": "Marcus Smart vows Lakers won\u2019t get punked by Rockets in playoffs \u2014 The Los Angeles Lakers are heading into the NBA playoffs on fumes, and they know it."
+  },
+  {
+    "player_name": "Mavs Fire Director",
+    "player_key": "mavs fire director",
+    "team_name": "Dallas Mavericks",
+    "team_key": "dallas_mavericks",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "e1ad0edd9ede0057",
+        "source": "realgm_wiretap",
+        "title": "Mavs Fire Director Of Health And Performance",
+        "blurb": "Mavs Fire Director Of Health And Performance \u2014 The Dallas Mavericks dismissed director of health and performance Johann Bilsborough on Monday, sources told Tim MacMahon of ESPN. It is the fourth consecutive year that the Mavs have made a change in the department. Bilsborough was initially hired by then-general manager Nico Harrison to replace Casey Smith. Smith is now the the vice president of spo",
+        "published_at": "2026-04-14T02:16:13-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285097/Mavs-Fire-Director-Of-Health-And-Performance",
+        "tags": []
+      }
+    ],
+    "summary": "Mavs Fire Director Of Health And Performance \u2014 The Dallas Mavericks dismissed director of health and performance Johann Bilsborough on Monday, sources told Tim MacMahon of ESPN. It is the fourth consecutive year that the Mavs have made a change in the department. Bilsborough was initially hired by then-general manager Nico Harrison to replace Casey Smith. Smith is now the the vice president of spo"
   },
   {
     "player_name": "Michael Jordan Shows",
@@ -1858,6 +1650,30 @@
       }
     ],
     "summary": "Michael Jordan Shows Why He\u2019s Still the GOAT With a Massive Hometown Move in North Carolina \u2014 When we talk about greatness in basketball, one name still towers above all: Michael Jordan. But greatness isn\u2019t just defined by six championships or unforgettable dunks. It\u2019s about legacy, impact and coming full circle. And this week, Jordan rewrote the narrative again with a move that highlights not jus"
+  },
+  {
+    "player_name": "Michael Porter Jr",
+    "player_key": "michael porter",
+    "team_name": "Brooklyn Nets",
+    "team_key": "brooklyn_nets",
+    "news_count": 1,
+    "tags": [
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "8d69ae6a3832bf8c",
+        "source": "realgm_wiretap",
+        "title": "Michael Porter Jr Hopes To Extend With Nets",
+        "blurb": "Michael Porter Jr Hopes To Extend With Nets \u2014 The Brooklyn Nets are rebuilding, but if Michael Porter Jr. has his way, he'll be a part of whatever comes next. Porter is entering the final year of his contract, and would like to extend or re-sign with the Nets. \"If it was up to me, I'd love to sign an extension with this franchise,\" said Porter. \"I feel like we mesh. We have great vibes, great ener",
+        "published_at": "2026-04-14T08:47:20-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285101/Michael-Porter-Jr-Hopes-To-Extend-With-Nets",
+        "tags": [
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Michael Porter Jr Hopes To Extend With Nets \u2014 The Brooklyn Nets are rebuilding, but if Michael Porter Jr. has his way, he'll be a part of whatever comes next. Porter is entering the final year of his contract, and would like to extend or re-sign with the Nets. \"If it was up to me, I'd love to sign an extension with this franchise,\" said Porter. \"I feel like we mesh. We have great vibes, great ener"
   },
   {
     "player_name": "Milwaukee Bucks",
@@ -1908,30 +1724,24 @@
     "summary": "Moses Moody Had Huge Career Night On Sunday \u2014 &#160; The Golden State Warriors waltzed to a 124-106 win over the New Orleans Pelicans on Sunday night, and it was Moses Moody who led the way. As noted by Anthony Slater, Moody reached a career high during that game, scoring 32 points in 33 minutes. He also made seven three-pointers during the first quarter [&#8230;] The post Moses Moody Had Huge Car"
   },
   {
-    "player_name": "Napheesa Collier",
-    "player_key": "napheesa collier",
-    "team_name": null,
-    "team_key": null,
+    "player_name": "NBA Roundup",
+    "player_key": "nba roundup",
+    "team_name": "Charlotte Hornets",
+    "team_key": "charlotte_hornets",
     "news_count": 1,
-    "tags": [
-      "injury",
-      "trade"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "45f648a1c6300336",
-        "source": "realgm_wiretap",
-        "title": "Napheesa Collier, Lynx Sign One-Year, $1.4M Supermax",
-        "blurb": "Napheesa Collier, Lynx Sign One-Year, $1.4M Supermax \u2014 Napheesa Collier has agreed to sign a one-year, $1.4 million supermax contract with the Minnesota Lynx. Collier joins Kelsey Mitchell and A'ja Wilson on supermax contracts. Collier was the runner-up in WNBA MVP voting in 2025 for a second consecutive season. Collier averaged 22.9 points and 7.3 rebounds last season. In January, Unrivaled annou",
-        "published_at": "2026-04-16T22:42:56-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285149/Napheesa-Collier-Lynx-Sign-One-Year-$14M-Supermax",
-        "tags": [
-          "injury",
-          "trade"
-        ]
+        "news_id": "eb95347651f29f3a",
+        "source": "sportsnet_nba",
+        "title": "NBA Roundup: Hornets clinch No. 9 seed by beating Knicks",
+        "blurb": "NBA Roundup: Hornets clinch No. 9 seed by beating Knicks",
+        "published_at": "2026-04-12T20:40:16-04:00",
+        "link": "",
+        "tags": []
       }
     ],
-    "summary": "Napheesa Collier, Lynx Sign One-Year, $1.4M Supermax \u2014 Napheesa Collier has agreed to sign a one-year, $1.4 million supermax contract with the Minnesota Lynx. Collier joins Kelsey Mitchell and A'ja Wilson on supermax contracts. Collier was the runner-up in WNBA MVP voting in 2025 for a second consecutive season. Collier averaged 22.9 points and 7.3 rebounds last season. In January, Unrivaled annou"
+    "summary": "NBA Roundup: Hornets clinch No. 9 seed by beating Knicks"
   },
   {
     "player_name": "Natalie Sago",
@@ -1954,6 +1764,30 @@
     "summary": "Natalie Sago becomes third woman picked to referee NBA playoff games"
   },
   {
+    "player_name": "Net Rating Teams",
+    "player_key": "net rating teams",
+    "team_name": "Boston Celtics",
+    "team_key": "boston_celtics",
+    "news_count": 1,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "b8fa6740de9b7ce2",
+        "source": "realgm_wiretap",
+        "title": "Top-5 Net Rating Teams Each Also Had Top-10 Offensive, Defensive Efficiency",
+        "blurb": "Top-5 Net Rating Teams Each Also Had Top-10 Offensive, Defensive Efficiency \u2014 Five NBA teams finished the 2025-26 regular season ranked in the top 10 in both offensive and defensive efficiency, a threshold that historically identifies legitimate championship contenders. Since 1974, roughly 75 percent of all NBA champions posted top-10 marks in both categories during the regular season before going",
+        "published_at": "2026-04-13T21:01:17-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285094/Top-5-Net-Rating-Teams-Each-Also-Had-Top-10-Offensive-Defensive-Efficiency",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Top-5 Net Rating Teams Each Also Had Top-10 Offensive, Defensive Efficiency \u2014 Five NBA teams finished the 2025-26 regular season ranked in the top 10 in both offensive and defensive efficiency, a threshold that historically identifies legitimate championship contenders. Since 1974, roughly 75 percent of all NBA champions posted top-10 marks in both categories during the regular season before going"
+  },
+  {
     "player_name": "New Era",
     "player_key": "new era",
     "team_name": null,
@@ -1972,6 +1806,30 @@
       }
     ],
     "summary": "The \u201cPost-LeBron\u201d Economy: Trends in a New Era of Star Power \u2014 The NBA is evolving after being dominated by LeBron James for many years. His teams generated the biggest headlines, and ratings. However, a new era has emerged in the NBA as the league now has many stars other than LeBron James. We have done our research by bringing together the best bet deals offered by top sites in 2026. You ..."
+  },
+  {
+    "player_name": "Nikola Jokic",
+    "player_key": "nikola jokic",
+    "team_name": "Denver Nuggets",
+    "team_key": "denver_nuggets",
+    "news_count": 1,
+    "tags": [
+      "injury"
+    ],
+    "items": [
+      {
+        "news_id": "bdaec8a7c1bd24c9",
+        "source": "sportsnet_nba",
+        "title": "Jokic plays first half vs. Spurs for award eligibility, Wemby sits out game",
+        "blurb": "Jokic plays first half vs. Spurs for award eligibility, Wemby sits out game \u2014 Three-time MVP Nikola Jokic exited after playing the first half of the Denver Nuggets&#8217; regular-season finale against San Antonio on Sunday night for his 65th game played to qualify for NBA awards.",
+        "published_at": "2026-04-12T22:29:52-04:00",
+        "link": "",
+        "tags": [
+          "injury"
+        ]
+      }
+    ],
+    "summary": "Jokic plays first half vs. Spurs for award eligibility, Wemby sits out game \u2014 Three-time MVP Nikola Jokic exited after playing the first half of the Denver Nuggets&#8217; regular-season finale against San Antonio on Sunday night for his 65th game played to qualify for NBA awards."
   },
   {
     "player_name": "Nikola Jokic Continues",
@@ -2012,6 +1870,56 @@
       }
     ],
     "summary": "Why NBA Numbers Tell a Bigger Story Than Highlights Alone \u2014 Basketball is often remembered through moments: a game winner at the buzzer, a poster dunk, a fourth quarter takeover. Yet the deeper story of the NBA is usually written in numbers. Behind every headline performance sits a layer of data that explains how a player influences possessions, how a team controls tempo, and why certain styles tr"
+  },
+  {
+    "player_name": "Orlando Magic",
+    "player_key": "orlando magic",
+    "team_name": "Orlando Magic",
+    "team_key": "orlando_magic",
+    "news_count": 1,
+    "tags": [
+      "performance"
+    ],
+    "items": [
+      {
+        "news_id": "ed18fd68e72bf9b5",
+        "source": "yardbarker_nba",
+        "title": "76ers rookie VJ Edgecombe shows no fear in postseason debut",
+        "blurb": "76ers rookie VJ Edgecombe shows no fear in postseason debut \u2014 Twenty-year-old VJ Edgecombe played his first NBA postseason game Wednesday night for the Philadelphia 76ers. He looked like an experienced veteran in the Sixers' 109-97 win over the Orlando Magic.",
+        "published_at": "2026-04-15T23:46:44-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/76ers_rookie_vj_edgecombe_shows_no_fear_in_postseason_debut/s1_13132_43733993",
+        "tags": [
+          "performance"
+        ]
+      }
+    ],
+    "summary": "76ers rookie VJ Edgecombe shows no fear in postseason debut \u2014 Twenty-year-old VJ Edgecombe played his first NBA postseason game Wednesday night for the Philadelphia 76ers. He looked like an experienced veteran in the Sixers' 109-97 win over the Orlando Magic."
+  },
+  {
+    "player_name": "Pelicans Have No",
+    "player_key": "pelicans have no",
+    "team_name": "New Orleans Pelicans",
+    "team_key": "new_orleans_pelicans",
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "d124800bf3bd08f1",
+        "source": "realgm_wiretap",
+        "title": "Pelicans Have No Intention Of Trading Zion Williamson In Offseason",
+        "blurb": "Pelicans Have No Intention Of Trading Zion Williamson In Offseason \u2014 The future of Zion Williamson with the New Orleans Pelicans has been an open question for multiple offseasons dating back to the 2023 draft when he was linked with a trade for the draft rights to Scoot Henderson. But Joe Dumars continues to signal that Williamson will remain with the Pelicans. \"We have no intentions of doing that",
+        "published_at": "2026-04-14T15:44:13-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285108/Pelicans-Have-No-Intention-Of-Trading-Zion-Williamson-In-Offseason",
+        "tags": [
+          "injury",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Pelicans Have No Intention Of Trading Zion Williamson In Offseason \u2014 The future of Zion Williamson with the New Orleans Pelicans has been an open question for multiple offseasons dating back to the 2023 draft when he was linked with a trade for the draft rights to Scoot Henderson. But Joe Dumars continues to signal that Williamson will remain with the Pelicans. \"We have no intentions of doing that"
   },
   {
     "player_name": "Players Adapt",
@@ -2098,6 +2006,32 @@
     "summary": "NBA Power Rankings: Pistons are Red Hot! \u2014 With roughly a month of the 2025\u201326 season in the books, the preseason storylines have given way to on-court reality \u2014 and the NBA Power Rankings look a lot different than many expected. Surprise risers like Detroit and Toronto have ripped through November, while familiar powers in Oklahoma City, Denver, and Houston are already separating [&#8230;] The po"
   },
   {
+    "player_name": "Prime Video",
+    "player_key": "prime video",
+    "team_name": "Charlotte Hornets",
+    "team_key": "charlotte_hornets",
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "performance"
+    ],
+    "items": [
+      {
+        "news_id": "7cd2fca53f63727a",
+        "source": "yardbarker_nba",
+        "title": "Prime Video's first postseason telecast has embarrassing outage",
+        "blurb": "Prime Video's first postseason telecast has embarrassing outage \u2014 During a Hornets timeout with 45 seconds left, the broadcast \u2014 Prime's first postseason NBA game \u2014 went out, replaced by a card that read \"Technical Difficulties.\"",
+        "published_at": "2026-04-15T18:15:47-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/prime_videos_first_postseason_telecast_has_embarrassing_outage/s1_13132_43730101",
+        "tags": [
+          "injury",
+          "performance"
+        ]
+      }
+    ],
+    "summary": "Prime Video's first postseason telecast has embarrassing outage \u2014 During a Hornets timeout with 45 seconds left, the broadcast \u2014 Prime's first postseason NBA game \u2014 went out, replaced by a card that read \"Technical Difficulties.\""
+  },
+  {
     "player_name": "Radio With Dubin",
     "player_key": "radio with dubin",
     "team_name": null,
@@ -2120,26 +2054,6 @@
       }
     ],
     "summary": "RealGM Radio With Dubin, Dakhil: Major Questions Of Each Playoff Series \u2014 Jared Dubin and Mo Dakhil discuss the spectacular Hornets-Heat and Blazers-Suns Play-In games, run through the rest of their end-of-season awards picks, and talk about the major questions that will define each playoff series. Timestamps (00:00) Intro (01:15) Hornets-Heat (14:54) Blazers-Suns (22:25) End-of-season awards (41:"
-  },
-  {
-    "player_name": "Raptors James Harden",
-    "player_key": "raptors james harden",
-    "team_name": "Cleveland Cavaliers",
-    "team_key": "cleveland_cavaliers",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "7083c3843442418c",
-        "source": "sportsnet_nba",
-        "title": "Harden chases long-awaited ring as Cavaliers open playoffs vs. Raptors",
-        "blurb": "Harden chases long-awaited ring as Cavaliers open playoffs vs. Raptors \u2014 James Harden has amassed many accomplishments during his career, which will likely include a place in the Naismith Memorial Basketball Hall of Fame.",
-        "published_at": "2026-04-16T18:52:24-04:00",
-        "link": "",
-        "tags": []
-      }
-    ],
-    "summary": "Harden chases long-awaited ring as Cavaliers open playoffs vs. Raptors \u2014 James Harden has amassed many accomplishments during his career, which will likely include a place in the Naismith Memorial Basketball Hall of Fame."
   },
   {
     "player_name": "Raptors vs. Cavaliers",
@@ -2260,30 +2174,6 @@
     "summary": "Canada\u2019s Ryan Nembhard dishes out Mavs-record 23 assists in season finale \u2014 Ryan Nembhard broke Dallas coach Jason Kidd\u2019s club rookie record with 23 assists after No. 1 pick Cooper Flagg\u2019s debut season ended with an ankle injury, and the Mavericks beat Chicago in a season finale."
   },
   {
-    "player_name": "Sam Presti",
-    "player_key": "sam presti",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 1,
-    "tags": [
-      "injury"
-    ],
-    "items": [
-      {
-        "news_id": "b853902ee9a0ad3d",
-        "source": "sportsnet_nba",
-        "title": "Thunder secure two first-round picks after play-in results",
-        "blurb": "Thunder secure two first-round picks after play-in results \u2014 Sam Presti and the Oklahoma City Thunder have just secured themselves another lottery pick in this years NBA draft. After Stephen Curry and the Golden State Warriors eliminated the Los Angeles Clippers from NBA Play-In Tournament on Wednesday night, OKC now has the rights to a 2026 pick swap with the Clippers.",
-        "published_at": "2026-04-16T02:10:13-04:00",
-        "link": "",
-        "tags": [
-          "injury"
-        ]
-      }
-    ],
-    "summary": "Thunder secure two first-round picks after play-in results \u2014 Sam Presti and the Oklahoma City Thunder have just secured themselves another lottery pick in this years NBA draft. After Stephen Curry and the Golden State Warriors eliminated the Los Angeles Clippers from NBA Play-In Tournament on Wednesday night, OKC now has the rights to a 2026 pick swap with the Clippers."
-  },
-  {
     "player_name": "Same Goal",
     "player_key": "same goal",
     "team_name": null,
@@ -2392,7 +2282,7 @@
         "source": "yardbarker_nba",
         "title": "Skip Bayless makes a very controversial claim about Joel Embiid's health",
         "blurb": "Skip Bayless makes a very controversial claim about Joel Embiid's health \u2014 Skip Bayless is sparking controversy this week with his assertion about Joel Embiid.",
-        "published_at": "2026-04-16T13:19:32-04:00",
+        "published_at": "2026-04-16T00:25:02-04:00",
         "link": "https://www.yardbarker.com/nba/articles/skip_bayless_makes_a_very_controversial_claim_about_joel_embiids_health/s1_127_43733753",
         "tags": [
           "injury"
@@ -2400,6 +2290,26 @@
       }
     ],
     "summary": "Skip Bayless makes a very controversial claim about Joel Embiid's health \u2014 Skip Bayless is sparking controversy this week with his assertion about Joel Embiid."
+  },
+  {
+    "player_name": "Steph Curry",
+    "player_key": "steph curry",
+    "team_name": "Golden State Warriors",
+    "team_key": "golden_state_warriors",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "9e3883d5101cd036",
+        "source": "sportsnet_nba",
+        "title": "Warriors superstar Steph Curry leads NBA jersey sales",
+        "blurb": "Warriors superstar Steph Curry leads NBA jersey sales",
+        "published_at": "2026-04-13T10:51:35-04:00",
+        "link": "",
+        "tags": []
+      }
+    ],
+    "summary": "Warriors superstar Steph Curry leads NBA jersey sales"
   },
   {
     "player_name": "Steph Curry Hilariously",
@@ -2470,6 +2380,52 @@
     "summary": "Stephen Curry Makes Historic Move In All-Time Scoring Ladder \u2014 &#160; Stephen Curry of the Golden State Warriors might be getting older, but that doesn&#8217;t mean his legendary skills are dwindling. One thing is always certain: Curry can shoot the ball better than just about anyone. On Tuesday night, Curry earned another place in league history. He officially passed Vince Carter for the 22nd mos"
   },
   {
+    "player_name": "Steve Kerr Wants",
+    "player_key": "steve kerr wants",
+    "team_name": "Golden State Warriors",
+    "team_key": "golden_state_warriors",
+    "news_count": 1,
+    "tags": [
+      "injury",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "039e077caaf7a3d1",
+        "source": "realgm_wiretap",
+        "title": "Steve Kerr Wants To Return Next Season Despite Unresolved Contract",
+        "blurb": "Steve Kerr Wants To Return Next Season Despite Unresolved Contract \u2014 Steve Kerr wants to remain the Golden State Warriors' head coach, but his future with the franchise is unresolved as his contract expires at the end of this season. The 60-year-old signed a two-year, $35 million extension in 2024 covering only through the current campaign. Kerr and general manager Mike Dunleavy have maintained a ",
+        "published_at": "2026-04-14T07:07:54-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285100/Steve-Kerr-Wants-To-Return-Next-Season-Despite-Unresolved-Contract",
+        "tags": [
+          "injury",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Steve Kerr Wants To Return Next Season Despite Unresolved Contract \u2014 Steve Kerr wants to remain the Golden State Warriors' head coach, but his future with the franchise is unresolved as his contract expires at the end of this season. The 60-year-old signed a two-year, $35 million extension in 2024 covering only through the current campaign. Kerr and general manager Mike Dunleavy have maintained a "
+  },
+  {
+    "player_name": "The Bulls",
+    "player_key": "the bulls",
+    "team_name": "Chicago Bulls",
+    "team_key": "chicago_bulls",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "ee1bb4edfad8b89c",
+        "source": "yardbarker_nba",
+        "title": "Bulls are the less-heralded winners of first play-in night",
+        "blurb": "Bulls are the less-heralded winners of first play-in night \u2014 The Bulls weren't in the NBA's play-in tournament for the first time in four seasons. That doesn't mean they didn't have something to root for.",
+        "published_at": "2026-04-15T09:19:00-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/bulls_are_the_less_heralded_winners_of_first_play_in_night/s1_13132_43730362",
+        "tags": []
+      }
+    ],
+    "summary": "Bulls are the less-heralded winners of first play-in night \u2014 The Bulls weren't in the NBA's play-in tournament for the first time in four seasons. That doesn't mean they didn't have something to root for."
+  },
+  {
     "player_name": "The Caitlin Clark",
     "player_key": "the caitlin clark",
     "team_name": null,
@@ -2502,7 +2458,7 @@
         "source": "yardbarker_nba",
         "title": "Warriors elder statesmen's playoff experience helps stun Clippers in comeback win",
         "blurb": "Warriors elder statesmen's playoff experience helps stun Clippers in comeback win \u2014 The Golden State Warriors had to rely on 36-year-old Draymond Green, 39-year-old Al Horford and a hobbled 38-year-old Steph Curry. Down the stretch, the trio showed their playoff pedigree to shock the Los Angeles Clippers.",
-        "published_at": "2026-04-16T13:19:50-04:00",
+        "published_at": "2026-04-16T00:44:53-04:00",
         "link": "https://www.yardbarker.com/nba/articles/warriors_elder_statesmens_playoff_experience_helps_stun_clippers_in_comeback_win/s1_13132_43734140",
         "tags": []
       }
@@ -2528,46 +2484,6 @@
       }
     ],
     "summary": "Top 10 NBA Rumors \u2013 Week of August 12, 2025 \u2014 With training camps inching closer and a few big-name situations still unsettled, the rumor mill is running hot. Below are the 10 storylines that dominated NBA chatter this week, what they could mean on the court and at the negotiating table, and the key questions teams are trying to answer before the schedule drops. Each [&#8230;] The post Top 10 NBA "
-  },
-  {
-    "player_name": "The Lakers",
-    "player_key": "the lakers",
-    "team_name": "Los Angeles Lakers",
-    "team_key": "los_angeles_lakers",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "0322253cb4ad97ca",
-        "source": "yardbarker_nba",
-        "title": "LeBron James' future with Lakers could take a surprising turn",
-        "blurb": "LeBron James' future with Lakers could take a surprising turn \u2014 The Lakers and James reached a breaking point, or so it seemed.",
-        "published_at": "2026-04-16T21:14:16-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/lebron_james_future_with_lakers_could_take_a_surprising_turn/s1_13132_43736117",
-        "tags": []
-      }
-    ],
-    "summary": "LeBron James' future with Lakers could take a surprising turn \u2014 The Lakers and James reached a breaking point, or so it seemed."
-  },
-  {
-    "player_name": "The Los Angeles",
-    "player_key": "the los angeles",
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 1,
-    "tags": [],
-    "items": [
-      {
-        "news_id": "60caf8cf00c3cf3c",
-        "source": "yardbarker_nba",
-        "title": "Clippers loss to Warriors means the rich get richer",
-        "blurb": "Clippers loss to Warriors means the rich get richer \u2014 The Los Angeles Clippers will miss the NBA playoffs after a 125-120 loss to the Golden State Warriors. That defeat will impact a lot more teams than just the Clips.",
-        "published_at": "2026-04-16T19:23:00-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/clippers_loss_to_warriors_means_the_rich_get_richer/s1_13132_43734338",
-        "tags": []
-      }
-    ],
-    "summary": "Clippers loss to Warriors means the rich get richer \u2014 The Los Angeles Clippers will miss the NBA playoffs after a 125-120 loss to the Golden State Warriors. That defeat will impact a lot more teams than just the Clips."
   },
   {
     "player_name": "The New Orleans",
@@ -2628,6 +2544,26 @@
       }
     ],
     "summary": "The Post-All-Star Powerhouses \u2014 Source The 2025-26 NBA season has stumbled into its most unforgiving hour, that raw final stretch where every win feels heavier and every loss sounds like glass cracking under pressure. Since the All-Star break, the league has started telling the truth. Some teams have found their pulse, their swagger, their championship face. Others are blinking at the wrong time, "
+  },
+  {
+    "player_name": "The Raptors Show",
+    "player_key": "the raptors show",
+    "team_name": "Cleveland Cavaliers",
+    "team_key": "cleveland_cavaliers",
+    "news_count": 1,
+    "tags": [],
+    "items": [
+      {
+        "news_id": "4ab038dc25d193ea",
+        "source": "sportsnet_nba",
+        "title": "Dissecting which Raptors have most to gain in opening round series",
+        "blurb": "Dissecting which Raptors have most to gain in opening round series \u2014 The Raptors Show&#8217;s Blake Murphy and Matt Bonner delve into the Toronto Raptors&#8217; lineup going into their first-round series against the Cleveland Cavaliers and which players on the team could benefit from strong series performances.",
+        "published_at": "2026-04-15T11:53:06-04:00",
+        "link": "",
+        "tags": []
+      }
+    ],
+    "summary": "Dissecting which Raptors have most to gain in opening round series \u2014 The Raptors Show&#8217;s Blake Murphy and Matt Bonner delve into the Toronto Raptors&#8217; lineup going into their first-round series against the Cleveland Cavaliers and which players on the team could benefit from strong series performances."
   },
   {
     "player_name": "Thunder Set Franchise",
@@ -2734,30 +2670,24 @@
     "summary": "Tyrese Haliburton says shingles will test him this off-season, not Achilles recovery \u2014 Indiana Pacers star Tyrese Haliburton was prepared to spend this past NBA season in the shadows, fighting his way back from a torn right Achilles tendon. He never anticipated the long journey back would take a detour because of a bout with shingles."
   },
   {
-    "player_name": "Tyrese Maxey Leads",
-    "player_key": "tyrese maxey leads",
-    "team_name": "Boston Celtics",
-    "team_key": "boston_celtics",
+    "player_name": "Tyrese Haliburton Dealing",
+    "player_key": "tyrese haliburton dealing",
+    "team_name": "Indiana Pacers",
+    "team_key": "indiana_pacers",
     "news_count": 1,
-    "tags": [
-      "injury",
-      "performance"
-    ],
+    "tags": [],
     "items": [
       {
-        "news_id": "634a1321e3131fb1",
+        "news_id": "6d54623b500f8120",
         "source": "realgm_wiretap",
-        "title": "Tyrese Maxey Leads Sixers Past Magic To Set Up Celtics First-Round Matchup",
-        "blurb": "Tyrese Maxey Leads Sixers Past Magic To Set Up Celtics First-Round Matchup \u2014 Tyrese Maxey scored 31 points and rookie VJ Edgecombe posted a double-double as the Philadelphia 76ers defeated the Orlando Magic 109-97 Wednesday, claiming the Eastern Conference's No. 7 seed and a first-round playoff series against the second-seeded Boston Celtics beginning Sunday at TD Garden. Maxey logged 42 minutes w",
-        "published_at": "2026-04-16T01:20:45-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285126/Tyrese-Maxey-Leads-Sixers-Past-Magic-To-Set-Up-Celtics-First-Round-Matchup",
-        "tags": [
-          "injury",
-          "performance"
-        ]
+        "title": "Tyrese Haliburton Dealing With Shingles",
+        "blurb": "Tyrese Haliburton Dealing With Shingles \u2014 Indiana Pacers guard Tyrese Haliburton was feeling good with his return from the torn Achilles' tendon he suffered in last year's NBA Finals. Unfortunately, Haliburton is now battling a case of shingles, which has caused him pain, itching and to gain weight. \"I couldn't even go in front of a camera if I wanted to early, because my eye was basically closed ",
+        "published_at": "2026-04-14T09:03:59-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285102/Tyrese-Haliburton-Dealing-With-Shingles",
+        "tags": []
       }
     ],
-    "summary": "Tyrese Maxey Leads Sixers Past Magic To Set Up Celtics First-Round Matchup \u2014 Tyrese Maxey scored 31 points and rookie VJ Edgecombe posted a double-double as the Philadelphia 76ers defeated the Orlando Magic 109-97 Wednesday, claiming the Eastern Conference's No. 7 seed and a first-round playoff series against the second-seeded Boston Celtics beginning Sunday at TD Garden. Maxey logged 42 minutes w"
+    "summary": "Tyrese Haliburton Dealing With Shingles \u2014 Indiana Pacers guard Tyrese Haliburton was feeling good with his return from the torn Achilles' tendon he suffered in last year's NBA Finals. Unfortunately, Haliburton is now battling a case of shingles, which has caused him pain, itching and to gain weight. \"I couldn't even go in front of a camera if I wanted to early, because my eye was basically closed "
   },
   {
     "player_name": "Why Canadian Shai",
@@ -2802,31 +2732,5 @@
       }
     ],
     "summary": "2025-26 NBA MVP Prediction: Why Victor Wembanyama Has the Strongest Case \u2014 With the 2025-26 NBA regular season entering its final stretch, the MVP race has come down to three truly elite candidates: Victor Wembanyama, Shai Gilgeous-Alexander, and Nikola Jokic. All three have delivered seasons worthy of serious consideration, and in many years, each one would have a legitimate argument to win the a"
-  },
-  {
-    "player_name": "Wizards Retain Brian",
-    "player_key": "wizards retain brian",
-    "team_name": "New York Knicks",
-    "team_key": "new_york_knicks",
-    "news_count": 1,
-    "tags": [
-      "injury",
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "53c7cbb7ec391a8b",
-        "source": "realgm_wiretap",
-        "title": "Wizards Retain Brian Keefe As Head Coach For 2026-27 Season",
-        "blurb": "Wizards Retain Brian Keefe As Head Coach For 2026-27 Season \u2014 Washington Wizards general manager Will Dawkins confirmed Thursday that head coach Brian Keefe will return for the 2026-27 season, transitioning the franchise from a deliberate rebuild toward a competitive push led by Trae Young and Anthony Davis. Keefe compiled a 43-160 record across two-plus rebuilding seasons, including a 17-65 mark ",
-        "published_at": "2026-04-16T12:45:23-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285145/Wizards-Retain-Brian-Keefe-As-Head-Coach-For-2026-27-Season",
-        "tags": [
-          "injury",
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Wizards Retain Brian Keefe As Head Coach For 2026-27 Season \u2014 Washington Wizards general manager Will Dawkins confirmed Thursday that head coach Brian Keefe will return for the 2026-27 season, transitioning the franchise from a deliberate rebuild toward a competitive push led by Trae Young and Anthony Davis. Keefe compiled a 43-160 record across two-plus rebuilding seasons, including a 17-65 mark "
   }
 ]

@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-04-17,Brandin Podziemski,PTS,14.5,DraftKings,20.5,0.85,0.661,33.9,OVER,Starter,Golden State Warriors @ Phoenix Suns,1.95,0.25,Pending,0,
+2026-04-17,Stephen Curry,AST,4.5,DraftKings,3.5,0.72,0.56,25.7,UNDER,Starter,Golden State Warriors @ Phoenix Suns,2.18,0.25,Pending,0,
+2026-04-17,Kon Knueppel,PTS,16.5,BetOnline.ag,12.7,0.8,0.553,28.3,UNDER,Starter,Charlotte Hornets @ Orlando Magic,1.95,0.25,Pending,0,
+2026-04-17,Paolo Banchero,PTS,22.5,FanDuel,17.2,0.78,0.535,27.0,UNDER,Starter,Charlotte Hornets @ Orlando Magic,1.98,0.25,Pending,0,
+2026-04-17,Al Horford,3PTM,1.5,FanDuel,2.8,0.77,0.525,26.5,OVER,Rotation,Golden State Warriors @ Phoenix Suns,1.98,0.25,Pending,0,
+2026-04-17,Al Horford,PTS,8.5,BetRivers,11.6,0.69,0.492,22.8,OVER,Rotation,Golden State Warriors @ Phoenix Suns,2.16,0.25,Pending,0,
+2026-04-17,Kon Knueppel,3PTM,2.5,BetOnline.ag,2.0,0.65,0.482,21.2,UNDER,Starter,Charlotte Hornets @ Orlando Magic,2.28,0.25,Pending,0,
+2026-04-17,Draymond Green,REB,5.5,FanDuel,4.7,0.67,0.458,21.2,UNDER,Starter,Golden State Warriors @ Phoenix Suns,2.16,0.25,Pending,0,
+2026-04-17,Anthony Black,AST,2.5,BetOnline.ag,1.7,0.8,0.443,24.5,UNDER,Rotation,Charlotte Hornets @ Orlando Magic,1.81,0.25,Pending,0,
+2026-04-17,Stephen Curry,REB,3.5,DraftKings,2.9,0.63,0.388,17.5,UNDER,Starter,Golden State Warriors @ Phoenix Suns,2.22,0.25,Pending,0,
