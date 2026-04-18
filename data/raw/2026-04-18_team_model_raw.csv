@@ -1,0 +1,6 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-18,Toronto Raptors @ Cleveland Cavaliers,MONEYLINE,Cleveland Cavaliers ML,,89.7% win prob,12.2,FanDuel,1.29,1.0,Pending,0,,0.8971,0.1029,12.19,-15.16,Cleveland Cavaliers ML
+2026-04-18,Toronto Raptors @ Cleveland Cavaliers,TOTAL,OVER 221.0,221.0,228.0,7.0,Bovada,1.87,0.5,Pending,0,,0.8971,0.1029,12.19,-15.16,Cleveland Cavaliers ML
+2026-04-18,Minnesota Timberwolves @ Denver Nuggets,TOTAL,UNDER 232.5,232.5,228.6,3.9,BetMGM,1.95,0.0,Pending,0,,0.8983,0.1017,17.89,-19.68,
+2026-04-18,Atlanta Hawks @ New York Knicks,TOTAL,OVER 217.5,217.5,229.1,11.6,BetUS,1.91,1.0,Pending,0,,0.839,0.161,14.46,-17.24,
+2026-04-18,Houston Rockets @ Los Angeles Lakers,TOTAL,OVER 208.5,208.5,228.5,20.0,FanDuel,1.91,1.0,Pending,0,,0.5936,0.4064,23.9,-25.58,
