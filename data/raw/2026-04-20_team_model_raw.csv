@@ -1,0 +1,6 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-20,Toronto Raptors @ Cleveland Cavaliers,MONEYLINE,Cleveland Cavaliers ML,,86.3% win prob,8.2,LowVig.ag,1.28,0.5,Pending,0,,0.8629,0.1371,8.17,-9.02,Cleveland Cavaliers ML
+2026-04-20,Toronto Raptors @ Cleveland Cavaliers,SPREAD,Raptors +9.0,9.0,Toronto Raptors by 4.3,4.7,Caesars,1.91,0.0,Pending,0,,0.8629,0.1371,8.17,-9.02,Cleveland Cavaliers ML
+2026-04-20,Toronto Raptors @ Cleveland Cavaliers,TOTAL,OVER 222.5,222.5,232.4,9.9,Caesars,1.91,0.5,Pending,0,,0.8629,0.1371,8.17,-9.02,Cleveland Cavaliers ML
+2026-04-20,Atlanta Hawks @ New York Knicks,SPREAD,Hawks +6.0,6.0,Atlanta Hawks by 0.6,6.6,BetUS,1.95,0.5,Pending,0,,0.6968,0.3032,-0.74,-2.36,
+2026-04-20,Atlanta Hawks @ New York Knicks,TOTAL,OVER 217.5,217.5,222.6,5.1,BetUS,1.91,0.5,Pending,0,,0.6968,0.3032,-0.74,-2.36,
