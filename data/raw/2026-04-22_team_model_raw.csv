@@ -1,0 +1,5 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-22,Orlando Magic @ Detroit Pistons,MONEYLINE,Detroit Pistons ML,,91.4% win prob,12.7,Fanatics,1.27,1.0,Pending,0,,0.9141,0.0859,12.67,-15.22,Detroit Pistons ML
+2026-04-22,Orlando Magic @ Detroit Pistons,TOTAL,OVER 218.5,218.5,241.3,22.8,Caesars,1.91,1.0,Pending,0,,0.9141,0.0859,12.67,-15.22,Detroit Pistons ML
+2026-04-22,Phoenix Suns @ Oklahoma City Thunder,SPREAD,Suns +17.0,17.0,Phoenix Suns by 5.1,11.9,BetUS,1.91,1.0,Pending,0,,0.8831,0.1169,-5.15,3.36,
+2026-04-22,Phoenix Suns @ Oklahoma City Thunder,TOTAL,OVER 216.0,216.0,222.3,6.3,BetUS,1.91,0.5,Pending,0,,0.8831,0.1169,-5.15,3.36,
