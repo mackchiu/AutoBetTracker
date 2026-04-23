@@ -1,0 +1,5 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-23,New York Knicks @ Atlanta Hawks,TOTAL,OVER 215.0,215.0,224.2,9.2,Bovada,1.91,0.5,Pending,0,,0.6331,0.3669,13.8,-17.36,
+2026-04-23,Cleveland Cavaliers @ Toronto Raptors,SPREAD,Raptors +3.0,3.0,Toronto Raptors by 1.6,4.6,Bovada,1.95,0.0,Pending,0,,0.7804,0.2196,34.93,-37.92,
+2026-04-23,Cleveland Cavaliers @ Toronto Raptors,TOTAL,OVER 221.5,221.5,232.5,11.0,Bovada,1.91,1.0,Pending,0,,0.7804,0.2196,34.93,-37.92,
+2026-04-23,Denver Nuggets @ Minnesota Timberwolves,TOTAL,OVER 233.5,233.5,248.0,14.5,LowVig.ag,1.93,1.0,Pending,0,,0.6503,0.3497,19.36,-21.21,
