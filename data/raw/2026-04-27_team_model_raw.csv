@@ -1,0 +1,6 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-27,Detroit Pistons @ Orlando Magic,TOTAL,OVER 215.0,215.0,232.3,17.3,Bovada,1.91,1.0,Pending,0,,0.6206,0.3794,20.4,-22.67,
+2026-04-27,Oklahoma City Thunder @ Phoenix Suns,SPREAD,Suns +10.5,10.5,Phoenix Suns by 3.7,6.8,Fanatics,1.91,0.5,Pending,0,,0.5588,0.4412,36.04,-39.22,
+2026-04-27,Oklahoma City Thunder @ Phoenix Suns,TOTAL,OVER 214.5,214.5,221.0,6.5,Fanatics,1.91,0.5,Pending,0,,0.5588,0.4412,36.04,-39.22,
+2026-04-27,Minnesota Timberwolves @ Denver Nuggets,MONEYLINE,Denver Nuggets ML,,94.6% win prob,11.2,DraftKings,1.2,1.0,Pending,0,,0.9458,0.0542,11.25,-13.45,Denver Nuggets ML
+2026-04-27,Minnesota Timberwolves @ Denver Nuggets,TOTAL,OVER 222.0,222.0,237.2,15.2,DraftKings,1.91,1.0,Pending,0,,0.9458,0.0542,11.25,-13.45,Denver Nuggets ML

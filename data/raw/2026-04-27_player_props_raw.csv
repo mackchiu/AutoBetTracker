@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-04-27,Ajay Mitchell,PTS,15.5,BetMGM,10.4,0.95,0.85,43.6,UNDER,Rotation,Oklahoma City Thunder @ Phoenix Suns,1.95,0.25,Pending,0,
+2026-04-27,Mike Conley,AST,3.5,DraftKings,1.9,0.83,0.692,33.8,UNDER,Rotation,Minnesota Timberwolves @ Denver Nuggets,2.05,0.25,Pending,0,
+2026-04-27,Isaiah Joe,PTS,7.5,Bovada,12.0,0.74,0.624,28.4,OVER,Rotation,Oklahoma City Thunder @ Phoenix Suns,2.2,0.25,Pending,0,
+2026-04-27,Bruce Brown,PTS,6.5,BetOnline.ag,9.3,0.8,0.589,29.7,OVER,Rotation,Minnesota Timberwolves @ Denver Nuggets,1.98,0.25,Pending,0,
+2026-04-27,Anthony Black,REB,2.5,BetMGM,4.7,0.88,0.575,32.0,OVER,Rotation,Detroit Pistons @ Orlando Magic,1.8,0.25,Pending,0,
+2026-04-27,Duncan Robinson,PTS,11.5,BetRivers,14.1,0.72,0.565,25.9,OVER,Rotation,Detroit Pistons @ Orlando Magic,2.18,0.25,Pending,0,
+2026-04-27,Cason Wallace,AST,2.5,BetOnline.ag,1.4,0.91,0.549,32.1,UNDER,Rotation,Oklahoma City Thunder @ Phoenix Suns,1.71,0.25,Pending,0,
+2026-04-27,Isaiah Stewart II,REB,3.5,BetOnline.ag,4.2,0.65,0.42,19.3,OVER,Rotation,Detroit Pistons @ Orlando Magic,2.17,0.25,Pending,0,
+2026-04-27,Wendell Carter Jr,REB,7.5,BetRivers,6.4,0.69,0.414,20.2,UNDER,Starter,Detroit Pistons @ Orlando Magic,2.05,0.25,Pending,0,
+2026-04-27,Chet Holmgren,3PTM,1.5,DraftKings,2.0,0.64,0.376,17.5,OVER,Starter,Oklahoma City Thunder @ Phoenix Suns,2.15,0.25,Pending,0,
