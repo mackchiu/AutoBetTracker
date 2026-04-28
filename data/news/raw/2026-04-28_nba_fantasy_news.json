@@ -1,0 +1,10 @@
+{
+  "date": "2026-04-28",
+  "fetched_at": "2026-04-28T02:02:34.253133-04:00",
+  "source": "nba_fantasy_news",
+  "source_label": "NBA Fantasy News",
+  "url": "https://www.nbafantasyfeed.com/feed/",
+  "type": "rss",
+  "raw_text": "",
+  "fetch_error": "<urlopen error [Errno -2] Name or service not known>"
+}

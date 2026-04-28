@@ -1,0 +1,7 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-28,Philadelphia 76ers @ Boston Celtics,SPREAD,76ers +11.5,11.5,Philadelphia 76ers by 2.1,9.4,DraftKings,1.95,0.5,Pending,0,,0.7973,0.2027,-3.61,1.23,
+2026-04-28,Philadelphia 76ers @ Boston Celtics,TOTAL,OVER 213.5,213.5,223.6,10.1,DraftKings,1.89,1.0,Pending,0,,0.7973,0.2027,-3.61,1.23,
+2026-04-28,Atlanta Hawks @ New York Knicks,SPREAD,Hawks +6.5,6.5,Atlanta Hawks by 0.4,6.9,Caesars,1.91,0.5,Pending,0,,0.7049,0.2951,-0.43,-1.94,
+2026-04-28,Atlanta Hawks @ New York Knicks,TOTAL,OVER 214.5,214.5,227.5,13.0,Caesars,1.91,1.0,Pending,0,,0.7049,0.2951,-0.43,-1.94,
+2026-04-28,Portland Trail Blazers @ San Antonio Spurs,SPREAD,Blazers +12.0,12.0,Portland Trail Blazers by 4.4,7.6,LowVig.ag,1.9,0.5,Pending,0,,0.8658,0.1342,1.84,-3.82,
+2026-04-28,Portland Trail Blazers @ San Antonio Spurs,TOTAL,OVER 216.5,216.5,219.5,3.0,LowVig.ag,1.88,0.0,Pending,0,,0.8658,0.1342,1.84,-3.82,
