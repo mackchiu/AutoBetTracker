@@ -1,0 +1,7 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-04-29,Orlando Magic @ Detroit Pistons,MONEYLINE,Detroit Pistons ML,,86.3% win prob,6.9,LowVig.ag,1.26,0.5,Pending,0,,0.8631,0.1369,6.94,-10.12,Detroit Pistons ML
+2026-04-29,Orlando Magic @ Detroit Pistons,SPREAD,Magic +10.0,10.0,Orlando Magic by 4.3,5.7,Fanatics,1.91,0.5,Pending,0,,0.8631,0.1369,6.94,-10.12,Detroit Pistons ML
+2026-04-29,Orlando Magic @ Detroit Pistons,TOTAL,OVER 211.5,211.5,230.5,19.0,Fanatics,1.91,1.0,Pending,0,,0.8631,0.1369,6.94,-10.12,Detroit Pistons ML
+2026-04-29,Toronto Raptors @ Cleveland Cavaliers,SPREAD,Raptors +9.0,9.0,Toronto Raptors by 3.2,5.8,Fanatics,1.91,0.5,Pending,0,,0.8315,0.1685,4.41,-6.96,
+2026-04-29,Toronto Raptors @ Cleveland Cavaliers,TOTAL,OVER 218.0,218.0,236.1,18.1,Fanatics,1.91,1.0,Pending,0,,0.8315,0.1685,4.41,-6.96,
+2026-04-29,Houston Rockets @ Los Angeles Lakers,TOTAL,OVER 208.5,208.5,224.2,15.7,BetRivers,1.91,1.0,Pending,0,,0.7781,0.2219,14.12,-16.57,

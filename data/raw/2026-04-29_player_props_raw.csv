@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-04-29,Duncan Robinson,PTS,10.5,BetRivers,14.3,0.78,0.689,31.8,OVER,Starter,Orlando Magic @ Detroit Pistons,2.17,0.25,Pending,0,
+2026-04-29,Reed Sheppard,PTS,15.5,Bovada,12.5,0.69,0.485,22.6,UNDER,Rotation,Houston Rockets @ Los Angeles Lakers,2.15,0.25,Pending,0,
+2026-04-29,Marcus Smart,AST,4.5,FanDuel,6.2,0.69,0.459,21.6,OVER,Starter,Houston Rockets @ Los Angeles Lakers,2.12,0.25,Pending,0,
+2026-04-29,Jaxson Hayes,PTS,5.5,FanDuel,10.2,0.74,0.433,22.3,OVER,Rotation,Houston Rockets @ Los Angeles Lakers,1.94,0.25,Pending,0,
+2026-04-29,Rui Hachimura,PTS,13.5,BetRivers,15.6,0.65,0.422,19.2,OVER,Starter,Houston Rockets @ Los Angeles Lakers,2.2,0.25,Pending,0,
+2026-04-29,Jalen Duren,REB,10.5,BetMGM,9.0,0.78,0.405,22.5,UNDER,Starter,Orlando Magic @ Detroit Pistons,1.8,0.25,Pending,0,
+2026-04-29,James Harden,REB,4.5,BetMGM,2.9,0.77,0.39,21.6,UNDER,Starter,Toronto Raptors @ Cleveland Cavaliers,1.8,0.25,Pending,0,
+2026-04-29,Evan Mobley,3PTM,0.5,BetOnline.ag,0.3,0.66,0.386,18.4,UNDER,Starter,Toronto Raptors @ Cleveland Cavaliers,2.1,0.25,Pending,0,
+2026-04-29,Paolo Banchero,AST,4.5,BetRivers,6.3,0.76,0.357,20.0,OVER,Starter,Orlando Magic @ Detroit Pistons,1.78,0.25,Pending,0,
+2026-04-29,Deandre Ayton,REB,7.5,FanDuel,5.7,0.7,0.351,18.2,UNDER,Rotation,Houston Rockets @ Los Angeles Lakers,1.93,0.25,Pending,0,
