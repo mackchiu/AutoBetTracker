@@ -1,0 +1,5 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-05-01,Detroit Pistons @ Orlando Magic,SPREAD,Magic +4.0,4.0,Orlando Magic by 4.7,8.7,BetOnline.ag,1.92,0.5,Pending,0,,0.8736,0.1264,47.36,-49.47,
+2026-05-01,Detroit Pistons @ Orlando Magic,TOTAL,OVER 210.0,210.0,221.3,11.3,BetOnline.ag,1.88,1.0,Pending,0,,0.8736,0.1264,47.36,-49.47,
+2026-05-01,Cleveland Cavaliers @ Toronto Raptors,SPREAD,Raptors +4.5,4.5,Toronto Raptors by 0.6,5.1,Caesars,1.91,0.5,Pending,0,,0.7437,0.2563,36.35,-39.31,
+2026-05-01,Los Angeles Lakers @ Houston Rockets,TOTAL,OVER 205.5,205.5,221.6,16.1,Caesars,1.91,1.0,Pending,0,,0.8579,0.1421,25.18,-26.77,

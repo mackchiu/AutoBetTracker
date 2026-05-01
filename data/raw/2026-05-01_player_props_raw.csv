@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-05-01,Kevin Durant,REB,3.5,Caesars,5.7,0.95,0.816,42.7,OVER,Starter,Los Angeles Lakers @ Houston Rockets,1.91,0.25,Pending,0,
+2026-05-01,Rui Hachimura,PTS,12.5,FanDuel,16.4,0.82,0.674,33.0,OVER,Starter,Los Angeles Lakers @ Houston Rockets,2.04,0.25,Pending,0,
+2026-05-01,Jarrett Allen,PTS,11.5,Bovada,14.5,0.74,0.623,28.3,OVER,Rotation,Cleveland Cavaliers @ Toronto Raptors,2.2,0.25,Pending,0,
+2026-05-01,Austin Reaves,PTS,23.5,BetOnline.ag,19.6,0.82,0.567,29.6,UNDER,Starter,Los Angeles Lakers @ Houston Rockets,1.92,0.25,Pending,0,
+2026-05-01,Paolo Banchero,AST,5.5,BetRivers,6.8,0.71,0.565,25.7,OVER,Starter,Detroit Pistons @ Orlando Magic,2.2,0.25,Pending,0,
+2026-05-01,Ausar Thompson,PTS,9.5,BetRivers,11.7,0.71,0.553,25.4,OVER,Starter,Detroit Pistons @ Orlando Magic,2.18,0.25,Pending,0,
+2026-05-01,Duncan Robinson,3PTM,2.5,BetRivers,2.8,0.64,0.464,20.2,OVER,Rotation,Detroit Pistons @ Orlando Magic,2.3,0.25,Pending,0,
+2026-05-01,Rui Hachimura,3PTM,1.5,FanDuel,2.3,0.79,0.443,24.3,OVER,Starter,Los Angeles Lakers @ Houston Rockets,1.82,0.25,Pending,0,
+2026-05-01,James Harden,REB,4.5,Bovada,3.0,0.7,0.44,21.5,UNDER,Starter,Cleveland Cavaliers @ Toronto Raptors,2.05,0.25,Pending,0,
+2026-05-01,Anthony Black,REB,3.5,BetRivers,4.6,0.72,0.424,21.5,OVER,Rotation,Detroit Pistons @ Orlando Magic,1.97,0.25,Pending,0,
