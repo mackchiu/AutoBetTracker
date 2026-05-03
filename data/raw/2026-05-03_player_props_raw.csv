@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-05-03,Donovan Mitchell,REB,4.5,FanDuel,5.5,0.75,0.663,29.9,OVER,Starter,Toronto Raptors @ Cleveland Cavaliers,2.22,0.25,Pending,0,
+2026-05-03,Jalen Duren,REB,9.5,FanDuel,8.7,0.84,0.617,32.0,UNDER,Starter,Orlando Magic @ Detroit Pistons,1.93,0.25,Pending,0,
+2026-05-03,Jalen Duren,AST,1.5,Bovada,2.7,0.85,0.5,28.2,OVER,Starter,Orlando Magic @ Detroit Pistons,1.77,0.25,Pending,0,
+2026-05-03,Sandro Mamukelashvili,REB,3.5,BetOnline.ag,4.9,0.7,0.482,22.8,OVER,Rotation,Toronto Raptors @ Cleveland Cavaliers,2.12,0.25,Pending,0,
+2026-05-03,Jarrett Allen,PTS,11.5,BetOnline.ag,13.9,0.7,0.474,22.6,OVER,Rotation,Toronto Raptors @ Cleveland Cavaliers,2.1,0.25,Pending,0,
+2026-05-03,Duncan Robinson,PTS,10.5,BetMGM,13.6,0.75,0.47,24.1,OVER,Starter,Orlando Magic @ Detroit Pistons,1.95,0.25,Pending,0,
+2026-05-03,Duncan Robinson,3PTM,2.5,BetRivers,3.0,0.69,0.44,21.1,OVER,Starter,Orlando Magic @ Detroit Pistons,2.08,0.25,Pending,0,
+2026-05-03,Anthony Black,REB,3.5,Fanatics,4.0,0.63,0.391,17.8,OVER,Rotation,Orlando Magic @ Detroit Pistons,2.2,0.25,Pending,0,
+2026-05-03,Isaiah Stewart II,PTS,5.5,Bovada,6.9,0.62,0.391,17.4,OVER,Rotation,Orlando Magic @ Detroit Pistons,2.25,0.25,Pending,0,
+2026-05-03,Paolo Banchero,AST,5.5,FanDuel,6.6,0.69,0.385,19.1,OVER,Starter,Orlando Magic @ Detroit Pistons,2.02,0.25,Pending,0,
