@@ -1,0 +1,5 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-05-05,Cleveland Cavaliers @ Detroit Pistons,TOTAL,OVER 216.0,216.0,224.2,8.2,BetRivers,1.88,0.5,Pending,0,,0.8368,0.1632,24.51,-27.16,
+2026-05-05,Los Angeles Lakers @ Oklahoma City Thunder,MONEYLINE,Oklahoma City Thunder ML,,97.0% win prob,7.8,Fanatics,1.12,0.5,Pending,0,,0.9704,0.0296,7.76,-9.54,Oklahoma City Thunder ML
+2026-05-05,Los Angeles Lakers @ Oklahoma City Thunder,SPREAD,Lakers +15.5,15.5,Los Angeles Lakers by 11.0,4.5,DraftKings,1.91,0.0,Pending,0,,0.9704,0.0296,7.76,-9.54,Oklahoma City Thunder ML
+2026-05-05,Los Angeles Lakers @ Oklahoma City Thunder,TOTAL,OVER 214.0,214.0,219.9,5.9,DraftKings,1.91,0.5,Pending,0,,0.9704,0.0296,7.76,-9.54,Oklahoma City Thunder ML
