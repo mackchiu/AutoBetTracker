@@ -1,0 +1,3 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate,grade,edge_pct,council_recommendation,council_score,council_grade,publish,reason
+2026-05-04,Minnesota Timberwolves @ San Antonio Spurs,SPREAD,Timberwolves +13.0,13.0,Minnesota Timberwolves by 3.8,9.2,LowVig.ag,1.93,0.0,Win,0.0,,0.8486,0.1514,-0.61,-2.1,,C,53.5,support,0.5345,PASS,false,NBA wager: Minnesota Timberwolves @ San Antonio Spurs — Timberwolves +13.0 — LowVig.ag
+2026-05-04,Minnesota Timberwolves @ San Antonio Spurs,TOTAL,OVER 217.5,217.5,231.1,13.6,LowVig.ag,1.93,0.0,Loss,-0.0,,0.8486,0.1514,-0.61,-2.1,,C,53.5,support,0.5345,PASS,false,NBA wager: Minnesota Timberwolves @ San Antonio Spurs — OVER 217.5 — LowVig.ag
