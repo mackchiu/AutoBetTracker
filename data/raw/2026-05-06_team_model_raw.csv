@@ -1,0 +1,5 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate
+2026-05-06,Philadelphia 76ers @ New York Knicks,SPREAD,76ers +8.0,8.0,Philadelphia 76ers by 2.4,5.6,Fanatics,1.91,0.5,Pending,0,,0.8074,0.1926,6.11,-9.31,
+2026-05-06,Philadelphia 76ers @ New York Knicks,TOTAL,UNDER 216.5,216.5,212.8,3.7,Fanatics,1.91,0.0,Pending,0,,0.8074,0.1926,6.11,-9.31,
+2026-05-06,Minnesota Timberwolves @ San Antonio Spurs,SPREAD,Timberwolves +10.0,10.0,Minnesota Timberwolves by 1.7,8.3,Fanatics,1.91,0.5,Pending,0,,0.7842,0.2158,-1.58,-1.4,
+2026-05-06,Minnesota Timberwolves @ San Antonio Spurs,TOTAL,OVER 216.5,216.5,227.3,10.8,Fanatics,1.91,1.0,Pending,0,,0.7842,0.2158,-1.58,-1.4,
