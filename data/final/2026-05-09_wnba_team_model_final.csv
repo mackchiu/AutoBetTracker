@@ -1,0 +1,8 @@
+date,sport,game,market,pick,line,proj,edge,book,odds,stake,result,profit,grade,publish,reason,commence_time,model_version
+2026-05-09,WNBA,Dallas Wings @ Indiana Fever,TOTAL,Under 178.5,178.5,total 163.39,15.11,Fanatics,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-09T17:00:00Z,wnba-v0-opening-week
+2026-05-09,WNBA,Chicago Sky @ Portland Fire,SPREAD,Portland Fire 5.5,5.5,home margin 7.16,12.66,BetMGM,,0.0,Pending,0,WNBA-v0,false,opening-week expansion-team spread block,2026-05-10T01:00:00Z,wnba-v0-opening-week
+2026-05-09,WNBA,Dallas Wings @ Indiana Fever,SPREAD,Indiana Fever -5.0,-5.0,home margin 12.19,7.19,Bovada,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-09T17:00:00Z,wnba-v0-opening-week
+2026-05-09,WNBA,Atlanta Dream @ Minnesota Lynx,TOTAL,Over 157.0,157.0,total 162.91,5.91,Caesars,,0.0,Pending,0,WNBA-v0,false,max picks reached,2026-05-10T00:00:00Z,wnba-v0-opening-week
+2026-05-09,WNBA,Atlanta Dream @ Minnesota Lynx,SPREAD,Minnesota Lynx 4.0,4.0,home margin 1.34,5.34,BetRivers,,0.0,Pending,0,WNBA-v0,false,max picks reached,2026-05-10T00:00:00Z,wnba-v0-opening-week
+2026-05-09,WNBA,Phoenix Mercury @ Las Vegas Aces,TOTAL,Under 167.5,167.5,total 162.77,4.73,DraftKings,,0.0,Pending,0,WNBA-v0,false,edge<5.0,2026-05-09T19:30:00Z,wnba-v0-opening-week
+2026-05-09,WNBA,Phoenix Mercury @ Las Vegas Aces,SPREAD,Phoenix Mercury 9.0,9.0,home margin 6.76,2.24,BetOnline.ag,,0.0,Pending,0,WNBA-v0,false,edge<5.0,2026-05-09T19:30:00Z,wnba-v0-opening-week
