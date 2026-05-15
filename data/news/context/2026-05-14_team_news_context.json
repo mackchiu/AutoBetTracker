@@ -2,7 +2,7 @@
   {
     "team_name": "Cleveland Cavaliers",
     "team_key": "cleveland_cavaliers",
-    "news_count": 18,
+    "news_count": 15,
     "tags": [
       "injury",
       "performance",
@@ -10,49 +10,6 @@
       "trade"
     ],
     "items": [
-      {
-        "news_id": "8e3be547b6ef48b3",
-        "source": "yardbarker_nba",
-        "title": "Cade Cunningham gets real about Pistons dropping Game 5 to Cavaliers",
-        "blurb": "Cade Cunningham gets real about Pistons dropping Game 5 to Cavaliers \u2014 The Pistons are on the brink after a Game 5 loss to the Cavs.",
-        "published_at": "2026-05-15T01:29:51-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/cade_cunningham_gets_real_about_pistons_dropping_game_5_to_cavaliers/s1_13132_43841804",
-        "tags": [
-          "injury"
-        ]
-      },
-      {
-        "news_id": "0bd90ce35fd8562f",
-        "source": "realgm_wiretap",
-        "title": "Terry Stotts, Jerry Stackhouse Leaving Warriors; Willie Green Among Candidates For Assistant Job",
-        "blurb": "Terry Stotts, Jerry Stackhouse Leaving Warriors; Willie Green Among Candidates For Assistant Job \u2014 The Golden State Warriors are losing lassistant Terry Stotts and defensive coordinator Jerry Stackhouse this offseason. The moves come despite the agreement to retain Steve Kerr as head coach on a two-year contract. Both assistants completed two seasons under Kerr before their contracts expired. Stot",
-        "published_at": "2026-05-14T23:22:36-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285643/Terry-Stotts-Jerry-Stackhouse-Leaving-Warriors;-Willie-Green-Among-Candidates-For-Assistant-Job",
-        "tags": [
-          "trade"
-        ]
-      },
-      {
-        "news_id": "10c8bb60149b9b2d",
-        "source": "realgm_wiretap",
-        "title": "NBA Last Two Minute Report Backs No-Call On Jarrett Allen At End Of Game 5",
-        "blurb": "NBA Last Two Minute Report Backs No-Call On Jarrett Allen At End Of Game 5 \u2014 The NBA ruled Thursday that officials made the correct decision by not whistling Jarrett Allen for a foul in the closing seconds of regulation in Game 5 between the Cleveland Cavaliers and Detroit Pistons. The no-call drew immediate criticism from Detroit's bench and players after Cleveland's 117-113 overtime win Wednesda",
-        "published_at": "2026-05-14T22:46:28-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285641/NBA-Last-Two-Minute-Report-Backs-No-Call-On-Jarrett-Allen-At-End-Of-Game-5",
-        "tags": []
-      },
-      {
-        "news_id": "63afad7f7a68d19b",
-        "source": "realgm_wiretap",
-        "title": "Knicks Finals Run Could Produce Up To $180M In Gross Revenue",
-        "blurb": "Knicks Finals Run Could Produce Up To $180M In Gross Revenue \u2014 The New York Knicks' second straight trip to the Eastern Conference finals is producing a major financial windfall for Madison Square Garden Sports, the publicly traded company that owns the Knicks and the NHL's Rangers. Gross playoff revenue could reach $180 million if the team advances deep into the NBA Finals. The Knicks have alread",
-        "published_at": "2026-05-14T22:40:20-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285640/Knicks-Finals-Run-Could-Produce-Up-To-$180M-In-Gross-Revenue",
-        "tags": [
-          "performance",
-          "trade"
-        ]
-      },
       {
         "news_id": "81c384e0465248df",
         "source": "sportsnet_nba",
@@ -82,6 +39,17 @@
         "link": "https://www.yardbarker.com/nba/articles/james_harden_leads_cavaliers_to_game_5_ot_win_over_pistons_on_monumental_night/s1_13132_43840546",
         "tags": [
           "trade"
+        ]
+      },
+      {
+        "news_id": "40589e4d81724b78",
+        "source": "yardbarker_nba",
+        "title": "Cade Cunningham gets real about Pistons dropping Game 5 to Cavaliers",
+        "blurb": "Cade Cunningham gets real about Pistons dropping Game 5 to Cavaliers \u2014 The Pistons are on the brink after a Game 5 loss to the Cavs.",
+        "published_at": "2026-05-14T09:28:01-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/cade_cunningham_gets_real_about_pistons_dropping_game_5_to_cavaliers/s1_13132_43841804",
+        "tags": [
+          "injury"
         ]
       },
       {
@@ -198,7 +166,7 @@
         ]
       }
     ],
-    "summary": "Cade Cunningham gets real about Pistons dropping Game 5 to Cavaliers \u2014 The Pistons are on the brink after a Game 5 loss to the Cavs. | Terry Stotts, Jerry Stackhouse Leaving Warriors; Willie Green Among Candidates For Assistant Job \u2014 The Golden State Warriors are losing lassistant Terry Stotts and defensive coordinator Jerry Stackhouse this offseason. The moves come despite the agreement to retain Steve Kerr as head coach on a two-year contract. Both assistants completed two seasons under Kerr before their contracts expired. Stot | NBA Last Two Minute Report Backs No-Call On Jarrett Allen At End Of Game 5 \u2014 The NBA ruled Thursday that officials made the correct decision by not whistling Jarrett Allen for a foul in the closing seconds of regulation in Game 5 between the Cleveland Cavaliers "
+    "summary": "James Harden finding playoff groove with Cavs, earns gritty OT win in Game 5 \u2014 In the span of 22 seconds during overtime of Game 5 of the Eastern Conference semifinals against the Detroit Pistons on Wednesday night, Harden did all this for the Cleveland Cavaliers \u2014 made a free throw, missed a free throw, blocked a shot, got a rebound and threw the ball away. | Charles Barkley steals the show with Max Strus line after Cavs beat Pistons in Game 5 \u2014 Barkley just couldn't help but move away from the serious talk to say something that perhaps people were thinking but not saying out loud. | James Harden leads Cavaliers to Game 5 OT win over Pistons on monumental night \u2014 Midseason trade acquisition James Harden was instrumental to Cleveland's Game 5 success on Wednesday. | Cade Cunningham gets re"
   },
   {
     "team_name": "Toronto Raptors",
@@ -315,96 +283,6 @@
     "summary": "Raptors\u2019 Brandon Ingram undergoes heel surgery, expected back for camp \u2014 With the curtains drawn on the Toronto Raptors&#8217; season, Brandon Ingram will have a full summer to recover from an off-season operation. | Opting for continuity, Raptors expected to offer extensions to Webster, Rajakovic \u2014 It&#8217;s expected that both general manager Bobby Webster and head coach Darko Rajakovic will be offered contract extensions in the coming weeks, Michael Grange has learned. He breaks it down here. | Webster, Raptors\u2019 off-season plan is simple: \u2018More, better players\u2019 \u2014 Toronto Raptors GM Bobby Webster discusses the team&#8217;s outlook heading into the offseason, saying that dipping into the luxury tax is always a possibility for a contending squad, but that the Raptors are still looking to b"
   },
   {
-    "team_name": "Golden State Warriors",
-    "team_key": "golden_state_warriors",
-    "news_count": 8,
-    "tags": [
-      "injury",
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "654efbd99b6a50a3",
-        "source": "yardbarker_nba",
-        "title": "Why Steve Kerr backtracked on retirement decision to stay with Warriors",
-        "blurb": "Why Steve Kerr backtracked on retirement decision to stay with Warriors \u2014 Golden State Warriors coach Steve Kerr will be back next season, but the story certainly could have been much different.",
-        "published_at": "2026-05-15T01:29:02-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/why_steve_kerr_backtracked_on_retirement_decision_to_stay_with_warriors/s1_127_43843036",
-        "tags": []
-      },
-      {
-        "news_id": "e5ee93590708c0a7",
-        "source": "realgm_wiretap",
-        "title": "76ers Begin GM Search With Bob Myers Emphasizing 'Harmony' In Next Hire",
-        "blurb": "76ers Begin GM Search With Bob Myers Emphasizing 'Harmony' In Next Hire \u2014 The Philadelphia 76ers are seeking a general manager who will work in concert with others throughout the organization. Bob Myers, the former Golden State Warriors GM overseeing the search, made that priority clear Thursday. \"You need good people that are in harmony,\" Myers said at a news conference. The 76ers dismissed Daryl",
-        "published_at": "2026-05-14T22:56:32-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285642/76ers-Begin-GM-Search-With-Bob-Myers-Emphasizing-Harmony-In-Next-Hire",
-        "tags": [
-          "injury"
-        ]
-      },
-      {
-        "news_id": "6c8f5d6fb0e2e4e3",
-        "source": "sportsnet_nba",
-        "title": "Head coach Steve Kerr signs two-year deal with Warriors",
-        "blurb": "Head coach Steve Kerr signs two-year deal with Warriors",
-        "published_at": "2026-05-12T15:41:11-04:00",
-        "link": "",
-        "tags": []
-      },
-      {
-        "news_id": "4e60e8ccf8e7e121",
-        "source": "sportsnet_nba",
-        "title": "Comedians poke fun at Draymond Green during The Roast of Kevin Hart",
-        "blurb": "Comedians poke fun at Draymond Green during The Roast of Kevin Hart \u2014 Tim Micallef brings you another edition of the Central Sixty to showcase Golden State Warriors forward Draymond Green on the receiving end of some jokes on Netflix&#8217;s The Roast of Kevin Hart and Lane Hutson posing with his biggest fan.",
-        "published_at": "2026-05-12T07:03:22-04:00",
-        "link": "",
-        "tags": []
-      },
-      {
-        "news_id": "fc4a067191f90de0",
-        "source": "coldwire_nba",
-        "title": "Stephen Curry Makes Historic Move In All-Time Scoring Ladder",
-        "blurb": "Stephen Curry Makes Historic Move In All-Time Scoring Ladder \u2014 &#160; Stephen Curry of the Golden State Warriors might be getting older, but that doesn&#8217;t mean his legendary skills are dwindling. One thing is always certain: Curry can shoot the ball better than just about anyone. On Tuesday night, Curry earned another place in league history. He officially passed Vince Carter for the 22nd mos",
-        "published_at": "2025-11-20T07:54:40-05:00",
-        "link": "https://www.thecoldwire.com/stephen-curry-makes-historic-move-in-all-time-scoring-ladder/",
-        "tags": [
-          "injury"
-        ]
-      },
-      {
-        "news_id": "db15d3c61b6b6900",
-        "source": "coldwire_nba",
-        "title": "Insider Links Warriors To 2 Big Man Targets At Trade Deadline",
-        "blurb": "Insider Links Warriors To 2 Big Man Targets At Trade Deadline \u2014 &#160; The Golden State Warriors made a few adjustments to their roster over the summer, but it seems that they aren&#8217;t as fully-formed as they&#8217;d like. That means they could be pursuing even more changes in the months ahead. According to Evan Sidery, fans should keep an eye on certain big men across the league [&#8230;] The",
-        "published_at": "2025-11-20T07:51:52-05:00",
-        "link": "https://www.thecoldwire.com/insider-links-warriors-to-2-big-man-targets-in-deadline/",
-        "tags": [
-          "trade"
-        ]
-      },
-      {
-        "news_id": "8843127923ae843f",
-        "source": "coldwire_nba",
-        "title": "Moses Moody Had Huge Career Night On Sunday",
-        "blurb": "Moses Moody Had Huge Career Night On Sunday \u2014 &#160; The Golden State Warriors waltzed to a 124-106 win over the New Orleans Pelicans on Sunday night, and it was Moses Moody who led the way. As noted by Anthony Slater, Moody reached a career high during that game, scoring 32 points in 33 minutes. He also made seven three-pointers during the first quarter [&#8230;] The post Moses Moody Had Huge Car",
-        "published_at": "2025-11-18T07:53:54-05:00",
-        "link": "https://www.thecoldwire.com/moses-moody-had-huge-career-night-on-sunday/",
-        "tags": []
-      },
-      {
-        "news_id": "688f46e2832314d9",
-        "source": "hoop_doctors",
-        "title": "Steph Curry Hilariously Imitates LeBron\u2019s Golf Swing \u2014 And It\u2019s Spot On",
-        "blurb": "Steph Curry Hilariously Imitates LeBron\u2019s Golf Swing \u2014 And It\u2019s Spot On \u2014 Golden State Warriors superstar Steph Curry is no stranger to the golf course. But this time, he&#8217;s going viral not for his sweet swing \u2014 but for imitating someone else&#8217;s. In a moment of playful brilliance, Curry perfectly reenacted what he imagines LeBron James looks like when swinging a golf club \u2014 and it has [&",
-        "published_at": "2025-07-10T21:42:17-04:00",
-        "link": "https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/",
-        "tags": []
-      }
-    ],
-    "summary": "Why Steve Kerr backtracked on retirement decision to stay with Warriors \u2014 Golden State Warriors coach Steve Kerr will be back next season, but the story certainly could have been much different. | 76ers Begin GM Search With Bob Myers Emphasizing 'Harmony' In Next Hire \u2014 The Philadelphia 76ers are seeking a general manager who will work in concert with others throughout the organization. Bob Myers, the former Golden State Warriors GM overseeing the search, made that priority clear Thursday. \"You need good people that are in harmony,\" Myers said at a news conference. The 76ers dismissed Daryl | Head coach Steve Kerr signs two-year deal with Warriors | Comedians poke fun at Draymond Green during The Roast of Kevin Hart \u2014 Tim Micallef brings you another edition of the Central Sixty to showcase"
-  },
-  {
     "team_name": "Los Angeles Lakers",
     "team_key": "los_angeles_lakers",
     "news_count": 8,
@@ -413,15 +291,6 @@
       "trade"
     ],
     "items": [
-      {
-        "news_id": "09382edd055a67b3",
-        "source": "yardbarker_nba",
-        "title": "LeBron James reportedly upset with Lakers for wild reason",
-        "blurb": "LeBron James reportedly upset with Lakers for wild reason \u2014 Did one move by the Lakers rub LeBron the wrong way?",
-        "published_at": "2026-05-15T01:32:44-04:00",
-        "link": "https://www.yardbarker.com/nba/articles/lebron_james_reportedly_upset_with_lakers_for_wild_reason/s1_13132_43841736",
-        "tags": []
-      },
       {
         "news_id": "5aca68cbe29476bd",
         "source": "realgm_wiretap",
@@ -432,6 +301,15 @@
         "tags": [
           "injury"
         ]
+      },
+      {
+        "news_id": "e2c86aa431d0e360",
+        "source": "yardbarker_nba",
+        "title": "LeBron James reportedly upset with Lakers for wild reason",
+        "blurb": "LeBron James reportedly upset with Lakers for wild reason \u2014 Did one move by the Lakers rub LeBron the wrong way?",
+        "published_at": "2026-05-14T16:39:26-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/lebron_james_reportedly_upset_with_lakers_for_wild_reason/s1_13132_43841736",
+        "tags": []
       },
       {
         "news_id": "3ffc82365808aaea",
@@ -497,7 +375,7 @@
         ]
       }
     ],
-    "summary": "LeBron James reportedly upset with Lakers for wild reason \u2014 Did one move by the Lakers rub LeBron the wrong way? | NBA Soft-Tissue Injuries Have Surged As Players Try To Keep Up With Demands Of Modern Game \u2014 Soft-tissue leg injuries have been one of the key developments of the 2026 NBA playoffs, as they were last year, and the numbers behind the trend are striking. Documented calf injuries across the entire league stood at 18 in 2010-11. Last season, that figure reached 60 and 86 this season. Jalen Williams ha | LeBron James Will Evaluate How Lakers Show Interest In Retaining Him \u2014 LeBron James is weighing his future with the Los Angeles Lakers this offseason, and people familiar with his thinking say the organization's approach in demonstrating genuine interest will carry as much weight a"
+    "summary": "NBA Soft-Tissue Injuries Have Surged As Players Try To Keep Up With Demands Of Modern Game \u2014 Soft-tissue leg injuries have been one of the key developments of the 2026 NBA playoffs, as they were last year, and the numbers behind the trend are striking. Documented calf injuries across the entire league stood at 18 in 2010-11. Last season, that figure reached 60 and 86 this season. Jalen Williams ha | LeBron James reportedly upset with Lakers for wild reason \u2014 Did one move by the Lakers rub LeBron the wrong way? | LeBron James Will Evaluate How Lakers Show Interest In Retaining Him \u2014 LeBron James is weighing his future with the Los Angeles Lakers this offseason, and people familiar with his thinking say the organization's approach in demonstrating genuine interest will carry as much weight a"
   },
   {
     "team_name": "Chicago Bulls",
@@ -667,9 +545,88 @@
     "summary": "Jalen Duren's postseason might cost him serious money \u2014 The Detroit Pistons center has struggled mightily in the playoffs, putting up single-digit scoring numbers in half of his team's games. | Jalen Duren Takes Accountability For Play Amid Late Benching In Game 5 \u2014 Jalen Duren has struggled during the Detroit Pistons' playoff run and the situation came to a head in the fourth quarter of Game 5 when he was benched by J.B. Bickerstaff in favor of Paul Reed Jr. Duren has a PER of 13.4 during the playoffs compared to 25.8 during the regular season in what will likely be an All-NBA award ahe | Cavaliers have a James Harden problem that they need to solve quickly \u2014 The Detroit Pistons and Cavaliers are all tied up at 2-2 in the Eastern Conference semifinals. | Pistons facing elimination after b"
   },
   {
+    "team_name": "Golden State Warriors",
+    "team_key": "golden_state_warriors",
+    "news_count": 7,
+    "tags": [
+      "injury",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "065b5e708f59dd2c",
+        "source": "yardbarker_nba",
+        "title": "Why Steve Kerr backtracked on retirement decision to stay with Warriors",
+        "blurb": "Why Steve Kerr backtracked on retirement decision to stay with Warriors \u2014 Golden State Warriors coach Steve Kerr will be back next season, but the story certainly could have been much different.",
+        "published_at": "2026-05-14T19:54:24-04:00",
+        "link": "https://www.yardbarker.com/nba/articles/why_steve_kerr_backtracked_on_retirement_decision_to_stay_with_warriors/s1_127_43843036",
+        "tags": []
+      },
+      {
+        "news_id": "6c8f5d6fb0e2e4e3",
+        "source": "sportsnet_nba",
+        "title": "Head coach Steve Kerr signs two-year deal with Warriors",
+        "blurb": "Head coach Steve Kerr signs two-year deal with Warriors",
+        "published_at": "2026-05-12T15:41:11-04:00",
+        "link": "",
+        "tags": []
+      },
+      {
+        "news_id": "4e60e8ccf8e7e121",
+        "source": "sportsnet_nba",
+        "title": "Comedians poke fun at Draymond Green during The Roast of Kevin Hart",
+        "blurb": "Comedians poke fun at Draymond Green during The Roast of Kevin Hart \u2014 Tim Micallef brings you another edition of the Central Sixty to showcase Golden State Warriors forward Draymond Green on the receiving end of some jokes on Netflix&#8217;s The Roast of Kevin Hart and Lane Hutson posing with his biggest fan.",
+        "published_at": "2026-05-12T07:03:22-04:00",
+        "link": "",
+        "tags": []
+      },
+      {
+        "news_id": "fc4a067191f90de0",
+        "source": "coldwire_nba",
+        "title": "Stephen Curry Makes Historic Move In All-Time Scoring Ladder",
+        "blurb": "Stephen Curry Makes Historic Move In All-Time Scoring Ladder \u2014 &#160; Stephen Curry of the Golden State Warriors might be getting older, but that doesn&#8217;t mean his legendary skills are dwindling. One thing is always certain: Curry can shoot the ball better than just about anyone. On Tuesday night, Curry earned another place in league history. He officially passed Vince Carter for the 22nd mos",
+        "published_at": "2025-11-20T07:54:40-05:00",
+        "link": "https://www.thecoldwire.com/stephen-curry-makes-historic-move-in-all-time-scoring-ladder/",
+        "tags": [
+          "injury"
+        ]
+      },
+      {
+        "news_id": "db15d3c61b6b6900",
+        "source": "coldwire_nba",
+        "title": "Insider Links Warriors To 2 Big Man Targets At Trade Deadline",
+        "blurb": "Insider Links Warriors To 2 Big Man Targets At Trade Deadline \u2014 &#160; The Golden State Warriors made a few adjustments to their roster over the summer, but it seems that they aren&#8217;t as fully-formed as they&#8217;d like. That means they could be pursuing even more changes in the months ahead. According to Evan Sidery, fans should keep an eye on certain big men across the league [&#8230;] The",
+        "published_at": "2025-11-20T07:51:52-05:00",
+        "link": "https://www.thecoldwire.com/insider-links-warriors-to-2-big-man-targets-in-deadline/",
+        "tags": [
+          "trade"
+        ]
+      },
+      {
+        "news_id": "8843127923ae843f",
+        "source": "coldwire_nba",
+        "title": "Moses Moody Had Huge Career Night On Sunday",
+        "blurb": "Moses Moody Had Huge Career Night On Sunday \u2014 &#160; The Golden State Warriors waltzed to a 124-106 win over the New Orleans Pelicans on Sunday night, and it was Moses Moody who led the way. As noted by Anthony Slater, Moody reached a career high during that game, scoring 32 points in 33 minutes. He also made seven three-pointers during the first quarter [&#8230;] The post Moses Moody Had Huge Car",
+        "published_at": "2025-11-18T07:53:54-05:00",
+        "link": "https://www.thecoldwire.com/moses-moody-had-huge-career-night-on-sunday/",
+        "tags": []
+      },
+      {
+        "news_id": "688f46e2832314d9",
+        "source": "hoop_doctors",
+        "title": "Steph Curry Hilariously Imitates LeBron\u2019s Golf Swing \u2014 And It\u2019s Spot On",
+        "blurb": "Steph Curry Hilariously Imitates LeBron\u2019s Golf Swing \u2014 And It\u2019s Spot On \u2014 Golden State Warriors superstar Steph Curry is no stranger to the golf course. But this time, he&#8217;s going viral not for his sweet swing \u2014 but for imitating someone else&#8217;s. In a moment of playful brilliance, Curry perfectly reenacted what he imagines LeBron James looks like when swinging a golf club \u2014 and it has [&",
+        "published_at": "2025-07-10T21:42:17-04:00",
+        "link": "https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/",
+        "tags": []
+      }
+    ],
+    "summary": "Why Steve Kerr backtracked on retirement decision to stay with Warriors \u2014 Golden State Warriors coach Steve Kerr will be back next season, but the story certainly could have been much different. | Head coach Steve Kerr signs two-year deal with Warriors | Comedians poke fun at Draymond Green during The Roast of Kevin Hart \u2014 Tim Micallef brings you another edition of the Central Sixty to showcase Golden State Warriors forward Draymond Green on the receiving end of some jokes on Netflix&#8217;s The Roast of Kevin Hart and Lane Hutson posing with his biggest fan. | Stephen Curry Makes Historic Move In All-Time Scoring Ladder \u2014 &#160; Stephen Curry of the Golden State Warriors might be getting older, but that doesn&#8217;t mean his legendary skills are dwindling. One thing is always certain: Cu"
+  },
+  {
     "team_name": "Minnesota Timberwolves",
     "team_key": "minnesota_timberwolves",
-    "news_count": 5,
+    "news_count": 6,
     "tags": [
       "injury",
       "performance",
@@ -682,7 +639,7 @@
         "source": "yardbarker_nba",
         "title": "Why Timberwolves need another star besides Anthony Edwards",
         "blurb": "Why Timberwolves need another star besides Anthony Edwards \u2014 The Minnesota Timberwolves are fresh off a 126-97 beatdown by the second-seeded San Antonio Spurs in the Western Conference semifinals. Although star guard Anthony Edwards and the Timberwolves have given the Spurs problems throughout the series, a much bigger issue has become evident for the Western Conference's sixth seed.",
-        "published_at": "2026-05-14T22:27:09-04:00",
+        "published_at": "2026-05-14T11:20:59-04:00",
         "link": "https://www.yardbarker.com/nba/articles/why_timberwolves_need_another_star_besides_anthony_edwards/s1_13132_43839561",
         "tags": [
           "injury"
@@ -711,6 +668,15 @@
           "performance",
           "starting"
         ]
+      },
+      {
+        "news_id": "c00fe3525c8866df",
+        "source": "realgm_wiretap",
+        "title": "Spurs-Timberwolves Game 4 Averages 7.9M Viewers",
+        "blurb": "Spurs-Timberwolves Game 4 Averages 7.9M Viewers \u2014 Sunday's Game 4 between the San Antonio Spurs and Minnesota Timberwolves averaged 7.9 million viewers across Nielsen and Adobe Analytics. It is the second most-watched game in the playoffs, only trailing Game 7 between the Sixers and Celtics. Friday's Game 3 averaged 5.25 million viewers on Prime Video, making it the largest audience for the stream",
+        "published_at": "2026-05-13T01:52:41-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285603/Spurs-Timberwolves-Game-4-Averages-79M-Viewers",
+        "tags": []
       },
       {
         "news_id": "4563841ba94d01ba",
@@ -893,6 +859,56 @@
     "summary": "Grizzlies forward Brandon Clarke dies at 29 \u2014 Memphis Grizzlies forward Brandon Clarke has died at the age of 29. | Darryn Peterson Views Himself As Point Guard But Willing To Play Any Role For NBA Team \u2014 Kansas guard Darryn Peterson pushed back Wednesday on speculation that he would rule out teams unwilling to play him as a primary point guard, telling reporters at the NBA Draft Combine he is prepared to contribute in any role. Peterson had previously drawn attention after comments suggesting he performs best  | Canadian NBAer Brandon Clarke dead at age 29 \u2014 Memphis Grizzlies forward Brandon Clarke has passed away at age 29, the team announced Tuesday afternoon. | Grizzlies Rookie Is Emerging As \u2018Bright Spot\u2019 This Season \u2014 &#160; The NBA season has certainly presented the Memphis Grizzlie"
   },
   {
+    "team_name": "Atlanta Hawks",
+    "team_key": "atlanta_hawks",
+    "news_count": 3,
+    "tags": [
+      "injury",
+      "performance",
+      "trade"
+    ],
+    "items": [
+      {
+        "news_id": "dd7ee85bdf5bfee4",
+        "source": "realgm_wiretap",
+        "title": "Jalen Brunson Deflects 'Star' Question When Discussing Acceptance Of Off-Ball Role",
+        "blurb": "Jalen Brunson Deflects 'Star' Question When Discussing Acceptance Of Off-Ball Role \u2014 Jalen Brunson immediately accepted a reduced ball-handling role when coach Mike Brown proposed running more offense through Karl-Anthony Towns during the playoffs, a shift that has since produced seven consecutive New York Knicks victories. The adjustment came after New York dropped two straight games to the Atlan",
+        "published_at": "2026-05-14T15:18:01-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285637/Jalen-Brunson-Deflects-Star-Question-When-Discussing-Acceptance-Of-Off-Ball-Role",
+        "tags": [
+          "injury",
+          "performance",
+          "trade"
+        ]
+      },
+      {
+        "news_id": "1a33fde09528bffd",
+        "source": "realgm_wiretap",
+        "title": "AJ Dybantsa Addresses Viral Reaction To Wizards Winning Lottery",
+        "blurb": "AJ Dybantsa Addresses Viral Reaction To Wizards Winning Lottery \u2014 AJ Dybantsa, the current most probable No. 1 pick in next month's NBA Draft , is approaching the week-long combine as an extended audition. The BYU wing showed up to his 20-minute media session Wednesday in a gray plaid suit, dark blue dress shirt and blue-accented tie, a deliberate departure from the casual attire most prospects we",
+        "published_at": "2026-05-13T22:48:35-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285618/AJ-Dybantsa-Addresses-Viral-Reaction-To-Wizards-Winning-Lottery",
+        "tags": [
+          "injury"
+        ]
+      },
+      {
+        "news_id": "4e3f5f00703aeec2",
+        "source": "realgm_wiretap",
+        "title": "Paul George Has Rebuilt Trade Value, Making Him Easier For 76ers To Move Than Joel Embiid",
+        "blurb": "Paul George Has Rebuilt Trade Value, Making Him Easier For 76ers To Move Than Joel Embiid \u2014 While Joel Embiid's injury history and contract structure make him among the hardest stars to trade in the league, Paul George has steadily recovered his market value and is now viewed by rival executives as the more moveable piece if the Philadelphia 76ers decide to rebuild around Tyrese Maxey and VJ Edgec",
+        "published_at": "2026-05-13T07:41:48-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285607/Paul-George-Has-Rebuilt-Trade-Value-Making-Him-Easier-For-76ers-To-Move-Than-Joel-Embiid",
+        "tags": [
+          "injury",
+          "performance",
+          "trade"
+        ]
+      }
+    ],
+    "summary": "Jalen Brunson Deflects 'Star' Question When Discussing Acceptance Of Off-Ball Role \u2014 Jalen Brunson immediately accepted a reduced ball-handling role when coach Mike Brown proposed running more offense through Karl-Anthony Towns during the playoffs, a shift that has since produced seven consecutive New York Knicks victories. The adjustment came after New York dropped two straight games to the Atlan | AJ Dybantsa Addresses Viral Reaction To Wizards Winning Lottery \u2014 AJ Dybantsa, the current most probable No. 1 pick in next month's NBA Draft , is approaching the week-long combine as an extended audition. The BYU wing showed up to his 20-minute media session Wednesday in a gray plaid suit, dark blue dress shirt and blue-accented tie, a deliberate departure from the casual attire most prospects"
+  },
+  {
     "team_name": "Milwaukee Bucks",
     "team_key": "milwaukee_bucks",
     "news_count": 3,
@@ -978,41 +994,40 @@
     "summary": "Anunoby still not ready to practise fully, but Knicks have time to wait | Knicks provide big OG Anunoby update amid lengthy break before conference finals \u2014 Anunoby is the Knicks' second-leading scorer during postseason play. | What Is Driving Interest in the New York Knicks Right Now \u2014 Image Credit Interest in the New York Knicks has surged as the team has become more competitive, stable, and relevant in the Eastern Conference. Once viewed as a struggling franchise, New York now has a clearer identity built around strong roster moves, reliable leadership, and renewed confidence on the court. The Knicks are no longer dra"
   },
   {
-    "team_name": "Atlanta Hawks",
-    "team_key": "atlanta_hawks",
-    "news_count": 2,
-    "tags": [
-      "injury",
-      "performance",
-      "trade"
-    ],
+    "team_name": "Philadelphia 76ers",
+    "team_key": "philadelphia_76ers",
+    "news_count": 3,
+    "tags": [],
     "items": [
       {
-        "news_id": "dd7ee85bdf5bfee4",
+        "news_id": "2c253257e81694d7",
         "source": "realgm_wiretap",
-        "title": "Jalen Brunson Deflects 'Star' Question When Discussing Acceptance Of Off-Ball Role",
-        "blurb": "Jalen Brunson Deflects 'Star' Question When Discussing Acceptance Of Off-Ball Role \u2014 Jalen Brunson immediately accepted a reduced ball-handling role when coach Mike Brown proposed running more offense through Karl-Anthony Towns during the playoffs, a shift that has since produced seven consecutive New York Knicks victories. The adjustment came after New York dropped two straight games to the Atlan",
-        "published_at": "2026-05-14T15:18:01-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285637/Jalen-Brunson-Deflects-Star-Question-When-Discussing-Acceptance-Of-Off-Ball-Role",
-        "tags": [
-          "injury",
-          "performance",
-          "trade"
-        ]
+        "title": "Bob Myers To Return To Advisory Role For Sixers After Naming Daryl Morey Successor",
+        "blurb": "Bob Myers To Return To Advisory Role For Sixers After Naming Daryl Morey Successor \u2014 Bob Myers will return to his role as the president of Harris Blitzer Sports & Entertainment after he names a new president of basketball operations for the Philadelphia 76ers, according to Jake Fischer of The People's Insider. Myers is temporarily in charge of the team's basketball operations as he searches for Da",
+        "published_at": "2026-05-13T02:07:14-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285605/Bob-Myers-To-Return-To-Advisory-Role-For-Sixers-After-Naming-Daryl-Morey-Successor",
+        "tags": []
       },
       {
-        "news_id": "1a33fde09528bffd",
-        "source": "realgm_wiretap",
-        "title": "AJ Dybantsa Addresses Viral Reaction To Wizards Winning Lottery",
-        "blurb": "AJ Dybantsa Addresses Viral Reaction To Wizards Winning Lottery \u2014 AJ Dybantsa, the current most probable No. 1 pick in next month's NBA Draft , is approaching the week-long combine as an extended audition. The BYU wing showed up to his 20-minute media session Wednesday in a gray plaid suit, dark blue dress shirt and blue-accented tie, a deliberate departure from the casual attire most prospects we",
-        "published_at": "2026-05-13T22:48:35-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285618/AJ-Dybantsa-Addresses-Viral-Reaction-To-Wizards-Winning-Lottery",
-        "tags": [
-          "injury"
-        ]
+        "news_id": "8d27ee1a021afd36",
+        "source": "sportsnet_nba",
+        "title": "76ers part ways with president of basketball operations Daryl Morey",
+        "blurb": "76ers part ways with president of basketball operations Daryl Morey",
+        "published_at": "2026-05-12T19:58:22-04:00",
+        "link": "",
+        "tags": []
+      },
+      {
+        "news_id": "8b6045ea2f19c0f3",
+        "source": "sportsnet_nba",
+        "title": "Nick Nurse rejoins 76ers after brother\u2019s funeral, says he would want him to coach",
+        "blurb": "Nick Nurse rejoins 76ers after brother\u2019s funeral, says he would want him to coach \u2014 Nick Nurse rejoined the Philadelphia 76ers after attending his brother&#8217;s funeral, saying Wednesday that Steve Nurse was a fan who would want him at Game 2 of the Eastern Conference semifinals.",
+        "published_at": "2026-05-06T18:31:01-04:00",
+        "link": "",
+        "tags": []
       }
     ],
-    "summary": "Jalen Brunson Deflects 'Star' Question When Discussing Acceptance Of Off-Ball Role \u2014 Jalen Brunson immediately accepted a reduced ball-handling role when coach Mike Brown proposed running more offense through Karl-Anthony Towns during the playoffs, a shift that has since produced seven consecutive New York Knicks victories. The adjustment came after New York dropped two straight games to the Atlan | AJ Dybantsa Addresses Viral Reaction To Wizards Winning Lottery \u2014 AJ Dybantsa, the current most probable No. 1 pick in next month's NBA Draft , is approaching the week-long combine as an extended audition. The BYU wing showed up to his 20-minute media session Wednesday in a gray plaid suit, dark blue dress shirt and blue-accented tie, a deliberate departure from the casual attire most prospects"
+    "summary": "Bob Myers To Return To Advisory Role For Sixers After Naming Daryl Morey Successor \u2014 Bob Myers will return to his role as the president of Harris Blitzer Sports & Entertainment after he names a new president of basketball operations for the Philadelphia 76ers, according to Jake Fischer of The People's Insider. Myers is temporarily in charge of the team's basketball operations as he searches for Da | 76ers part ways with president of basketball operations Daryl Morey | Nick Nurse rejoins 76ers after brother\u2019s funeral, says he would want him to coach \u2014 Nick Nurse rejoined the Philadelphia 76ers after attending his brother&#8217;s funeral, saying Wednesday that Steve Nurse was a fan who would want him at Game 2 of the Eastern Conference semifinals."
   },
   {
     "team_name": "Brooklyn Nets",
@@ -1139,31 +1154,38 @@
     "summary": "Thunder Set Franchise Record With Highest Scoring Quarter Ever \u2014 &#160; The Oklahoma City Thunder dominated the New Orleans Pelicans from the opening tip on Monday night, rolling to a 126-109 victory that extended their winning streak to six games. The win improved their record to 14-1, the best start across the league this season. Oklahoma City set the tone early by forcing six turnovers [&#8230; | Insider Names Potential Candidate For Pelicans Coaching Job \u2014 &#160; This season has been a nonstop disaster for the New Orleans Pelicans, who currently sit as the worst team in the Western Conference with a nightmarish 2-11 record. As a result, they recently fired head coach Willie Green. That means the team is hard at work finding a new man to lead them, and [&#8230;] The post Insider Names P"
   },
   {
-    "team_name": "Philadelphia 76ers",
-    "team_key": "philadelphia_76ers",
+    "team_name": "Oklahoma City Thunder",
+    "team_key": "oklahoma_city_thunder",
     "news_count": 2,
-    "tags": [],
+    "tags": [
+      "injury",
+      "trade"
+    ],
     "items": [
       {
-        "news_id": "8d27ee1a021afd36",
-        "source": "sportsnet_nba",
-        "title": "76ers part ways with president of basketball operations Daryl Morey",
-        "blurb": "76ers part ways with president of basketball operations Daryl Morey",
-        "published_at": "2026-05-12T19:58:22-04:00",
-        "link": "",
-        "tags": []
+        "news_id": "9877fd7abc01f197",
+        "source": "realgm_wiretap",
+        "title": "Sixers Ownership Approved Of Jared McCain Trade",
+        "blurb": "Sixers Ownership Approved Of Jared McCain Trade \u2014 Philadelphia Sixers ownership approved of Daryl Morey trading Jared McCain to the Oklahoma City Thunder for a 2026 first-round pick and three second-round picks, according to Jake Fischer of The People's Insider. Morey received criticism following the trade with McCain averaging 10.4 points per game with the Thunder. Morey said at the time that the",
+        "published_at": "2026-05-13T02:00:40-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285604/Sixers-Ownership-Approved-Of-Jared-McCain-Trade",
+        "tags": [
+          "trade"
+        ]
       },
       {
-        "news_id": "8b6045ea2f19c0f3",
+        "news_id": "002da866d3939920",
         "source": "sportsnet_nba",
-        "title": "Nick Nurse rejoins 76ers after brother\u2019s funeral, says he would want him to coach",
-        "blurb": "Nick Nurse rejoins 76ers after brother\u2019s funeral, says he would want him to coach \u2014 Nick Nurse rejoined the Philadelphia 76ers after attending his brother&#8217;s funeral, saying Wednesday that Steve Nurse was a fan who would want him at Game 2 of the Eastern Conference semifinals.",
-        "published_at": "2026-05-06T18:31:01-04:00",
+        "title": "LeBron on future: \u2018When the time comes, obviously you guys will know\u2019",
+        "blurb": "LeBron on future: \u2018When the time comes, obviously you guys will know\u2019 \u2014 LeBron James talks about his future after the Lakers four-game sweep at the hands of the Oklahoma City Thunder, says he has lots of time to reflect and to recalibrate with his family, and when the time comes \u201cyou guys will know what I decide.\u201d",
+        "published_at": "2026-05-12T07:01:11-04:00",
         "link": "",
-        "tags": []
+        "tags": [
+          "injury"
+        ]
       }
     ],
-    "summary": "76ers part ways with president of basketball operations Daryl Morey | Nick Nurse rejoins 76ers after brother\u2019s funeral, says he would want him to coach \u2014 Nick Nurse rejoined the Philadelphia 76ers after attending his brother&#8217;s funeral, saying Wednesday that Steve Nurse was a fan who would want him at Game 2 of the Eastern Conference semifinals."
+    "summary": "Sixers Ownership Approved Of Jared McCain Trade \u2014 Philadelphia Sixers ownership approved of Daryl Morey trading Jared McCain to the Oklahoma City Thunder for a 2026 first-round pick and three second-round picks, according to Jake Fischer of The People's Insider. Morey received criticism following the trade with McCain averaging 10.4 points per game with the Thunder. Morey said at the time that the | LeBron on future: \u2018When the time comes, obviously you guys will know\u2019 \u2014 LeBron James talks about his future after the Lakers four-game sweep at the hands of the Oklahoma City Thunder, says he has lots of time to reflect and to recalibrate with his family, and when the time comes \u201cyou guys will know what I decide.\u201d"
   },
   {
     "team_name": "Washington Wizards",
@@ -1195,30 +1217,6 @@
       }
     ],
     "summary": "Consensus NBA mock draft: Which college standout will Wizards take? \u2014 The NBA draft order is set and the Washington Wizards are on the clock at No. 1. Sportsnet&#8217;s Steven Loung projects all 30 picks in his consensus mock draft. | Wizards land first pick at NBA Draft Lottery \u2014 The Wizards won the NBA\u2019s draft lottery on Sunday afternoon, giving them the first-overall pick on June 23 in Brooklyn."
-  },
-  {
-    "team_name": "Boston Celtics",
-    "team_key": "boston_celtics",
-    "news_count": 1,
-    "tags": [
-      "injury",
-      "trade"
-    ],
-    "items": [
-      {
-        "news_id": "71c6652cd889e88b",
-        "source": "realgm_wiretap",
-        "title": "Isaiah Thomas Hired By Celtics As Pro, College Scout",
-        "blurb": "Isaiah Thomas Hired By Celtics As Pro, College Scout \u2014 Isaiah Thomas has returned to the Boston Celtics organization as a pro and college scout, according to league sources. Thomas, 37, will be based in the Seattle area, his hometown, providing president of basketball operations Brad Stevens with additional coverage on the West Coast. The Celtics' regional scouting staff also includes former Hawks",
-        "published_at": "2026-05-14T22:28:37-04:00",
-        "link": "https://basketball.realgm.com/wiretap/285639/Isaiah-Thomas-Hired-By-Celtics-As-Pro-College-Scout",
-        "tags": [
-          "injury",
-          "trade"
-        ]
-      }
-    ],
-    "summary": "Isaiah Thomas Hired By Celtics As Pro, College Scout \u2014 Isaiah Thomas has returned to the Boston Celtics organization as a pro and college scout, according to league sources. Thomas, 37, will be based in the Seattle area, his hometown, providing president of basketball operations Brad Stevens with additional coverage on the West Coast. The Celtics' regional scouting staff also includes former Hawks"
   },
   {
     "team_name": "Charlotte Hornets",
@@ -1265,26 +1263,28 @@
     "summary": "Which of their own free agents should the Lakers prioritize? \u2014 This postseason has left the Lakers with many questions heading into next year. The Purple and Gold seemingly defied the odds to defeat the Houston Rockets despite missing Austin Reaves for most of the series and Luka Doncic for the entire postseason."
   },
   {
-    "team_name": "Oklahoma City Thunder",
-    "team_key": "oklahoma_city_thunder",
+    "team_name": "Indiana Pacers",
+    "team_key": "indiana_pacers",
     "news_count": 1,
     "tags": [
-      "injury"
+      "injury",
+      "trade"
     ],
     "items": [
       {
-        "news_id": "002da866d3939920",
-        "source": "sportsnet_nba",
-        "title": "LeBron on future: \u2018When the time comes, obviously you guys will know\u2019",
-        "blurb": "LeBron on future: \u2018When the time comes, obviously you guys will know\u2019 \u2014 LeBron James talks about his future after the Lakers four-game sweep at the hands of the Oklahoma City Thunder, says he has lots of time to reflect and to recalibrate with his family, and when the time comes \u201cyou guys will know what I decide.\u201d",
-        "published_at": "2026-05-12T07:01:11-04:00",
-        "link": "",
+        "news_id": "8571d74edf309176",
+        "source": "realgm_wiretap",
+        "title": "NBA's New Lottery Reform Expected To Make Teams More Reluctant To Trade Future Firsts",
+        "blurb": "NBA's New Lottery Reform Expected To Make Teams More Reluctant To Trade Future Firsts \u2014 The volume of future first round picks exchanged for star players is expected to decline in the near term as a result of the NBA's new lottery reform. Teams are choosing to wait and understand the full implications of the new system before committing draft capital. The NBA's proposed \"3-2-1\" lottery format is h",
+        "published_at": "2026-05-13T07:29:29-04:00",
+        "link": "https://basketball.realgm.com/wiretap/285606/NBAs-New-Lottery-Reform-Expected-To-Make-Teams-More-Reluctant-To-Trade-Future-Firsts",
         "tags": [
-          "injury"
+          "injury",
+          "trade"
         ]
       }
     ],
-    "summary": "LeBron on future: \u2018When the time comes, obviously you guys will know\u2019 \u2014 LeBron James talks about his future after the Lakers four-game sweep at the hands of the Oklahoma City Thunder, says he has lots of time to reflect and to recalibrate with his family, and when the time comes \u201cyou guys will know what I decide.\u201d"
+    "summary": "NBA's New Lottery Reform Expected To Make Teams More Reluctant To Trade Future Firsts \u2014 The volume of future first round picks exchanged for star players is expected to decline in the near term as a result of the NBA's new lottery reform. Teams are choosing to wait and understand the full implications of the new system before committing draft capital. The NBA's proposed \"3-2-1\" lottery format is h"
   },
   {
     "team_name": "Phoenix Suns",
