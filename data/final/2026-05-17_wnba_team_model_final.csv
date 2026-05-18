@@ -1,8 +1,8 @@
 date,sport,game,market,pick,line,proj,edge,book,odds,stake,result,profit,grade,publish,reason,commence_time,model_version
 2026-05-17,WNBA,Seattle Storm @ Indiana Fever,TOTAL,Under 176.0,176.0,total 163.1,12.9,Fanatics,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-17T22:00:00Z,wnba-v0-opening-week
 2026-05-17,WNBA,Toronto Tempo @ Los Angeles Sparks,TOTAL,Under 174.0,174.0,total 163.45,10.55,Caesars,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-17T23:00:00Z,wnba-v0-opening-week
-2026-05-17,WNBA,Las Vegas Aces @ Atlanta Dream,TOTAL,Under 172.0,172.0,total 162.75,9.25,LowVig.ag,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-17T17:30:00Z,wnba-v0-opening-week
-2026-05-17,WNBA,Chicago Sky @ Minnesota Lynx,SPREAD,Minnesota Lynx -4.5,-4.5,home margin 11.42,6.92,BetRivers,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-17T23:00:00Z,wnba-v0-opening-week
+2026-05-17,WNBA,Las Vegas Aces @ Atlanta Dream,TOTAL,Under 172.0,172.0,total 162.75,9.25,LowVig.ag,,0.0,Pending,0,WNBA-v0,false,max picks reached,2026-05-17T17:30:00Z,wnba-v0-opening-week
+2026-05-17,WNBA,Chicago Sky @ Minnesota Lynx,SPREAD,Minnesota Lynx -4.5,-4.5,home margin 11.42,6.92,BetRivers,,0.0,Pending,0,WNBA-v0,false,max picks reached,2026-05-17T23:00:00Z,wnba-v0-opening-week
 2026-05-17,WNBA,Toronto Tempo @ Los Angeles Sparks,SPREAD,Toronto Tempo 7.5,7.5,home margin 1.15,6.35,BetRivers,,0.0,Pending,0,WNBA-v0,false,opening-week expansion-team spread block,2026-05-17T23:00:00Z,wnba-v0-opening-week
 2026-05-17,WNBA,Seattle Storm @ Indiana Fever,SPREAD,Seattle Storm 11.5,11.5,home margin 5.74,5.76,BetMGM,,0.0,Pending,0,WNBA-v0,false,max picks reached,2026-05-17T22:00:00Z,wnba-v0-opening-week
 2026-05-17,WNBA,Chicago Sky @ Minnesota Lynx,TOTAL,Under 167.5,167.5,total 163.35,4.15,BetMGM,,0.0,Pending,0,WNBA-v0,false,edge<5.0,2026-05-17T23:00:00Z,wnba-v0-opening-week

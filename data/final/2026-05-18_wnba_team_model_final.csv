@@ -1,0 +1,4 @@
+date,sport,game,market,pick,line,proj,edge,book,odds,stake,result,profit,grade,publish,reason,commence_time,model_version
+2026-05-18,WNBA,Connecticut Sun @ Portland Fire,TOTAL,Under 173.5,173.5,total 163.56,9.94,MyBookie.ag,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-19T02:00:00Z,wnba-v0-opening-week
+2026-05-18,WNBA,Washington Mystics @ Dallas Wings,TOTAL,Under 171.5,171.5,total 164.18,7.32,Bovada,,0.25,Pending,0,WNBA-v0,true,accepted WNBA v0 test pick,2026-05-19T00:00:00Z,wnba-v0-opening-week
+2026-05-18,WNBA,Washington Mystics @ Dallas Wings,SPREAD,Washington Mystics 3.5,3.5,home margin -0.95,4.45,BetMGM,,0.0,Pending,0,WNBA-v0,false,edge<5.0,2026-05-19T00:00:00Z,wnba-v0-opening-week
