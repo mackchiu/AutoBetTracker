@@ -1,0 +1,3 @@
+date,game,market,pick,line,proj,edge,book,odds,stake,result,profit,injury_notes,home_ml_prob,away_ml_prob,home_ml_edge,away_ml_edge,ml_candidate,grade,edge_pct,council_recommendation,council_score,council_grade,publish,reason
+2026-05-17,Cleveland Cavaliers @ Detroit Pistons,SPREAD,Pistons -4.5,-4.5,Detroit Pistons by 8.7,4.2,Caesars,1.91,0.0,Loss,-0.0,,0.9461,0.0539,30.51,-32.07,,C,42.8,support,0.4284,PASS,false,NBA wager: Cleveland Cavaliers @ Detroit Pistons — Pistons -4.5 — Caesars
+2026-05-17,Cleveland Cavaliers @ Detroit Pistons,TOTAL,OVER 205.0,205.0,219.8,14.8,Caesars,1.91,0.5,Win,0.45,,0.9461,0.0539,30.51,-32.07,,B,72.4,support,0.7238,B,true,NBA wager: Cleveland Cavaliers @ Detroit Pistons — OVER 205.0 — Caesars
