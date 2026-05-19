@@ -1,0 +1,11 @@
+date,player,market,line,book,projection,prob,ev,edge_pct,bet,role,game,odds,stake,result,profit,injury
+2026-05-19,Jordan Clarkson,PTS,4.5,FanDuel,6.2,0.8,0.625,30.9,OVER,Rotation,Cleveland Cavaliers @ New York Knicks,2.02,0.25,Pending,0,
+2026-05-19,Mitchell Robinson,REB,7.5,DraftKings,5.6,0.87,0.557,31.1,UNDER,Rotation,Cleveland Cavaliers @ New York Knicks,1.79,0.25,Pending,0,
+2026-05-19,Sam Merrill,REB,1.5,DraftKings,0.8,0.77,0.521,26.4,UNDER,Rotation,Cleveland Cavaliers @ New York Knicks,1.97,0.25,Pending,0,
+2026-05-19,OG Anunoby,REB,5.5,BetMGM,7.0,0.72,0.45,22.5,OVER,Starter,Cleveland Cavaliers @ New York Knicks,2.0,0.25,Pending,0,
+2026-05-19,Josh Hart,REB,8.5,FanDuel,9.5,0.63,0.372,17.0,OVER,Starter,Cleveland Cavaliers @ New York Knicks,2.18,0.25,Pending,0,
+2026-05-19,Karl-Anthony Towns,AST,4.5,FanDuel,6.2,0.74,0.33,18.3,OVER,Rotation,Cleveland Cavaliers @ New York Knicks,1.8,0.25,Pending,0,
+2026-05-19,James Harden,AST,6.5,Caesars,5.5,0.66,0.31,15.7,UNDER,Starter,Cleveland Cavaliers @ New York Knicks,1.98,0.25,Pending,0,
+2026-05-19,Mitchell Robinson,PTS,4.5,BetMGM,5.9,0.67,0.301,15.4,OVER,Rotation,Cleveland Cavaliers @ New York Knicks,1.95,0.25,Pending,0,
+2026-05-19,Dean Wade,PTS,3.5,FanDuel,4.8,0.65,0.283,14.4,OVER,Rotation,Cleveland Cavaliers @ New York Knicks,1.96,0.25,Pending,0,
+2026-05-19,Josh Hart,3PTM,1.5,Caesars,1.2,0.61,0.274,13.1,UNDER,Starter,Cleveland Cavaliers @ New York Knicks,2.1,0.25,Pending,0,
